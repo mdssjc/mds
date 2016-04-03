@@ -1,3 +1,0 @@
-# Introdução
-
-Testando git book.
