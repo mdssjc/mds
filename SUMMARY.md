@@ -2,5 +2,5 @@
 
 * [Introdução](README.md)
 * [Eclipse](eclipse.md)
-   * [Plugins](plugins.md)
+   * [Plugins](eclipse/plugins.md)
 
