@@ -1,3 +1,3 @@
 # Introdução
 
-Livro para testar o serviço do Git Book.
+Este livro tem como objetivo complementar no aspecto teórico, os recursos do website e repositório.
