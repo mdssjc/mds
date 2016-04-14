@@ -16,6 +16,9 @@ Descompacte o arquivo para o local /opt:
   sudo tar -xzf eclipse-java-mars-R-linux-gtk-x86_64.tar.gz -C /opt/eclipse
 ```
 
+
+### No Debian:
+
 Instale o comando no sistema:
 ```
   sudo update-alternatives --install /usr/bin/eclipse eclipse /opt/eclipse/eclipse/eclipse 1
