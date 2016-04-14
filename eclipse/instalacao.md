@@ -15,7 +15,7 @@ Descompacte o arquivo para o local /opt:
   sudo tar -xzf eclipse-java-mars-R-linux-gtk-x86_64.tar.gz -C /opt/eclipse
 ```
 
-
+### No Arch Linux:
 
 ### No Debian:
 
