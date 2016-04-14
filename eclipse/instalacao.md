@@ -16,7 +16,7 @@ Descompacte o arquivo para o local /opt:
 ```
 
 ### No Arch Linux:
-<em edição>
+"em edição"
 
 ### No Debian:
 
