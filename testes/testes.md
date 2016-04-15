@@ -1,4 +1,6 @@
 # Testes
+Capítulo sovre testes.
+Para informações academicas sobre testes, acesse o curso: [Automatização de Teste de Software - com ênfase em Ferramentas Open Source](http://napsol.icmc.usp.br/ats/)
 
 ## Qualidade Funcional
 * [Teste Unitário (Caixa Branca)](caixa-branca.md)
