@@ -8,7 +8,7 @@ Ferramentas para a utilização com o Java:
 
 
 ### AAA[A]
-**A**rrange: organizar o código a ser testado;
+**A**rrange: organizar o cenário do código;
 **A**ct: exercitar o código;
 **A**ssert: avaliar os resultados do código;
 **A**fter: finalizar recursos utilizados no teste.
