@@ -7,9 +7,9 @@ Ferramentas para a utilização com o Java:
 * Mockito
 
 ### AAA[A]
-**A**rrange: organizar o cenário do código;
+**A**rrange: montar/organizar o cenário do código;
 
-**A**ct: exercitar o código;
+**A**ct: exercitar/executar o código;
 
 **A**ssert: avaliar os resultados do código;
 
