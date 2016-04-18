@@ -1,5 +1,5 @@
 # Caixa Branca
-Os testes de caixa branca são conhecidos como testes unitários.
+Os testes de caixa branca são conhecidos como testes unitários, responsáveis por avaliar e auxiliar no desenvolvimento dos cenários de uma unidade de código.
 
 Ferramentas para a utilização com o Java:
 * JUnit
