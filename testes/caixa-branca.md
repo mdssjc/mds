@@ -6,6 +6,8 @@ Ferramentas para a utilização com o Java:
 * Hamcrest
 * Mockito
 
+Cada **Classe de Equivalência** deve possuir um cenário de teste único.
+
 ### AAA[A]
 **A**rrange: montar/organizar o cenário do código;
 
