@@ -7,3 +7,4 @@
 * [Testes](testes/testes.md)
   * [Caixa Branca](testes/caixa-branca.md)
 * [Metodologia Científica](metodologia_cientifica/metodologia_cientifica.md)
+  * [Variáveis](metodologia_cientifica/variaveis.md)
