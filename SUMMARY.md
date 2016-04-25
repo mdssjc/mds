@@ -1,7 +1,7 @@
 # Summary
 
 * [Introdução](README.md)
-* [Testes1](testes/testes.md)
+* [Testes1](testes.md)
 * [Caixa Branca](testes/caixa-branca.md)
 * [Eclipse](eclipse.md)
 * [Plugins](eclipse/plugins.md)
