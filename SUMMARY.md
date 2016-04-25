@@ -4,7 +4,7 @@
 * [Testes](testes.md)
 * [Caixa Branca](testes/caixa-branca.md)
 * [Eclipse](eclipse.md)
-* [Plugins](eclipse/plugins.md)
 * [Instalação](eclipse/instalacao.md)
+* [Plugins](eclipse/plugins.md)
 * [Metodologia Científica](metodologia_cientifica.md)
 
