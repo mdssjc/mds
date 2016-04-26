@@ -1,5 +1,4 @@
 # Caixa Preta
-
 Os testes de caixa preta são conhecidos como testes de sistema, responsáveis por avaliar o sistema como um todo.
 
 **Ferramentas:**
