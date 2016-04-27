@@ -4,7 +4,7 @@ Para informações acadêmicas sobre testes, acesse o curso: [Automatização de
 
 **Cenário** - **Ação** - **Avaliação** (Validação e Verificação)
 
-**Validação:** o produto está certo, conforme o s requisitos do usuário.
+**Validação:** o produto está certo, conforme os requisitos do usuário.
 
 **Verificação:** o produto está correto, conforme sua especificação.
 
