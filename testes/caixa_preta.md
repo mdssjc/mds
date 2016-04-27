@@ -3,6 +3,7 @@ Os testes de caixa preta são conhecidos como testes de sistema, responsáveis p
 
 **Ferramentas:**
 * Web: Selenium.
+* REST: Rest-Assured.
 
 **Boas Práticas:**
 
