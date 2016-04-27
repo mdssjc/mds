@@ -20,3 +20,6 @@ Cada **Classe de Equivalência** deve possuir um cenário de teste único.
 ### FIRST
 ### B->RIGHT
 ### CORRECT
+
+Boas Práticas
+Test Data Builder
