@@ -5,6 +5,7 @@ Os testes de caixa branca são conhecidos como testes unitários, responsáveis 
 * JUnit
 * Hamcrest
 * Mockito
+* Infinitest
 
 Cada **Classe de Equivalência** deve possuir um cenário de teste único.
 
