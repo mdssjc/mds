@@ -28,4 +28,6 @@ Cada **Classe de Equivalência** deve possuir um cenário de teste único.
 
 **Test Data Builders:** utilização do padrão de projeto Builder para construção dos objetos para cenário de testes.
 
+**Adapters:** utilização para testes com métodos estáticos.
+
 **Mock Objects:** isolação de funcionalidades com dependência externa.
