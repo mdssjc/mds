@@ -7,4 +7,4 @@ Os testes de caixa preta são conhecidos como testes de sistema, responsáveis p
 
 **Boas Práticas:**
 
-Page Object: abstrair os detalhes de estruturamento da página (DOM) em objetos simples (Navegação e Formulário).
+**Page Object:** abstrair os detalhes de estruturamento da página (DOM) em objetos simples (Navegação e Formulário).
