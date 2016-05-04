@@ -3,9 +3,9 @@ Os testes de caixa branca são conhecidos como testes unitários, responsáveis 
 
 **Ferramentas:**
 * JUnit (base dos testes)
-* Hamcrest
-* Mockito
-* Infinitest
+* Hamcrest (expressividade de código)
+* Mockito (dublê de objetos)
+* Infinitest (automação)
 
 Cada **Classe de Equivalência** deve possuir um cenário de teste único.
 
