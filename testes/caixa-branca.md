@@ -24,4 +24,4 @@ Cada **Classe de Equivalência** deve possuir um cenário de teste único.
 
 **Boas Práticas:**
 
-Test Data Builder
+**Test Data Builders:** utilização do padrão de projeto Builder para construção dos objetos para cenário de testes.
