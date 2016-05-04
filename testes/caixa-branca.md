@@ -24,6 +24,8 @@ Cada **Classe de Equivalência** deve possuir um cenário de teste único.
 
 **Boas Práticas:**
 
+**Identificação:** utilização do nome da classe seguido por Test.
+
 **Test Data Builders:** utilização do padrão de projeto Builder para construção dos objetos para cenário de testes.
 
 **Mock Objects:** isolação de funcionalidades com dependência externa.
