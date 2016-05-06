@@ -9,6 +9,7 @@ Os testes de caixa branca são conhecidos como testes unitários, responsáveis 
 
 Cada **Classe de Equivalência** deve possuir um cenário de teste único.
 
+**Técnicas:**
 ### AAA[A]
 **A**rrange: montar/organizar o cenário do código;
 
@@ -24,10 +25,10 @@ Cada **Classe de Equivalência** deve possuir um cenário de teste único.
 
 **Boas Práticas:**
 
-**Identificação:** utilização do nome da classe seguido por Test.
+* **Identificação:** utilização do nome da classe seguido por Test.
 
-**Test Data Builders:** utilização do padrão de projeto Builder para construção dos objetos para cenário de testes.
+* **Test Data Builders:** utilização do padrão de projeto Builder para construção dos objetos para cenário de testes.
 
-**Adapters:** utilização para testes com métodos estáticos.
+* **Adapters:** utilização para testes com métodos estáticos.
 
-**Mock Objects:** isolação de funcionalidades com dependência externa.
+* **Mock Objects:** isolação de funcionalidades com dependência externa.
