@@ -3,13 +3,13 @@ Este capítulo destina-se sobre testes em *software*.
 
 Para informações acadêmicas sobre testes, acesse o curso: [Automatização de Teste de Software - com ênfase em Ferramentas Open Source](http://napsol.icmc.usp.br/ats/).
 
+**Qualidade Funcional:**
+* [Caixa Branca (Teste Unitário)](caixa-branca.md)
+* [Caixa Cinza (Teste de Integração)](caixa_cinza.md)
+* [Caixa Preta (Teste de Sistema)](caixa_preta.md)
+
 **Cenário** - **Ação** - **Avaliação** (Validação e Verificação)
 
 **Validação:** o produto está certo, conforme os requisitos do usuário.
 
 **Verificação:** o produto está correto, conforme sua especificação.
-
-## Qualidade Funcional
-* [Caixa Branca (Teste Unitário)](caixa-branca.md)
-* [Caixa Cinza (Teste de Integração)](caixa_cinza.md)
-* [Caixa Preta (Teste de Sistema)](caixa_preta.md)
