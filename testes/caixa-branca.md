@@ -10,14 +10,15 @@ Os testes de caixa branca são conhecidos como testes unitários, responsáveis 
 Cada **Classe de Equivalência** deve possuir um cenário de teste único.
 
 **Técnicas:**
-### AAA[A]
-**A**rrange: montar/organizar o cenário do código;
+* **AAA[A]**
 
-**A**ct: exercitar/executar o código;
+  **A**rrange: montar/organizar o cenário do código;
 
-**A**ssert: avaliar os resultados do código;
+  **A**ct: exercitar/executar o código;
 
-**A**fter: finalizar recursos utilizados no teste.
+  **A**ssert: avaliar os resultados do código;
+
+  **A**fter: finalizar recursos utilizados no teste.
 
 ### FIRST
 ### B->RIGHT
