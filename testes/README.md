@@ -1,5 +1,6 @@
 # Testes
-Capítulo sovre testes.
+Este capítulo destina-se sobre testes.
+
 Para informações acadêmicas sobre testes, acesse o curso: [Automatização de Teste de Software - com ênfase em Ferramentas Open Source](http://napsol.icmc.usp.br/ats/).
 
 **Cenário** - **Ação** - **Avaliação** (Validação e Verificação)
@@ -9,6 +10,6 @@ Para informações acadêmicas sobre testes, acesse o curso: [Automatização de
 **Verificação:** o produto está correto, conforme sua especificação.
 
 ## Qualidade Funcional
-* [Teste Unitário (Caixa Branca)](caixa-branca.md)
-* Teste de Integração (Caixa Cinza)
-* Teste de Sistema (Caixa Preta)
+* [Caixa Branca (Teste Unitário)](caixa-branca.md)
+* [Caixa Cinza (Teste de Integração)](caixa_cinza.md)
+* [Caixa Preta (Teste de Sistema)](caixa_preta.md)
