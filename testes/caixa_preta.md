@@ -1,5 +1,7 @@
 # Caixa Preta
-Os testes de caixa preta são conhecidos como testes de sistema, responsáveis por avaliar o sistema como um todo. Na presença dos clientes são conhecidos como de testes de aceitação.
+Os testes de caixa preta são conhecidos como testes de sistema, responsáveis por avaliar o sistema como um todo.
+
+Na presença dos clientes são conhecidos como de testes de aceitação.
 
 **Ferramentas:**
 * Web: Selenium.
@@ -7,4 +9,4 @@ Os testes de caixa preta são conhecidos como testes de sistema, responsáveis p
 
 **Boas Práticas:**
 
-**Page Object:** abstrair os detalhes de estruturamento da página (DOM) em objetos simples (Navegação e Formulário).
+* **Page Object:** abstrair os detalhes de estruturamento da página (DOM) em objetos simples (Navegação e Formulário).
