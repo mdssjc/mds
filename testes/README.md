@@ -8,6 +8,10 @@ Para informações acadêmicas sobre testes, acesse o curso: [Automatização de
 * [Caixa Cinza (Teste de Integração)](caixa_cinza.md)
 * [Caixa Preta (Teste de Sistema)](caixa_preta.md)
 
+*Teste por Defeito*
+
+** Qualidade Não Funcional:**
+
 **Cenário** - **Ação** - **Avaliação** (Validação e Verificação)
 
 **Validação:** o produto está certo, conforme os requisitos do usuário.
