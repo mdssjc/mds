@@ -1,6 +1,7 @@
 # Introdução
 
 Este livro tem como objetivo complementar no aspecto teórico, os recursos do website e repositório.
+Os temas serão voltados parao ramo Sistema de Computação, principalmente abordando a disciplina de Arquitetura de Software e Testes.
 
 Página do site: [http://mdssjc.github.io](http://mdssjc.github.io)
 
