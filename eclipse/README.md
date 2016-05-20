@@ -8,4 +8,4 @@ O *Eclipse* é um Ambiente de Desenvolvimento Integrado - *Integrated Developmen
 
 **Observação:**
 
-A versão *Neon* (versão atual: RC1) possui estabilidade para desenvolvimento, entretanto possui incompatibilidade entre alguns *plugins*.
+A versão *Neon* (atual: RC1) possui estabilidade para desenvolvimento, entretanto possui incompatibilidade entre alguns *plugins*.
