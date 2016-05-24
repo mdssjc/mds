@@ -1,7 +1,7 @@
 # Caixa Branca
 Os testes de caixa branca são conhecidos como **testes unitários**, responsáveis por avaliar e auxiliar no desenvolvimento dos cenários de uma unidade de código.
 
-Esta é uma ferramenta essencial no Desenvolvimento Guiado por Testes - *Test Driven Development* (TDD).
+Esta é uma ferramenta essencial no Desenvolvimento Guiado por Testes - *Test Driven Development* (TDD). Em ferramentas de Integração Contínua - *Continuous Integration* (CI) ocorre a execução automática e avaliativa dos testes.
 
 A proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único.
 
