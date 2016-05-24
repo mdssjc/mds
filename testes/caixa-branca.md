@@ -8,7 +8,7 @@ A proposta básica é que cada **Classe de Equivalência** deve possuir um cená
 **Ferramentas:**
 * assert (avaliação de sanidade em código)
 * JUnit (base dos testes)
-* Hamcrest (expressividade de código)
+* Hamcrest (expressividade na avaliação do código)
 * Mockito (dublê de objetos)
 * Infinitest (automação da execução dos testes no cliente)
 
