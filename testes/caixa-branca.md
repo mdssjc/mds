@@ -36,6 +36,14 @@ A proposta básica é que cada **Classe de Equivalência** deve possuir um cená
 
 *em edição*
 
+* **TDD**
+
+  **Red**: *em edição*
+
+  **Green**: *em edição*
+
+  **Refactor**: *em edição*
+
 **Boas Práticas:**
 
 * **Identificação:** utilização do nome da classe seguido por Test.
