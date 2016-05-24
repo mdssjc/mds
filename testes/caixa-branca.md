@@ -3,13 +3,13 @@ Os testes de caixa branca são conhecidos como **testes unitários**, responsáv
 
 Esta é uma ferramenta essencial no Desenvolvimento Guiado por Testes - *Test Driven Development* (TDD).
 
+A proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único.
+
 **Ferramentas:**
 * JUnit (base dos testes)
 * Hamcrest (expressividade de código)
 * Mockito (dublê de objetos)
 * Infinitest (automação via IDE)
-
-Cada **Classe de Equivalência** deve possuir um cenário de teste único.
 
 **Técnicas:**
 
