@@ -9,7 +9,7 @@ A proposta básica é que cada **Classe de Equivalência** deve possuir um cená
 * JUnit (base dos testes)
 * Hamcrest (expressividade de código)
 * Mockito (dublê de objetos)
-* Infinitest (automação via IDE)
+* Infinitest (automação na execução dos testes)
 
 **Técnicas:**
 
