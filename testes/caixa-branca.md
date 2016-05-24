@@ -24,9 +24,17 @@ A proposta básica é que cada **Classe de Equivalência** deve possuir um cená
 
   **A**fter: finalizar recursos utilizados no teste.
 
-### FIRST
-### B->RIGHT
-### CORRECT
+* **FIRST**
+
+*em edição*
+
+* **B->RIGHT**
+
+*em edição*
+ 
+* **CORRECT**
+
+*em edição*
 
 **Boas Práticas:**
 
