@@ -6,6 +6,7 @@ Esta é uma ferramenta essencial no Desenvolvimento Guiado por Testes - *Test Dr
 A proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único.
 
 **Ferramentas:**
+* assert (avaliação de sanidade em código)
 * JUnit (base dos testes)
 * Hamcrest (expressividade de código)
 * Mockito (dublê de objetos)
