@@ -1,5 +1,5 @@
 # Testes
-Este capítulo destina-se sobre testes em *software*.
+Este capítulo destina-se sobre testes em *software*, importante processo de verificação e validação do desenvolvimento em Arquiteturas de Software.
 
 Para informações acadêmicas sobre testes, acesse o curso: [Automatização de Teste de Software - com ênfase em Ferramentas Open Source](http://napsol.icmc.usp.br/ats/).
 
