@@ -54,3 +54,5 @@ A proposta básica é que cada **Classe de Equivalência** deve possuir um cená
 * **Adapters:** utilização para testes com métodos estáticos.
 
 * **Mock Objects:** isolação de funcionalidades com dependência externa.
+
+* **Baby Steps:** incrementos em pequenos passos, assim ganhando confiança.
