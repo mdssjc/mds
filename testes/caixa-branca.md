@@ -1,5 +1,5 @@
 # Caixa Branca
-Os testes de caixa branca são conhecidos como **testes unitários**, responsáveis por avaliar e auxiliar no desenvolvimento dos cenários de uma unidade de código. **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - *Single Responsibility Principle* (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidade expostas.
+Os testes de caixa branca são conhecidos como **testes unitários**, responsáveis por avaliar e auxiliar no desenvolvimento dos cenários de uma unidade de código. **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - *Single Responsibility Principle* (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidade expostas (Tell, Don't Ask).
 
 Esta é uma ferramenta essencial no Desenvolvimento Guiado por Testes - *Test Driven Development* (TDD). Em ferramentas de Integração Contínua - *Continuous Integration* (CI) ocorre a execução automática e avaliativa dos testes.
 
