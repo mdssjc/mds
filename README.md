@@ -8,4 +8,7 @@ Página do site: [http://mdssjc.github.io](http://mdssjc.github.io)
 
 Alguns temas em elaboração:
 
-[Eclipse](eclipse/README.md) | [Testes](testes/README.md) | [Metodologia Científica](metodologia_cientifica/README.md)
+[Testes](testes/README.md) |
+[Metodologia Científica](metodologia_cientifica/README.md) |
+[Eclipse](eclipse/README.md) |
+Emacs
