@@ -1,7 +1,8 @@
 # Introdução
 
 Este livro tem como objetivo complementar no aspecto teórico, os recursos do website e repositório.
-Os temas serão voltados para o ramo Sistema de Computação, principalmente abordando a disciplina de **Arquitetura de Software e Testes**, algumas abordagens referente a algoritmos e mineração de dados serão propostas.
+
+Os temas serão voltados para o ramo Sistema de Computação, principalmente abordando a disciplina de **Arquitetura de Software e Testes**, algumas abordagens referente a Algoritmos e Mineração de Dados serão propostas.
 
 Página do site: [http://mdssjc.github.io](http://mdssjc.github.io)
 
