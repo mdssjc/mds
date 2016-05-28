@@ -5,9 +5,9 @@
    * [Caixa Branca](testes/caixa-branca.md)
    * [Caixa Cinza](testes/caixa_cinza.md)
    * [Caixa Preta](testes/caixa_preta.md)
+* [Metodologia Científica](metodologia_cientifica/README.md)
+   * [Variáveis](metodologia_cientifica/variaveis.md)
 * [Eclipse](eclipse/README.md)
    * [Instalação](eclipse/instalacao.md)
    * [Plugins](eclipse/plugins.md)
-* [Metodologia Científica](metodologia_cientifica/README.md)
-   * [Variáveis](metodologia_cientifica/variaveis.md)
 
