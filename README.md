@@ -11,5 +11,5 @@ Alguns temas em elaboração:
 [Testes](testes/README.md) |
 [Metodologia Científica](metodologia_cientifica/README.md) |
 [Eclipse](eclipse/README.md) |
-Emacs
+Emacs |
 Linguagens: Java, C e Lisp
