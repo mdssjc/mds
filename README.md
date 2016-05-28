@@ -1,6 +1,6 @@
 # Introdução
 
-Este livro tem como objetivo complementar nos aspectos teóricos, os recursos do website e repositório.
+Este livro tem como objetivo complementar nos aspectos teóricos, os recursos do *website* e repositório.
 
 Os temas serão voltados para o ramo Sistema de Computação, principalmente abordando a disciplina de **Arquitetura de Software e Testes**, algumas abordagens referente a Algoritmos e Mineração de Dados serão propostas.
 
