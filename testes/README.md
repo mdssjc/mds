@@ -5,7 +5,7 @@ Para informações acadêmicas sobre testes, acesse o curso: [Automatização de
 
 **Qualidade Funcional:**
 * [Caixa Branca (Teste Unitário)](caixa-branca.md)
-* [Caixa Cinza (Teste de Integração)](caixa_cinza.md)
+* [Caixa Cinza (Teste de Integração/Componente)](caixa_cinza.md)
 * [Caixa Preta (Teste de Sistema)](caixa_preta.md)
 
 *Teste por Defeito*
