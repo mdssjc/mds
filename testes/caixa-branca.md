@@ -54,6 +54,8 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
   **Green**: o teste guia a implementação do código.
 
   **Refactor**: os testes mantém a integridade do código.
+  
+* **CI**: *em edição*
 
 **Boas Práticas:**
 
