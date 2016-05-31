@@ -18,6 +18,7 @@ A proposta básica é que cada **Classe de Equivalência** deve possuir um cená
 Os testes formam a documentação do código, logo seus nomes são de extrama importância, como:
 
 * **action**: usa uma ação do cenário de teste, ex: *adicionaUmUsuario*.
+
 * **given-when-then**: relaciona o contexto, ação e resultado, ex: *dadoXQuandoAcontecerYEntaoFacaZ*.
 
 **Técnicas:**
