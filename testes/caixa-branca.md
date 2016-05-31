@@ -13,6 +13,14 @@ A proposta básica é que cada **Classe de Equivalência** deve possuir um cená
 * Mockito (dublê de objetos)
 * Infinitest (automação da execução dos testes no cliente)
 
+**Documentação:**
+
+Os testes formam a documentação do código, logo seus nomes são importantes. Alguns padrões são:
+
+**when-then**
+
+**given-when-then**
+
 **Técnicas:**
 
 * **AAA[A]**
