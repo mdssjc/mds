@@ -45,6 +45,8 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
 *em edição*
 
+**Usos:**
+
 * **TDD**
 
   O TDD utiliza os testes como principal ferramenta de desenvolvimento através do seu ciclo:
