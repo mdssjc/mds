@@ -47,11 +47,13 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
 * **TDD**
 
-  **Red**: *em edição*
+  O TDD utiliza os testes como principal ferramenta de desenvolvimento através do seu ciclo:
+  
+  **Red**: o teste representa cada requisito.
 
-  **Green**: *em edição*
+  **Green**: o teste guia a implementação do código.
 
-  **Refactor**: *em edição*
+  **Refactor**: os testes mantém a integridade do código.
 
 **Boas Práticas:**
 
