@@ -43,7 +43,7 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
   **S**elf-validating: automação na execução;
 
-  **T**imely: 
+  **T**imely: em momento oportuno.
 
 * **B->RIGHT**
 
