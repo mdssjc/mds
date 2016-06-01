@@ -35,11 +35,15 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
 * **FIRST**
 
-* **F**ast: 
-* **I**solated: 
-* **R**epeatable: 
-* **S**elf-validating: 
-* **T**imely: 
+  **F**ast: 
+
+  **I**solated: 
+
+  **R**epeatable: 
+
+  **S**elf-validating: 
+
+  **T**imely: 
 
 * **B->RIGHT**
 
