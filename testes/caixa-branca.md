@@ -33,7 +33,7 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
   **A**fter: finalizar recursos utilizados no teste.
 
-* **FIRST** - propriedades de um bons testes:
+* **FIRST** - propriedades de bons testes:
 
   **F**ast: rápidos em sua execução;
 
