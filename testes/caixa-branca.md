@@ -41,7 +41,7 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
   **R**epeatable: possui repetibilidade;
 
-  **S**elf-validating: 
+  **S**elf-validating: automação na execução;
 
   **T**imely: 
 
