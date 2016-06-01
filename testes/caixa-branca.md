@@ -39,7 +39,7 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
   **I**solated: isolados dos outros códigos;
 
-  **R**epeatable: 
+  **R**epeatable: possui repetibilidade;
 
   **S**elf-validating: 
 
