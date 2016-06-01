@@ -35,7 +35,7 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
 * **FIRST** - propriedades de um bons testes:
 
-  **F**ast: 
+  **F**ast: rápidos na execução;
 
   **I**solated: 
 
