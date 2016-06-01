@@ -37,13 +37,13 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
   **F**ast: rápidos em sua execução, assim mais testes serão avaliados;
 
-  **I**solated: isolados dos outros códigos;
+  **I**solated: isolados dos outros códigos, assim a verificação da falha será óbvia;
 
-  **R**epeatable: possui repetibilidade;
+  **R**epeatable: possui repetibilidade em qualquer ordem e tempo;
 
-  **S**elf-validating: automação em sua execução;
+  **S**elf-validating: automação em sua execução e avaliação;
 
-  **T**imely: em momento oportuno.
+  **T**imely: em momento oportuno, escreva os testes antes do código.
 
 * **B->RIGHT**
 
