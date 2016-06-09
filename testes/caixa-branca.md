@@ -55,9 +55,9 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
   
   **C**ross-Check: pode fazer checagem cruzada dos testes?;
   
-  **E**rror Conditions:
+  **E**rror Conditions: pode forçar as condições de erros?;
   
-  **P**erformance:
+  **P**erformance: o desempenho está dentro dos limites?.
  
 * **CORRECT**
 
