@@ -49,9 +49,9 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
   **R**ight: os resultados estão certos?;
   
-  **B**oundary: as condições limites estão corretas?;
+  **B**oundary: as condições limites estão corretas? Essa é verificada através do **CORRECT**;
   
-  **I**nverse: pode checar os relacionamentos inversos?;
+  **I**nverse: os relacionamentos inversos (operações inversas) estão sendo utilizadas?;
   
   **C**ross-Check: pode fazer checagem cruzada dos testes?;
   
