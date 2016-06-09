@@ -47,7 +47,17 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
 * **R->BICEP** - questões sobre os testes:
 
-*em edição*
+  **R**ight: os resultados estão certos;
+  
+  **B**oundary: 
+  
+  **I**nverse:
+  
+  **C**ross-Check:
+  
+  **E**rror Conditions:
+  
+  **P**erformance:
  
 * **CORRECT**
 
