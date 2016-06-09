@@ -53,7 +53,7 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
   
   **I**nverse: pode checar os relacionamentos inversos?;
   
-  **C**ross-Check:
+  **C**ross-Check: pode fazer checagem cruzada dos testes?;
   
   **E**rror Conditions:
   
