@@ -47,9 +47,9 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
 * **R->BICEP** - questões sobre os testes:
 
-  **R**ight: os resultados estão certos;
+  **R**ight: os resultados estão certos?;
   
-  **B**oundary: 
+  **B**oundary: as condições limites estão corretas?;
   
   **I**nverse:
   
