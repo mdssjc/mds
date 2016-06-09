@@ -51,7 +51,7 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
   
   **B**oundary: as condições limites estão corretas?;
   
-  **I**nverse:
+  **I**nverse: pode checar os relacionamentos inversos?;
   
   **C**ross-Check:
   
