@@ -25,11 +25,11 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
 * **AAA[A]** - organização e formatação dos testes:
 
-  **A**rrange: monta/organiza o cenário do código com todas as entradas e pré-condições necessárias;
+  **A**rrange: monta/organiza o cenário do código com todas as entradas e pré-condições necessárias ao teste;
 
   **A**ct: exercita/executa o código sobre teste;
 
-  **A**ssert: avalia os resultados do código com os esperados;
+  **A**ssert: avalia os resultados do código com os esperados pelo teste;
 
   **A**fter: finaliza os recursos utilizados no teste.
 
