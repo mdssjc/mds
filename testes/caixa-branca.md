@@ -23,7 +23,7 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
 **Técnicas:**
 
-* **AAA[A]** - organização e formatação de testes:
+* **AAA[A]** - organização e formatação dos testes:
 
   **A**rrange: monta/organiza o cenário do código com todas as entradas e pré-condições necessárias;
 
