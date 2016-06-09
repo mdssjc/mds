@@ -31,7 +31,7 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
   **A**ssert: avalia os resultados do código com os esperados;
 
-  **A**fter: finalizar recursos utilizados no teste.
+  **A**fter: finaliza os recursos utilizados no teste.
 
 * **FIRST** - propriedades de bons testes:
 
