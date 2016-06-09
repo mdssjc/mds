@@ -29,7 +29,7 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
   **A**ct: exercita/executa o código sobre teste;
 
-  **A**ssert: avaliar os resultados do código;
+  **A**ssert: avalia os resultados do código com os esperados;
 
   **A**fter: finalizar recursos utilizados no teste.
 
