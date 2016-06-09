@@ -45,7 +45,7 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
   **T**imely: em momento oportuno, escreva os testes antes do código.
 
-* **B->RIGHT**
+* **R->BICEP**
 
 *em edição*
  
