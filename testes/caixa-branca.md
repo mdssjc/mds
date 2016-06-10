@@ -8,6 +8,8 @@ A proposta básica é que cada **Classe de Equivalência** deve possuir um cená
 ---
 
 ## Ferramentas
+As ferramentas para colaboração das atividades de testes:
+
 * assert (avaliação de sanidade em código)
 * JUnit (base dos testes)
 * Hamcrest (expressividade na avaliação do código)
