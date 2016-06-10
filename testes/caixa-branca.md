@@ -5,8 +5,7 @@ Esta é uma ferramenta essencial no Desenvolvimento Guiado por Testes - *Test Dr
 
 A proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único.
 
-**Ferramentas:**
-
+## Ferramentas
 * assert (avaliação de sanidade em código)
 * JUnit (base dos testes)
 * Hamcrest (expressividade na avaliação do código)
@@ -14,16 +13,15 @@ A proposta básica é que cada **Classe de Equivalência** deve possuir um cená
 * JMeter (análise de desempenho)
 * Infinitest (automação da execução dos testes no cliente)
 
-**Documentação:**
-
+## Documentação
 Os testes formam a documentação do código, logo seus nomes são de extrama importância, como:
 
 * **action**: usa uma ação do cenário de teste, ex: *adicionaUmUsuario*.
 
 * **given-when-then**: relaciona o contexto, ação e resultado, ex: *dadoXQuandoAcontecerYEntaoFacaZ*.
 
-**Técnicas:**
-
+## Técnicas
+### O que pensar?
 * **AAA[A]** - organização e formatação dos testes:
 
   **A**rrange: monta/organiza o cenário do código com todas as entradas e pré-condições necessárias ao teste;
@@ -64,8 +62,7 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
 
 *em edição*
 
-**Usos:**
-
+## Usos
 * **TDD**: utiliza os testes como principal ferramenta de desenvolvimento através do seu ciclo:
   
   **Red**: o teste representa cada requisito.
@@ -76,8 +73,7 @@ Os testes formam a documentação do código, logo seus nomes são de extrama im
   
 * **CI**: *em edição*
 
-**Boas Práticas:**
-
+## Boas Práticas
 * **Identificação:** utilização do nome da classe seguido por Test.
 
 * **Test Data Builders:** utilização do padrão de projeto Builder para construção dos objetos para cenário de testes.
