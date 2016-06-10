@@ -18,7 +18,7 @@ A proposta básica é que cada **Classe de Equivalência** deve possuir um cená
 ---
 
 ## Documentação
-Os testes formam a documentação do código, logo seus nomes são de extrama importância, como:
+Os testes formam a documentação do código, logo seus nomes são de extrema importância, como:
 
 * **action**: usa uma ação do cenário de teste, ex: *adicionaUmUsuario*.
 
