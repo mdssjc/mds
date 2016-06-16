@@ -68,6 +68,8 @@ Os testes formam a documentação do código, logo seus nomes (identificadores) 
  
 * **CORRECT** - as condições limites devem:
 
+  **C**onformance: os valores conforme o formato especificado?
+
 ---
 
 ## Usos
