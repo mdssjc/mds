@@ -80,6 +80,8 @@ Os testes formam a documentação do código, logo seus nomes (identificadores) 
 
   **C**ardinality: com a quantidade de números suficiente?
 
+  **T**ime: com as temporizações corretas (sincronização, tempo, eventos, referência e etc...)?
+
 ---
 
 ## Usos
