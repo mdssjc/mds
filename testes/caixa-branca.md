@@ -78,7 +78,7 @@ Os testes formam a documentação do código, logo seus nomes (identificadores) 
 
   **E**xistence: com valor existente (nulo, zero, presente e etc...)?
 
-  **C**ardinality: com a quantidade de números suficiente?
+  **C**ardinality: com a quantidade de números suficiente? Os casos interessantes são Zero, Um e Muitos através da regra 0-1-n.
 
   **T**ime: com as temporizações corretas (sincronização, tempo, eventos, referência e etc...)?
 
