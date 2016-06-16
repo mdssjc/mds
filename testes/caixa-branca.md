@@ -76,6 +76,8 @@ Os testes formam a documentação do código, logo seus nomes (identificadores) 
 
   **R**eference: com alguma referência externa fora do controle do código?
 
+  **E**xistence: com valor existente (nulo, zero, presente e etc...)?
+
 ---
 
 ## Usos
