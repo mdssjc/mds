@@ -66,9 +66,11 @@ Os testes formam a documentação do código, logo seus nomes (identificadores) 
   
   **P**erformance: o desempenho está dentro dos limites?.
  
-* **CORRECT** - as condições limites devem:
+* **CORRECT** - as condições limites estão:
 
-  **C**onformance: os valores conforme o formato especificado?
+  **C**onformance: com os valores conforme o formato especificado?
+
+  **O**rdering: com o conjunto de valores em uma ordem determinada?
 
 ---
 
