@@ -72,6 +72,8 @@ Os testes formam a documentação do código, logo seus nomes (identificadores) 
 
   **O**rdering: com o conjunto de valores em uma ordem determinada?
 
+  **R**ange: com os valores dentro da faixa (mínimo e máximo) especificada?
+
 ---
 
 ## Usos
