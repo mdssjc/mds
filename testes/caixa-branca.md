@@ -66,9 +66,7 @@ Os testes formam a documentação do código, logo seus nomes (identificadores) 
   
   **P**erformance: o desempenho está dentro dos limites?.
  
-* **CORRECT**
-
-*em edição*
+* **CORRECT** - as condições limites devem:
 
 ---
 
