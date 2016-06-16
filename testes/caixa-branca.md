@@ -78,6 +78,8 @@ Os testes formam a documentação do código, logo seus nomes (identificadores) 
 
   **E**xistence: com valor existente (nulo, zero, presente e etc...)?
 
+  **C**ardinality: com a quantidade de números suficiente?
+
 ---
 
 ## Usos
