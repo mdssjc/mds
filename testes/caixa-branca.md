@@ -74,6 +74,8 @@ Os testes formam a documentação do código, logo seus nomes (identificadores) 
 
   **R**ange: com os valores dentro da faixa (mínimo e máximo) especificada?
 
+  **R**eference: com alguma referência externa fora do controle do código?
+
 ---
 
 ## Usos
