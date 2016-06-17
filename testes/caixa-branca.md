@@ -107,3 +107,8 @@ Os testes formam a documentação do código, logo seus nomes (identificadores) 
 * **Mock Objects:** isolação de funcionalidades com dependência externa.
 
 * **Baby Steps:** incrementos em pequenos passos, assim ganhando confiança.
+
+---
+
+## Test Smell
+*em edição*
