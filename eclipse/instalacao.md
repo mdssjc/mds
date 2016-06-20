@@ -1,30 +1,27 @@
 # Instalação
+**Objetivo**: realizar a instalação do *software* *Eclipse*.
 
-## ECLIPSE
-
-**Objetivo:**
-    Realizar a instalação do Eclipse, utilizando o arquivo eclipse-java-mars-R-linux-gtk-x86_64.
-
-Faça o download do eclipse:
+Faça o *download* do *Eclipse*:
 ```
-  wget <url>eclipse-java-mars-R-linux-gtk-x86_64
+  wget <url>/<file>.tar
 ```
-Descompacte o arquivo para o local /opt:
+Descompacte o arquivo para o local ```/opt```:
 ``` 
   sudo mkdir /opt/eclipse
-  sudo tar -xzf eclipse-java-mars-R-linux-gtk-x86_64.tar.gz -C /opt/eclipse
+  sudo tar -xzf <file>.tar -C /opt/eclipse
+```
+Execute o arquivo ```eclipse```:
+```
+  cd /opt/eclipse
+  eclipse
 ```
 
-### No Arch Linux:
-*"em edição"*
+## No Arch Linux
+No arquivo ```eclipse.ini```, inclua o seguinte parâmetro em ```org.eclipse.platform```:
+```
+  org.eclipse.platform
+  --launcher.GTK_version
+  2
+```
 
-### No Debian:
-
-Instale o comando no sistema:
-```
-  sudo update-alternatives --install /usr/bin/eclipse eclipse /opt/eclipse/eclipse/eclipse 1
-```
-Selecione a versão do eclipse, caso exista várias:
-```
-  sudo update-alternatives --config eclipse
-```
+[https://wiki.archlinux.org/index.php/eclipse](https://wiki.archlinux.org/index.php/eclipse)
