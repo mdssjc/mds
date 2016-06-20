@@ -6,6 +6,6 @@ A versão estável é a **Neon** (lançada em 22 de Junho de 2016) - sucessor da
 
 **Link:** [Eclipse.org](https://eclipse.org/)
 
-##Dicas de Uso
+## Dicas de Uso
 * [Instalação](instalacao.md)
 * [Lista de Plugins](plugins.md)
