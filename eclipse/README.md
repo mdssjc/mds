@@ -7,7 +7,3 @@ A versão estável é a **Neon** (lançada em 23 de Junho de 2016) - sucessor da
 **Dicas de uso:**
 * [Instalação](instalacao.md)
 * [Lista de Plugins](plugins.md)
-
-**Observação:**
-
-A versão *Neon* (atual: RC2) possui estabilidade para desenvolvimento, entretanto possui incompatibilidade entre alguns *plugins*.
