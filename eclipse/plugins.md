@@ -20,4 +20,4 @@ Plugins recomendados:
 * Lombok: macro para simplificação de código clássico.
 * Javaslang: programação funcional.
 
-***Observação**: com a nova versão do Eclipse em estudo será possível determinar quais plugins são necessários.*
+*Observação: com a nova versão do Eclipse em estudo será possível determinar quais plugins são necessários.*
