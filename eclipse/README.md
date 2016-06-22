@@ -3,6 +3,7 @@ O *software* *Eclipse* é um Ambiente de Desenvolvimento Integrado - *Integrated
 
 A versão estável é a **Neon** (lançada em 22 de Junho de 2016) - sucessor da **Mars 2**.
 
+Notas da Versão: [AQUI](https://www.eclipse.org/neon/noteworthy/)
 
 ![Get Eclipse Neon](../images/get-eclipse-neon.PNG)
 
@@ -14,12 +15,14 @@ A versão Neon está em uso para avaliação, entretanto as vantagens e desvanta
 
 * **Desvantagens**: em geral não possui estabilidade em sua modularização, ou seja, ocorre a redução de desempenho e incidências de falhas, conforme as instalações de *plugins*.
 
-**Link:** [Eclipse.org](https://eclipse.org/)
+**Link**: [Eclipse.org](https://eclipse.org/)
 
 ## Instalação
 No *Windows* execute o instalador ```eclipse-inst-winXX```.
 
-No *Linux* descompacte o ```eclipse-inst-linuxXX.tar.gz``` e execute o instalador ```eclipse-inst```.
+No *Linux* descompacte o arquivo ```eclipse-inst-linuxXX.tar.gz``` e execute o instalador ```eclipse-inst```.
+
+Em ambos os casos apresenta um guia de instalação, conforme as necessidades do desenvolvedor.
 
 ## Dicas de Uso
 * [Lista de Plugins](plugins.md)
