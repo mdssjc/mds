@@ -1,5 +1,5 @@
 # Caixa Preta
-Os testes de caixa preta (*black-box testing*) são conhecidos como testes de sistema *[técnica funcional]*, responsáveis por avaliar o sistema como um todo.
+Os testes de caixa preta (*black-box testing*) são conhecidos como **testes de sistema** *[técnica funcional]*, responsáveis por avaliar o sistema como um todo.
 
 Na presença dos clientes são conhecidos como de testes de aceitação.
 
