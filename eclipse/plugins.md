@@ -1,5 +1,5 @@
 # Plugins
-Plugins recomendados para a versão Mars.2:
+Plugins recomendados:
 
 **Análise de Código**
 * **Findbugs**: verificação dos bytecode.
