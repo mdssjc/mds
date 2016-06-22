@@ -3,10 +3,16 @@ Os testes de caixa preta (*black-box testing*) são conhecidos como testes de si
 
 Na presença dos clientes são conhecidos como de testes de aceitação.
 
-**Ferramentas:**
+---
+
+## Ferramentas
+As ferramentas para colaboração das atividades de testes:
+
 * Web: Selenium.
 * REST: Rest-Assured.
 
-**Boas Práticas:**
+---
+
+##Boas Práticas
 
 * **Page Object:** abstrair os detalhes de estruturamento da página (DOM) em objetos simples (Navegação e Formulário).
