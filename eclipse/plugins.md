@@ -14,7 +14,7 @@ Plugins recomendados para a versão Mars.2:
 
 **Ferramentas**
 * AnyEdit: funções para automação de formatação na codificação.
-* Vrapper: o poder do VIM no Eclipse.
+* **Vrapper**: o poder do VIM no Eclipse.
 * Spartan Refactoring: refatoração maluca.
 * Eclim: integração Emacs/Vim com Eclipse.
 * Lombok: macro para simplificação de código clássico.
