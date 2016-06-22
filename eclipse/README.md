@@ -16,6 +16,21 @@ A versão Neon está em uso para avaliação, entretanto as vantagens e desvanta
 
 **Link:** [Eclipse.org](https://eclipse.org/)
 
+## Instalação
+No Windows execute o pacote de instalação.
+
+No Linux, após baixar o ```.tar```, realize o procedimento:
+
+* Descompacte o arquivo para o local ```/opt```:
+``` 
+  sudo mkdir /opt/eclipse
+  sudo tar -xzf <file>.tar -C /opt/eclipse
+```
+* Execute o arquivo ```eclipse```:
+```
+  cd /opt/eclipse
+  eclipse
+```
+
 ## Dicas de Uso
-* [Instalação](instalacao.md)
 * [Lista de Plugins](plugins.md)
