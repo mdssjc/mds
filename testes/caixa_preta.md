@@ -13,6 +13,6 @@ As ferramentas para colaboração das atividades de testes:
 
 ---
 
-##Boas Práticas
+## Boas Práticas
 
 * **Page Object:** abstrair os detalhes de estruturamento da página (DOM) em objetos simples (Navegação e Formulário).
