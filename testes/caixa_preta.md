@@ -3,6 +3,8 @@ Os testes de caixa preta (*black-box testing*) são conhecidos como testes de si
 
 Na presença dos clientes são conhecidos como de testes de aceitação.
 
+* Classes de Equivalência
+
 ---
 
 ## Ferramentas
