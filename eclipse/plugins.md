@@ -16,7 +16,5 @@ Alguns *plugins* recomendados:
 * **Vrapper**: o poder do *VIM* no *Eclipse*.
 * Eclim: integração *Emacs/Vim* com *Eclipse*.
 * AnyEdit: funções para automação de formatação na codificação.
-* Lombok: macro para simplificação de código clássico.
-* Javaslang: programação funcional.
 
 *Observação: com a nova versão do Eclipse em estudo será possível determinar quais plugins são necessários.*
