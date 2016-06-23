@@ -7,7 +7,7 @@ Os testes de caixa cinza são conhecidos como **testes de integração ou compon
 As ferramentas para colaboração das atividades de testes:
 
 * JUnit (base dos testes)
-* Hamcrest (expressividade de código)
+* Hamcrest (expressividade na avaliação do código)
 * Mockito (dublê de objetos)
 
 ---
