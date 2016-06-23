@@ -4,6 +4,10 @@ As ferramentas para colaboração das atividades de testes:
 ## Sintaxe
 * assert (avaliação de sanidade em código Java)
 
+```
+assert(dados > 0) : "précondição inválida";
+```
+
 ## Base
 * JUnit (base dos testes)
 
