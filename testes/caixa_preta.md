@@ -3,13 +3,11 @@ Os testes de caixa preta (*black-box testing*) são conhecidos como **testes de 
 
 * Classes de Equivalência
 
----
+As ferramentas mais utilizadas são:
 
-## Ferramentas
-As ferramentas para colaboração das atividades de testes:
-
-* Web Selenium (navegador Web)
-* REST - Rest-Assured (serviços REST)
+* JUnit
+* Web Selenium
+* Rest-Assured
 
 ---
 
