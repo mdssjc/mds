@@ -1,7 +1,5 @@
 # Caixa Preta
-Os testes de caixa preta (*black-box testing*) são conhecidos como **testes de sistema** *[técnica funcional]*, responsáveis por avaliar o sistema como um todo.
-
-Na presença dos clientes são conhecidos como de testes de aceitação.
+Os testes de caixa preta (*black-box testing*) são conhecidos como **testes de sistema** *[técnica funcional]* ou **testes de aceitação** quando na presença dos clientes, responsáveis por avaliar o sistema como um todo.
 
 * Classes de Equivalência
 
@@ -16,5 +14,4 @@ As ferramentas para colaboração das atividades de testes:
 ---
 
 ## Boas Práticas
-
 * **Page Object:** abstrair os detalhes de estruturamento da página (DOM) em objetos simples (Navegação e Formulário).
