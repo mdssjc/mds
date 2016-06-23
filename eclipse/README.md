@@ -47,3 +47,5 @@ Em ambos os casos apresenta um guia de instalação, conforme as necessidades do
 
 ## Dicas de Uso
 * [Lista de Plugins](plugins.md)
+* Lombok: macro para simplificação de código clássico.
+* Javaslang: programação funcional.
