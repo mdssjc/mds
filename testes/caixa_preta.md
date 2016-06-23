@@ -10,8 +10,8 @@ Na presença dos clientes são conhecidos como de testes de aceitação.
 ## Ferramentas
 As ferramentas para colaboração das atividades de testes:
 
-* Web: Selenium.
-* REST: Rest-Assured.
+* Web Selenium (navegador Web).
+* REST - Rest-Assured (serviços REST).
 
 ---
 
