@@ -3,7 +3,7 @@ Alguns *plugins* recomendados:
 
 **Análise de Código**
 * **Findbugs**: verificação dos *bytecode*.
-* **Checkstyle**: verificação do código fonte. (não compatível com *Neon*)
+* **Checkstyle**: verificação do código fonte.
 * **PMD**: verificação do código em geral.
 * SonarLint: análise de código.
 * **EclEmma/ECobertura**: *code coverage* dos testes.
