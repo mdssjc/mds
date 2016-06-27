@@ -84,9 +84,9 @@ Os testes formam a documentação do código, logo seus nomes (identificadores) 
 ## Usos
 * **TDD**: empregra os testes como a *principal ferramenta de codificação*, antes mesmo do código de produção, através do seu ciclo:
   
-  **Red**: o teste representa cada requisito.
+  **Red**: o teste representa cada requisito;
 
-  **Green**: o teste guia a implementação do código.
+  **Green**: o teste guia a implementação do código; e
 
   **Refactor**: os testes mantém a integridade do código.
   
