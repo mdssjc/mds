@@ -3,6 +3,8 @@ Os testes de caixa branca (*white-box testing*) são conhecidos como **testes un
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - *Single Responsibility Principle* (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (*Tell, Don't Ask*), a proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único e suficiente.
 
+A implementação do código de produção deve ser o suficiente para os testes resultarem em exito, pois assim protege o código de previsão de funcionalidades e condições.
+
 Esses testes são tratados como a documentação do código, assim deve-se sua identificação serem pensadas em nível sintático e semântico, as próprias ferramentas de testes incentivam essa técnica como por exemplo o *JUnit* e *Hamcrest*.
 
 Esta é uma ferramenta essencial no Desenvolvimento Guiado por Testes - *Test Driven Development* (TDD). Em ferramentas de Integração Contínua - *Continuous Integration* (CI) ocorre a execução automática e avaliativa dos testes.
