@@ -17,7 +17,7 @@ As ferramentas mais utilizadas são:
 ---
 
 ## Documentação
-Os testes formam a documentação do código, logo seus nomes (identificadores) são de extrema importância, tais como:
+Os testes formam a documentação viva do código, logo seus nomes (identificadores) são de extrema importância, tais como:
 
 * **action**: usa uma ação do cenário de teste, ex: *adicionaUmUsuario*.
 
