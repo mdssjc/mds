@@ -16,7 +16,8 @@ assert(dados > 0) : "précondição inválida";
 * Infinitest (automação da execução dos testes no cliente)
 
 ### Mock
-* Mockito (dublê de objetos)
+Testes com objetos dublê:
+* Mockito
 * EasyMock
 * jMock
 
