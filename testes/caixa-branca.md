@@ -39,7 +39,7 @@ Os testes formam a documentação viva do código, logo seus nomes (identificado
 
   **A**ct: exercita/executa o código sobre teste;
 
-  **A**ssert: avalia os resultados do código com os esperados pelo teste;
+  **A**ssert: avalia os resultados obtidos do código com os esperados pelo teste;
 
   **A**fter: finaliza os recursos utilizados no teste.
 
