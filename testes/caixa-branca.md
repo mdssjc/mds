@@ -9,8 +9,7 @@ Esses testes são tratados como a documentação do código, assim deve-se sua i
 
 Esta é uma ferramenta essencial no Desenvolvimento Guiado por Testes - *Test Driven Development* (TDD). Em ferramentas de Integração Contínua - *Continuous Integration* (CI) ocorre a execução automática e avaliativa dos testes.
 
-As ferramentas mais utilizadas são:
-
+As [ferramentas](testes/ferramentas.md) mais utilizadas são:
 * assert
 * JUnit
 * Hamcrest
