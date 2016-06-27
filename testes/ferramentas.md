@@ -17,6 +17,8 @@ assert(dados > 0) : "précondição inválida";
 
 ### Mock
 * Mockito (dublê de objetos)
+* EasyMock
+* jMock
 
 ## Desempenho
 * JMeter (análise de desempenho)
