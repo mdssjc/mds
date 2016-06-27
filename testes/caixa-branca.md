@@ -98,6 +98,8 @@ Os testes formam a documentação viva do código, logo seus nomes (identificado
   
 * **CI**: *em edição*
 
+* **Testes de Regressão**: *em edição*
+
 ---
 
 ## Boas Práticas
