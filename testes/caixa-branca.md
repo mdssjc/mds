@@ -1,7 +1,7 @@
 # Caixa Branca
 Os testes de caixa branca (*white-box testing*) são conhecidos como **testes unitários** *[técnica estrutural]*, responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código (estrutura interna do programa).
 
-**Importante o cuidado** para não violar o Princípio da Responsabilidade Única - *Single Responsibility Principle* (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (*Tell, Don't Ask*), a proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único e suficiente.
+**Importante o cuidado** para não violar o Princípio da Responsabilidade Única - *Single Responsibility Principle* (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (*Tell, Don't Ask*), a proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
 A implementação do código de produção deve ser o suficiente para os testes resultarem em exito, pois assim protege o código de previsão de funcionalidades e condições.
 
