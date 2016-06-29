@@ -14,6 +14,9 @@ Esta é uma ferramenta essencial no Desenvolvimento Guiado por Testes - *Test Dr
 * **Lisp**: Funções, Comandos e Macros; e
 * **C**: Funções.
 
+**Fases do teste:**
+*(setup, exercise, verify, teardown) -> em edição*
+
 As [ferramentas](ferramentas.md) mais utilizadas são:
 * assert
 * JUnit
