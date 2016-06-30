@@ -3,9 +3,9 @@ Este livro tem como objetivo complementar nos aspectos teóricos, os recursos da
 
 Os temas serão voltados para o ramo Sistema de Computação, principalmente abordando a disciplina de **Arquitetura de _Software_ e Testes** com Algoritmos e Mineração de Dados nas tecnologias *Java*, *Lisp*, *C*, *Emacs* e *GNU/Linux*.
 
-**Página**: [http://mdssjc.github.io](http://mdssjc.github.io)
+**Página**: [http://mdssjc.github.io](http://goo.gl/wfgE07)
 
-**Repositório**: [https://github.com/mdssjc](https://github.com/mdssjc)
+**Repositório**: [https://github.com/mdssjc](http://goo.gl/FvxXNM)
 
 Alguns temas em elaboração:
 
