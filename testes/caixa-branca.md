@@ -11,7 +11,7 @@ Na etapa de Codificação, os testes de caixa branca auxília em:
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - *Single Responsibility Principle* (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (*Tell, Don't Ask*), a proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
-**Elementos de teste:**
+As tecnologias de desenvolvimento possuem elementos mínimos para testes, sendo:
 * **Java**: Classes;
 * **Lisp**: Funções, Comandos e Macros; e
 * **C**: Funções.
