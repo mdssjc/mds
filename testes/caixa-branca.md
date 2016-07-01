@@ -22,7 +22,7 @@ As [ferramentas](ferramentas.md) mais utilizadas são:
 ---
 
 ## Documentação
-Os testes formam a documentação viva do código, logo seus nomes (identificadores) serem pensadas em nível sintático e semântico são de extrema importância, tais como:
+Os testes formam a documentação viva do código, em que são de extrema importância seus identificadores (nomes dos testes) serem pensadas em nível sintático e semântico, tais como:
 
 * **action**: usa uma ação do cenário de teste, ex: *adicionaUmUsuario*.
 
