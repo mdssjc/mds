@@ -1,13 +1,11 @@
 # Caixa Branca
-A técnica de teste de caixa branca (*white-box testing*) tem como objetivo avaliar a estrutura interna dos elementos de programação *(técnica estrutural)* nas fases de **testes unitários** (*unit testing*) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código (estrutura interna do programa) e/ou **testes de integração ou componentes** (*integration testing or component testing*) - responsáveis por avaliar a comunicação entre objetos e recursos.
+A técnica de teste de caixa branca (*white-box testing*) tem como objetivo avaliar a estrutura interna dos elementos de programação *(técnica estrutural)* durante a etapa de Codificação nas fases de **testes unitários** (*unit testing*) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código (estrutura interna do programa) e/ou **testes de integração ou componentes** (*integration testing or component testing*) - responsáveis por avaliar a comunicação entre objetos e recursos.
+
+A metodogia de Desenvolvimento Guiado por Testes - *Test Driven Development* (TDD) é a utilizada para a etapa de Codificação, na qual os testes são implementados incrementalmente antes do código de produção sempre evoluindo através de refatoração. A implementação do código de produção deve ser o suficiente para os testes resultarem em exito, pois assim protege o código de previsão de funcionalidades e condições. A ferramentas de Integração Contínua - *Continuous Integration* (CI) auxilia na execução automática e avaliativa dos testes.
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - *Single Responsibility Principle* (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (*Tell, Don't Ask*), a proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
-A implementação do código de produção deve ser o suficiente para os testes resultarem em exito, pois assim protege o código de previsão de funcionalidades e condições.
-
 Esses testes são tratados como a documentação do código, assim deve-se sua identificação serem pensadas em nível sintático e semântico, as próprias ferramentas de testes incentivam essa técnica como por exemplo o *JUnit* e *Hamcrest*.
-
-Esta é uma ferramenta essencial no Desenvolvimento Guiado por Testes - *Test Driven Development* (TDD). Em ferramentas de Integração Contínua - *Continuous Integration* (CI) ocorre a execução automática e avaliativa dos testes.
 
 **Elementos de teste:**
 * **Java**: Classes;
