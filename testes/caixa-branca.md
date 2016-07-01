@@ -1,7 +1,13 @@
 # Caixa Branca
 A técnica de teste de caixa branca (*white-box testing*) tem como objetivo avaliar a estrutura interna dos elementos de programação *(técnica estrutural)* durante a etapa de Codificação nas fases de **testes unitários** (*unit testing*) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código (estrutura interna do programa) e/ou **testes de integração ou componentes** (*integration testing or component testing*) - responsáveis por avaliar a comunicação entre objetos e recursos.
 
-A metodogia de Desenvolvimento Guiado por Testes - *Test Driven Development* (TDD) é a utilizada para a etapa de Codificação, na qual os testes são implementados incrementalmente antes do código de produção sempre evoluindo através de refatoração. A implementação do código de produção deve ser o suficiente para os testes resultarem em exito, pois assim protege o código de previsão de funcionalidades e condições. A ferramentas de Integração Contínua - *Continuous Integration* (CI) auxilia na execução automática e avaliativa dos testes.
+Na etapa de Codificação, os testes de caixa branca auxília em:
+* **Desenvolvimento Guiado por Testes** - *Test Driven Development* (TDD): empregra os testes como a *principal ferramenta de codificação*, antes mesmo do código de produção, através do seu ciclo:
+  * Red: o teste representa cada incremento do requisito;
+  * Green: o teste guia a implementação do código; e
+  * Refactor: os testes mantém a integridade do código.
+* **Integração Contínua** - *Continuous Integration* (CI): auxilia na execução automática e avaliativa dos testes; e
+* **Testes de Regressão**: *em edição*.
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - *Single Responsibility Principle* (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (*Tell, Don't Ask*), a proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
@@ -83,21 +89,6 @@ Os testes formam a documentação viva do código, em que são de extrema import
   **C**ardinality: com a quantidade de números suficiente? Os casos interessantes são Zero, Um e Muitos através da regra **0-1-n**.
 
   **T**ime: com as temporizações corretas (sincronização, tempo, eventos, referência e etc...)?
-
----
-
-## Usos
-* **TDD**: empregra os testes como a *principal ferramenta de codificação*, antes mesmo do código de produção, através do seu ciclo:
-  
-  **Red**: o teste representa cada requisito;
-
-  **Green**: o teste guia a implementação do código; e
-
-  **Refactor**: os testes mantém a integridade do código.
-  
-* **CI**: *em edição*
-
-* **Testes de Regressão**: *em edição*
 
 ---
 
