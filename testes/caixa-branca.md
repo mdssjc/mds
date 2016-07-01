@@ -1,5 +1,5 @@
 # Caixa Branca
-Os testes de caixa branca (*white-box testing*) são utilização nas fases de **testes unitários** *[técnica estrutural]* - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código (estrutura interna do programa) e/ou **testes de integração ou componentes** - responsáveis por avaliar a comunicação entre objetos e recursos..
+A técnica de teste de caixa branca (*white-box testing*) tem como objetivo avaliar a estrutura interna dos elementos de programação *(técnica estrutural)* nas fases de **testes unitários** (*unit testing*) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código (estrutura interna do programa) e/ou **testes de integração ou componentes** (*integration testing or component testing*) - responsáveis por avaliar a comunicação entre objetos e recursos.
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - *Single Responsibility Principle* (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (*Tell, Don't Ask*), a proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
