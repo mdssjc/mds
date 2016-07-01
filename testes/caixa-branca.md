@@ -116,6 +116,8 @@ Os testes formam a documentação viva do código, logo seus nomes (identificado
 
 * **Baby Steps:** incrementos em pequenos passos, assim ganhando confiança.
 
+* **Verificar DAO**: *em edição*.
+
 ---
 
 ## Test Smell
