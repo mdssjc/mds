@@ -5,8 +5,6 @@ A metodogia de Desenvolvimento Guiado por Testes - *Test Driven Development* (TD
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - *Single Responsibility Principle* (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (*Tell, Don't Ask*), a proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
-Esses testes são tratados como a documentação do código, assim deve-se sua identificação serem pensadas em nível sintático e semântico, as próprias ferramentas de testes incentivam essa técnica como por exemplo o *JUnit* e *Hamcrest*.
-
 **Elementos de teste:**
 * **Java**: Classes;
 * **Lisp**: Funções, Comandos e Macros; e
@@ -24,7 +22,7 @@ As [ferramentas](ferramentas.md) mais utilizadas são:
 ---
 
 ## Documentação
-Os testes formam a documentação viva do código, logo seus nomes (identificadores) são de extrema importância, tais como:
+Os testes formam a documentação viva do código, logo seus nomes (identificadores) serem pensadas em nível sintático e semântico são de extrema importância, tais como:
 
 * **action**: usa uma ação do cenário de teste, ex: *adicionaUmUsuario*.
 
