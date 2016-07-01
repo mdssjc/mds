@@ -1,7 +1,7 @@
 # Summary
 
 * [Introdução](README.md)
-* [Requisitos](requisitos.md)
+* [Requisitos](requisitos/requisitos.md)
 * [Testes](testes/README.md)
    * [Caixa Branca](testes/caixa-branca.md)
    * [Caixa Preta](testes/caixa_preta.md)
@@ -10,4 +10,3 @@
    * [Variáveis](metodologia_cientifica/variaveis.md)
 * [Eclipse](eclipse/README.md)
    * [Plugins](eclipse/plugins.md)
-
