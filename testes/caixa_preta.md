@@ -1,11 +1,15 @@
 # Caixa Preta
-Os testes de caixa preta (*black-box testing*) são conhecidos como **testes de sistema** *[técnica funcional]* ou **testes de aceitação** quando na presença dos clientes, responsáveis por avaliar o sistema como um todo.
+A técnica de testes de caixa preta (*black-box testing*) avalia *[técnica funcional]* e são utilizadas nas fases de **testes de sistema** ou **testes de aceitação** quando na presença dos clientes, responsáveis por avaliar o sistema como um todo.
 
 * Classes de Equivalência
+* Análise de Limites
+
+BDD
 
 As ferramentas mais utilizadas são:
 
 * JUnit
+* JBehave
 * Web Selenium
 * Rest-Assured
 
