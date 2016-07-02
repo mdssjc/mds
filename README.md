@@ -9,6 +9,7 @@ Os temas serão voltados para o ramo Sistema de Computação, principalmente abo
 
 Alguns temas em elaboração:
 
+[Requisitos](requisitos/README.md) |
 [Testes](testes/README.md) |
 [Metodologia Científica](metodologia_cientifica/README.md) |
 [Eclipse](eclipse/README.md) |
