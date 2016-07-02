@@ -4,7 +4,7 @@ A técnica de teste de caixa preta (*black-box testing*) tem como objetivo avali
 * Classes de Equivalência
 * Análise de Limites
 
-BDD
+BDD: *em edição*.
 
 As ferramentas mais utilizadas são:
 
