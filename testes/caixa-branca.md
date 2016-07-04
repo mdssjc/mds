@@ -45,7 +45,7 @@ Os seguintes identificadores são utilizados:
 
 **NameIntegrationTest**: testes de integração; e
 
-**NameSystemTest**: testes de sistema (ver [Caixa Preta](caixa-preta.md)).
+**NameSystemTest**: testes de sistema (ver [Caixa Preta](caixa_preta.md)).
 
 ---
 
