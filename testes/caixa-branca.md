@@ -38,8 +38,8 @@ Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - u
 
 ```requisitarUmaMensagemComRepositorioVazio``` para ```requisitar_uma_mensagem_com_repositorio_vazio```
 
-### Uso Comum
-Os seguintes identificadores são utilizados para os Casos de Testes:
+### Casos de Testes
+Os seguintes identificadores são utilizados para os casos de testes:
 
 **NameTest**: testes unitário;
 
