@@ -97,7 +97,7 @@ Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - u
 ---
 
 ## Boas Práticas
-* **Identificação**: utilização do nome da classe seguido por Test.
+~~* **Identificação**: utilização do nome da classe seguido por Test.~~
 
 * **Test Data Builders**: utilização do padrão de projeto Builder para construção dos objetos para cenário de testes - auxilia no problema de duplicação de código.
 
