@@ -16,8 +16,7 @@ As tecnologias de desenvolvimento possuem elementos mínimos para testes, sendo:
 * **Lisp**: Funções, Comandos e Macros; e
 * **C**: Funções.
 
-**Fases do teste:**
-*(setup, exercise, verify, teardown) -> em edição*
+
 
 As [ferramentas](ferramentas.md) mais utilizadas são:
 * assert
@@ -46,6 +45,12 @@ Os seguintes identificadores são utilizados para os casos de testes:
 **NameIntegrationTest**: testes de integração; e
 
 **NameSystemTest**: testes de sistema (ver [Caixa Preta](caixa_preta.md)).
+
+---
+
+## Fases do Teste
+**Fases do teste:**
+*(setup, exercise, verify, teardown) -> em edição*
 
 ---
 
