@@ -108,7 +108,7 @@ Os seguintes identificadores são utilizados:
 ## Boas Práticas
 ~~* **Identificação**: utilização do nome da classe seguido por Test.~~
 
-* **Test Data Builders**: utilização do padrão de projeto Builder para construção dos objetos para o cenário de testes - auxilia no problema de duplicação de código.
+* **Test Data Builders**: utilização do padrão de projeto Builder para o processo de criação dos objetos para o cenário de testes - auxilia no problema de duplicação de código.
 
 * **Adapters**: utilização para testes com métodos estáticos.
 
