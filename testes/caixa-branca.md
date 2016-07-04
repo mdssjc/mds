@@ -34,7 +34,7 @@ Os testes formam a documentação viva do código, em que são de extrema import
 
 * **given-when-then**: relaciona o contexto, ação e resultado, ex: *dadoXQuandoAcontecerYEntaoFacaZ*.
 
-Os identificadores tendem a ficarem longo, assim dificultando na sua leitura - uma dica é utilizar underscore sobre o camel case:
+Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - uma dica é utilizar *underscore* sobre o *camel case*:
 
 ```requisitarUmaMensagemComRepositorioVazio``` para ```requisitar_uma_mensagem_com_repositorio_vazio```
 
