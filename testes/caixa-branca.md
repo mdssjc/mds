@@ -97,15 +97,15 @@ Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - u
 ---
 
 ## Boas Práticas
-* **Identificação:** utilização do nome da classe seguido por Test.
+* **Identificação**: utilização do nome da classe seguido por Test.
 
-* **Test Data Builders:** utilização do padrão de projeto Builder para construção dos objetos para cenário de testes.
+* **Test Data Builders**: utilização do padrão de projeto Builder para construção dos objetos para cenário de testes.
 
-* **Adapters:** utilização para testes com métodos estáticos.
+* **Adapters**: utilização para testes com métodos estáticos.
 
-* **Mock Objects:** isolação de funcionalidades com dependência externa.
+* **Mock Objects**: isolação de funcionalidades com dependência externa.
 
-* **Baby Steps:** incrementos em pequenos passos, assim ganhando confiança.
+* **Baby Steps**: incrementos em pequenos passos, assim ganhando confiança.
 
 * **Verificar DAO**: *em edição*.
 
