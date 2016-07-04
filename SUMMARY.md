@@ -3,7 +3,7 @@
 * [Introdução](README.md)
 * [Requisitos](requisitos/README.md)
 * [Testes](testes/README.md)
-   * Introdução
+   * [Introdução](testes/introducao.md)
    * [Caixa Branca](testes/caixa-branca.md)
    * [Caixa Preta](testes/caixa_preta.md)
    * [Ferramentas](testes/ferramentas.md)
