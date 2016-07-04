@@ -9,6 +9,7 @@ BDD: *em edição*.
 As ferramentas mais utilizadas são:
 
 * JUnit
+* Cucumber
 * JBehave
 * Web Selenium
 * Rest-Assured
