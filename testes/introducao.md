@@ -1,4 +1,6 @@
 # Introdução
+Os testes são criados através dos requisitos modelados.
+
 {Fases}
 * Unidade
 * Integração/Componente
