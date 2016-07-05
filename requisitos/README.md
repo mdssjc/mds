@@ -13,6 +13,8 @@ Requisitos do Sistema: *em edição*
 Modelagem dos Requisitos: *em edição*
 
 ## 5W2H
+O modelo de gerenciamento de ideias 5W2H tem como objetivo em responder 7 perguntas:
+
 * **What**: *em edição*
 * **Why**: *em edição*
 * **Who**: *em edição*
