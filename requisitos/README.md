@@ -5,6 +5,13 @@ O Requisito é uma necessidade específica, na qual detalha o que um particular 
 
 **Constante** = Mudanças
 
+## Fases
+Requisitos do Usuário: *em edição*
+
+Requisitos do Sistema: *em edição*
+
+Modelagem dos Requisitos: *em edição*
+
 ## 5W2H
 * **What**: *em edição*
 * **Why**: *em edição*
