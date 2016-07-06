@@ -17,7 +17,7 @@ As tecnologias de desenvolvimento possuem elementos mínimos para testes, sendo:
 * **C**: Funções.
 
 Os excessos:
-* exercício: baixa coesão;
+* exercícios: baixa coesão;
 * dublês: alto acoplamento.
 
 As [ferramentas](ferramentas.md) mais utilizadas são:
