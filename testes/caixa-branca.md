@@ -16,7 +16,7 @@ As tecnologias de desenvolvimento possuem elementos mínimos para testes, sendo:
 * **Lisp**: Funções, Comandos e Macros; e
 * **C**: Funções.
 
-Os excessos:
+Os excessos no código de teste:
 * exercícios: baixa coesão;
 * dublês: alto acoplamento.
 
