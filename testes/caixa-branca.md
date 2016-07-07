@@ -126,7 +126,7 @@ Os seguintes identificadores são utilizados para os casos de testes:
 
 * **Verificar DAO**: *em edição*.
 
-* **Execute Around Method**: *em edição*.
+* **Execute Around Method**: utilização para testes com avaliação de exceção.
 
 ---
 
