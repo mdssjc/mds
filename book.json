@@ -1,6 +1,4 @@
 {
-    "plugins": [
-        "adsense"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
