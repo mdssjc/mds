@@ -18,7 +18,8 @@ As tecnologias de desenvolvimento possuem elementos mínimos para testes, sendo:
 
 Os excessos no código de teste:
 * exercícios: baixa coesão;
-* dublês: alto acoplamento.
+* dublês: alto acoplamento;
+* avalição em colaboradoras: encapsulamento.
 
 As [ferramentas](ferramentas.md) mais utilizadas são:
 * assert
