@@ -1,5 +1,4 @@
-# Summary
-
+# Sumário
 * [Introdução](README.md)
 * [Requisitos](requisitos/README.md)
 * [Testes](testes/README.md)
@@ -11,4 +10,3 @@
    * [Variáveis](metodologia_cientifica/variaveis.md)
 * [Eclipse](eclipse/README.md)
    * [Plugins](eclipse/plugins.md)
-
