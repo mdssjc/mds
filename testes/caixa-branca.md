@@ -17,8 +17,8 @@ As tecnologias de desenvolvimento possuem elementos mínimos para testes, sendo:
 * **C**: Funções.
 
 Os excessos no código de teste (padrões de *feedback*):
-* exercícios: baixa coesão;
-* dublês: alto acoplamento;
+* exercícios das responsabilidades: baixa coesão;
+* dublês das colaboradoras: alto acoplamento;
 * avalição em colaboradoras: encapsulamento.
 
 As [ferramentas](ferramentas.md) mais utilizadas são:
