@@ -124,7 +124,7 @@ Os seguintes identificadores são utilizados para os casos de testes:
 
 * **Baby Steps**: incrementos em pequenos passos, assim ganhando confiança.
 
-* **Verificar DAO**: *em edição*.
+* **Verificar DAO**: utilizando testes de integração com a camada de infraestrutura.
 
 * **Execute Around Method**: utilização para testes com avaliação de exceção.
 
