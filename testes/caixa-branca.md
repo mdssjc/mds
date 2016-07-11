@@ -54,7 +54,15 @@ As [ferramentas](ferramentas.md) mais utilizadas são:
 * Hamcrest
 * Mockito
 
----
+## A Prática
+### Exceções
+@Test:expected *em edição*
+
+@Rules *em edição*
+
+Try-Catch *em edição*
+
+EAM *em edição*
 
 ## Técnicas
 ### O que pensar?
@@ -115,7 +123,7 @@ As [ferramentas](ferramentas.md) mais utilizadas são:
 ## Boas Práticas
 * **Identificação**: ver Documentação.
 
-* **Test Data Builders**: utilização do padrão de projeto Builder para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
+* **Test Data Builders**: utilização do padrão de projeto (GoF) Builder para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
 
 * **Adapters**: utilização para testes com métodos estáticos.
 
