@@ -47,7 +47,7 @@ Os seguintes identificadores são utilizados para os:
   * **NameIntegrationTest**: testes de integração; e
   * **NameSystemTest**: testes de sistema (ver [Caixa Preta](caixa_preta.md)).
 * Testes:
-  * **Action**: usa uma ação do cenário de teste, ex: *adicionaUmUsuario*.
+  * **Action**: usa uma ação avaliável do cenário de teste, ex: *adicionaUmUsuario*.
   * **Given-When-Then**: relaciona o contexto, ação e resultado, ex: *dadoXQuandoAcontecerYEntaoFacaZ*.
 
 #### Dicas 
