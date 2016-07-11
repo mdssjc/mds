@@ -126,7 +126,5 @@ Os seguintes identificadores são utilizados para os casos de testes:
 
 * **Execute Around Method**: utilização para testes com avaliação de exceção.
 
----
-
-## Test Smell
+### Test Smell
 *em edição*
