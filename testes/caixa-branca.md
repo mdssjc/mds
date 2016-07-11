@@ -17,7 +17,7 @@ Os excessos no código de teste (padrões de *feedback*):
 * avalição em colaboradoras: encapsulamento.
 
 ## O Teste
-Os testes são organizadas em quatro (4) fases/etapas - pensando na sigla AAA(A), sendo:
+Os testes são organizadas em quatro (4) fases/etapas - pensando na sigla **AAA(A)**, sendo:
 * **setup**: *em edição*
 * **exercise**: *em edição*
 * **verify**: *em edição*
