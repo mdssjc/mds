@@ -41,7 +41,6 @@ As tecnologias de desenvolvimento possuem elementos mínimos para testes, sendo:
 Os testes formam a documentação viva do código, em que são de extrema importância seus identificadores (nomes dos testes) serem pensadas em nível sintático (relação entre os termos) e semântico (sentido de ideias) com o que será testado, tais como:
 
 * **action**: usa uma ação do cenário de teste, ex: *adicionaUmUsuario*.
-
 * **given-when-then**: relaciona o contexto, ação e resultado, ex: *dadoXQuandoAcontecerYEntaoFacaZ*.
 
 Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - uma dica é utilizar *underscore* sobre o *camel case*:
@@ -50,12 +49,9 @@ Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - u
 
 #### Convenções
 Os seguintes identificadores são utilizados para os casos de testes:
-
-**NameTest**: testes unitário;
-
-**NameIntegrationTest**: testes de integração; e
-
-**NameSystemTest**: testes de sistema (ver [Caixa Preta](caixa_preta.md)).
+* **NameTest**: testes unitário;
+* **NameIntegrationTest**: testes de integração; e
+* **NameSystemTest**: testes de sistema (ver [Caixa Preta](caixa_preta.md)).
 
 ---
 
