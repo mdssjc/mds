@@ -52,8 +52,11 @@ Os seguintes identificadores são utilizados para os casos de testes:
 ---
 
 ## Fases do Teste
-**Fases do teste:**
-*(setup, exercise, verify, teardown) -> em edição*
+As fases do teste são organizadas em quatro (4) etapas - pensando na sigla AAA(A), sendo:
+* setup: *em edição*
+* exercise: *em edição*
+* verify: *em edição*
+* teardown: *em edição*
 
 ---
 
