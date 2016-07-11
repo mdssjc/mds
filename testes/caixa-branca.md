@@ -123,6 +123,8 @@ EAM *em edição*
 ## Boas Práticas
 * **Identificação**: ver Documentação.
 
+* **Baby Steps**: começando pelo cenário de teste mais simples em pequenos incrementos, assim ganhando confiança.
+
 * **Test Data Builders**: utilização do padrão de projeto (GoF) Builder para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
 
 * **Adapters**: utilização para testes com métodos estáticos.
@@ -133,8 +135,6 @@ EAM *em edição*
   * *Stubs*: *em edição*
   * *Mocks*: *em edição*
   * *Spy*: *em edição*
-
-* **Baby Steps**: começando pelo cenário de teste mais simples em pequenos incrementos, assim ganhando confiança.
 
 * **Verificar DAO**: utilizando testes de integração com a camada de infraestrutura.
 
