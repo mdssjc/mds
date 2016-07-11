@@ -1,8 +1,8 @@
 # Requisitos
 
-O Requisito é uma necessidade específica, na qual detalha o que um particular produto deve ser ou fazer - etapa fundamental nas disciplinas de Engenharia de Sistemas ou Engenharia de Software.
+O Requisito é uma necessidade específica, na qual detalha o que um particular produto deve ser ou fazer - etapa fundamental nas disciplinas de Engenharia de Sistemas ou Engenharia de _Software_.
 
-**Requisito** = Software + Harware + Contexto
+**Requisito** = _Software_ + _Harware_ + Contexto
 
 **Constante** = Mudanças
 
@@ -31,6 +31,7 @@ O modelo de gerenciamento de ideias 5W2H tem como objetivo em responder 7 pergun
 * **Listagem**: _em edição_
 
 * **Descrição**: _em edição_
+
 
 ## Modelagem
 
