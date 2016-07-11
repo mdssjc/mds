@@ -11,11 +11,6 @@ Na etapa de Codificação, os testes de caixa branca auxília em:
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - *Single Responsibility Principle* (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (*Tell, Don't Ask*) sem o encadeamento de mensagens (*Law of Demeter*), a proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
-Os excessos no código de teste (padrões de *feedback*):
-* exercícios das responsabilidades: baixa coesão;
-* dublês das colaboradoras: alto acoplamento;
-* avalição em colaboradoras: encapsulamento.
-
 ## O Teste
 Os testes são organizadas em quatro (4) fases/etapas - pensando na sigla **AAA(A)**, sendo:
 * **setup**: *em edição*
@@ -46,6 +41,12 @@ Os seguintes identificadores são utilizados para os:
 Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - uma dica é utilizar *underscore* sobre o *camel case*:
 
 ```requisitarUmaMensagemComRepositorioVazio``` para ```requisitar_uma_mensagem_com_repositorio_vazio```
+
+### Feedbacks
+Os excessos no código de teste (padrões de *feedback*):
+* exercícios das responsabilidades: baixa coesão;
+* dublês das colaboradoras: alto acoplamento; e
+* avalição em colaboradoras: encapsulamento.
 
 ### Ferramentas
 As [ferramentas](ferramentas.md) mais utilizadas são:
