@@ -48,7 +48,7 @@ Os seguintes identificadores são utilizados para os:
   * **NameSystemTest**: testes de sistema (ver [Caixa Preta](caixa_preta.md)).
 * Testes:
   * **Action**: usa uma ação avaliável do cenário de teste, ex: *adicionaUmUsuario*.
-  * **Given-When-Then**: relaciona o contexto, ação e resultado, ex: *dadoXQuandoAcontecerYEntaoFacaZ*.
+  * **Given-When-Then**: relaciona o contexto, ação e resultado do cenário do teste, ex: *dadoXQuandoAcontecerYEntaoFacaZ*.
 
 #### Dicas 
 Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - uma dica é utilizar *underscore* sobre o *camel case*:
