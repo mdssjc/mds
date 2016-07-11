@@ -130,7 +130,7 @@ EAM *em edição*
 
 * **Adapters**: utilização para testes com métodos estáticos.
 
-* **Test Double**: isolação de funcionalidades com dependência externa, assim avaliando as características de estado e comportamento do objeto.
+* **Test Double**: isolação de funcionalidades com dependência externa, assim avaliando as características de estado e comportamento do objeto:
   * *Dummy*: *em edição*
   * *Fake*: *em edição*
   * *Stubs*: *em edição*
