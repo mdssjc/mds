@@ -9,7 +9,7 @@ assert(dados > 0) : "précondição inválida";
 ```
 
 ## Base
-* JUnit (base dos testes)
+* **JUnit** (base dos testes): principal *framework* de testes para a tecnologia *Java*.
 
 ### Expressividade
 * Hamcrest (expressividade na avaliação do código)
