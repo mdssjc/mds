@@ -127,9 +127,9 @@ EAM *em edição*
 
 * **Adapters**: utilização para testes com métodos estáticos.
 
-* **Mock Objects**: isolação de funcionalidades com dependência externa.
+* **Mock Objects**: isolação de funcionalidades com dependência externa, assim avaliando as características de estado e comportamento do objeto.
 
-* **Baby Steps**: incrementos em pequenos passos, assim ganhando confiança.
+* **Baby Steps**: começando pelo cenário de teste mais simples em pequenos incrementos, assim ganhando confiança.
 
 * **Verificar DAO**: utilizando testes de integração com a camada de infraestrutura.
 
