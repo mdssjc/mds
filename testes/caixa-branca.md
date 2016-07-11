@@ -16,12 +16,6 @@ Os excessos no código de teste (padrões de *feedback*):
 * dublês das colaboradoras: alto acoplamento;
 * avalição em colaboradoras: encapsulamento.
 
-As [ferramentas](ferramentas.md) mais utilizadas são:
-* assert
-* JUnit
-* Hamcrest
-* Mockito
-
 ---
 
 ## O Teste
@@ -54,6 +48,13 @@ Os seguintes identificadores são utilizados para os:
 Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - uma dica é utilizar *underscore* sobre o *camel case*:
 
 ```requisitarUmaMensagemComRepositorioVazio``` para ```requisitar_uma_mensagem_com_repositorio_vazio```
+
+### Ferramentas
+As [ferramentas](ferramentas.md) mais utilizadas são:
+* assert
+* JUnit
+* Hamcrest
+* Mockito
 
 ---
 
