@@ -127,7 +127,12 @@ EAM *em edição*
 
 * **Adapters**: utilização para testes com métodos estáticos.
 
-* **Mock Objects**: isolação de funcionalidades com dependência externa, assim avaliando as características de estado e comportamento do objeto.
+* **Test Double**: isolação de funcionalidades com dependência externa, assim avaliando as características de estado e comportamento do objeto.
+  * *Dummy*: *em edição*
+  * *Fake*: *em edição*
+  * *Stubs*: *em edição*
+  * *Mocks*: *em edição*
+  * *Spy*: *em edição*
 
 * **Baby Steps**: começando pelo cenário de teste mais simples em pequenos incrementos, assim ganhando confiança.
 
