@@ -40,10 +40,6 @@ As tecnologias de desenvolvimento possuem elementos mínimos para testes, sendo:
 ### Documentando
 Os testes formam a documentação viva do código, em que são de extrema importância seus identificadores (nomes dos testes) serem pensadas em nível sintático (relação entre os termos) e semântico (sentido de ideias) com o que será testado.
 
-Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - uma dica é utilizar *underscore* sobre o *camel case*:
-
-```requisitarUmaMensagemComRepositorioVazio``` para ```requisitar_uma_mensagem_com_repositorio_vazio```
-
 #### Convenções
 Os seguintes identificadores são utilizados para os:
 * Casos de Testes:
@@ -53,6 +49,11 @@ Os seguintes identificadores são utilizados para os:
 * Testes:
   * **action**: usa uma ação do cenário de teste, ex: *adicionaUmUsuario*.
   * **given-when-then**: relaciona o contexto, ação e resultado, ex: *dadoXQuandoAcontecerYEntaoFacaZ*.
+
+#### Dicas 
+Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - uma dica é utilizar *underscore* sobre o *camel case*:
+
+```requisitarUmaMensagemComRepositorioVazio``` para ```requisitar_uma_mensagem_com_repositorio_vazio```
 
 ---
 
