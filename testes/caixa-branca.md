@@ -11,11 +11,6 @@ Na etapa de Codificação, os testes de caixa branca auxília em:
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - *Single Responsibility Principle* (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (*Tell, Don't Ask*) sem o encadeamento de mensagens (*Law of Demeter*), a proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
-As tecnologias de desenvolvimento possuem elementos mínimos para testes, sendo:
-* **Java**: Classes;
-* **Lisp**: Funções, Comandos e Macros; e
-* **C**: Funções.
-
 Os excessos no código de teste (padrões de *feedback*):
 * exercícios das responsabilidades: baixa coesão;
 * dublês das colaboradoras: alto acoplamento;
@@ -53,10 +48,16 @@ Os seguintes identificadores são utilizados para os casos de testes:
 
 ## O Teste
 Os testes são organizadas em quatro (4) fases/etapas - pensando na sigla AAA(A), sendo:
-* setup: *em edição*
-* exercise: *em edição*
-* verify: *em edição*
-* teardown: *em edição*
+* **setup**: *em edição*
+* **exercise**: *em edição*
+* **verify**: *em edição*
+* **teardown**: *em edição*
+
+### O Que Testar?
+As tecnologias de desenvolvimento possuem elementos mínimos para testes, sendo:
+* **Java**: Classes;
+* **Lisp**: Funções, Comandos e Macros; e
+* **C**: Funções.
 
 ---
 
