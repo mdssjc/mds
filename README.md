@@ -15,3 +15,7 @@ Alguns temas em elaboração:
 [Eclipse](eclipse/README.md) |
 Emacs |
 Linguagens: Java, Lisp e C
+
+Desde já, recomenda-se o estudo em:
+
+[Extreme Programming](http://www.extremeprogramming.org/)
