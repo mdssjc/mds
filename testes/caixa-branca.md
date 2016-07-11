@@ -128,7 +128,7 @@ EAM *em edição*
 
 * **Test Data Builders**: utilização do padrão de projeto (GoF) Builder para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
 
-* **Adapters**: utilização para testes com métodos estáticos.
+* **Adapters**: utilização para testes com métodos estáticos e códigos legados.
 
 * **Test Double**: isolação de funcionalidades com dependência externa, assim avaliando as características de estado e comportamento do objeto:
   * *Dummy*: *em edição*
