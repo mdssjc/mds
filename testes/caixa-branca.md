@@ -24,28 +24,6 @@ As [ferramentas](ferramentas.md) mais utilizadas são:
 
 ---
 
-## Documentação
-Os testes formam a documentação viva do código, em que são de extrema importância seus identificadores (nomes dos testes) serem pensadas em nível sintático (relação entre os termos) e semântico (sentido de ideias) com o que será testado, tais como:
-
-* **action**: usa uma ação do cenário de teste, ex: *adicionaUmUsuario*.
-
-* **given-when-then**: relaciona o contexto, ação e resultado, ex: *dadoXQuandoAcontecerYEntaoFacaZ*.
-
-Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - uma dica é utilizar *underscore* sobre o *camel case*:
-
-```requisitarUmaMensagemComRepositorioVazio``` para ```requisitar_uma_mensagem_com_repositorio_vazio```
-
-### Casos de Testes
-Os seguintes identificadores são utilizados para os casos de testes:
-
-**NameTest**: testes unitário;
-
-**NameIntegrationTest**: testes de integração; e
-
-**NameSystemTest**: testes de sistema (ver [Caixa Preta](caixa_preta.md)).
-
----
-
 ## O Teste
 Os testes são organizadas em quatro (4) fases/etapas - pensando na sigla AAA(A), sendo:
 * **setup**: *em edição*
@@ -58,6 +36,26 @@ As tecnologias de desenvolvimento possuem elementos mínimos para testes, sendo:
 * **Java**: Classes;
 * **Lisp**: Funções, Comandos e Macros; e
 * **C**: Funções.
+
+### Documentação
+Os testes formam a documentação viva do código, em que são de extrema importância seus identificadores (nomes dos testes) serem pensadas em nível sintático (relação entre os termos) e semântico (sentido de ideias) com o que será testado, tais como:
+
+* **action**: usa uma ação do cenário de teste, ex: *adicionaUmUsuario*.
+
+* **given-when-then**: relaciona o contexto, ação e resultado, ex: *dadoXQuandoAcontecerYEntaoFacaZ*.
+
+Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - uma dica é utilizar *underscore* sobre o *camel case*:
+
+```requisitarUmaMensagemComRepositorioVazio``` para ```requisitar_uma_mensagem_com_repositorio_vazio```
+
+#### Convenções
+Os seguintes identificadores são utilizados para os casos de testes:
+
+**NameTest**: testes unitário;
+
+**NameIntegrationTest**: testes de integração; e
+
+**NameSystemTest**: testes de sistema (ver [Caixa Preta](caixa_preta.md)).
 
 ---
 
