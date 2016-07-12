@@ -15,8 +15,6 @@ As [ferramentas](ferramentas.md) mais utilizadas são:
 * Web Selenium
 * Rest-Assured
 
----
-
 ## Boas Práticas
 
 * **Page Object:** abstrair os detalhes de estruturamento da página \(DOM\) em objetos simples \(Navegação e Formulário\).
