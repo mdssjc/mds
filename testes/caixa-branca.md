@@ -50,7 +50,7 @@ Os seguintes identificadores são utilizados para os:
 
 * Testes:
 
-  * **Action**: usa uma ação avaliável do cenário de teste, ex: _adicionaUmUsuario_; e
+  * **Action**: usa uma ação avaliável do cenário de teste, ex: _adicionaUmUsuarioEmUmaListaVazia_; e
   * **Given-When-Then**: relaciona o contexto, ação e resultado do cenário do teste, ex: _dadoXQuandoAcontecerYEntaoFacaZ_.
 
 
