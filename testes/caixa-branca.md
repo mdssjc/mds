@@ -6,9 +6,9 @@ Na etapa de Codificação, os testes de caixa branca auxília em:
 
 * **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\): empregra os testes como a _principal ferramenta de codificação_, antes mesmo do código de produção, através do seu ciclo:
 
-  * Red: o teste representa cada incremento do requisito;
-  * Green: o teste guia a implementação do código; e
-  * Refactor: os testes mantém a integridade do código.
+  * _Red_: o teste representa cada incremento do requisito;
+  * _Green_: o teste guia a implementação do código; e
+  * _Refactor_: os testes mantém a integridade do código.
 
 * **Integração Contínua** - _Continuous Integration_ \(CI\): auxilia na execução automática e avaliativa dos testes; e
 
