@@ -166,7 +166,7 @@ EAM _em edição_
   * _Mocks_: _em edição_
   * _Spy_: _em edição_
 
-* **Verificar DAO**: utilizando testes de integração com a camada de infraestrutura.
+* **Infraestrutura**: a camada de infraestrututra \(_DAO_, _Messages_...\) é testada com testes de integração.
 
 * **Execute Around Method**: utilização para testes com avaliação de exceção.
 
