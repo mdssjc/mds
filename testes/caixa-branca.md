@@ -146,8 +146,6 @@ EAM _em edição_
   **T**ime: com as temporizações corretas \(sincronização, tempo, eventos, referência e etc...\)?
 
 
----
-
 ## Boas Práticas
 
 * **Identificação**: ver Documentação.
