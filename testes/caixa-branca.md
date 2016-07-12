@@ -10,10 +10,11 @@ Na etapa de Codificação, os testes de caixa branca auxília em:
   * _Green_: o teste guia a implementação do código; e
   * _Refactor_: os testes mantém a integridade do código.
 
-* **Integração Contínua** - _Continuous Integration_ \(CI\): auxilia na execução automática e avaliativa dos testes; e
+* **Integração Contínua** - _Continuous Integration_ \(CI\): auxilia na execução automática e avaliativa dos testes;
 
-* **Testes de Regressão**: auxilia na validação do código novo e\/ou alterado.
+* **Testes de Regressão**: auxilia na validação do código novo e\/ou alterado; e
 
+* **Cobertura de Testes**: _em edição_.
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ \(SRP\) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas \(_Tell, Don't Ask_\) sem o encadeamento de mensagens \(_Law of Demeter_\), a proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
