@@ -68,7 +68,7 @@ Os excessos no código de teste \(padrões de _feedback_\):
 * dublês das colaboradoras: alto acoplamento; e
 * avalição em colaboradoras: encapsulamento.
 
-Complexidade ciclomática: métrica das ramificações existentes em uma unidade de programação, quanto maior o número, mais complexo e díficil de ser testado será o _software_.
+Complexidade ciclomática: métrica das ramificações existentes em uma unidade de programação, quanto maior o número, mais complexo e díficil de ser testado será o _software_ \(mais informações em [Medindo a complexidade do seu código](http://blog.caelum.com.br/medindo-a-complexidade-do-seu-codigo/ "Medindo a complexidade do seu código")\).
 
 ### Ferramentas
 
