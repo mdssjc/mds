@@ -150,7 +150,7 @@ EAM _em edição_
 
 * **Identificação**: ver Documentação.
 
-* **Baby Steps**: começando pelo cenário de teste mais simples em pequenos incrementos, assim ganhando confiança.
+* **Baby Steps**: começando pelo cenário de teste mais simples em pequenos incrementos, assim ganhando confiança e conhecimento do sistema.
 
 * **Test Data Builders**: utilização do padrão de projeto \(GoF\) _Builder_ para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
 
