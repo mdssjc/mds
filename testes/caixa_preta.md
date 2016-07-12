@@ -21,5 +21,7 @@ As [ferramentas](ferramentas.md) mais utilizadas são:
 
 ## Boas Práticas
 
+* **Builders**: utilização do padrão de projeto \(GoF\) _Builder_ para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código. 
+
 * **Page Object:** abstrair os detalhes de estruturamento da página \(DOM\) em objetos simples \(Navegação e Formulário\) no _framework Selenium_.
 
