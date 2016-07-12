@@ -5,12 +5,14 @@ A técnica de **teste de caixa branca** \(_white-box testing_\) tem como objetiv
 Na etapa de Codificação, os testes de caixa branca auxília em:
 
 * **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\): empregra os testes como a _principal ferramenta de codificação_, antes mesmo do código de produção, através do seu ciclo:
+
   * Red: o teste representa cada incremento do requisito;
   * Green: o teste guia a implementação do código; e
   * Refactor: os testes mantém a integridade do código.
 
 * **Integração Contínua** - _Continuous Integration_ \(CI\): auxilia na execução automática e avaliativa dos testes; e
-* **Testes de Regressão**: _em edição_.
+
+* **Testes de Regressão**: auxilia na validação do código novo e\/ou alterado.
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ \(SRP\) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas \(_Tell, Don't Ask_\) sem o encadeamento de mensagens \(_Law of Demeter_\), a proposta básica é que cada **Classe de Equivalência** deve possuir um cenário de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
@@ -40,11 +42,13 @@ Os testes formam a documentação viva do código, em que são de extrema import
 Os seguintes identificadores são utilizados para os:
 
 * Casos de Testes:
+
   * **NameTest**: testes unitário;
   * **NameIntegrationTest**: testes de integração; e
   * **NameSystemTest**: testes de sistema \(ver [Caixa Preta](caixa_preta.md)\).
 
 * Testes:
+
   * **Action**: usa uma ação avaliável do cenário de teste, ex: _adicionaUmUsuario_; e
   * **Given-When-Then**: relaciona o contexto, ação e resultado do cenário do teste, ex: _dadoXQuandoAcontecerYEntaoFacaZ_.
 
@@ -88,7 +92,7 @@ EAM _em edição_
 
 ### O que pensar?
 
-* **AAA****\[****A\]** - organização e formatação dos testes:
+* **AAA\*\***\[**\*\*A\]** - organização e formatação dos testes:
 
   **A**rrange: monta\/organiza o cenário do código com todas as entradas e pré-condições necessárias ao teste;
 
