@@ -62,7 +62,7 @@ Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - u
 
 ### Feedbacks
 
-Os excessos no código de teste \(padrões de _feedback_\):
+Os excessos no código de teste \(padrões de _feedback_\) diz o quanto estável é a unidade de programação:
 
 * exercícios das responsabilidades: baixa coesão;
 * dublês das colaboradoras: alto acoplamento; e
