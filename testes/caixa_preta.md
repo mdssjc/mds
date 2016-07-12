@@ -7,6 +7,10 @@ A técnica de **teste de caixa preta** \(_black-box testing_\) tem como objetivo
 
 BDD: _em edição_.
 
+## O Teste
+
+### Ferramentas
+
 As [ferramentas](ferramentas.md) mais utilizadas são:
 
 * JUnit
