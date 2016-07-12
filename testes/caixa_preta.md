@@ -21,5 +21,5 @@ As [ferramentas](ferramentas.md) mais utilizadas são:
 
 ## Boas Práticas
 
-* **Page Object:** abstrair os detalhes de estruturamento da página \(DOM\) em objetos simples \(Navegação e Formulário\).
+* **Page Object:** abstrair os detalhes de estruturamento da página \(DOM\) em objetos simples \(Navegação e Formulário\) no _framework Selenium_.
 
