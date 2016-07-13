@@ -20,8 +20,8 @@ Alguns _plugins_ recomendados:
 * **Vrapper**: o poder do _VIM_ no _Eclipse_.
 * Eclim: integração _Emacs\/Vim_ com _Eclipse_.
 * AnyEdit: funções para automação de formatação na codificação.
-
 * Pitclipse: _em edição_.
+
 
 _Observação: com a nova versão do Eclipse em estudo será possível determinar quais plugins são necessários._
 
