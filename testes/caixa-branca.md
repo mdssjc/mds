@@ -21,6 +21,8 @@ Na etapa de Codificação, os testes de caixa branca auxília em:
 
 ## O Teste
 
+O teste utiliza um cenário \(requisito\) para composição de um conjunto de casos de teste, assim garantindo a estrutura dos elemento de programação.
+
 Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na sigla **AAA\(A\)**, sendo:
 
 * **setup**: construção e configuração;
