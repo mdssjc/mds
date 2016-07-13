@@ -23,10 +23,10 @@ Na etapa de Codificação, os testes de caixa branca auxília em:
 
 Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na sigla **AAA\(A\)**, sendo:
 
-* **setup**: construção do caso de teste;
-* **exercise**: execução da funcionalidade do caso de teste;
-* **verify**: avaliação dos estados e comportamentos do caso de teste; e
-* **teardown**: liberação dos recursos utilizados pelo caso de teste.
+* **setup**: construção e configuração;
+* **exercise**: execução das funcionalidades do código;
+* **verify**: avaliação dos estados e comportamentos do código; e
+* **teardown**: liberação dos recursos utilizados pelo código.
 
 ### O Que Testar?
 
