@@ -1,33 +1,43 @@
 # Ferramentas
+
 As ferramentas para colaboração das atividades de testes:
 
 ## Sintaxe
-* assert (avaliação de sanidade em código Java)
+
+* assert \(avaliação de sanidade em código Java\)
 
 ```
 assert(dados > 0) : "précondição inválida";
 ```
 
 ## Base
-* **JUnit** (base dos testes): principal *framework* de testes para a tecnologia *Java*.
+
+* **JUnit** \(base dos testes\): principal _framework_ de testes para a tecnologia _Java_.
 
 ### Expressividade
-* Hamcrest (expressividade na avaliação do código)
-* Infinitest (automação da execução dos testes no cliente)
+
+* **Hamcrest** \(expressividade na avaliação do código\): _API_ de extensão do _JUnit_ com diversas funcionalidades escritas de forma expressiva.
+* **Infinitest** \(automação da execução dos testes no cliente\): _plugin_ do _Eclipse_ para automação da execução dos testes do _JUnit_.
 
 ### Mock
+
 Testes com objetos dublê:
+
 * Mockito
 * EasyMock
 * jMock
 
 ### BDD
+
 * Cucumber
 * jBehave
 
 ## Desempenho
-* JMeter (análise de desempenho)
+
+* JMeter \(análise de desempenho\)
 
 ## Serviços
-* Web Selenium (navegador Web)
-* REST - Rest-Assured (serviços REST)
+
+* Web Selenium \(navegador Web\)
+* REST - Rest-Assured \(serviços REST\)
+
