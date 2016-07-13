@@ -16,7 +16,7 @@ assert(dados > 0) : "précondição inválida";
 
 ### Expressividade
 
-* **Hamcrest** \(expressividade na avaliação do código\): _API_ de extensão do _JUnit_ com diversas funcionalidades escritas de forma expressiva.
+* **Hamcrest** \(expressividade na avaliação do código\): _API_ de extensão do _JUnit_ com diversas funcionalidades escritas de forma expressiva em código e mensagem.
 * **Infinitest** \(automação da execução dos testes no cliente\): _plugin_ do _Eclipse_ para automação da execução dos testes do _JUnit_.
 
 ### Mock
