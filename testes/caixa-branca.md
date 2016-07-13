@@ -156,6 +156,7 @@ EAM _em edição_
 
 * **Identificação**: ver Documentação.
 
+* **Refatoração**: importante até mesmo para o código de teste.
 * **Baby Steps**: começando pelo cenário de teste mais simples em pequenos incrementos, assim ganhando confiança e conhecimento do sistema.
 
 * **Test Data Builders**: utilização do padrão de projeto \(GoF\) _Builder_ para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
