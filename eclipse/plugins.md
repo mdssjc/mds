@@ -1,20 +1,27 @@
 # Plugins
-Alguns *plugins* recomendados:
+
+Alguns _plugins_ recomendados:
 
 **Análise de Código**
-* **Findbugs**: verificação dos *bytecode*.
+
+* **Findbugs**: verificação dos _bytecode_.
 * **Checkstyle**: verificação do código fonte.
 * **PMD**: verificação do código em geral.
 * SonarLint: análise de código.
-* **EclEmma/ECobertura**: *code coverage* dos testes.
+* **EclEmma\/ECobertura**: _code coverage_ dos testes.
 
 **Análise de Bytecode**
-* Dr. Garbage Tools: ferramentas para análise de *bytecode*. (não compatível com *Neon*)
+
+* Dr. Garbage Tools: ferramentas para análise de _bytecode_. \(não compatível com _Neon_\)
 * Checker Framework: verificação de pontos críticos.
 
 **Ferramentas**
-* **Vrapper**: o poder do *VIM* no *Eclipse*.
-* Eclim: integração *Emacs/Vim* com *Eclipse*.
+
+* **Vrapper**: o poder do _VIM_ no _Eclipse_.
+* Eclim: integração _Emacs\/Vim_ com _Eclipse_.
 * AnyEdit: funções para automação de formatação na codificação.
 
-*Observação: com a nova versão do Eclipse em estudo será possível determinar quais plugins são necessários.*
+* Pitclipse: _em edição_.
+
+_Observação: com a nova versão do Eclipse em estudo será possível determinar quais plugins são necessários._
+
