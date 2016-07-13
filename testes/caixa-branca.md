@@ -18,11 +18,12 @@ Na etapa de Codificação, os testes de caixa branca auxília nas práticas do _
 
 * **Refatoração**: auxilia na verificação da funcionaliadade do código, antes e depois da modificação.
 
+
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ \(SRP\) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas \(_Tell, Don't Ask_\) sem o encadeamento de mensagens \(_Law of Demeter_\), a proposta básica é que cada **Classe de Equivalência** deve possuir um caso de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
 ## O Teste
 
-O teste utiliza um cenário \(requisito\) para composição de um conjunto de casos de teste durante a etapa de Codificação, assim garantindo a estrutura dos elemento de programação.
+O teste utiliza um cenário \(requisito\) para composição de um conjunto de casos de teste durante a etapa de Codificação, assim garantindo a estrutura dos elementos de programação.
 
 Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na sigla **AAA\(A\)**, sendo:
 
