@@ -2,7 +2,7 @@
 
 A técnica de **teste de caixa branca** \(_white-box testing_\) tem como objetivo avaliar a estrutura interna dos elementos de programação _\(técnica estrutural\)_ durante a etapa de Codificação nas fases de **testes unitários** \(_unit testing_\) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código \(estrutura interna do programa\) e\/ou **testes de integração ou componentes** \(_integration testing or component testing_\) - responsáveis por avaliar a comunicação entre objetos e recursos, principalmente a camada de infraestrutura e código de terceiros.
 
-Na etapa de Codificação, os testes de caixa branca auxília em:
+Na etapa de Codificação, os testes de caixa branca auxília nas práticas do _Extrema Programming_ \(XP\):
 
 * **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\): empregra os testes como a _principal ferramenta de codificação_, antes mesmo do código de produção, através do seu ciclo:
 
@@ -157,6 +157,7 @@ EAM _em edição_
 * **Identificação**: ver Documentação.
 
 * **Refatoração**: importante até mesmo para o código de teste.
+
 * **Baby Steps**: começando pelo cenário de teste mais simples em pequenos incrementos, assim ganhando confiança e conhecimento do sistema.
 
 * **Test Data Builders**: utilização do padrão de projeto \(GoF\) _Builder_ para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
