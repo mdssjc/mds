@@ -97,7 +97,7 @@ EAM _em edição_
 
 ### O que pensar?
 
-* **AAA**\[**A\]** - organização e formatação dos testes:
+* **AAA\[A\]** - organização e formatação dos casos de teste:
 
   **A**rrange: monta\/organiza o cenário do código com todas as entradas e pré-condições necessárias ao teste;
 
