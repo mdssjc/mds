@@ -21,7 +21,7 @@ Na etapa de Codificação, os testes de caixa branca auxília em:
 
 ## O Teste
 
-Os testes são organizadas em quatro \(4\) fases\/etapas - pensando na sigla **AAA\(A\)**, sendo:
+Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na sigla **AAA\(A\)**, sendo:
 
 * **setup**: construção do caso de teste;
 * **exercise**: execução da funcionalidade do caso de teste;
