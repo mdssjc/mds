@@ -25,7 +25,7 @@ O teste utiliza um cenário \(requisito\) para composição de um conjunto de ca
 
 Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na sigla **AAA\(A\)**, sendo:
 
-* **setup**: construção e configuração;
+* **setup**: construção e configuração dos estados \(entradas, condições e limites\) requeridos pelo caso de teste;
 * **exercise**: execução das funcionalidades do código sobre teste;
 * **verify**: avaliação dos estados e comportamentos do código, comparando os resultados obtidos com os esperados; e
 * **teardown**: liberação dos recursos utilizados pelo código.
@@ -101,7 +101,7 @@ EAM _em edição_
 
 * **AAA\[A\]** - organização e formatação dos casos de teste:
 
-  **A**rrange: monta\/organiza o cenário do código com todas as entradas e pré-condições necessárias ao teste;
+  **A**rrange: monta\/organiza o código com todas as entradas e pré-condições necessárias ao teste;
 
   **A**ct: exercita\/executa o código sobre teste;
 
