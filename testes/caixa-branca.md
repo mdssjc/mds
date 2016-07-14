@@ -168,11 +168,11 @@ EAM _em edição_
 
 * **Test Double**: isolação de funcionalidades com dependência externa, assim avaliando as características de estado e comportamento do objeto:
 
-  * _Dummy_: _em edição_
-  * _Fake_: _em edição_
-  * _Stubs_: _em edição_
-  * _Mocks_: _em edição_
-  * _Spy_: _em edição_
+  * _Dummy_: _em edição_.
+  * _Fake_: _em edição_.
+  * _Stubs_: _em edição_.
+  * _Mocks_: _em edição_.
+  * _Spy_: _em edição_.
 
 * **Infraestrutura**: a camada de infraestrututra \(_DAO_, _Messages_...\) é testada com testes de integração.
 
@@ -196,7 +196,5 @@ EAM _em edição_
 * **Misleading Organization** \(Organização Enganosa\): _em edição_;
 
 * **Implicit Meaning** \(Significado Implícito\): _em edição_;
-
-
 
 
