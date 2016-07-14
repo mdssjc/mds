@@ -181,5 +181,22 @@ EAM _em edição_
 
 ### Test Smell
 
-_em edição_
+* **Unnecessary Test Code** \(Código de Teste Desnecessário\): _em edição_;
+
+* **Missing Abstractions** \(Falta de Abstração\): _em edição_;
+
+* **Irrelevant Information** \(Informação Irrelevante\): _em edição_;
+
+* **Bloated Construction** \(Construção Inchada\): _em edição_;
+
+* **Multiple Assertions** \(Múltiplas Avaliações\): _em edição_;
+
+* **Irrelevant Details in Test** \(Detalhes Irrelevante no Teste\): _em edição_;
+
+* **Misleading Organization** \(Organização Enganosa\): _em edição_;
+
+* **Implicit Meaning** \(Significado Implícito\): _em edição_;
+
+
+
 
