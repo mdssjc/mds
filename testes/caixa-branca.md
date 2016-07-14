@@ -131,7 +131,7 @@ EAM _em edição_
 
   **I**nverse: os relacionamentos inversos \(operações inversas\) estão sendo utilizadas?;
 
-  **C**ross-Check: as checagens cruzadas com outros métodos de mesmo significado estão sendo utilizadas?;
+  **C**ross-Check: uso de checagem cruzada com outros métodos de mesmo significado estão sendo utilizadas?;
 
   **E**rror Conditions: as condições de erros estão sendo forçadas?;
 
