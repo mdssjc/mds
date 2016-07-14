@@ -119,7 +119,7 @@ EAM _em edição_
 
   **R**epeatable: possui repetibilidade em qualquer ordem e tempo;
 
-  **S**elf-validating: automação em sua execução e avaliação;
+  **S**elf-validating: testes autoavaliáveis, automação em sua execução e avaliação;
 
   **T**imely: em momento oportuno, escreva os testes antes do código.
 
