@@ -181,7 +181,7 @@ EAM _em edição_
 
 ### Test Smell
 
-* **Unnecessary Test Code** \(Código de Teste Desnecessário\): _em edição_;
+* **Unnecessary Test Code** \(Código de Teste Desnecessário\): o caso de teste é construpido com código em excesso, sem significado ao teste;
 
 * **Missing Abstractions** \(Falta de Abstração\): _em edição_;
 
