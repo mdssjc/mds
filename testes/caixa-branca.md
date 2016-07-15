@@ -185,7 +185,7 @@ EAM _em edição_
 
 * **Missing Abstractions** \(Falta de Abstração\): exagero e preciosismo nos detalhes sobre a avaliação do teste;
 
-* **Irrelevant Information** \(Informação Irrelevante\): _em edição_;
+* **Irrelevant Information** \(Informação Irrelevante\): utilização de dados irrelevantes ao teste, tais como literais e sentinelas;
 
 * **Bloated Construction** \(Construção Inchada\): _em edição_;
 
