@@ -189,7 +189,7 @@ EAM _em edição_
 
 * **Bloated Construction** \(Construção Inchada\): complexidade na montagem do teste;
 
-* **Multiple Assertions** \(Múltiplas Avaliações\): _em edição_;
+* **Multiple Assertions** \(Múltiplas Avaliações\): excesso de responsabilidades no teste;
 
 * **Irrelevant Details in Test** \(Detalhes Irrelevante no Teste\): _em edição_;
 
