@@ -195,6 +195,6 @@ EAM _em edição_
 
 * **Misleading Organization** \(Organização Enganosa\): falta de organização no código de teste, por não responder a questão _AAA_;
 
-* **Implicit Meaning** \(Significado Implícito\): _em edição_;
+* **Implicit Meaning** \(Significado Implícito\): excesso de dados e informações ao teste;
 
 
