@@ -191,7 +191,7 @@ EAM _em edição_
 
 * **Multiple Assertions** \(Múltiplas Avaliações\): excesso de responsabilidades no teste;
 
-* **Irrelevant Details in Test** \(Detalhes Irrelevante no Teste\): _em edição_;
+* **Irrelevant Details in Test** \(Detalhes Irrelevante no Teste\): uso de recursos desnecessários ao teste, tais como serviços transversais de segurança, _logging_ e etc...;
 
 * **Misleading Organization** \(Organização Enganosa\): _em edição_;
 
