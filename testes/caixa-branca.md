@@ -193,7 +193,7 @@ EAM _em edição_
 
 * **Irrelevant Details in Test** \(Detalhes Irrelevante no Teste\): uso de recursos desnecessários ao teste, tais como serviços transversais de segurança, _logging_ e etc...;
 
-* **Misleading Organization** \(Organização Enganosa\): _em edição_;
+* **Misleading Organization** \(Organização Enganosa\): falta de organização no código de teste, por não responder a questão _AAA_;
 
 * **Implicit Meaning** \(Significado Implícito\): _em edição_;
 
