@@ -6,6 +6,8 @@
 
 As a &lt; type of user &gt;, I want &lt; some goal &gt; so that &lt; some reason &gt;.
 
+Given When Then
+
 ## Análise
 
 ## Projeto
