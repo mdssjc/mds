@@ -14,7 +14,7 @@ As a &lt; type of user &gt;, I want &lt; some goal &gt; so that &lt; some reason
 
 ### GRASP
 
-General Responsibility Assignment Software Patterns
+General Responsibility Assignment Software Patterns, composto por 9 padrões:
 
 * Low Coupling
 
