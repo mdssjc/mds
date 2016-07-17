@@ -16,6 +16,8 @@ Given When Then
 
 ## Padrões
 
+### POSA
+
 ### GoF
 
 ### SOLID
