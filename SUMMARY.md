@@ -12,5 +12,5 @@
     * [Variáveis](metodologia_cientifica/variaveis.md)
 * [Eclipse](eclipse/README.md)
     * [Plugins](eclipse/plugins.md)
-* Referências
+* [Referências](referências.md)
 
