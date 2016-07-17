@@ -20,7 +20,7 @@ Given When Then
 
 ### GRASP
 
-General Responsibility Assignment Software Patterns apresentado no livro _Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development_ \(_3rd Edition_\) do autor _Craig Larman_, composto por 9 princípios:
+O acrônimo _GRASP_ - General Responsibility Assignment Software Patterns apresentado no livro _Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development_ \(_3rd Edition_\) do autor _Craig Larman_, composto por 9 princípios:
 
 * Low Coupling
 
