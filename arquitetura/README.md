@@ -31,6 +31,8 @@ O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principle
 
 * **Princípio de Substituição de Liskov** - _Liskov Substitution Principle_ \(_LSP_\);
 
+* **Princípio da Inversão de Dependência** - _Dependency Inversion Principle_ \(_DIP_\);
+
 ### GRASP
 
 O acrônimo _GRASP_ - General Responsibility Assignment Software Patterns apresentado no livro _Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development_ \(_3rd Edition_\) do autor _Craig Larman_, composto por 9 princípios:
