@@ -29,7 +29,9 @@ O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principle
 * **Princípio do Aberto-Fechado** - _Open-Closed Principle_ \(_OCP_\) por _Bertrand Meyer_;
 
 
-* **Princípio de Substituição de Liskov** - _Liskov Substitution Principle_ \(_LSP_\);
+* **Princípio de Substituição de Liskov** - _Liskov Substitution Principle_ \(_LSP_\) por _Barbara Liskov_ em
+
+  1988;
 
 * **Princípio da Inversão de Dependência** - _Dependency Inversion Principle_ \(_DIP_\); e
 
