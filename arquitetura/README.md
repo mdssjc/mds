@@ -24,7 +24,7 @@ Given When Then
 
 O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ \(_Uncle Bob_\), composto por 5 princípios:
 
-* **Princípio da Responsabilidade Única** - _Single-Responsibility Principle_ \(_SRP_\);
+* **Princípio da Responsabilidade Única** - _Single-Responsibility Principle_ \(_SRP_\) por _RobertMartin_;
 
 * **Princípio do Aberto-Fechado** - _Open-Closed Principle_ \(_OCP_\) por _Bertrand Meyer_;
 
