@@ -26,6 +26,8 @@ O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principle
 
 * **Princípio da Responsabilidade Única** - _Single-Responsibility Principle_ \(_SRP_\);
 
+* ** Princípio do Aberto-Fechado** - _Open-Closed Principle_ \(_OCP_\);
+
 ### GRASP
 
 O acrônimo _GRASP_ - General Responsibility Assignment Software Patterns apresentado no livro _Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development_ \(_3rd Edition_\) do autor _Craig Larman_, composto por 9 princípios:
