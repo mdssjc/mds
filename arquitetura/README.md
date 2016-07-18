@@ -24,6 +24,8 @@ Given When Then
 
 O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ \(_Uncle Bob_\), composto por 5 princípios:
 
+* **Princípio da Responsabilidade Única** - _Single-Responsibility Principle_ \(_SRP_\);
+
 ### GRASP
 
 O acrônimo _GRASP_ - General Responsibility Assignment Software Patterns apresentado no livro _Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development_ \(_3rd Edition_\) do autor _Craig Larman_, composto por 9 princípios:
