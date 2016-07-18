@@ -26,7 +26,10 @@ O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principle
 
 * **Princípio da Responsabilidade Única** - _Single-Responsibility Principle_ \(_SRP_\);
 
-* ** Princípio do Aberto-Fechado** - _Open-Closed Principle_ \(_OCP_\);
+* **Princípio do Aberto-Fechado** - _Open-Closed Principle_ \(_OCP_\);
+
+
+* **Princípio de Substituição de Liskov** - _Liskov Substitution Principle_ \(_LSP_\);
 
 ### GRASP
 
