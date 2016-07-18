@@ -31,7 +31,10 @@ O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principle
 
 * **Princípio de Substituição de Liskov** - _Liskov Substitution Principle_ \(_LSP_\);
 
-* **Princípio da Inversão de Dependência** - _Dependency Inversion Principle_ \(_DIP_\);
+* **Princípio da Inversão de Dependência** - _Dependency Inversion Principle_ \(_DIP_\); e
+
+
+*  **Princípio da Segregação de Interfaces** - _Interface Segregation Principle_ \(_ISP_\).
 
 ### GRASP
 
