@@ -33,10 +33,11 @@ O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principle
 
   1988;
 
-* **Princípio da Inversão de Dependência** - _Dependency Inversion Principle_ \(_DIP_\); e
 
+* **Princípio da Segregação de Interfaces** - _Interface Segregation Principle_ \(_ISP_\); e
 
-* **Princípio da Segregação de Interfaces** - _Interface Segregation Principle_ \(_ISP_\).
+* **Princípio da Inversão de Dependência** - _Dependency Inversion Principle_ \(_DIP_\);
+
 
 ### GRASP
 
