@@ -31,7 +31,7 @@ O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principle
 
 * **Princípio de Substituição de Liskov** - _Liskov Substitution Principle_ \(_LSP_\) por _Barbara Liskov_ em
 
-  1988;
+  1988: os subtipos devem ser substituidos por seus tipos base;
 
 
 * **Princípio da Segregação de Interfaces** - _Interface Segregation Principle_ \(_ISP_\); e
