@@ -36,7 +36,7 @@ O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principle
 
 * **Princípio da Segregação de Interfaces** - _Interface Segregation Principle_ \(_ISP_\): os clientes não devem serem forçados a dependerem de métodos que não usam; e
 
-* **Princípio da Inversão de Dependência** - _Dependency Inversion Principle_ \(_DIP_\);
+* **Princípio da Inversão de Dependência** - _Dependency Inversion Principle_ \(_DIP_\): os módulos de alto nível não devem depender de módulos de baixo nível, ambos devem depender de abstrações;
 
 
 ### GRASP
