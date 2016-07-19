@@ -34,7 +34,7 @@ O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principle
   1988: os subtipos devem ser substituidos por seus tipos base;
 
 
-* **Princípio da Segregação de Interfaces** - _Interface Segregation Principle_ \(_ISP_\); e
+* **Princípio da Segregação de Interfaces** - _Interface Segregation Principle_ \(_ISP_\): clientes não devem serem forçados a dependerem de métodos que não usam; e
 
 * **Princípio da Inversão de Dependência** - _Dependency Inversion Principle_ \(_DIP_\);
 
