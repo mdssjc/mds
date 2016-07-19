@@ -29,9 +29,8 @@ O modelo de gerenciamento de ideias 5W2H tem como objetivo em responder 7 pergun
 
 ## Técnicas
 
-* **Listagem**: _em edição_
+* **Listagem**: itens categorizados com as necessidades do sistema.
 
-* **Descrição**: _em edição_
-
+* **Descrição**: texto em alto nível com as características do sistema.
 
 
