@@ -34,9 +34,4 @@ O modelo de gerenciamento de ideias 5W2H tem como objetivo em responder 7 pergun
 * **Descrição**: _em edição_
 
 
-## Modelagem
-
-### User Story
-
-As a &lt; type of user &gt;, I want &lt; some goal &gt; so that &lt; some reason &gt;.
 
