@@ -12,7 +12,11 @@ Given When Then
 
 ## Análise
 
+O que fazer para solucionar o problema?
+
 ## Projeto
+
+Como fazer para solucionar o problema?
 
 ## Padrões
 
