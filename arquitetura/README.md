@@ -26,7 +26,7 @@ O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principle
 
 * **Princípio da Responsabilidade Única** - _Single Responsibility Principle_ \(_SRP_\) por _Robert C. Martin_: Classes devem ter apenas uma razão para mudar, mantenha sua coesão alta;
 
-* **Princípio do Aberto-Fechado** - _Open-Closed Principle_ \(_OCP_\) por _Bertrand Meyer_;
+* **Princípio do Aberto-Fechado** - _Open-Closed Principle_ \(_OCP_\) por _Bertrand Meyer_: Projete classes para serem abertas para extensão mas fechadas para modificações, minimize as necessidades para fazer mudanças para classes existentes;
 
 
 * **Princípio de Substituição de Liskov** - _Liskov Substitution Principle_ \(_LSP_\) por _Barbara Liskov_ em
