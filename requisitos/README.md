@@ -12,7 +12,7 @@ Requisitos do Usuário: _em edição_
 
 Requisitos do Sistema: _em edição_
 
-Modelagem dos Requisitos: _em edição_
+Modelagem dos Requisitos: comunicação com a Arquitetura do _Software_.
 
 ## 5W2H
 
