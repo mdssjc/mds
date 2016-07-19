@@ -8,9 +8,9 @@ O Requisito é uma necessidade específica, na qual detalha o que um particular 
 
 ## Fases
 
-Requisitos do Usuário: _em edição_
+Requisitos do Usuário: a descrição do problema do cliente.
 
-Requisitos do Sistema: _em edição_
+Requisitos do Sistema: a consolidação entre cliente e desenvolvedores.
 
 Modelagem dos Requisitos: comunicação com a Arquitetura do _Software_.
 
