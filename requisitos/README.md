@@ -27,6 +27,7 @@ O modelo de gerenciamento de ideias 5W2H tem como objetivo em responder 7 pergun
 * **How**: _em edição_
 * **How Much**: _em edição_
 
+Existem outras técnicas com atividades prática como o _Inception Deck_.
 ## Técnicas
 
 * **Listagem**: itens categorizados com as necessidades do sistema.
