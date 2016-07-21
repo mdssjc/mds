@@ -3,7 +3,7 @@
 * [Introdução](README.md)
 * [Requisitos](requisitos/README.md)
 * [Arquitetura](arquitetura/README.md)
-    * Cenário
+    * [Cenário](arquitetura/cenário.md)
 * [Testes](testes/README.md)
     * [Introdução](testes/introducao.md)
     * [Caixa Branca](testes/caixa-branca.md)
