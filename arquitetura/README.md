@@ -2,7 +2,7 @@
 
 ## Cenário
 
-Processo de modelagem.
+O cenário é o processo de transformação \(modelagem\) dos requisitos em soluções executáveis.
 
 ### Use Case
 
