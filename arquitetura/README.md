@@ -8,9 +8,7 @@ Processo de modelagem.
 
 ### User Story
 
-Uma pequena descrição das características do _software_.
-
-Cartão de restrição e característica.
+Uma pequena descrição das características do _software_, divididas em cartão de restrição e característica.
 
 **Cartão de Restrição:**
 
@@ -18,7 +16,11 @@ Descrição das restrições e limites do sistema.
 
 **Cartão de Característica:**
 
-As a &lt; type of user &gt;, I want &lt; some goal &gt; so that &lt; some reason &gt;.
+`As a < type of user >,`
+
+`I want < some goal >`
+
+`so that < some reason >.`
 
 Given \/ When \/ Then
 
