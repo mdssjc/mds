@@ -5,6 +5,7 @@
 * [Arquitetura](arquitetura/README.md)
     * [Cenário](arquitetura/cenário.md)
     * [Análise](arquitetura/análise.md)
+    * [Projeto](arquitetura/projeto.md)
 * [Testes](testes/README.md)
     * [Introdução](testes/introducao.md)
     * [Caixa Branca](testes/caixa-branca.md)
