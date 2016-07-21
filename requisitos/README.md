@@ -15,6 +15,13 @@ O Requisito é uma necessidade específica, na qual detalha o que um particular 
 * **Modelagem dos Requisitos**: comunicação com a Arquitetura do _Software_ através da transformação em cenário.
 
 
+## Tipos
+
+* **Funcional**: 
+
+* **Não Funcional**: 
+
+
 ## 5W2H
 
 O modelo de gerenciamento de ideias 5W2H tem como objetivo em responder 7 perguntas:
