@@ -16,11 +16,11 @@ Descrição das restrições e limites do sistema.
 
 **Cartão de Característica:**
 
-`As a < type of user >,`
+`As a < type of user >, (WHO)`
 
-`I want < some goal >`
+`I want < some goal > (WHAT)`
 
-`so that < some reason >.`
+`so that < some reason >. (WHY)`
 
 Given \/ When \/ Then
 
