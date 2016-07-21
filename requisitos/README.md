@@ -17,9 +17,9 @@ O Requisito é uma necessidade específica, na qual detalha o que um particular 
 
 ## Tipos
 
-* **Funcional**: 
+* **Funcional**: descreve as funcionalidades;
 
-* **Não Funcional**: 
+* **Não Funcional**: descreve as restrições e limites.
 
 
 ## 5W2H
