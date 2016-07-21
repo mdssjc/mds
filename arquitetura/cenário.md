@@ -4,6 +4,8 @@ O cenário é o processo de transformação \(modelagem\) dos requisitos em solu
 
 ## Use Case
 
+_em edição_
+
 ## User Story
 
 Uma pequena descrição das características do _software_, divididas em cartão de restrição e característica.
@@ -39,9 +41,15 @@ INVEST
 
 ### Master Story List
 
+_em edição_
+
 ## Features
 
+_em edição_
+
 ## What If
+
+_em edição_
 
 
 
