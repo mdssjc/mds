@@ -1,8 +1,8 @@
 # Arquitetura
 
-A arquitetura do software consiste de:
+A arquitetura do _software_ consiste de:
 
-* [**Cenário**](arquitetura/cenário.md): 
+* **[Cenário](arquitetura/cenário.md)**: 
 * **Análise**: 
 * **Projeto**: 
 
