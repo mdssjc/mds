@@ -29,7 +29,9 @@ O Requisito é uma necessidade específica, na qual detalha o que um particular 
 * **Descrição**: texto em alto nível com as características do sistema.
 
 
-## 5W2H
+## Técnicas
+
+### 5W2H
 
 O modelo de gerenciamento de ideias 5W2H tem como objetivo em responder 7 perguntas:
 
