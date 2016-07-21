@@ -1,6 +1,8 @@
 # Arquitetura
 
-## Modelagem
+## Cenário
+
+Processo de modelagem.
 
 ### Use Case
 
