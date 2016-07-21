@@ -12,7 +12,7 @@ O Requisito é uma necessidade específica, na qual detalha o que um particular 
 
 * **Requisitos do Sistema**: a consolidação entre cliente e desenvolvedores; e
 
-* **Modelagem dos Requisitos**: comunicação com a Arquitetura do _Software_.
+* **Modelagem dos Requisitos**: comunicação com a Arquitetura do _Software_ através da transformação em cenário.
 
 
 ## 5W2H
