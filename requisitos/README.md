@@ -22,7 +22,7 @@ O Requisito é uma necessidade específica, na qual detalha o que um particular 
 * **Não Funcional**: descreve as restrições e limites.
 
 
-## Técnicas
+## Artefatos
 
 * **Listagem**: itens categorizados com as necessidades do sistema.
 
@@ -42,6 +42,4 @@ O modelo de gerenciamento de ideias 5W2H tem como objetivo em responder 7 pergun
 * **How Much**: _em edição_
 
 Existem outras técnicas com atividades prática como o _Inception Deck_ \(mesmo propósito do Termo de Abertura - _Project Charter_\).
-
-
 
