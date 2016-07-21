@@ -2,7 +2,9 @@
 
 A arquitetura do software consiste de:
 
-* [Cenário](arquitetura/cenário.md): 
+* [**Cenário**](arquitetura/cenário.md): 
+* **Análise**: 
+* **Projeto**: 
 
 ## Análise
 
