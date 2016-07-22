@@ -6,7 +6,7 @@ A etapa de Requisitos é o início do projeto, na qual a equipe de desenvolvimen
 
 **Constante** = Mudanças
 
-## Conhecendo o Projeto
+## Contexto
 
 O contexto é um importante componente dos requisitos, assim imegindo no mesmo traz melhores resultados ao projeto - existem diversas técnicas específicas para sua gestão, como exemplo:
 
