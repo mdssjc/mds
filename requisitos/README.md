@@ -8,7 +8,7 @@ A etapa de Requisitos é o início do projeto, na qual a equipe de desenvolvimen
 
 ## Contexto
 
-O contexto é um importante componente dos requisitos, assim imegindo no mesmo traz melhores resultados ao projeto - existem diversas técnicas específicas para sua gestão, como exemplo:
+O contexto é um importante componente dos requisitos, assim imegindo no mesmo garante melhores resultados ao projeto - existem diversas técnicas específicas para sua gestão, como exemplo:
 
 ### 5W2H
 
