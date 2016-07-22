@@ -2,6 +2,8 @@
 
 O cenário é o processo de transformação \(modelagem\) dos requisitos em soluções executáveis.
 
+## Contexto
+
 ## Use Case
 
 _em edição_
@@ -40,6 +42,7 @@ INVEST
 
 
 A lista de atividades é reunida em uma _Master Story List_.
+
 ## Features
 
 _em edição_
