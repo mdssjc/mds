@@ -8,11 +8,11 @@ A etapa de Requisitos é o início do projeto, na qual a equipe de desenvolvimen
 
 ## Conhecendo o Projeto
 
-A primeira etapa e premissa principal é trazer o desenvolvimento \(time\/equipe\) ao projeto.
+O contexto é um importante componente dos requisitos, assim imegindo no mesmo traz melhores resultados ao projeto - existem diversas técnicas específicas para sua gestão, como exemplo:
 
 ### 5W2H
 
-O modelo de gerenciamento de ideias 5W2H tem como objetivo em responder 7 perguntas:
+O modelo de gerenciamento de ideias _5W2H_ tem como objetivo em responder 7 perguntas:
 
 * **What**: _em edição_
 * **Why**: _em edição_
