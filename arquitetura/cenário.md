@@ -39,10 +39,7 @@ INVEST
 * Testable
 
 
-### Master Story List
-
-_em edição_
-
+A lista de atividades é reunida em uma _Master Story List_.
 ## Features
 
 _em edição_
@@ -50,6 +47,4 @@ _em edição_
 ## What If
 
 _em edição_
-
-
 
