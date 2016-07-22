@@ -8,7 +8,7 @@ O Requisito é uma necessidade específica, na qual detalha o que um particular 
 
 ## Conhecendo o Projeto
 
-A premissa principal é trazer o desenvolvimento \(time\/equipe\) ao projeto.
+A primeira etapa e premissa principal é trazer o desenvolvimento \(time\/equipe\) ao projeto.
 
 ### 5W2H
 
@@ -45,6 +45,5 @@ Existem outras técnicas com atividades prática como o _Inception Deck_ \(mesmo
 * **Listagem**: itens categorizados com as necessidades do sistema.
 
 * **Descrição**: texto em alto nível com as características do sistema.
-
 
 
