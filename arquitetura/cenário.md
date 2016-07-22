@@ -28,19 +28,19 @@ Descrição das restrições e limites do sistema.
 
 Given \/ When \/ Then
 
-INVEST
+As características de um bom _User Story_ é resumida no acrônimo _INVEST_:
 
-* Independent
+* _Independent_;
 
-* Negotiable
+* _Negotiable_;
 
-* Valuable
+* _Valuable_;
 
-* Estimatable
+* _Estimatable_;
 
-* Small
+* _Small_; e
 
-* Testable
+* _Testable_.
 
 
 A lista de atividades é reunida em uma _Master Story List_.
