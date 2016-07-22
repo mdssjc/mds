@@ -4,6 +4,8 @@ O cenário é o processo de transformação \(modelagem\) dos requisitos em solu
 
 ## Contexto
 
+_em edição_
+
 ## Use Case
 
 _em edição_
