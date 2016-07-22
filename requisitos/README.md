@@ -1,6 +1,6 @@
 # Requisitos
 
-O Requisito é uma necessidade específica, na qual detalha o que um particular produto deve ser ou fazer - etapa fundamental nas disciplinas de Engenharia de Sistemas ou Engenharia de _Software_.
+A etapa de Requisitos é o início do projeto, na qual a equipe de desenvolvimento serão expostos aos problemas, esses são formados pelos requisitos em que definem uma necessidade específica, na qual detalha o que um particular produto deve ser ou fazer - etapa fundamental nas disciplinas de Engenharia de Sistemas ou Engenharia de _Software_.
 
 **Requisitos** = _Software_ + _Hardware_ + Contexto
 
