@@ -6,7 +6,23 @@ O Requisito é uma necessidade específica, na qual detalha o que um particular 
 
 **Constante** = Mudanças
 
+## Conhecendo o Projeto
+
 A premissa principal é trazer o desenvolvimento \(time\/equipe\) ao projeto.
+
+### 5W2H
+
+O modelo de gerenciamento de ideias 5W2H tem como objetivo em responder 7 perguntas:
+
+* **What**: _em edição_
+* **Why**: _em edição_
+* **Who**: _em edição_
+* **When**: _em edição_
+* **Where**: _em edição_
+* **How**: _em edição_
+* **How Much**: _em edição_
+
+Existem outras técnicas com atividades prática como o _Inception Deck_ \(mesmo propósito do Termo de Abertura - _Project Charter_\) e o _Project Model Canvas_.
 
 ## Fases
 
@@ -31,19 +47,4 @@ A premissa principal é trazer o desenvolvimento \(time\/equipe\) ao projeto.
 * **Descrição**: texto em alto nível com as características do sistema.
 
 
-## Técnicas
-
-### 5W2H
-
-O modelo de gerenciamento de ideias 5W2H tem como objetivo em responder 7 perguntas:
-
-* **What**: _em edição_
-* **Why**: _em edição_
-* **Who**: _em edição_
-* **When**: _em edição_
-* **Where**: _em edição_
-* **How**: _em edição_
-* **How Much**: _em edição_
-
-Existem outras técnicas com atividades prática como o _Inception Deck_ \(mesmo propósito do Termo de Abertura - _Project Charter_\) e o _Project Model Canvas_.
 
