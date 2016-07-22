@@ -6,6 +6,8 @@ O Requisito é uma necessidade específica, na qual detalha o que um particular 
 
 **Constante** = Mudanças
 
+A premissa principal é trazer o desenvolvimento \(time\/equipe\) ao projeto.
+
 ## Fases
 
 * **Requisitos do Usuário**: a descrição do problema do cliente;
