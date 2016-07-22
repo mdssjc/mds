@@ -2,7 +2,7 @@
 
 O Requisito é uma necessidade específica, na qual detalha o que um particular produto deve ser ou fazer - etapa fundamental nas disciplinas de Engenharia de Sistemas ou Engenharia de _Software_.
 
-**Requisitos** = _Software_ + _Harware_ + Contexto
+**Requisitos** = _Software_ + _Hardware_ + Contexto
 
 **Constante** = Mudanças
 
