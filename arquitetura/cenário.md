@@ -12,7 +12,7 @@ _em edição_
 
 ## User Story
 
-O _user story_ é uma pequena descrição das características do _software_, divididas em cartões de restrição e característica.
+O _user story_ é uma pequena descrição das características do _software_, divididas em cartões de restrição e característica, em que originam as _tasks_ e critérios de testes.
 
 **Cartão de Restrição:**
 
