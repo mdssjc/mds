@@ -2,9 +2,9 @@
 
 A arquitetura do _software_ consiste de:
 
-* [**Cenário**](arquitetura/cenário.md): Descrevendo o problema.
-* [**Análise**](arquitetura/análise.md): O que fazer para solucionar o problema? 
-* [**Projeto**](arquitetura/projeto.md): Como fazer para solucionar o problema? 
+* [**Cenário**](/arquitetura/cenario.md): Descrevendo o problema.
+* [**Análise**](/arquitetura/analise.md): O que fazer para solucionar o problema? 
+* **[Projeto](arquitetura/projeto.md)**: Como fazer para solucionar o problema? 
 
 ## Padrões
 
