@@ -20,6 +20,8 @@ Alguns _plugins_ recomendados:
 * **Vrapper**: o poder do _VIM_ no _Eclipse_.
 * **Eclim**: integração _Emacs\/Vim_ com _Eclipse_. \(não compatível com _Neon_\)
 * AnyEdit: funções para automação de formatação na codificação.
+
+**Teste**
 * **Pitclipse**: análise de cobertura com testes de mutação.
 * **Infinitest**: automação dos testes unitários no _Eclipse_.
 
