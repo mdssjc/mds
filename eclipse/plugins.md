@@ -8,7 +8,6 @@ Alguns _plugins_ recomendados:
 * **Checkstyle**: verificação do código fonte.
 * **PMD**: verificação do código em geral.
 * SonarLint: análise de código.
-* **EclEmma\/ECobertura**: _code coverage_ dos testes.
 
 **Análise de Bytecode**
 
@@ -23,10 +22,10 @@ Alguns _plugins_ recomendados:
 
 **Teste**
 
+* **EclEmma\/ECobertura**: _code coverage_ dos testes.
+
 * **Pitclipse**: análise de cobertura com testes de mutação.
 * **Infinitest**: automação dos testes unitários no _Eclipse_.
 
 _Observação: com a nova versão do Eclipse em estudo será possível determinar quais plugins são necessários._
-
-
 
