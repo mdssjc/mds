@@ -22,8 +22,11 @@ Alguns _plugins_ recomendados:
 * AnyEdit: funções para automação de formatação na codificação.
 
 **Teste**
+
 * **Pitclipse**: análise de cobertura com testes de mutação.
 * **Infinitest**: automação dos testes unitários no _Eclipse_.
 
 _Observação: com a nova versão do Eclipse em estudo será possível determinar quais plugins são necessários._
+
+
 
