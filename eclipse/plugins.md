@@ -17,11 +17,8 @@ Alguns _plugins_ recomendados:
 **Análise de Teste**
 
 * **EclEmma\/ECobertura**: _code coverage_ dos testes.
-
 * **Pitclipse**: análise de cobertura com testes de mutação.
-
 * **Infinitest**: automação dos testes unitários no _Eclipse_.
-
 
 **Ferramentas**
 
