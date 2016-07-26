@@ -2,9 +2,9 @@
 
 A arquitetura do _software_ consiste de:
 
-* [**Cenário**](/arquitetura/cenario.md): Descrevendo o problema.
-* [**Análise**](/arquitetura/analise.md): O que fazer para solucionar o problema? 
-* **[Projeto](arquitetura/projeto.md)**: Como fazer para solucionar o problema? 
+* **[Cenário](/arquitetura/cenario.md)**: Descrevendo o problema.
+* **[Análise](/arquitetura/analise.md)**: O que fazer para solucionar o problema? 
+* [**Projeto**](arquitetura/projeto.md): Como fazer para solucionar o problema? 
 
 ## Padrões
 
@@ -28,7 +28,7 @@ O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principle
 
 * **Princípio da Segregação de Interfaces** - _Interface Segregation Principle_ \(_ISP_\): os clientes não devem serem forçados a dependerem de métodos que não usam; e
 
-* **Princípio da Inversão de Dependência** - _Dependency Inversion Principle_ \(_DIP_\): os módulos de alto nível não devem depender de módulos de baixo nível, ambos devem depender de abstrações;
+* [**Princípio da Inversão de Dependência**](http://c2.com/cgi/wiki?DependencyInversionPrinciple "Dependency Inversion Principle") - _Dependency Inversion Principle_ \(_DIP_\): os módulos de alto nível não devem depender de módulos de baixo nível, ambos devem depender de abstrações;
 
 
 ### GRASP
@@ -56,5 +56,5 @@ O acrônimo _GRASP_ - General Responsibility Assignment Software Patterns aprese
 
 ### Outros
 
-* [**_DRY_**](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself") \(_Don’t Repeat Yourself_\) \/ **_WET_** \(_Write Every Time_\): princípio sobre o problema da duplicação de código.
+* _**[DRY](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself")**_ \(_Don’t Repeat Yourself_\) \/ _**WET**_ \(_Write Every Time_\): princípio sobre o problema da duplicação de código.
 
