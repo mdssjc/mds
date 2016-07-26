@@ -2,9 +2,9 @@
 
 A arquitetura do _software_ consiste de:
 
-* **[Cenário](/arquitetura/cenario.md)**: Descrevendo o problema.
-* **[Análise](/arquitetura/analise.md)**: O que fazer para solucionar o problema? 
-* [**Projeto**](arquitetura/projeto.md): Como fazer para solucionar o problema? 
+* [**Cenário**](/arquitetura/cenario.md): Descrevendo o problema.
+* [**Análise**](/arquitetura/analise.md): O que fazer para solucionar o problema? 
+* **[Projeto](arquitetura/projeto.md)**: Como fazer para solucionar o problema? 
 
 ## Padrões
 
@@ -56,6 +56,5 @@ O acrônimo _GRASP_ - General Responsibility Assignment Software Patterns aprese
 
 ### Outros
 
-* _**DRY**_ \(_Don’t Repeat Yourself_\) \/ _**WET**_ \(_Write Every Time_\): princípio sobre o problema da duplicação de código.
-
+* [**_DRY_**](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself") \(_Don’t Repeat Yourself_\) \/ **_WET_** \(_Write Every Time_\): princípio sobre o problema da duplicação de código.
 
