@@ -6,7 +6,5 @@ Refatoração
 
 TDD
 
-Integração Contínua
-
-
+**Integração Contínua** - _Continuous Integration_ \(CI\)
 
