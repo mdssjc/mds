@@ -8,11 +8,11 @@ O código é a implementação da solução do problema proposto durante a etapa
 * _Bugs_: previne e corrige os problemas.
 * _Debugging_: reduz a necessidade de uso.
 
-**Refatoração**: técnica de melhorias no código através de correções padrões de problemas \(_code smells_\):
+**Refatoração**: técnica de melhorias no código através de correções em padrões de problemas \(_code smells_\):
 
-* _[Refactoring](http://refactoring.com)_
+* [_Refactoring_](http://refactoring.com)
 
-* _[SourceMaking](https://sourcemaking.com)_
+* [_SourceMaking_](https://sourcemaking.com)
 
 
 **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\)
