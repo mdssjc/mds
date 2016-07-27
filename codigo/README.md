@@ -2,7 +2,8 @@
 
 **Testes Unitários**
 
-* Bugs: previnir e corrigir.
+* Bugs: previne e corrige os problemas.
+* Debugging: reduz a necessidade de uso.
 
 **Refatoração**
 
