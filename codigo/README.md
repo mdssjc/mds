@@ -2,7 +2,7 @@
 
 **Testes Unitários**
 
-> Bugs
+* Bugs: previnir e corrigir.
 
 **Refatoração**
 
