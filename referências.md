@@ -5,5 +5,8 @@
 * Agile Software Development - Principles, Patterns, and Practices - Robert C. Martin
 
 
+* Refactoring: Improving the Design of Existing Code - Martin Fowler
+
+* Working Effectively with Legacy Code - Michael Feathers
 
 
