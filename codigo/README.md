@@ -1,9 +1,9 @@
 # Código
 
-**Testes Unitários**
+**Testes Unitários**: execução automática de testes para apoiar a etapa de Codificação, em:
 
-* Bugs: previne e corrige os problemas.
-* Debugging: reduz a necessidade de uso.
+* _Bugs_: previne e corrige os problemas.
+* _Debugging_: reduz a necessidade de uso.
 
 **Refatoração**
 
