@@ -2,6 +2,7 @@
 
 **Testes Unitários**: \(ver [Caixa Branca](/testes/caixa_branca.md)\) execução automática de testes para apoiar a etapa de Codificação, em:
 
+* Implementação: do cenário do sistema.
 * _Bugs_: previne e corrige os problemas.
 * _Debugging_: reduz a necessidade de uso.
 
