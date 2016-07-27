@@ -2,6 +2,8 @@
 
 **Testes Unitários**
 
+> Bugs
+
 **Refatoração**
 
 **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\)
