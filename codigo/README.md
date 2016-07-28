@@ -10,8 +10,8 @@ O código é a implementação da solução do problema proposto durante a etapa
 
 **Refatoração**: técnica de melhoria no código através de correções em padrões de problemas \(_code smells_\):
 
-* _[Refactoring](http://refactoring.com)_.
-* _[SourceMaking](https://sourcemaking.com)_.
+* [_Refactoring_](http://refactoring.com).
+* [_SourceMaking_](https://sourcemaking.com).
 * Dívida Técnica \(_Technical Debt_\): complexidade acumulada no desenvolvimento.
 
 **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\): técnica na qual empregra os testes como a principal ferramenta de projeto, antes mesmo do código de produção, através do seu ciclo:
@@ -20,7 +20,5 @@ O código é a implementação da solução do problema proposto durante a etapa
 * _Green_ \(_Test Passes_\): implementação do código - fazer o teste passar; e
 * _Refactor_: melhorias nos recursos utilizados no ciclo, como código, teste, configuração e etc...
 
-**Integração Contínua** - _Continuous Integration_ \(CI\): processo de integração dos incrementos de códificação, com execução automática e avaliativa dos testes.
-
-
+**Integração Contínua** - _Continuous Integration_ \(CI\): processo de integração dos incrementos de codificação, com execução automática e avaliativa dos testes - simulando o ambiente de produção.
 
