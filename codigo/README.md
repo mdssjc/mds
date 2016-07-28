@@ -2,7 +2,7 @@
 
 O código é a implementação da solução do problema proposto durante a etapa de Codificação.
 
-**Testes Unitários** \(_Unit Testing_\): \(ver [Caixa Branca](/testes/caixa_branca.md)\) execução automática de testes para apoiar na etapa de Codificação, em:
+**Testes Unitários** - _Unit Testing_: \(ver [Caixa Branca](/testes/caixa_branca.md)\) execução automática de testes para apoiar na etapa de Codificação, em:
 
 * Implementação: das funcionalidade do cenário.
 * _Bugs_: previne e corrige os problemas.
@@ -10,8 +10,8 @@ O código é a implementação da solução do problema proposto durante a etapa
 
 **Refatoração**: técnica de melhoria no código através de correções em padrões de problemas \(_code smells_\):
 
-* [_Refactoring_](http://refactoring.com).
-* [_SourceMaking_](https://sourcemaking.com).
+* _[Refactoring](http://refactoring.com)_.
+* _[SourceMaking](https://sourcemaking.com)_.
 * Dívida Técnica \(_Technical Debt_\): complexidade acumulada no desenvolvimento.
 
 **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\): técnica na qual empregra os testes como a principal ferramenta de projeto, antes mesmo do código de produção, através do seu ciclo:
