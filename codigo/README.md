@@ -16,8 +16,8 @@ O código é a implementação da solução do problema proposto durante a etapa
 
 **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\): técnica na qual empregra os testes como a principal ferramenta de codificação, antes mesmo do código de produção, através do seu ciclo:
 
-* _Red_: exercício do código através de teste - fazer falhar, assim representando cada incremento do requisito;
-* _Green_: implementação do código - fazer o teste passar; e
+* _Red_ \(_Test Fails_\): exercício do código através de teste - fazer falhar, assim representando cada incremento do requisito;
+* _Green_ \(_Test Passes_\): implementação do código - fazer o teste passar; e
 * _Refactor_: melhorias no código.
 
 **Integração Contínua** - _Continuous Integration_ \(CI\).
