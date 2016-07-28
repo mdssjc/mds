@@ -14,7 +14,11 @@ O código é a implementação da solução do problema proposto durante a etapa
 * _[SourceMaking](https://sourcemaking.com)_.
 * Dívida Técnica \(_Technical Debt_\): complexidade acumulada no desenvolvimento.
 
-**Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\).
+**Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\): técnica na qual empregra os testes como a principal ferramenta de codificação, antes mesmo do código de produção, através do seu ciclo:
+
+* _Red_: o teste representa cada incremento do requisito;
+* _Green_: o teste guia a implementação do código; e
+* _Refactor_: os testes mantém a integridade do código.
 
 **Integração Contínua** - _Continuous Integration_ \(CI\).
 
