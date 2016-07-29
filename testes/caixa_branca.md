@@ -4,11 +4,13 @@ A técnica de **teste de caixa branca** \(_white-box testing_\) tem como objetiv
 
 Na etapa de Codificação, os testes de caixa branca auxília nas práticas do _Extrema Programming_ \(XP\):
 
+* **Refatoração** - _Refactoring_;
+
 * **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\);
 * **Integração Contínua** - _Continuous Integration_ \(CI\);
-* **Testes de Regressão** - _Regression Testing_;
-* **Cobertura de Testes** - Test Coverage; e
-* **Refatoração** - Refactoring.
+* **Cobertura de Testes** - _Test Coverage_; e
+* **Testes de Regressão** - _Regression Testing._
+
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ \(SRP\) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas \(_Tell, Don't Ask_\) sem o encadeamento de mensagens \(_Law of Demeter_\), a proposta básica é que cada **Classe de Equivalência** deve possuir um caso de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
@@ -151,6 +153,7 @@ EAM _em edição_
 * **Test Data Builders**: utilização do padrão de projeto \(GoF\) _Builder_ para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
 * **Adapters**: utilização para testes com métodos estáticos e códigos legados.
 * **Test Double**: isolação de funcionalidades com dependência externa, assim avaliando as características de estado e comportamento do objeto:
+
   * _Dummy_: _em edição_.
   * _Fake_: _em edição_.
   * _Stubs_: _em edição_.
@@ -158,6 +161,7 @@ EAM _em edição_
   * _Spy_: _em edição_.
 
 * **Infraestrutura**: a camada de infraestrututra \(_DAO_, _Messages_...\) é testada com testes de integração.
+
 * **Execute Around Method**: utilização para testes com avaliação de exceção.
 
 ### Test Smell
