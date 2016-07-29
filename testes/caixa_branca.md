@@ -41,7 +41,7 @@ Os seguintes identificadores são utilizados para os:
 
 * Casos de Testes:
 
-  * **NameTest**: testes unitário;
+  * **NameTest**: testes unitários;
   * **NameIntegrationTest**: testes de integração; e
   * **NameSystemTest**: testes de sistema \(ver [Caixa Preta](caixa_preta.md)\).
 
