@@ -41,14 +41,14 @@ Os seguintes identificadores são utilizados para os:
 
 * Casos de Testes:
 
-  * **NameTest**: testes unitários;
-  * **NameIntegrationTest**: testes de integração; e
-  * **NameSystemTest**: testes de sistema \(ver [Caixa Preta](caixa_preta.md)\).
+  * _NameTest_: testes unitários;
+  * _NameIntegrationTest_: testes de integração; e
+  * _NameSystemTest_: testes de sistema \(ver [Caixa Preta](caixa_preta.md)\).
 
 * Testes:
 
-  * **Action**: utiliza uma ação avaliável do teste, considerando o resultado e\/ou condição da operação, exemplo: _adicionaUmUsuarioEmUmaListaVazia_; e
-  * **Given-When-Then**: relaciona o contexto, ação e resultado do teste, exemplo: _dadoXQuandoAcontecerYEntaoFacaZ_.
+  * _Action_: utiliza uma ação avaliável do teste, considerando o resultado e\/ou condição da operação, exemplo: _adicionaUmUsuarioEmUmaListaVazia_; e
+  * _Given-When-Then_: relaciona o contexto, ação e resultado do teste, exemplo: _dadoXQuandoAcontecerYEntaoFacaZ_.
 
 
 #### Dicas
