@@ -172,7 +172,7 @@ EAM _em edição_
 
 * **Unnecessary Test Code** \(Código de Teste Desnecessário\): o caso de teste é construído com código em excesso e\/ou defensivo, sem significado e valor ao teste;
 
-* **Missing Abstractions** \(Falta de Abstração\): exagero e preciosismo nos detalhes sobre a organização e formatação do teste;
+* **Missing Abstractions** \(Falta de Abstração\): exagero e\/ou preciosismo nos detalhes sobre a organização e formatação do teste;
 
 * **Irrelevant Information** \(Informação Irrelevante\): utilização de dados irrelevantes ao teste, tais como literais e sentinelas;
 
