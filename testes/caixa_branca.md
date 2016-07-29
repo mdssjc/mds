@@ -31,7 +31,7 @@ As tecnologias de desenvolvimento possuem elementos mínimos para testes, sendo:
 * **Lisp**: Funções, Comandos e Macros; e
 * **C**: Funções.
 
-### Documentando
+### Documentação
 
 Os testes formam a documentação viva do código, em que são de extrema importância seus identificadores \(nomes dos testes\) serem pensadas em nível sintático \(relação entre os termos\) e semântico \(sentido de ideias\) com o que será testado.
 
