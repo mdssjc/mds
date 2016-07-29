@@ -5,12 +5,10 @@ A técnica de **teste de caixa branca** \(_white-box testing_\) tem como objetiv
 Na etapa de Codificação, os testes de caixa branca auxília nas práticas do _Extrema Programming_ \(XP\):
 
 * **Refatoração** - _Refactoring_;
-
 * **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\);
 * **Integração Contínua** - _Continuous Integration_ \(CI\);
 * **Cobertura de Testes** - _Test Coverage_; e
 * **Testes de Regressão** - _Regression Testing._
-
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ \(SRP\) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas \(_Tell, Don't Ask_\) sem o encadeamento de mensagens \(_Law of Demeter_\), a proposta básica é que cada **Classe de Equivalência** deve possuir um caso de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
@@ -163,6 +161,7 @@ EAM _em edição_
 * **Infraestrutura**: a camada de infraestrututra \(_DAO_, _Messages_...\) é testada com testes de integração.
 
 * **Execute Around Method**: utilização para testes com avaliação de exceção.
+
 
 ### Test Smell
 
