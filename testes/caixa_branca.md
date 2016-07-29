@@ -88,9 +88,7 @@ Try-Catch _em edição_
 
 EAM _em edição_
 
-## Técnicas
-
-### O que pensar?
+## O que pensar?
 
 * **AAA\[A\]** - organização e formatação dos casos de teste:
 
