@@ -4,20 +4,11 @@ A técnica de **teste de caixa branca** \(_white-box testing_\) tem como objetiv
 
 Na etapa de Codificação, os testes de caixa branca auxília nas práticas do _Extrema Programming_ \(XP\):
 
-* **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\): ~~empregra os testes como a ~~~~_principal ferramenta de codificação_~~~~, antes mesmo do código de produção, através do seu ciclo:~~
-
-  * _~~Red~~_~~: o teste representa cada incremento do requisito;~~
-  * _~~Green~~_~~: o teste guia a implementação do código; e~~
-  * _~~Refactor~~_~~: os testes mantém a integridade do código~~.
-
-* **Integração Contínua** - _Continuous Integration_ \(CI\): ~~auxilia na execução automática e avaliativa dos testes~~;
-
-* **Testes de Regressão**: ~~auxilia na validação do código novo e\/ou alterado~~;
-
-* **Cobertura de Testes**: ~~auxilia na métrica dos testes; e~~
-
-* **Refatoração**~~: auxilia na verificação da funcionalidade do código, antes e depois da modificação~~.
-
+* **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\);
+* **Integração Contínua** - _Continuous Integration_ \(CI\);
+* **Testes de Regressão**;
+* **Cobertura de Testes**; e
+* **Refatoração**.
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ \(SRP\) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas \(_Tell, Don't Ask_\) sem o encadeamento de mensagens \(_Law of Demeter_\), a proposta básica é que cada **Classe de Equivalência** deve possuir um caso de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
