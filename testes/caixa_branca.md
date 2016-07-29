@@ -157,10 +157,8 @@ EAM _em edição_
   * _Stubs_: _em edição_.
   * _Mocks_: _em edição_.
   * _Spy_: _em edição_.
-
 * **Infraestrutura**: a camada de infraestrututra \(_DAO_, _Messages_...\) é testada com testes de integração.
 * **Execute Around Method**: utilização para testes com avaliação de exceção.
-
 
 ### Test Smell
 
