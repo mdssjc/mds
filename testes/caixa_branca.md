@@ -170,7 +170,7 @@ EAM _em edição_
 
 ### Test Smell
 
-* **Unnecessary Test Code** \(Código de Teste Desnecessário\): o caso de teste é construído com código em excesso, sem significado e valor ao teste;
+* **Unnecessary Test Code** \(Código de Teste Desnecessário\): o caso de teste é construído com código em excesso e\/ou defensivo, sem significado e valor ao teste;
 
 * **Missing Abstractions** \(Falta de Abstração\): exagero e preciosismo nos detalhes sobre a avaliação do teste;
 
