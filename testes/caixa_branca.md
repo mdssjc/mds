@@ -176,7 +176,7 @@ EAM _em edição_
 
 * **Irrelevant Information** \(Informação Irrelevante\): utilização de dados irrelevantes ao teste, tais como literais e sentinelas;
 
-* **Bloated Construction** \(Construção Inchada\): complexidade na montagem do teste;
+* **Bloated Construction** \(Construção Inchada\): complexidade na montagem dos elemento no teste;
 
 * **Multiple Assertions** \(Múltiplas Avaliações\): excesso de responsabilidades no teste;
 
