@@ -142,48 +142,29 @@ EAM _em edição_
 
   **T**ime: com as temporizações corretas \(sincronização, tempo, eventos, referência e etc...\)?
 
-
 ## Boas Práticas
 
 * **Identificação**: ver Documentação.
-
 * **Refatoração**: importante até mesmo para o código de teste.
-
 * **Baby Steps**: começando pelo cenário de teste mais simples em pequenos incrementos, assim ganhando confiança e conhecimento do sistema.
-
 * **Test Data Builders**: utilização do padrão de projeto \(GoF\) _Builder_ para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
-
 * **Adapters**: utilização para testes com métodos estáticos e códigos legados.
-
 * **Test Double**: isolação de funcionalidades com dependência externa, assim avaliando as características de estado e comportamento do objeto:
-
   * _Dummy_: _em edição_.
   * _Fake_: _em edição_.
   * _Stubs_: _em edição_.
   * _Mocks_: _em edição_.
   * _Spy_: _em edição_.
-
 * **Infraestrutura**: a camada de infraestrututra \(_DAO_, _Messages_...\) é testada com testes de integração.
-
 * **Execute Around Method**: utilização para testes com avaliação de exceção.
-
 
 ### Test Smell
 
 * **Unnecessary Test Code** \(Código de Teste Desnecessário\): o caso de teste é construído com código em excesso e\/ou defensivo, sem significado e valor ao teste;
-
 * **Missing Abstractions** \(Falta de Abstração\): exagero e\/ou preciosismo nos detalhes sobre a organização e formatação do teste;
-
 * **Irrelevant Information** \(Informação Irrelevante\): utilização de dados irrelevantes ao teste, tais como literais e sentinelas;
-
 * **Bloated Construction** \(Construção Inchada\): complexidade na montagem dos elemento no teste;
-
 * **Multiple Assertions** \(Múltiplas Avaliações\): excesso de responsabilidades no teste;
-
 * **Irrelevant Details in Test** \(Detalhes Irrelevante no Teste\): uso de recursos desnecessários ao teste, tais como serviços transversais de segurança, _logging_ e etc...;
-
 * **Misleading Organization** \(Organização Enganosa\): falta de organização no código de teste, por não responder a questão _AAA_;
-
 * **Implicit Meaning** \(Significado Implícito\): excesso de dados e informações aos elementos \(constantes, variáveis, dados e etc...\) do teste;
-
-
