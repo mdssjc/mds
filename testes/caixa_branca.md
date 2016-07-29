@@ -47,8 +47,8 @@ Os seguintes identificadores são utilizados para os:
 
 * Testes:
 
-  * **Action**: utiliza uma ação avaliável do teste, considerando o resultado e\/ou condição da operação, ex: _adicionaUmUsuarioEmUmaListaVazia_; e
-  * **Given-When-Then**: relaciona o contexto, ação e resultado do teste, ex: _dadoXQuandoAcontecerYEntaoFacaZ_.
+  * **Action**: utiliza uma ação avaliável do teste, considerando o resultado e\/ou condição da operação, exemplo: _adicionaUmUsuarioEmUmaListaVazia_; e
+  * **Given-When-Then**: relaciona o contexto, ação e resultado do teste, exemplo: _dadoXQuandoAcontecerYEntaoFacaZ_.
 
 
 #### Dicas
