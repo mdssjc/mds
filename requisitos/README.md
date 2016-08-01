@@ -20,7 +20,7 @@ O modelo de gerenciamento de ideias _5W2H_ tem como objetivo em responder 7 perg
 * **When** \(Quando?\): _em edição_
 * **Where** \(Onde?\): _em edição_
 * **How** \(Como?\): _em edição_
-* **How Much**: _em edição_
+* **How Much** \(Quanto Custa?\): _em edição_
 
 Existem outras técnicas com atividades prática como o _Inception Deck_ \(mesmo propósito do Termo de Abertura - _Project Charter_\) e o _Project Model Canvas_.
 
