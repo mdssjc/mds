@@ -8,9 +8,7 @@ A etapa de Requisitos é o início e a base de avaliação do projeto, na qual a
 
 ## Contexto
 
-O contexto é um importante componente dos requisitos, assim imegindo no mesmo garante melhores resultados ao projeto - existem diversas técnicas específicas para sua gestão, como por exemplo: o 5W2H, existem outras técnicas com atividades prática como o _Inception Deck_ \(mesmo propósito do Termo de Abertura - _Project Charter_\) e o _Project Model Canvas_.
-
-Dentre as atividades para garimpar as ideais estão o: _brainstorming_, entrevistas e etc...
+O contexto é um importante componente dos requisitos, assim imegindo no mesmo garante melhores resultados ao projeto - existem diversas técnicas específicas para sua gestão, como por exemplo: o 5W2H, _Inception Deck_ e o _Project Model Canvas_. Dentre as atividades práticas para garimpar as ideais estão o: _brainstorming_, entrevistas e etc...
 
 ### 5W2H
 
@@ -27,9 +25,11 @@ O modelo de gerenciamento de ideias _5W2H_ tem como objetivo em responder 7 perg
 ### Inception Deck
 
 _em edição_
+
 ### Project Model Canvas
 
 _em edição_
+
 ## Fases
 
 * **Requisitos do Usuário**: a descrição do problema do cliente;
