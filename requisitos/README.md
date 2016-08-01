@@ -24,6 +24,8 @@ O modelo de gerenciamento de ideias _5W2H_ tem como objetivo em responder 7 perg
 
 Existem outras técnicas com atividades prática como o _Inception Deck_ \(mesmo propósito do Termo de Abertura - _Project Charter_\) e o _Project Model Canvas_.
 
+Dentre as atividades para garimpar as ideais estão o: _brainstorming_, entrevistas e etc...
+
 ## Fases
 
 * **Requisitos do Usuário**: a descrição do problema do cliente;
