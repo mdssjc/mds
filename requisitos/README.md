@@ -18,7 +18,7 @@ O modelo de gerenciamento de ideias _5W2H_ tem como objetivo em responder 7 perg
 * **Why** \(Porquê?\): _em edição_
 * **Who** \(Quem?\): _em edição_
 * **When** \(Quando?\): _em edição_
-* **Where**: _em edição_
+* **Where** \(Onde?\): _em edição_
 * **How**: _em edição_
 * **How Much**: _em edição_
 
