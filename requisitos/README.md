@@ -3,7 +3,6 @@
 A etapa de Requisitos é o início e a base de avaliação do projeto, na qual a equipe de desenvolvimento serão expostos aos problemas, esses são formados pelos requisitos em que definem uma necessidade específica, na qual detalha o que um particular produto deve ser ou fazer - etapa fundamental nas disciplinas de Engenharia de Sistemas ou Engenharia de _Software_.
 
 **Requisitos** = _Software_ + _Hardware_ + Contexto
-
 **Constante** = Mudanças
 
 ## Contexto
@@ -33,23 +32,15 @@ _em edição_
 ## Fases
 
 * **Requisitos do Usuário**: a descrição do problema do cliente;
-
 * **Requisitos do Sistema**: a consolidação entre cliente e desenvolvedores; e
-
 * **Modelagem dos Requisitos**: comunicação com a Arquitetura do _Software_ através da transformação em cenário.
-
 
 ## Tipos
 
 * **Funcional**: descreve as funcionalidades;
-
 * **Não Funcional**: descreve as restrições e limites.
-
 
 ## Artefatos
 
 * **Listagem**: itens categorizados com as necessidades do sistema.
-
 * **Descrição**: texto em alto nível com as características do sistema.
-
-
