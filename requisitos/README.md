@@ -24,6 +24,12 @@ O modelo de gerenciamento de ideias _5W2H_ tem como objetivo em responder 7 perg
 * **How** \(Como?\): _em edição_
 * **How Much** \(Quanto Custa?\): _em edição_
 
+### Inception Deck
+
+_em edição_
+### Project Model Canvas
+
+_em edição_
 ## Fases
 
 * **Requisitos do Usuário**: a descrição do problema do cliente;
