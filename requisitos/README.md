@@ -15,7 +15,7 @@ O contexto é um importante componente dos requisitos, assim imegindo no mesmo g
 O modelo de gerenciamento de ideias _5W2H_ tem como objetivo em responder 7 perguntas:
 
 * **What** \(O quê?\): _em edição_
-* **Why**: _em edição_
+* **Why** \(Porquê?\): _em edição_
 * **Who**: _em edição_
 * **When**: _em edição_
 * **Where**: _em edição_
