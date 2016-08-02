@@ -27,8 +27,8 @@ All resources must load in less than 10 seconds.
 Descrição das características de uso do sistema.
 
 ```
-As a < type of user >, (WHO)
-I want < some goal > (WHAT)
+As a < type of user >,   (WHO)
+I want < some goal >     (WHAT)
 so that < some reason >. (WHY)
 ```
 
@@ -52,3 +52,4 @@ _em edição_
 ## What If
 
 _em edição_
+
