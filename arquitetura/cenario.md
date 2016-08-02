@@ -36,12 +36,12 @@ Outro formato aplicado ao BDD é o: `Given / When / Then`
 
 As características de um bom _User Story_ é resumida no acrônimo _INVEST_:
 
-* _Independent_;
-* _Negotiable_;
-* _Valuable_;
-* _Estimatable_;
-* _Small_; e
-* _Testable_.
+* _Independent_ - independente;
+* _Negotiable_ - negociável;
+* _Valuable_ - valorável;
+* _Estimatable_ - estimável;
+* _Small_ - pequeno; e
+* _Testable_ - testável.
 
 A lista de atividades é reunida em uma _Master Story List_.
 
