@@ -24,7 +24,7 @@ All resources must load in less than 10 seconds.
 
 **Cartão de Característica:**
 
-Descrição do uso do sistema.
+Descrição das características de uso do sistema.
 
 `As a < type of user >, (WHO)`
 
