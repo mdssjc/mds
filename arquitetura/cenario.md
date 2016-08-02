@@ -18,6 +18,10 @@ O _user story_ é uma pequena descrição das características do _software_, di
 
 Descrição das restrições e limites do sistema.
 
+```
+All resources must load in less than 10 seconds.
+```
+
 **Cartão de Característica:**
 
 Descrição do uso do sistema.
