@@ -32,7 +32,7 @@ Descrição das características de uso do sistema.
 
 `so that < some reason >. (WHY)`
 
-Given \/ When \/ Then
+Outro formato aplicado ao BDD é o: `Given / When / Then`
 
 As características de um bom _User Story_ é resumida no acrônimo _INVEST_:
 
