@@ -17,5 +17,5 @@
 * [Eclipse](eclipse/README.md)
     * [Plugins](eclipse/plugins.md)
 * [Referências](referências.md)
-* [Ferramentas](ferramentas.md)
+* [Ferramentas](ferramentas/README.md)
 
