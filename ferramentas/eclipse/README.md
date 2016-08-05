@@ -6,7 +6,7 @@ A última versão estável é a **Neon** \(lançada em 22 de Junho de 2016\) - s
 
 Notas da Versão: [AQUI](https://www.eclipse.org/neon/noteworthy/)
 
-![Get Eclipse Neon](../images/get-eclipse-neon.PNG)
+![](/images/get-eclipse-neon.PNG)
 
 [Baixar o Eclipse Neon](http://www.eclipse.org/downloads/)
 
