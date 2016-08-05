@@ -2,5 +2,5 @@
 
 [Eclipse](/eclipse/README.md)
 
-Emacs
+[Emacs](/ferramentas/emacs/README.md)
 
