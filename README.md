@@ -10,9 +10,9 @@ Os temas serão voltados para o ramo Sistema de Computação, principalmente abo
 
 Alguns temas em elaboração:
 
-[**Requisitos**](requisitos/README.md) \| [**Arquitetura**](/arquitetura/README.md) \| [**Testes**](testes/README.md) \| **[Código](/codigo/README.md)** \| **[Ferramentas](/ferramentas/README.md)**
+**[Requisitos](requisitos/README.md)** \| **[Arquitetura](/arquitetura/README.md)** \| **[Testes](testes/README.md)** \| [**Código**](/codigo/README.md) \| [**Ferramentas**](/ferramentas/README.md) \| [**Metodologia Científica**](metodologia_cientifica/README.md)
 
-[Metodologia Científica](metodologia_cientifica/README.md) \| Linguagens: Java, Lisp e C
+Linguagens: Java, Lisp e C
 
 Desde já, recomenda-se o estudo em:
 
