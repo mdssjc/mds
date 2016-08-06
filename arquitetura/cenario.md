@@ -10,15 +10,14 @@ _em edição_
 
 A _Feature_ é uma técnica de modelagem clássica na qual define uma descrição de alto nível das funcionalidades que o sistema necessita fazer.
 
+```
 Sistema XYZ
-
 Lista de Características
 
 1. Característica A;
-
 2. Característica B; e
-
 3. Característica C;
+```
 
 ## Use Case
 
