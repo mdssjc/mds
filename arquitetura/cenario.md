@@ -10,6 +10,16 @@ _em edição_
 
 A _Feature_ é uma técnica de modelagem clássica na qual define uma descrição de alto nível das funcionalidades que o sistema necessita fazer.
 
+Sistema XYZ
+
+Lista de Características
+
+1. Característica A;
+
+2. Característica B; e
+
+3. Característica C;
+
 ## Use Case
 
 O _Use Case_ é uma técnica de modelagem clássica na qual descreve o sistema em diferentes níveis através de diagrama \(visão gerão\) e descrição \(visão detalhada\).
