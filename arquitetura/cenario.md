@@ -45,9 +45,9 @@ As características de um bom _User Story_ é resumida no acrônimo _INVEST_:
 
 A lista de atividades é reunida em uma _Master Story List_.
 
-## Features
+## Feature
 
-_em edição_
+A _Feature_ é uma descrição de alto nível do que o sistema necessita fazer.
 
 ## What If
 
