@@ -23,12 +23,12 @@ Caso de Uso
 A _Feature_ é uma técnica de modelagem clássica \(Desenvolvimento Guiado por Funcionalidades - _Feature Driven Development_ \(FDD\)\) na qual define uma descrição de alto nível das funcionalidades\/características que o sistema necessita fazer.
 
 ```
-Sistema XYZ
-Lista de Características
+System XYZ
+Features List
 
-1. Característica A;
-2. Característica B; e
-3. Característica C;
+1. Feature A;
+2. Feature B; and
+3. Feature C;
 ```
 
 ## User Story
