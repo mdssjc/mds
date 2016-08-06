@@ -47,7 +47,7 @@ A lista de atividades é reunida em uma _Master Story List_.
 
 ## Feature
 
-A _Feature_ é uma descrição de alto nível do que o sistema necessita fazer.
+A _Feature_ é uma técnica de modelagem na qual define uma descrição de alto nível do que o sistema necessita fazer.
 
 ## What If
 
