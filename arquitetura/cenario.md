@@ -6,6 +6,18 @@ O cenário é o processo de transformação \(modelagem\) dos requisitos em solu
 
 _em edição_
 
+## Use Case
+
+O _Use Case_ é uma técnica de modelagem clássica na qual descreve o sistema em diferentes níveis através de diagrama \(visão gerão\) e descrição \(visão detalhada\).
+
+**Descrição:**
+
+**Diagrama:**
+
+Ator
+
+Caso de Uso
+
 ## Feature
 
 A _Feature_ é uma técnica de modelagem clássica \(Desenvolvimento Guiado por Funcionalidades - _Feature Driven Development_ \(FDD\)\) na qual define uma descrição de alto nível das funcionalidades\/características que o sistema necessita fazer.
@@ -18,18 +30,6 @@ Lista de Características
 2. Característica B; e
 3. Característica C;
 ```
-
-## Use Case
-
-O _Use Case_ é uma técnica de modelagem clássica na qual descreve o sistema em diferentes níveis através de diagrama \(visão gerão\) e descrição \(visão detalhada\).
-
-**Descrição:**
-
-**Diagrama:**
-
-Ator
-
-Caso de Uso
 
 ## User Story
 
