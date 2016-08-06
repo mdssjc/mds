@@ -6,6 +6,10 @@ O cenário é o processo de transformação \(modelagem\) dos requisitos em solu
 
 _em edição_
 
+## Feature
+
+A _Feature_ é uma técnica de modelagem na qual define uma descrição de alto nível do que o sistema necessita fazer.
+
 ## Use Case
 
 _em edição_
@@ -44,10 +48,6 @@ As características de um bom _User Story_ é resumida no acrônimo _INVEST_:
 * _Testable_ - testável.
 
 A lista de atividades é reunida em uma _Master Story List_.
-
-## Feature
-
-A _Feature_ é uma técnica de modelagem na qual define uma descrição de alto nível do que o sistema necessita fazer.
 
 ## What If
 
