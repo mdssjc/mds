@@ -6,6 +6,8 @@ Análise Textual
 
 Análise de Comunalidade\/Variabilidade
 
+Análise de Domínio
+
 Wire Frame
 
 Protótipo
