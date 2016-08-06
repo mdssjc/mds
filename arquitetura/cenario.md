@@ -23,9 +23,9 @@ Lista de Características
 
 O _Use Case_ é uma técnica de modelagem clássica na qual descreve o sistema em diferentes níveis através de diagrama \(visão gerão\) e descrição \(visão detalhada\).
 
-Descrição
+**Descrição:**
 
-Diagrama
+**Diagrama:**
 
 Ator
 
