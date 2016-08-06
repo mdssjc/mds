@@ -32,7 +32,7 @@ _em edição_
 ## Fases
 
 * **Requisitos do Usuário**: a descrição do problema do cliente;
-* **Requisitos do Sistema**: a consolidação entre cliente e desenvolvedores; e
+* **Requisitos do Sistema**: a consolidação do problema entre cliente e desenvolvedores; e
 * **Modelagem dos Requisitos**: comunicação com a Arquitetura do _Software_ através da transformação em cenário.
 
 ## Tipos
@@ -44,3 +44,4 @@ _em edição_
 
 * **Listagem**: itens categorizados com as necessidades do sistema.
 * **Descrição**: texto em alto nível com as características do sistema.
+
