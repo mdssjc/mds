@@ -25,7 +25,7 @@ Alguns _plugins_ recomendados:
 * **Vrapper**: o poder do _VIM_ no _Eclipse_.
 * **Eclim**: integração _Emacs\/Vim_ com _Eclipse_.
 * **AnyEdit**: funções para automação de formatação na codificação.
-* **Emmet**: dinamismo em linguagens declarativas.
+* **Emmet**: dinamismo em linguagens declarativas como HTML e CSS.
 
 _Observação: com a nova versão do Eclipse em estudo será possível determinar quais plugins são necessários._
 
