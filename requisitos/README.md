@@ -31,7 +31,7 @@ _em edição_
 
 ## Fases
 
-* **Requisitos do Usuário**: a descrição do problema do cliente;
+* **Requisitos do Usuário**: a descrição do problema pelo cliente. verifica-se a viabilidade do projeto;
 * **Requisitos do Sistema**: a consolidação do problema entre cliente e desenvolvedores; e
 * **Modelagem dos Requisitos**: comunicação com a Arquitetura do _Software_ através da transformação em cenário.
 
