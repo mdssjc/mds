@@ -31,7 +31,7 @@ _em edição_
 
 ## Fases
 
-* **Requisitos do Usuário**: a descrição do problema pelo cliente, verifica-se a viabilidade do problema;
+* **Requisitos do Usuário** \(visão - _vision_\): a descrição do problema pelo cliente, verifica-se a viabilidade do problema;
 * **Requisitos do Sistema**: a consolidação do problema entre cliente e desenvolvedores, define-se o problema proposto; e
 * **Modelagem dos Requisitos**: comunicação com a Arquitetura do _Software_ através da transformação em cenário, define-se uma solução para o problema.
 
@@ -44,3 +44,4 @@ _em edição_
 
 * **Listagem**: itens categorizados com as necessidades do sistema.
 * **Descrição**: itens em alto nível com as características do sistema - utiliza-se a modelagem de _Feature List_.
+
