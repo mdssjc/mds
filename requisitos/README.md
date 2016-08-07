@@ -43,5 +43,5 @@ _em edição_
 ## Artefatos
 
 * **Listagem**: itens categorizados com as necessidades do sistema.
-* **Descrição**: texto em alto nível com as características do sistema - utiliza-se a modelagem de _Feature List_.
+* **Descrição**: itens em alto nível com as características do sistema - utiliza-se a modelagem de _Feature List_.
 
