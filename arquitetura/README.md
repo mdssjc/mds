@@ -23,7 +23,7 @@ O acrônimo _GRASP_ - General Responsibility Assignment Software Patterns aprese
 * **Especialista de Informação** - _Information Expert_: atribua responsabilidades a classe proprietária da informação;
 * **Criadora** - _Creator_: atribua responsabilidade de criação a classe na qual agrega, contém, guarda instância de, faz uso de e possui dados para inicialização - da classe em questão;
 * **Controladora** - _Controller_: também conhecido por Coordenadora, elemento reponsável por manipular os eventos no sistema, quando centralizado é conhecido por Controlador de Fachada - _Front Controller_ e quando implementa a lógica da aplicação é conhecido por Controlador de Caso de Uso ou de Sessão - _Controller_;
-* Polymorphism
+* **Poliformismo** - _Polymorphism_: _em edição_;
 * Indirection
 * Pure Fabrication
 * Protected Variations
