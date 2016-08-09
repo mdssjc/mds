@@ -22,10 +22,10 @@ Os padrões são experiências compartilhadas de desenvolvedores experientes sob
 O acrônimo _GRASP_ - General Responsibility Assignment Software Patterns apresentado no livro _Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development_ \(_3rd Edition_\) do autor _Craig Larman_ explana os princípios fundamentais da subetapa de Projeto em modelos UML e CRC _Cards_, composto por 9 princípios \(5 básicos e 4 avançados\):
 
 * **Criador** - _Creator_: atribuição da responsabilidade \(fazer\) de criação ao elemento de programação.
+  Problema: Quem cria um A?
 
-Problema: Quem cria um A?
+  Solução: Abribua a B a responsabilidade de criar uma instância de A, se:
 
-Solução: Abribua a B a responsabilidade de criar uma instância de A, se:
 
 ```
 B contém ou agrega A.
@@ -35,16 +35,14 @@ B tem dados de inicialização de A.
 ```
 
 * **Especialista na Informação** - _Information Expert_ \(_Expert_\): atribuição da responsabilidade \(saber e fazer\) ao elemento de programação com a informação.
+  Problema: Qual é o princípio fundamental para atribuir responsabilidades aos elementos?
 
-Problema: Qual é o princípio fundamental para atribuir responsabilidades aos elementos?
-
-Solução: Atribua uma responsabilidade para o elemento que tem a informação necessária para cumpri-la.
+  Solução: Atribua uma responsabilidade para o elemento que tem a informação necessária para cumpri-la.
 
 * **Baixo Acoplamento** - _Low Coupling_:  atribuição da responsabilidade de minimizar dependências e maximizar o reuso.
+  Problema: Como reduzir o impacto da mudança?
 
-Problema: Como reduzir o impacto da mudança?
-
-Solução: Atribua responsabilidades, de modo que o acoplamento \(desnecessário\) mantenha baixo. Use este princípio para avaliar alternativas.
+  Solução: Atribua responsabilidades, de modo que o acoplamento \(desnecessário\) mantenha baixo. Use este princípio para avaliar alternativas.
 
 * **Alta Coesão** - _High Cohesion_: medida do grau de relacionamento das responsabilidades com a tarefa\/descrição do elemento de programação em questão;
 
