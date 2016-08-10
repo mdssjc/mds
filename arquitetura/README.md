@@ -26,7 +26,6 @@ O acrônimo _GRASP_ - General Responsibility Assignment Software Patterns aprese
 
   Solução: Abribua a B a responsabilidade de criar uma instância de A, se:
 
-
 > B contém ou agrega A.
 > B registra ou guarda instância de A.
 > B faz uso de A.
@@ -42,13 +41,11 @@ O acrônimo _GRASP_ - General Responsibility Assignment Software Patterns aprese
 
   Solução: Atribua responsabilidades, de modo que o acoplamento \(desnecessário\) mantenha baixo. Use este princípio para avaliar alternativas.
 
-
 * **Controlador** - _Controller_: atribuição da responsabilidade de manipular os eventos no sistema, também conhecido por Coordenadora_._
 
   Problema: Qual elemento além da camada de apresentação \(visão\) recebe e coordena \(controla\) uma operação no sistema?
 
   Solução: Atribua a responsabilidade para um elemento representando uma das seguintes escolhas:
-
 
 > Representa o sistema geral, um elemento raiz, um dispositivo que o _software_ está em execução ou um subsistema maior \(estas são todas variações de um Controlador de Fachada - _Front Controller_\).
 > 
@@ -63,7 +60,6 @@ O acrônimo _GRASP_ - General Responsibility Assignment Software Patterns aprese
 * **Fabricação\/Invenção Pura** - _Pure Fabrication_: _em edição_; e
 
 * **Variações Protegidas** - _Protected Variations_: _em edição._
-
 
 ### SOLID
 
