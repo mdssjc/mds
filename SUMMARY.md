@@ -3,19 +3,34 @@
 * [Introdução](README.md)
 * [Requisitos](requisitos/README.md)
 * [Arquitetura](arquitetura/README.md)
+
   * [Cenário](arquitetura/cenario.md)
   * [Análise](arquitetura/analise.md)
   * [Projeto](arquitetura/projeto.md)
+  * [Princípios](/arquitetura/principios.md)
+
 * [Testes](testes/README.md)
+
   * [Introdução](testes/introducao.md)
   * [Caixa Branca](testes/caixa_branca.md)
   * [Caixa Preta](testes/caixa_preta.md)
   * [Ferramentas](testes/ferramentas.md)
+
 * [Código](codigo/README.md)
+
 * [Ferramentas](ferramentas/README.md)
+
   * [Eclipse](ferramentas/eclipse/README.md)
+
     * [Plugins](/ferramentas/eclipse/plugins.md)
+
   * [Emacs](ferramentas/emacs/README.md)
+
+
 * [Metodologia Científica](metodologia_cientifica/README.md)
+
   * [Variáveis](metodologia_cientifica/variaveis.md)
+
 * [Referências](referências.md)
+
+
