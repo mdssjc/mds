@@ -8,6 +8,8 @@
   * [Análise](arquitetura/analise.md)
   * [Projeto](arquitetura/projeto.md)
   * [Princípios](/arquitetura/principios.md)
+    * [GRASP](/arquitetura/grasp.md)
+
 
 * [Testes](testes/README.md)
 
@@ -25,6 +27,7 @@
     * [Plugins](/ferramentas/eclipse/plugins.md)
 
   * [Emacs](ferramentas/emacs/README.md)
+
 
 
 * [Metodologia Científica](metodologia_cientifica/README.md)
