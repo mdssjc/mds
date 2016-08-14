@@ -8,6 +8,7 @@
   * [Projeto](/arquitetura/projeto.md)
   * [Princípios](/arquitetura/principios.md)
     * [GRASP](/arquitetura/grasp.md)
+    * [SOLID](/arquitetura/solid.md)
 * [Testes](/testes/README.md)
   * [Introdução](/testes/introducao.md)
   * [Caixa Branca](/testes/caixa_branca.md)
@@ -21,3 +22,4 @@
 * [Metodologia Científica](/metodologia_cientifica/README.md)
   * [Variáveis](/metodologia_cientifica/variaveis.md)
 * [Referências](/referências.md)
+
