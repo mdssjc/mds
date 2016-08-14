@@ -1,4 +1,4 @@
 # Princípios
 
-[GRASP](/arquitetura/grasp.md)
+* [GRASP](/arquitetura/grasp.md)
 
