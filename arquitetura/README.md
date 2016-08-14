@@ -11,8 +11,3 @@ A arquitetura do _software_ consiste de:
 * [Geral](/arquitetura/principios.md)
 * [GRASP](/arquitetura/grasp.md)
 * [SOLID](/arquitetura/solid.md)
-
-## 
-
-
-
