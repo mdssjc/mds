@@ -6,96 +6,14 @@ A arquitetura do _software_ consiste de:
 * [**Análise**](/arquitetura/analise.md): O que fazer para solucionar o problema? 
 * **[Projeto](arquitetura/projeto.md)**: Como fazer para solucionar o problema? 
 
+**Princípios**:
+
+* [GRASP](/arquitetura/grasp.md)
+* [SOLID](/arquitetura/solid.md)
+
 ## Padrões
 
 Os padrões são experiências compartilhadas de desenvolvedores experientes sobre a modelagem e codificação de _software_.
 
-### Básico
-
-* Encapsulamento
-* Interface
-* Delegação
-* Acoplamento
-* Responsabilidade
-
-### GRASP
-
-O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ apresentado no livro _Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development_ \(_3rd Edition_\) do autor _Craig Larman_ explana os princípios fundamentais para atribuição de responsabilidades aos elementos de programação da subetapa de Projeto em modelos UML e CRC _Cards_, composto por 9 princípios \(5 básicos e 4 avançados\):
-
-* **Criador** - _Creator_: atribuição da responsabilidade \(fazer\) de criação ao elemento de programação.
-  Problema: Quem cria um A?
-
-  Solução: Abribua a B a responsabilidade de criar uma instância de A, se:
-
-
-> B contém ou agrega A.
-> B registra ou guarda instância de A.
-> B faz uso de A.
-> B tem dados de inicialização de A.
-
-* **Especialista na Informação** - _Information Expert_ \(_Expert_\): atribuição da responsabilidade \(saber e fazer\) ao elemento de programação com a informação.
-  Problema: Qual é o princípio fundamental para atribuir responsabilidades aos elementos?
-
-  Solução: Atribua uma responsabilidade para o elemento que tem a informação necessária para cumpri-la.
-
-* **Baixo Acoplamento** - _Low Coupling_: atribuição da responsabilidade de minimizar dependências e maximizar o reuso.
-  Problema: Como reduzir o impacto da mudança?
-
-  Solução: Atribua responsabilidades, de modo que o acoplamento \(desnecessário\) mantenha baixo. Use este princípio para avaliar alternativas.
-
-* **Controlador** - _Controller_: atribuição da responsabilidade de manipular os eventos no sistema, também conhecido por Coordenadora_._
-
-  Problema: Qual elemento além da camada de apresentação \(visão\) recebe e coordena \(controla\) uma operação no sistema?
-
-  Solução: Atribua a responsabilidade para um elemento representando uma das seguintes escolhas:
-
-
-> Representa o sistema geral, um elemento raiz, um dispositivo que o _software_ está em execução ou um subsistema maior \(estas são todas variações de um Controlador de Fachada - _Front Controller_\).
-> 
-> Representa um cenário de caso de uso em que a operação do sistema ocorre \(um Controlador de Caso de Uso ou de Sessão - _Controller_\).
-
-* **Alta Coesão** - _High Cohesion_: atribuição da responsabilidade de minimizar as funcionalidades não relacionadas.
-
-  Problema: Como manter os elementos focados, compreensíveis, gerenciáveis e por consequência, com baixo acoplamento?
-  Solução: Atribua responsabilidades de modo que a coesão mantenha alta. Use isto para avaliar alternativas.
-
-* **Poliformismo** - _Polymorphism_: _em edição_;
-
-* **Indireção** - _Indirection_: _em edição_;
-
-* **Fabricação\/Invenção Pura** - _Pure Fabrication_: _em edição_; e
-
-* **Variações Protegidas** - _Protected Variations_: _em edição._
-
-
-### SOLID
-
-O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ \(_Uncle Bob_\), composto por 5 princípios de projeto de classes:
-
-* **[Princípio da Responsabilidade Única](http://c2.com/cgi/wiki?SingleResponsibilityPrinciple "Single Responsibility Principle")** - _Single Responsibility Principle_ \(_SRP_\) por _Robert C. Martin_: todo módulo ou classe deve ter uma, e apenas uma razão para mudar - mantenha um equilíbrio entre baixo acoplamento e alta coesão;
-
-  O princípio refere-se as mudanças das funcionalidades por um particular ator da aplicação e não na transformação de uma arquitetura monolítica, principalmente em diversas classes anêmicas.
-
-  Aplicar o princípio muito cedo na camada de domínio pode resultar em futuros problemas de projeto.
-
-* **[Princípio do Aberto-Fechado](http://c2.com/cgi/wiki?OpenClosedPrinciple "Open Closed Principle")** - _Open-Closed Principle_ \(_OCP_\) por _Bertrand Meyer_ ~~em 1988~~: projete classes para serem abertas para extensão mas fechadas para modificações, minimize as necessidades para fazer mudanças para classes existentes;
-
-* [**Princípio de Substituição de Liskov**](http://c2.com/cgi/wiki?LiskovSubstitutionPrinciple "Liskov Substitution Principle") - _Liskov Substitution Principle_ \(_LSP_\) por _Barbara Liskov_ em
-
-  1988: os subtipos devem ser substituidos por seus tipos base;
-
-
-* [**Princípio da Segregação de Interfaces**](http://c2.com/cgi/wiki?InterfaceSegregationPrinciple "Interface Segregation Principle") - _Interface Segregation Principle_ \(_ISP_\): os clientes não devem serem forçados a dependerem de métodos que não usam; e
-
-* **[Princípio da Inversão de Dependência](http://c2.com/cgi/wiki?DependencyInversionPrinciple "Dependency Inversion Principle")** - _Dependency Inversion Principle_ \(_DIP_\): os módulos de alto nível não devem depender de módulos de baixo nível, ambos devem depender de abstrações;
-
-
-### GoF
-
-### POSA
-
-### Outros
-
-* [**_DRY_**](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself") \(_Don’t Repeat Yourself_\) \/ **_WET_** \(_Write Every Time_\): princípio sobre o problema da duplicação de código.
-* **_[Execute Around Method](http://c2.com/cgi/wiki?ExecuteAroundMethod "Execute Around Method")_**: controle sobre recursos externos, como operações em _cleanup_ e _locks_.
+### 
 
