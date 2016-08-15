@@ -42,7 +42,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 > 
 > Representa um cenário de caso de uso em que a operação do sistema ocorre \(um Controlador de Caso de Uso ou de Sessão - _Use Case Controller or Session Controller_\). Identificações comuns são: &lt;name&gt;Handler, &lt;name&gt;Coordinator ou &lt;name&gt;Session.
 
-* **Alta Coesão** - _High Cohesion_: atribuição da responsabilidade de minimizar as funcionalidades não relacionadas.
+* **Alta Coesão** - _High Cohesion_: atribuição da responsabilidade de minimizar as funcionalidades não relacionadas aos elementos de programação.
 
   Problema: Como manter os elementos focados, compreensíveis, gerenciáveis e por consequência, com baixo acoplamento?
 
