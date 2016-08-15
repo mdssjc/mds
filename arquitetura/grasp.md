@@ -2,7 +2,9 @@
 
 O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ apresentado no livro _Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development_ \(_3rd Edition_\) do autor _Craig Larman_ explana os princípios fundamentais para atribuição de responsabilidades aos elementos de programação da subetapa de Projeto em modelos UML e CRC _Cards_, composto por 9 princípios \(5 básicos e 4 avançados\):
 
-* **Criador** - _Creator_: atribuição da responsabilidade \(fazer\) de criação ao elemento de programação. Problema: Quem cria um A?
+* **Criador** - _Creator_: atribuição da responsabilidade \(fazer\) de criação ao elemento de programação.
+
+  Problema: Quem cria um A?
 
   Solução: Abribua a B a responsabilidade de criar uma instância de A, se:
 
