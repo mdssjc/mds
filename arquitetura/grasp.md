@@ -8,7 +8,6 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Abribua a B a responsabilidade de criar uma instância de A, se:
 
-
 > B contém ou agrega A.
 > 
 > B registra ou guarda instância de A.
