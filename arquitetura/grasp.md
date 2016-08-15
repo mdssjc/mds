@@ -9,7 +9,13 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
   Solução: Abribua a B a responsabilidade de criar uma instância de A, se:
 
 
-> B contém ou agrega A. B registra ou guarda instância de A. B faz uso de A. B tem dados de inicialização de A.
+> B contém ou agrega A.
+> 
+> B registra ou guarda instância de A.
+> 
+> B faz uso de A.
+> 
+> B tem dados de inicialização de A.
 
 * **Especialista na Informação** - _Information Expert_ \(_Expert_\): atribuição da responsabilidade \(saber e fazer\) ao elemento de programação com a informação.
 
