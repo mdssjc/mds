@@ -33,7 +33,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
 * **Controlador** - _Controller_: atribuição da responsabilidade de manipular os eventos no sistema, também conhecido por Coordenadora_._
 
-  Problema: Qual elemento além da camada de apresentação \(visão\) recebe e coordena \(controla\) uma operação no sistema?
+  Problema: Qual o primeiro elemento além da camada de apresentação \(visão\) recebe e coordena \(controla\) uma operação no sistema?
 
   Solução: Atribua a responsabilidade para um elemento representando uma das seguintes escolhas:
 
