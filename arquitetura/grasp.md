@@ -46,7 +46,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Problema: Como manter os elementos focados, compreensíveis, gerenciáveis e por consequência, com baixo acoplamento?
 
-  Solução: Atribua responsabilidades de modo que a coesão mantenha alta. Use isto para avaliar alternativas.
+  Solução: Atribua responsabilidades de modo que a coesão mantenha alta. Use este princípio para avaliar alternativas.
 
 
 ## Avançados
