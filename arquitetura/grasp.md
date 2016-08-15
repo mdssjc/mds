@@ -1,6 +1,6 @@
 # GRASP
 
-O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ apresentado no livro _Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development_ \(_3rd Edition_\) do autor _Craig Larman_ explana os princípios fundamentais para atribuição de responsabilidades aos elementos de programação da subetapa de Projeto em modelos UML e CRC _Cards_, composto por 9 princípios \(5 básicos e 4 avançados\).
+O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ apresentado no livro _Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development_ \(_3rd Edition_\) do autor _Craig Larman_ explana os princípios fundamentais para atribuição de responsabilidades aos elementos de programação da subetapa de Projeto em modelos UML e CRC _Cards_, composto por 9 princípios \(5 básicos - Capítulo 17 e 4 avançados - Capítulo 25\).
 
 ## Básicos
 
@@ -9,6 +9,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
   Problema: Quem deve ser responsável por cria uma nova instância de algum elemento?
 
   Solução: Abribua a B a responsabilidade de criar uma instância de A, se:
+
 
 > B contém ou agrega A.
 > 
@@ -36,6 +37,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Atribua a responsabilidade para um elemento representando uma das seguintes escolhas:
 
+
 > Representa o sistema geral, um elemento raiz, um dispositivo que o _software_ está em execução ou um subsistema maior \(estas são todas variações de um Controlador de Fachada - _Facade Controller or Front Controller_\).
 > 
 > Representa um cenário de caso de uso em que a operação do sistema ocorre \(um Controlador de Caso de Uso ou de Sessão - _Use Case Controller or Session Controller_\). Identificações comuns são: &lt;name&gt;Handler, &lt;name&gt;Coordinator ou &lt;name&gt;Session.
@@ -45,6 +47,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
   Problema: Como manter os elementos focados, compreensíveis, gerenciáveis e por consequência, com baixo acoplamento?
 
   Solução: Atribua responsabilidades de modo que a coesão mantenha alta. Use este princípio para avaliar alternativas.
+
 
 ## Avançados
 
