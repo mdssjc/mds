@@ -4,9 +4,10 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
 * **Criador** - _Creator_: atribuição da responsabilidade \(fazer\) de criação ao elemento de programação.
 
-  Problema: Quem cria um A?
+  Problema: Quem deve ser responsável por cria uma nova instância de algum elemento?
 
   Solução: Abribua a B a responsabilidade de criar uma instância de A, se:
+
 
 > B contém ou agrega A.
 > 
