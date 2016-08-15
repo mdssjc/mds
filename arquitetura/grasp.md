@@ -27,7 +27,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
 * **Baixo Acoplamento** - _Low Coupling_: atribuição da responsabilidade de minimizar dependências e maximizar o reuso.
 
-  Problema: Como reduzir o impacto da mudança?
+  Problema: Como auxiliar na redução das dependências, impactos das mudanças e maximização do reuso?
 
   Solução: Atribua responsabilidades, de modo que o acoplamento \(desnecessário\) mantenha baixo. Use este princípio para avaliar alternativas.
 
