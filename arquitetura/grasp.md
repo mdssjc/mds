@@ -53,8 +53,9 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
 * **Poliformismo** - _Polymorphism_: _em edição_;
 
-  Problema:
+  Problema: Como manipular alternativas baseadas em tipo? Como criar componentes de software plugável?
   Solução:
+
 * **Fabricação\/Invenção Pura** - _Pure Fabrication_: _em edição_;
 
 * **Indireção** - _Indirection_: _em edição_; e
