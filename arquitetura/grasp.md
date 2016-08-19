@@ -76,19 +76,19 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
   Solução: Identifique pontos de variação e instabilidade previsível, atribua responsabilidades para criar uma interface estável ao redor.
 
 
-> Core Protected Variations Mechanisms
+> Core Protected Variations Mechanisms: recursos da própria linguagem.
 > 
-> Data-Driven Designs
+> Data-Driven Designs: uso de dados para manipular comportamentos em execução.
 > 
-> Service Lookup
+> Service Lookup: serviços de recursos por nome.
 > 
-> Interpreter-Driven Designs
+> Interpreter-Driven Designs: interpretação de código.
 > 
-> Reflective or Meta-Level Designs
+> Reflective or Meta-Level Designs: reflexão e metaprogramação.
 > 
-> Uniform Access
+> Uniform Access: recurso de propriedade da linguagem.
 > 
-> Standard Languages
+> Standard Languages: linguagens padronizadas.
 > 
-> Liskov Principle
+> Liskov Principle: ver o [LSP](/arquitetura/solid.md)
 
