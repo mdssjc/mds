@@ -65,8 +65,8 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
 * **Indireção** - _Indirection_: _em edição_; e
 
-  Problema:
+  Problema: Onde atribuir uma responsabilidade, para evitar acoplamento direto entre duas \(ou mais\) coisas? Como desacomplar elementos de programação para que o baixo acoplamento é suportado e o potencial reuso mantenha alto?
   Solução:
-* **Variações Protegidas** - _Protected Variations_: _em edição._
 
+* **Variações Protegidas** - _Protected Variations_: _em edição._
 
