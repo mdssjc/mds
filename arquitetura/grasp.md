@@ -69,7 +69,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Atribua a responsabilidade para um elemento de programação intermediário para mediar entre outros componentes e serviços de forma que eles não são acoplados diretamente.
 
-* **Variações Protegidas** - _Protected Variations_: atribuição da responsabilidade de proteger o sistema_._
+* **Variações Protegidas** - _Protected Variations_: atribuição da responsabilidade de proteger o sistema_._ Outros nomes: Encapsulamento - _Encapsulation_ e Ocultamento de Informação - _Information Hiding_.
 
   Problema: Como projetar elementos de programação, subsistemas e sistemas para que as variações ou instabilidades nesses elementos não tenham impactos indesejáveis sobre outros elementos?
 
