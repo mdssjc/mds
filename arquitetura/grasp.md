@@ -78,13 +78,14 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
 > Core Protected Variations Mechanisms: recursos da implementados na própria linguagem e sistemas.
 > 
-> Data-Driven Designs: uso de dados declaração de comportamentos em tempo de execução.
+> Data-Driven Designs: uso de dados para declaração dos comportamentos do sistema em tempo de execução.
 > 
-> Service Lookup: serviços de localização de recursos por nome.
+> * Service Lookup: serviço de localização de recursos por nome.
 > 
-> Interpreter-Driven Designs: interpretação de código com declaração de comportamentos para o sistema.
+> * Interpreter-Driven Designs: interpretação de código.
 > 
-> Reflective or Meta-Level Designs: reflexão e metaprogramação.
+> * Reflective or Meta-Level Designs: reflexão e metaprogramação.
+> 
 > 
 > Uniform Access: recurso de propriedade da linguagem.
 > 
