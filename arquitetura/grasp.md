@@ -73,6 +73,6 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Problema: Como projetar elementos de programação, subsistemas e sistemas para que as variações ou instabilidades nesses elementos não tenham impactos indesejáveis sobre outros elementos?
 
-  Solução: Identifique pontos de variação e instabilidade previsível, atribua responsabilidades para criar uma interface estável em volta.
+  Solução: Identifique pontos de variação e instabilidade previsível, atribua responsabilidades para criar uma interface estável ao redor.
 
 
