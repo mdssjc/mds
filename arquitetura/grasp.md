@@ -76,7 +76,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
   Solução: Identifique pontos de variação e instabilidade previsível, atribua responsabilidades para criar uma interface estável ao redor.
 
 
-> Core Protected Variations Mechanisms: recursos da própria linguagem.
+> Core Protected Variations Mechanisms: recursos da implementados na própria linguagem e sistemas.
 > 
 > Data-Driven Designs: uso de dados para manipular comportamentos em execução.
 > 
