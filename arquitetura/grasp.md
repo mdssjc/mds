@@ -57,7 +57,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Quando alternativas ou comportamentos relacionados variam por tipo, atribua a responsabilidade para o comportamento usando operações polifórmicas para os tipos pela qual o comportamento varie.
 
-* **Fabricação\/Invenção Pura** - _Pure Fabrication_: atribuição da resposanbilidade de funcionalidades fora do domínio.
+* **Fabricação\/Invenção Pura** - _Pure Fabrication_: atribuição da resposanbilidade de decomposição representacional e comportamental do domínio.
 
   Problema: Qual elemento de programação deveria ter a responsabilidade pela funcionalidade, quando não quer violar os princípios de Alta Coesão e Baixo Acoplamento, ou outras metas, mas a solução oferecida pelo princípio de Especialista na Informação não é apropriado?
 
