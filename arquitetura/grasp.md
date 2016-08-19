@@ -80,7 +80,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 > 
 > Data-Driven Designs: uso de dados declaração de comportamentos em tempo de execução.
 > 
-> Service Lookup: serviços de recursos por nome.
+> Service Lookup: serviços de localização de recursos por nome.
 > 
 > Interpreter-Driven Designs: interpretação de código.
 > 
