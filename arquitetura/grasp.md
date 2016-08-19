@@ -60,6 +60,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 * **Fabricação\/Invenção Pura** - _Pure Fabrication_: _em edição_;
 
   Problema: Qual elemento de programação tem a responsabilidade, quando não quer violar os princípios de Alta Coesão e Baixo Acoplamento, ou outras metas, mas a solução oferecida pelo princípio de Especialista na Informação não é apropriado?
+
   Solução: Atribua a conjunto altamente coesivo de responsabilidades para um elemento de programação artificial ou coveniente que não represente um problema no conceito de domínio, alguma coisa feita para suportar a alta coesão, o baixo acoplamento e o reuso.
 
 * **Indireção** - _Indirection_: _em edição_; e
