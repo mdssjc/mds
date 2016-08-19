@@ -71,6 +71,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
 * **Variações Protegidas** - _Protected Variations_: _em edição._
 
-  Problema:
+  Problema: Como projetar elementos de programação, subsistemas e sistemas para que as variações e instabilidades nesses elementos não causem impactos indesejáveis sobre outros elementos?
   Solução:
+
 
