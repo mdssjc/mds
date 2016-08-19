@@ -71,4 +71,6 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
 * **Variações Protegidas** - _Protected Variations_: _em edição._
 
+  Problema:
+  Solução:
 
