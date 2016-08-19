@@ -78,7 +78,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
 > Core Protected Variations Mechanisms: recursos da implementados na própria linguagem e sistemas.
 > 
-> Data-Driven Designs: uso de dados para manipular comportamentos em execução.
+> Data-Driven Designs: uso de dados declaração de comportamentos em tempo de execução.
 > 
 > Service Lookup: serviços de recursos por nome.
 > 
