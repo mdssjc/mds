@@ -89,7 +89,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 > 
 > Uniform Access: recurso de propriedade da linguagem.
 > 
-> Standard Languages: linguagens padronizadas.
+> Standard Languages: linguagens padronizadas utilizadas internamente.
 > 
 > Liskov Principle: ver o [LSP](/arquitetura/solid.md)
 
