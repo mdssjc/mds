@@ -82,7 +82,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 > 
 > Service Lookup: serviços de localização de recursos por nome.
 > 
-> Interpreter-Driven Designs: interpretação de código.
+> Interpreter-Driven Designs: interpretação de código com declaração de comportamentos para o sistema.
 > 
 > Reflective or Meta-Level Designs: reflexão e metaprogramação.
 > 
