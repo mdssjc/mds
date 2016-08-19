@@ -77,11 +77,18 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
 
 > Core Protected Variations Mechanisms
+> 
 > Data-Driven Designs
+> 
 > Service Lookup
+> 
 > Interpreter-Driven Designs
+> 
 > Reflective or Meta-Level Designs
+> 
 > Uniform Access
+> 
 > Standard Languages
+> 
 > Liskov Principle
 
