@@ -59,6 +59,8 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
 * **Fabricação\/Invenção Pura** - _Pure Fabrication_: _em edição_;
 
+  Problema:
+  Solução:
 * **Indireção** - _Indirection_: _em edição_; e
 
 * **Variações Protegidas** - _Protected Variations_: _em edição._
