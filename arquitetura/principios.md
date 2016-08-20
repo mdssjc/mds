@@ -9,11 +9,11 @@ Os padrões são experiências compartilhadas de desenvolvedores experientes sob
 
 ### Básico
 
-* Encapsulamento
+* ~~Encapsulamento~~
 * Interface
 * Delegação
-* Acoplamento
-* Responsabilidade
+* ~~Acoplamento~~
+* ~~Responsabilidade~~
 
 ### GoF
 
@@ -21,11 +21,12 @@ Os padrões são experiências compartilhadas de desenvolvedores experientes sob
 
 ### Outros
 
-* **_[DRY](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself")_** \(_Don’t Repeat Yourself_\) \/ **_WET_** \(_Write Every Time_\): princípio sobre o problema da duplicação de código.
+* [_**DRY**_](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself") \(_Don’t Repeat Yourself_\) \/ _**WET**_ \(_Write Every Time_\): princípio sobre o problema da duplicação de código.
 
   Evite código duplicado por abstrair as coisas que são comuns e colocando essas coisas em um único local.
 
   Tenha cada peça de informação e comportamento em seu sistema em um único e sensível local.
 
-* **_[Execute Around Method](http://c2.com/cgi/wiki?ExecuteAroundMethod "Execute Around Method")_**: controle sobre recursos externos, como operações em _cleanup_ e _locks_.
+* [_**Execute Around Method**_](http://c2.com/cgi/wiki?ExecuteAroundMethod "Execute Around Method"): controle sobre recursos externos, como operações em _cleanup_ e _locks_.
+
 
