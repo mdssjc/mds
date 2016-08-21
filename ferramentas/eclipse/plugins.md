@@ -12,14 +12,13 @@ Os _plugins_ são incrementos ao _Eclipse_ com o propósito de auxiliar no desen
 **Análise de Bytecode**
 
 * Checker Framework: verificação de pontos críticos.
-* Dr. Garbage Tools: ferramentas para análise de _bytecode_. \(não compatível com _Neon_\)
-
+* ~~Dr. Garbage Tools~~: ferramentas para análise de _bytecode_. \(não compatível com _Neon_\)
 
 **Análise de Teste**
 
-* **EclEmma\/ECobertura**: _code coverage_ dos testes.
-* **Pitclipse**: análise de cobertura com testes de mutação.
-* **Infinitest**: automação dos testes unitários no _Eclipse_.
+* **EclEmma\/ECobertura**: cobertura dos testes.
+* **Pitclipse**: cobertura com testes de mutação.
+* **Infinitest**: automação dos testes unitários.
 
 **Ferramentas**
 
