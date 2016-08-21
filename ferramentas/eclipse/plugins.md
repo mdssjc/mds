@@ -26,7 +26,7 @@ Os _plugins_ são incrementos ao _Eclipse_ com o propósito de auxiliar no desen
 
 **Ferramentas**
 
-* **Vrapper**: o poder do _VIM_ no _Eclipse_.
+* **Vrapper**: emulação do _VIM_.
 * **Eclim**: integração com o _Emacs\/Vim_.
 * **AnyEdit**: funções para automação de formatação na codificação.
 * **Emmet**: dinamismo em linguagens declarativas como HTML e CSS.
