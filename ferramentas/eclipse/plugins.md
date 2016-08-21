@@ -7,7 +7,7 @@ Os _plugins_ são incrementos ao _Eclipse_ com o propósito de auxiliar no desen
 * **Findbugs**: verificação dos _bytecode_.
 * **Checkstyle**: verificação do código fonte.
 * **PMD**: verificação da estrutura do código em geral.
-* SonarLint: análise de código.
+* **SonarLint**: análise de código em geral.
 
 **Análise de Bytecode**
 
