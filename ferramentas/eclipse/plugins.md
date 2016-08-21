@@ -1,6 +1,6 @@
 # Plugins
 
-Alguns _plugins_ recomendados:
+Os _plugins_ são incrementos ao _Eclipse_ com o propósito de auxiliar no desenvolvimento:
 
 **Análise de Código**
 
