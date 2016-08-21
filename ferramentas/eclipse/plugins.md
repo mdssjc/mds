@@ -20,6 +20,9 @@ Os _plugins_ são incrementos ao _Eclipse_ com o propósito de auxiliar no desen
 * **Pitclipse**: cobertura com testes de mutação.
 * **Infinitest**: automação dos testes unitários.
 
+**Produtividade**
+* **Code Recommenders**: sugestão de código e estruturas com inteligência.
+
 **Ferramentas**
 
 * **Vrapper**: o poder do _VIM_ no _Eclipse_.
