@@ -11,7 +11,7 @@ Os _plugins_ são incrementos ao _Eclipse_ com o propósito de auxiliar no desen
 
 **Análise de Bytecode**
 
-* Checker Framework: verificação de pontos críticos.
+* **Checker Framework**: verificação de pontos críticos.
 * ~~Dr. Garbage Tools~~: ferramentas para análise de _bytecode_. \(não compatível com _Neon_\)
 
 **Análise de Teste**
