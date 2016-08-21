@@ -14,6 +14,7 @@ O acrônimo _SOLID_ apresentado no livro _Agile Software Development - Principle
 
   _Open_: poliformismo \/ _Closed_: definição de API.
 
+  Pode ser aplicado para qualquer elemento de programação.
   Veja também [_Protected Variations_](/arquitetura/grasp.md) em _GRASP_.
 
 * [**Princípio de Substituição de Liskov**](http://c2.com/cgi/wiki?LiskovSubstitutionPrinciple "Liskov Substitution Principle") - _Liskov Substitution Principle_ \(_LSP_\) por _Barbara Liskov_ em 1988: os subtipos devem ser substituidos por seus tipos base.
