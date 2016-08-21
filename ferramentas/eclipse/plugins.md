@@ -4,9 +4,9 @@ Os _plugins_ são incrementos ao _Eclipse_ com o propósito de auxiliar no desen
 
 **Análise de Código**
 
-* **[Findbugs](https://marketplace.eclipse.org/content/findbugs-eclipse-plugin)**: verificação dos _bytecode_.
-* [**Checkstyle**](https://marketplace.eclipse.org/content/checkstyle-plug): verificação do código fonte.
-* **PMD**: verificação da estrutura do código em geral.
+* [**Findbugs**](https://marketplace.eclipse.org/content/findbugs-eclipse-plugin): verificação dos _bytecode_.
+* **[Checkstyle](https://marketplace.eclipse.org/content/checkstyle-plug)**: verificação do código fonte.
+* [**PMD**](https://marketplace.eclipse.org/content/eclipse-pmd): verificação da estrutura do código em geral.
 * **SonarLint**: análise de código em geral.
 
 **Análise de Bytecode**
