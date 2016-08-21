@@ -4,10 +4,10 @@ Os _plugins_ são incrementos ao _Eclipse_ com o propósito de auxiliar no desen
 
 **Análise de Código**
 
-* **[Findbugs](https://marketplace.eclipse.org/content/findbugs-eclipse-plugin)**: verificação dos _bytecode_.
-* [**Checkstyle**](https://marketplace.eclipse.org/content/checkstyle-plug): verificação do código fonte.
-* **[PMD](https://marketplace.eclipse.org/content/eclipse-pmd)**: verificação da estrutura do código em geral.
-* [**SonarLint**](https://marketplace.eclipse.org/content/sonarlint): análise de código em geral.
+* [**Findbugs**](https://marketplace.eclipse.org/content/findbugs-eclipse-plugin): verificação dos _bytecode_.
+* **[Checkstyle](https://marketplace.eclipse.org/content/checkstyle-plug)**: verificação do código fonte.
+* [**PMD**](https://marketplace.eclipse.org/content/eclipse-pmd): verificação da estrutura do código em geral.
+* **[SonarLint](https://marketplace.eclipse.org/content/sonarlint)**: análise de código em geral.
 
 **Análise de Bytecode**
 
@@ -16,7 +16,7 @@ Os _plugins_ são incrementos ao _Eclipse_ com o propósito de auxiliar no desen
 
 **Análise de Teste**
 
-* **[EclEmma](https://marketplace.eclipse.org/content/eclemma-java-code-coverage)****\/**[**ECobertura**](https://marketplace.eclipse.org/content/ecobertura): cobertura dos testes.
+* [**EclEmma**](https://marketplace.eclipse.org/content/eclemma-java-code-coverage)\/[**ECobertura**](https://marketplace.eclipse.org/content/ecobertura): cobertura dos testes.
 * **Pitclipse**: cobertura com testes de mutação.
 * **Infinitest**: automação dos testes unitários.
 
