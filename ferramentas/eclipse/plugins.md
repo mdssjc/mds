@@ -21,12 +21,13 @@ Os _plugins_ são incrementos ao _Eclipse_ com o propósito de auxiliar no desen
 * **Infinitest**: automação dos testes unitários.
 
 **Produtividade**
+
 * **Code Recommenders**: sugestão de código e estruturas com inteligência.
 
 **Ferramentas**
 
 * **Vrapper**: o poder do _VIM_ no _Eclipse_.
-* **Eclim**: integração _Emacs\/Vim_ com _Eclipse_.
+* **Eclim**: integração com o _Emacs\/Vim_.
 * **AnyEdit**: funções para automação de formatação na codificação.
 * **Emmet**: dinamismo em linguagens declarativas como HTML e CSS.
 
