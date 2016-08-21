@@ -4,6 +4,8 @@ O _software_ _Eclipse_ é um Ambiente de Desenvolvimento Integrado - _Integrated
 
 A última versão estável é a **Neon** \(lançada em 22 de Junho de 2016\) - sucessor da **Mars 2**.
 
+O Eclipse iniciou o desenvolvimento da próxima versão: **Oxygen**.
+
 Notas da Versão: [AQUI](https://www.eclipse.org/neon/noteworthy/)
 
 ![](/images/get-eclipse-neon.PNG)
