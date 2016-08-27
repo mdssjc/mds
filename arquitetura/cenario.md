@@ -37,7 +37,7 @@ Cada _feature_ é desenvolvida por completo.
 
 ## User Story
 
-O _user story_ é uma técnica de modelagem ágil \(Programação Extrema - _Extreme Programming_ \(XP\)\) na qual consiste de uma pequena descrição das características do _software_, divididas em cartões de restrição e característica, em que originam as _tasks_ e critérios de testes.
+O _user story_ é uma técnica de modelagem ágil \(Programação Extrema - _Extreme Programming_ \(XP\)\) na qual consiste de uma pequena descrição das características do _software_, divididas em cartões de restrição e característica, em que originam as tarefas \(_tasks_\) e critérios de testes \(_test critteria_\).
 
 **Cartão de Restrição:**
 
