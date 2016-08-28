@@ -25,7 +25,7 @@ Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na s
 
 ### O Que Testar?
 
-As tecnologias de desenvolvimento possuem elementos de programação mínimos para testes, sendo:
+As tecnologias de desenvolvimento possuem elementos de programação mínimos para os testes, sendo:
 
 * **Java**: Classes;
 * **Lisp**: Funções, Comandos e Macros; e
@@ -160,6 +160,7 @@ EAM _em edição_
   * _Spy_: _em edição_.
 
 * **Infraestrutura**: a camada de infraestrututra \(_DAO_, _Messages_...\) é testada com testes de integração.
+
 * **Execute Around Method**: utilização para testes com avaliação de exceção.
 
 ### Test Smell
