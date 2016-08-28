@@ -23,6 +23,7 @@ Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na s
 * **verify**: avaliação dos estados e comportamentos do código, comparando os resultados obtidos com os esperados; e
 * **teardown**: liberação dos recursos utilizados pelo código.
 
+Sua organização utiliza uma identificação e um nome descritivo.
 ### O Que Testar?
 
 As tecnologias de desenvolvimento possuem elementos de programação mínimos para os testes, sendo:
@@ -162,6 +163,7 @@ EAM _em edição_
 * **Infraestrutura**: a camada de infraestrututra \(_DAO_, _Messages_...\) é testada com testes de integração.
 
 * **Execute Around Method**: utilização para testes com avaliação de exceção.
+
 
 ### Test Smell
 
