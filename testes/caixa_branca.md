@@ -16,7 +16,7 @@ Na etapa de Codificação, os testes de caixa branca auxília nas práticas do _
 
 O teste utiliza um cenário \(~~requisito~~\) para composição de um conjunto de casos de teste durante a etapa de Codificação, assim garantindo a estrutura dos elementos de programação na verificação da Arquitetura.
 
-Na elaboração dos casos de teste utiliza uma identificação e um nome descritivo para cada execução atômica de uma específica funcionalidade, assim definindo seus dados de testes como entrada e a saída esperada na execução, conforme um estado inicial.
+Na elaboração dos casos de teste utiliza uma identificação e um nome descritivo para cada variação de uma específica funcionalidade - formando uma execução atômica, assim definindo seus dados de testes como entrada e a saída esperada na execução, conforme um estado inicial.
 
 `{ ID; Nome; Entrada; Saída Esperada; Estado Inicial }`
 
