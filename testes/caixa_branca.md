@@ -27,6 +27,7 @@ Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na s
 * **verify**: avaliação dos estados e comportamentos do código, comparando os resultados obtidos com as saídas esperadas; e
 * **teardown**: liberação dos recursos utilizados pelo código.
 
+A abordagem do TDD utiliza esse fluxo de forma otimizada.
 ### O Que Testar?
 
 As tecnologias de desenvolvimento possuem elementos de programação mínimos para os testes, sendo:
