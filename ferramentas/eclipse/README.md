@@ -14,8 +14,8 @@ Notas da Versão: [AQUI](https://www.eclipse.org/neon/noteworthy/)
 
 **Pacotes Disponíveis**:
 
-* Java EE Developers
-* Java Developers
+* **Java EE Developers**
+* **Java Developers**
 * C\/C++ Developers
 * PHP Developers
 * Android Developers
@@ -23,7 +23,7 @@ Notas da Versão: [AQUI](https://www.eclipse.org/neon/noteworthy/)
 * RCP and RAP Developers
 * JavaScript and Web Developers
 * Modeling Tools
-* Java and DSL Developers
+* **Java and DSL Developers**
 * Parallel Application Developers
 * Java and Report Developers
 * Scout Developers
