@@ -6,3 +6,7 @@
 
 {tela}
 
+{instalação}
+
+{extensão}
+
