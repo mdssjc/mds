@@ -8,11 +8,9 @@ Os temas serão voltados para o ramo Sistema de Computação, principalmente abo
 
 **Repositório**: [github.com\/mdssjc](http://goo.gl/FvxXNM "Repositório do MDS")
 
-**[Requisitos](requisitos/README.md)** \| **[Arquitetura](/arquitetura/README.md)** \| **[Testes](testes/README.md)** \| [**Código**](/codigo/README.md) \| [**Ferramentas**](/ferramentas/README.md) \| [**Metodologia Científica**](metodologia_cientifica/README.md)
+[**Requisitos**](requisitos/README.md) \| [**Arquitetura**](/arquitetura/README.md) \| [**Testes**](testes/README.md) \| **[Código](/codigo/README.md)** \| **[Ferramentas](/ferramentas/README.md)** \| **[Metodologia Científica](metodologia_cientifica/README.md)**
 
 ---
-
-Linguagens: Java, Lisp e C
 
 Desde já, recomenda-se o estudo em: [Extreme Programming](http://www.extremeprogramming.org/)
 
