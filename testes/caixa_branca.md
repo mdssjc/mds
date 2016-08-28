@@ -23,7 +23,8 @@ Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na s
 * **verify**: avaliação dos estados e comportamentos do código, comparando os resultados obtidos com os esperados; e
 * **teardown**: liberação dos recursos utilizados pelo código.
 
-Sua organização utiliza uma identificação e um nome descritivo.
+A organização dos casos de teste utilizam uma identificação e um nome descritivo, formando uma execução atômica de uma específica funcionalidade.
+
 ### O Que Testar?
 
 As tecnologias de desenvolvimento possuem elementos de programação mínimos para os testes, sendo:
