@@ -16,14 +16,14 @@ Na etapa de Codificação, os testes de caixa branca auxília nas práticas do _
 
 O teste utiliza um cenário \(requisito\) para composição de um conjunto de casos de teste durante a etapa de Codificação, assim garantindo a estrutura dos elementos de programação.
 
+A elaboração dos casos de teste utilizam uma identificação e um nome descritivo, formando uma execução atômica de uma específica funcionalidade, definindo seus dados de testes como entrada e a saída esperada na execução.
+
 Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na sigla **AAA\(A\)**, sendo:
 
 * **setup**: construção e configuração dos estados \(entradas, condições e limites\) requeridos pelo caso de teste;
 * **exercise**: execução das funcionalidades do código sobre teste;
 * **verify**: avaliação dos estados e comportamentos do código, comparando os resultados obtidos com os esperados; e
 * **teardown**: liberação dos recursos utilizados pelo código.
-
-A organização dos casos de teste utilizam uma identificação e um nome descritivo, formando uma execução atômica de uma específica funcionalidade, definindo seus dados de testes como entrada e a saída esperada na execução.
 
 ### O Que Testar?
 
