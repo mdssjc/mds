@@ -24,7 +24,7 @@ Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na s
 
 * **setup**: construção e configuração dos estados \(entradas, condições e limites\) requeridos pelo caso de teste;
 * **exercise**: execução das funcionalidades do código sobre teste;
-* **verify**: avaliação dos estados e comportamentos do código, comparando os resultados obtidos com os esperados; e
+* **verify**: avaliação dos estados e comportamentos do código, comparando os resultados obtidos com as saídas esperadas; e
 * **teardown**: liberação dos recursos utilizados pelo código.
 
 ### O Que Testar?
