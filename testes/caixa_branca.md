@@ -18,7 +18,7 @@ O teste utiliza um cenário \(~~requisito~~\) para composição de um conjunto d
 
 Na elaboração dos casos de teste utiliza uma identificação e um nome descritivo para cada variação de uma específica funcionalidade do cenário - formando uma execução atômica, assim definindo seus dados de testes como entrada e sua saída esperada na execução, conforme o estado inicial.
 
-`{ ID; Nome; Entrada; Saída Esperada; Estado Inicial }`
+`{ ID; Nome do Teste; Entrada; Saída Esperada; Estado Inicial }`
 
 Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na sigla **AAA\(A\)**, sendo:
 
@@ -28,6 +28,7 @@ Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na s
 * **teardown**: liberação dos recursos utilizados pelo código.
 
 A abordagem do TDD utiliza esse fluxo de forma otimizada.
+
 ### O Que Testar?
 
 As tecnologias de desenvolvimento possuem elementos de programação mínimos para os testes, sendo:
