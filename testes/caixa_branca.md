@@ -18,6 +18,8 @@ O teste utiliza um cenário \(requisito\) para composição de um conjunto de ca
 
 A elaboração dos casos de teste utilizam uma identificação e um nome descritivo, formando uma execução atômica de uma específica funcionalidade, definindo seus dados de testes como entrada e a saída esperada na execução.
 
+`{ ID; Nome; Entrada; Saída Esperada; Estado Inicial }`
+
 Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na sigla **AAA\(A\)**, sendo:
 
 * **setup**: construção e configuração dos estados \(entradas, condições e limites\) requeridos pelo caso de teste;
