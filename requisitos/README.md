@@ -1,6 +1,4 @@
-# 
-
-Requisitos
+# Requisitos
 
 ![](images/requisitos.png)
 
