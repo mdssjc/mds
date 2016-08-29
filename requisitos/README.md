@@ -1,6 +1,6 @@
 # Requisitos
 
-![](images/requisitos.png)
+![](/images/requisitos.png)
 
 A etapa de Requisitos é o início do projeto e sua base de avaliação, na qual a equipe de desenvolvimento será exposta aos problemas do cliente, esses são formados pelos requisitos em que definem uma necessidade específica, na qual detalha o que um particular produto deve ser ou fazer - etapa fundamental nas disciplinas de Engenharia de Sistemas ou Engenharia de _Software_.
 
