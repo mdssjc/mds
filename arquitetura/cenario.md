@@ -52,9 +52,9 @@ All resources must load in less than 10 seconds.
 Descrição das características de uso do sistema.
 
 ```
-As a < type of user >,   (WHO)
-I want < some goal >     (WHAT)
-so that < some reason >. (WHY)
+As a < type of user >,   (WHO)  // is this story for
+I want < some goal >     (WHAT) // they want to do
+so that < some reason >. (WHY)  // they want to do it
 ```
 
 Outro formato aplicado ao BDD é o: `Given / When / Then`
