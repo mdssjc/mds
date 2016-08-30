@@ -74,3 +74,9 @@ A lista de atividades é reunida em uma _Master Story List_.
 
 _em edição_
 
+## Especificação de Requisitos
+
+![](/images/skull.png)
+
+Método obsoleto de modelagem.
+
