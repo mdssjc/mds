@@ -2,7 +2,7 @@
 
 A técnica de **teste de caixa branca** \(_white-box testing_\) tem como objetivo avaliar a estrutura interna dos elementos de programação _\(técnica estrutural\)_ durante a etapa de Codificação nas fases de **testes unitários** \(_unit testing_\) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código \(estrutura interna do programa\) e\/ou **testes de integração ou componentes** \(_integration testing or component testing_\) - responsáveis por avaliar a comunicação entre unidades e recursos, principalmente a camada de infraestrutura e códigos de terceiros.
 
-Na etapa de Codificação, os testes de caixa branca auxília nas práticas do _Extrema Programming_ \(XP\):
+Na etapa de Codificação, os testes de caixa branca auxilia nas práticas do _Extrema Programming_ \(XP\):
 
 * **Refatoração** - _Refactoring_;
 * **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\);
@@ -69,9 +69,9 @@ Os excessos no código de teste \(padrões de _feedback_\) diz o quanto estável
 
 * exercícios das responsabilidades: baixa coesão;
 * dublês das colaboradoras: alto acoplamento; e
-* avalição em colaboradoras: encapsulamento.
+* avaliação em colaboradoras: encapsulamento.
 
-Complexidade ciclomática: métrica das ramificações existentes em uma unidade de programação, quanto maior o número, mais complexo e díficil de ser testado será o _software_ \(mais informações em [Medindo a complexidade do seu código](http://blog.caelum.com.br/medindo-a-complexidade-do-seu-codigo/ "Medindo a complexidade do seu código")\).
+Complexidade ciclomática: métrica das ramificações existentes em uma unidade de programação, quanto maior o número, mais complexo e difícil de ser testado será o _software_ \(mais informações em [Medindo a complexidade do seu código](http://blog.caelum.com.br/medindo-a-complexidade-do-seu-codigo/ "Medindo a complexidade do seu código")\).
 
 ### Ferramentas
 
