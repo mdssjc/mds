@@ -2,5 +2,5 @@
 
 A metodologia científica define o ambiente para a resolução de problemas.
 
-[**Variáveis**](variaveis.md) \| [**Linguagem de Programação**](/metodologia_cientifica/linguagem-de-programação.md)
+**[Variáveis](variaveis.md)** \| **[Linguagem de Programação](/metodologia_cientifica/linguagem-de-programação.md)** \| [**Tipos**](/metodologia_cientifica/tipos.md)
 
