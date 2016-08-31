@@ -55,7 +55,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Problema: Como manipular alternativas baseadas em tipo? Como criar componentes de software plugável?
 
-  Solução: Quando alternativas ou comportamentos relacionados variam por tipo, atribua a responsabilidade para o comportamento usando operações polifórmicas para os tipos pela qual o comportamento varie.
+  Solução: Quando alternativas ou comportamentos relacionados variam por tipo, atribua a responsabilidade para o comportamento usando operações polimórficas para os tipos pela qual o comportamento varie.
 
 * **Fabricação\/Invenção Pura** - _Pure Fabrication_: atribuição da responsabilidade de decomposição representacional e comportamental do domínio.
 
