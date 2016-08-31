@@ -11,13 +11,13 @@ O código é a implementação da solução do problema proposto durante a etapa
 * _Bugs_: previne e corrige os problemas; e
 * _Debugging_: reduz a necessidade de uso.
 
-**Refatoração**: técnica de melhoria no código através de correções em padrões de problemas \(_~~code~~__ bad smells_\):
+**Refatoração**: técnica de melhoria no código através de correções em padrões de problemas \(_bad smells_\):
 
-* _[Refactoring](http://refactoring.com)_: catálogo de técnicas sobre refatoração;
-* _[SourceMaking](https://sourcemaking.com)_: compilado de técnicas para melhoria no código; e
+* [_Refactoring_](http://refactoring.com): catálogo de técnicas sobre refatoração;
+* [_SourceMaking_](https://sourcemaking.com): compilado de técnicas para melhoria no código; e
 * Dívida Técnica \(_Technical Debt_\): complexidade acumulada durante o desenvolvimento.
 
-**Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\): técnica na qual empregra os testes como a principal ferramenta de desenvolvimento, antes mesmo do código de produção, através do seu ciclo:
+**Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\): técnica na qual emprega os testes como a principal ferramenta de desenvolvimento, antes mesmo do código de produção, através do seu ciclo:
 
 * _Red_ \(_Test Fails_\): exercício do código através de teste - fazer falhar, assim representando cada incremento da especificação;
 * _Green_ \(_Test Passes_\): implementação do código - fazer o teste passar; e
