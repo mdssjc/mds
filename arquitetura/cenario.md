@@ -8,7 +8,7 @@ _em edição_
 
 ## Use Case
 
-O _Use Case_ é uma técnica de modelagem clássica \(Desenvolvimento Guiado por Caso de Uso - _Use Case Driven Development_ \(UCDD\)\) na qual descreve o sistema em diferentes níveis através de diagrama \(visão gerão\) e descrição \(visão detalhada\).
+O _Use Case_ é uma técnica de modelagem clássica \(Desenvolvimento Guiado por Caso de Uso - _Use Case Driven Development_ \(UCDD\)\) na qual descreve o sistema em diferentes níveis através de diagrama \(visão geral\) e descrição \(visão detalhada\).
 
 **Descrição:**
 
@@ -37,7 +37,7 @@ Cada _feature_ é desenvolvida por completo.
 
 ## User Story
 
-O _user story_ é uma técnica de modelagem ágil \(Programação Extrema - _Extreme Programming_ \(XP\)\) na qual consiste de uma pequena descrição em linguagem ubíqua das características de valor para o sistema, divididas em cartões de restrição e característica, em que originam as tarefas \(_tasks_\) e critérios de testes \(_test critteria_\).
+O _user story_ é uma técnica de modelagem ágil \(Programação Extrema - _Extreme Programming_ \(XP\)\) na qual consiste em uma pequena descrição em linguagem ubíqua das características de valor para o sistema, divididas em cartões de restrição e característica, em que originam as tarefas \(_tasks_\) e critérios de testes \(_test critteria_\).
 
 **Cartão de Restrição:**
 
