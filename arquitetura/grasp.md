@@ -57,15 +57,15 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Quando alternativas ou comportamentos relacionados variam por tipo, atribua a responsabilidade para o comportamento usando operações polifórmicas para os tipos pela qual o comportamento varie.
 
-* **Fabricação\/Invenção Pura** - _Pure Fabrication_: atribuição da resposanbilidade de decomposição representacional e comportamental do domínio.
+* **Fabricação\/Invenção Pura** - _Pure Fabrication_: atribuição da responsabilidade de decomposição representacional e comportamental do domínio.
 
   Problema: Qual elemento de programação deveria ter a responsabilidade pela funcionalidade, quando não quer violar os princípios de Alta Coesão e Baixo Acoplamento, ou outras metas, mas a solução oferecida pelo princípio de Especialista na Informação não é apropriado?
 
-  Solução: Atribua o conjunto altamente coesivo de responsabilidades para um elemento de programação artificial ou coveniente que não represente um problema no conceito de domínio, alguma coisa feita para suportar a alta coesão, o baixo acoplamento e o reuso.
+  Solução: Atribua o conjunto altamente coesivo de responsabilidades para um elemento de programação artificial ou conveniente que não represente um problema no conceito de domínio, alguma coisa feita para suportar a alta coesão, o baixo acoplamento e o reuso.
 
 * **Indireção** - _Indirection_: atribuição da responsabilidade de mediar componentes do sistema.
 
-  Problema: Onde atribuir uma responsabilidade, para evitar acoplamento direto entre duas \(ou mais\) coisas? Como desacomplar elementos de programação para que o baixo acoplamento é suportado e o potencial reuso mantenha alto?
+  Problema: Onde atribuir uma responsabilidade, para evitar acoplamento direto entre duas \(ou mais\) coisas? Como desacoplar elementos de programação para que o baixo acoplamento é suportado e o potencial reuso mantenha alto?
 
   Solução: Atribua a responsabilidade para um elemento de programação intermediário para mediar entre outros componentes e serviços de forma que eles não são acoplados diretamente.
 
