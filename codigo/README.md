@@ -4,6 +4,13 @@
 
 O código é a implementação da solução do problema proposto durante a etapa de Codificação.
 
+```
++-------+      +---+      +-------------+
+|CLIENTE| <--> |API| <--> |IMPLEMENTAÇÃO|
++-------+      +---+      +-------------+
+```
+
+
 **Testes Unitários** - _Unit Testing_: \(ver [Caixa Branca](/testes/caixa_branca.md)\) execução automática de testes para apoiar na etapa de Codificação, em:
 
 * Implementação: das funcionalidade do cenário;
