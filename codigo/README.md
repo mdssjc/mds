@@ -10,7 +10,6 @@ O código é a implementação da solução do problema proposto durante a etapa
 +-------+      +---+      +-------------+
 ```
 
-
 **Testes Unitários** - _Unit Testing_: \(ver [Caixa Branca](/testes/caixa_branca.md)\) execução automática de testes para apoiar na etapa de Codificação, em:
 
 * Implementação: das funcionalidade do cenário;
@@ -20,8 +19,8 @@ O código é a implementação da solução do problema proposto durante a etapa
 
 **Refatoração**: técnica de melhoria no código através de correções em padrões de problemas \(_bad smells_\):
 
-* _[Refactoring](http://refactoring.com)_: catálogo de técnicas sobre refatoração;
-* _[SourceMaking](https://sourcemaking.com)_: compilado de técnicas para melhoria no código; e
+* [_Refactoring_](http://refactoring.com): catálogo de técnicas sobre refatoração;
+* [_SourceMaking_](https://sourcemaking.com): compilado de técnicas para melhoria no código; e
 * Dívida Técnica \(_Technical Debt_\): complexidade acumulada durante o desenvolvimento.
 
 **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\): técnica na qual emprega os testes como a principal ferramenta de desenvolvimento, antes mesmo do código de produção, através do seu ciclo:
@@ -34,7 +33,7 @@ O código é a implementação da solução do problema proposto durante a etapa
 
 ---
 
-**Programação por Contrato**: o cliente aceita as regras de como manipular os problemas pelo uso incorreto da API.
+**Programação por Contrato**: o cliente aceita as regras de como manipular os problemas pelo uso incorreto da API - geralmente retornando um valor nulo ou lançando uma exceção.
 
-**Programação Defensiva**: a API protege o cliente do uso incorreto.
+**Programação Defensiva**: a API protege o cliente do uso incorreto - geralmente retornando um resultado padrão ou lançando uma exceção com tratamento obrigatório.
 
