@@ -6,6 +6,10 @@ O cenário é o processo de transformação \(modelagem\) dos requisitos em solu
 
 _em edição_
 
+## What If
+
+_em edição_
+
 ## Use Case
 
 O _Use Case_ é uma técnica de modelagem clássica \(Desenvolvimento Guiado por Caso de Uso - _Use Case Driven Development_ \(UCDD\)\) na qual descreve em diferentes níveis através de diagrama \(visão geral\) e descrição \(visão detalhada\) as interações dos atores ao sistema.
@@ -71,10 +75,6 @@ As características de um bom _User Story_ é resumida no acrônimo _INVEST_:
 A lista de atividades é reunida em uma _Master Story List_.
 
 Cada _user story_ é desenvolvida por completo em uma iteração.
-
-## What If
-
-_em edição_
 
 ## Especificação de Requisitos
 
