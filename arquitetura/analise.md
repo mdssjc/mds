@@ -1,6 +1,8 @@
 # Análise
 
-O que fazer para solucionar o problema?
+O que fazer para solucionar o problema? Na análise são realizado diversos estudos sobre como resolver o problema proposto.
+
+
 
 Análise Textual
 
