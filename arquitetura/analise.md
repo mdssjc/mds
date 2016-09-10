@@ -2,9 +2,7 @@
 
 O que fazer para solucionar o problema? Na análise são realizado diversos estudos sobre como resolver o problema proposto.
 
-
-
-Análise Textual
+**Análise Textual**: o processo de obtenção dos candidatos a elementos de progração, sendo os substantivos como abstração e os verbos como funcionalidades.
 
 Análise de Comunalidade\/Variabilidade
 
