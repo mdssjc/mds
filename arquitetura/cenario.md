@@ -70,6 +70,8 @@ As características de um bom _User Story_ é resumida no acrônimo _INVEST_:
 
 A lista de atividades é reunida em uma _Master Story List_.
 
+Cada _user story_ é desenvolvida por completo em uma iteração.
+
 ## What If
 
 _em edição_
