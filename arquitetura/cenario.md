@@ -18,8 +18,15 @@ O _Use Case_ ou Caso de Uso é uma técnica de modelagem clássica \(Desenvolvim
 
 ![](/images/arquitetura-cenario-usecase-1.png)
 
-
 **Descrição:**
+
+```
+Título
+1. Etapa 1
+ 1.1 Etapa 1.1
+2. Etapa 2
+...
+```
 
 Cada _use case_ é desenvolvido por completo.
 
