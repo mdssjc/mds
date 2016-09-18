@@ -10,26 +10,24 @@ Os _plugins_ são incrementos ao _Eclipse_ com o propósito de auxiliar no desen
 
 **Análise de Bytecode**
 
-* **[Findbugs](https://marketplace.eclipse.org/content/findbugs-eclipse-plugin)**: verificação dos _bytecode_. 
+* [**Findbugs**](https://marketplace.eclipse.org/content/findbugs-eclipse-plugin): verificação dos _bytecode_. 
 * [**Checker Framework**](http://types.cs.washington.edu/checker-framework/): verificação de pontos críticos.
 * ~~Dr. Garbage Tools~~: ferramentas para análise de _bytecode_. \(não compatível com _Neon_\)
 
 **Análise de Teste**
 
-* [**EclEmma**](https://marketplace.eclipse.org/content/eclemma-java-code-coverage)\/[**ECobertura**](https://marketplace.eclipse.org/content/ecobertura): cobertura dos testes.
-* **[Pitclipse](https://marketplace.eclipse.org/content/pitclipse)**: cobertura com testes de mutação.
+* [**EclEmma**](https://marketplace.eclipse.org/content/eclemma-java-code-coverage)**\/**[**ECobertura**](https://marketplace.eclipse.org/content/ecobertura): cobertura dos testes.
+* [**Pitclipse**](https://marketplace.eclipse.org/content/pitclipse): cobertura com testes de mutação.
 * [**Infinitest**](https://marketplace.eclipse.org/content/infinitest): automação dos testes unitários.
 
 **Produtividade**
 
-* **[Code Recommenders](https://marketplace.eclipse.org/content/eclipse-code-recommenders)**: sugestão de código e estruturas com inteligência.
+* [**Code Recommenders**](https://marketplace.eclipse.org/content/eclipse-code-recommenders): sugestão de código e estruturas com inteligência.
 
 **Ferramentas**
 
 * [**Vrapper**](https://marketplace.eclipse.org/content/vrapper-vim): emulação do _VIM_.
-* **[Eclim](http://eclim.org)**: integração com o _Emacs\/Vim_.
-* **[AnyEdit](https://marketplace.eclipse.org/content/anyedit-tools)**: funções para automação de formatação na codificação.
+* [**Eclim**](http://eclim.org): integração com o _Emacs\/Vim_.
+* [**AnyEdit**](https://marketplace.eclipse.org/content/anyedit-tools): funções para automação de formatação na codificação.
 * [**Emmet**](https://marketplace.eclipse.org/content/emmet-ex-zen-coding-eclipse-plugin): dinamismo em linguagens declarativas como _HTML_ e _CSS_.
-
-_Observação: com a nova versão do Eclipse em estudo será possível determinar quais plugins são necessários._
 
