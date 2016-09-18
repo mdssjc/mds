@@ -73,6 +73,10 @@ so that < some reason >. (WHY)  // they want to do it
 
 Em BDD utiliza-se as partes: `Given / When / Then`
 
+**Tarefas**: conjunto de atividades necessárias para resolver o problema.
+
+**Critérios de Testes**: conjuntos de testes para validar o problema.
+
 As características de um bom _User Story_ é resumida no acrônimo _INVEST_:
 
 * _Independent_ - independente;
