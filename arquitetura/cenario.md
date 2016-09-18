@@ -23,7 +23,7 @@ O _Use Case_ ou Caso de Uso é uma técnica de modelagem clássica \(Desenvolvim
 ```
 Título do Cenário
 1. Etapa 1
-  1.1 Etapa 1.1
+  1.1 Subetapa 1.1
 2. Etapa 2
 ...
 ```
