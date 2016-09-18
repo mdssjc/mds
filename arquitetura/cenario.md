@@ -12,7 +12,7 @@ _em edição_
 
 ## Use Case
 
-O _Use Case_ é uma técnica de modelagem clássica \(Desenvolvimento Guiado por Caso de Uso - _Use Case Driven Development_ \(UCDD\)\) na qual descreve em diferentes níveis através de diagrama \(visão geral\) e descrição \(visão detalhada\) as interações dos atores ao sistema.
+O _Use Case_ ou Caso de Uso é uma técnica de modelagem clássica \(Desenvolvimento Guiado por Caso de Uso - _Use Case Driven Development_ \(UCDD\)\) na qual descreve em diferentes níveis através de diagrama \(visão geral\) e descrição \(visão detalhada\) as interações dos atores ao sistema.
 
 **Diagrama:**
 

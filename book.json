@@ -1,6 +1,7 @@
 {
     "plugins": [
         "ga"
+        "puml"
     ],
     "pluginsConfig": {
         "ga": {
