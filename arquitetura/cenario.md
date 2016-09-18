@@ -16,7 +16,11 @@ O _Use Case_ ou Caso de Uso é uma técnica de modelagem clássica \(Desenvolvim
 
 **Diagrama:**
 
+{% plantuml %}
 
+Bob-&gt;Alice : hello
+
+{% endplantuml %}
 
 Ator
 
