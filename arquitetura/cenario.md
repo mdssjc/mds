@@ -28,6 +28,8 @@ Título do Cenário
 ...
 ```
 
+As partes de um use case são: caminho principal \(_main path_\), caminho alternativo \(_alternative path_\) e exceções \(_exceptions_\).
+
 Cada _use case_ é desenvolvido por completo.
 
 ## Feature
