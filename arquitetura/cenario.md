@@ -71,7 +71,7 @@ I want < some goal >     (WHAT) // they want to do
 so that < some reason >. (WHY)  // they want to do it
 ```
 
-~~Outro formato aplicado ao BDD é o: ~~~~`Given / When / Then`~~
+Em BDD utiliza-se as partes: `Given / When / Then`
 
 As características de um bom _User Story_ é resumida no acrônimo _INVEST_:
 
