@@ -28,7 +28,9 @@ Título do Cenário
 ...
 ```
 
-As partes executáveis de um use case são: caminho principal \(_main path_\), caminho alternativo \(_alternative path_\) e exceções \(_exceptions_\).
+As partes comportamentais de um _use case_ são: título \(_title_\), atores \(_actors_\), pré-condições \(_preconditions_\) e meta \(_goal_\).
+
+As partes executáveis de um _use case_ são: caminho principal \(_main path_\), caminho alternativo \(_alternative path_\) e exceções \(_exceptions_\).
 
 Cada _use case_ é desenvolvido por completo.
 
