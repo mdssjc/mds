@@ -1,5 +1,7 @@
 # Princípios
 
+Os princípios são a bagagem de experiências sobre arquitetura.
+
 * [GRASP](/arquitetura/grasp.md)
 * [SOLID](/arquitetura/solid.md)
 
