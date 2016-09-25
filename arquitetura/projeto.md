@@ -4,9 +4,10 @@ Como fazer para solucionar o problema?
 
 ## CRC Cards
 
-CRC significa Class, Responsibility, Collaborator \(Classe, Responsabilidade, Colaboração\).
+O CRC significa _Class_, _Responsibility_, _Collaborator _\(Classe, Responsabilidade, Colaboração\) e  é uma técnica de modelagem ágil \(Programação Extrema - _Extreme Programming_ \(XP\)\).
 
 **Exemplo de Cartão:**
+
 ```
 Class: NameOfClass
 
@@ -18,6 +19,4 @@ Name  |  Collaborator
 Do    |  OtherClass
 Know  |
 ```
-
-
 
