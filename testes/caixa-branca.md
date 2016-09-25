@@ -1,6 +1,6 @@
 # Caixa Branca
 
-A técnica de **teste de caixa branca** \(_white-box testing_\) tem como objetivo avaliar a estrutura interna dos elementos de programação _\(técnica estrutural\)_ durante a etapa de Codificação nas fases de **testes unitários** \(_unit testing_\) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código \(estrutura interna do programa\) e\/ou **testes de integração ou componentes** \(_integration testing or component testing_\) - responsáveis por avaliar a comunicação entre unidades e recursos, principalmente a camada de infraestrutura e códigos de terceiros.
+A técnica de **teste de caixa branca** \(_white-box testing_\) tem como objetivo avaliar a estrutura interna dos elementos de programação _\(técnica estrutural\)_ durante a etapa de Codificação nas fases de **testes unitários** \(_unit testing_\) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código \(estrutura interna do programa\) e/ou **testes de integração ou componentes** \(_integration testing or component testing_\) - responsáveis por avaliar a comunicação entre unidades e recursos, principalmente a camada de infraestrutura e códigos de terceiros.
 
 Na etapa de Codificação, os testes de caixa branca auxilia nas práticas do _Extrema Programming_ \(XP\):
 
@@ -20,7 +20,7 @@ Na elaboração dos casos de teste utiliza uma identificação e um nome descrit
 
 `{ ID; Nome do Teste; Entrada; Saída Esperada; Estado Inicial }`
 
-Os casos de teste são organizadas em quatro \(4\) fases\/etapas - pensando na sigla **AAA\(A\)**, sendo:
+Os casos de teste são organizadas em quatro \(4\) fases/etapas - pensando na sigla **AAA\(A\)**, sendo:
 
 * **setup**: construção e configuração dos estados \(entradas, condições e limites\) requeridos pelo caso de teste;
 * **exercise**: execução das funcionalidades do código sobre teste;
@@ -53,7 +53,7 @@ Os seguintes identificadores são utilizados para os:
 
 * Testes:
 
-  * _Action_: utiliza uma ação avaliável do teste, considerando o resultado e\/ou condição da operação, exemplo: _adicionaUmUsuarioEmUmaListaVazia_; e
+  * _Action_: utiliza uma ação avaliável do teste, considerando o resultado e/ou condição da operação, exemplo: _adicionaUmUsuarioEmUmaListaVazia_; e
   * _Given-When-Then_: relaciona o contexto, ação e resultado do teste, exemplo: _dadoXQuandoAcontecerYEntaoFacaZ_.
 
 
@@ -98,9 +98,9 @@ EAM _em edição_
 
 * **AAA\[A\]** - organização e formatação dos casos de teste:
 
-  **A**rrange: monta\/organiza o código com todas as entradas e pré-condições necessárias ao teste;
+  **A**rrange: monta/organiza o código com todas as entradas e pré-condições necessárias ao teste;
 
-  **A**ct: exercita\/executa o código sobre teste;
+  **A**ct: exercita/executa o código sobre teste;
 
   **A**ssert: avalia os resultados obtidos do código com os esperados pelo teste;
 
@@ -174,8 +174,8 @@ EAM _em edição_
 
 Código de teste também possui _bad smells_, tais como:
 
-* **Unnecessary Test Code** \(Código de Teste Desnecessário\): o caso de teste é construído com código em excesso e\/ou defensivo, sem significado e valor ao teste;
-* **Missing Abstractions** \(Falta de Abstração\): exagero e\/ou preciosismo nos detalhes sobre a organização e formatação do teste;
+* **Unnecessary Test Code** \(Código de Teste Desnecessário\): o caso de teste é construído com código em excesso e/ou defensivo, sem significado e valor ao teste;
+* **Missing Abstractions** \(Falta de Abstração\): exagero e/ou preciosismo nos detalhes sobre a organização e formatação do teste;
 * **Irrelevant Information** \(Informação Irrelevante\): utilização de dados irrelevantes ao teste, tais como literais e sentinelas;
 * **Bloated Construction** \(Construção Inchada\): complexidade na montagem dos elemento no teste;
 * **Multiple Assertions** \(Múltiplas Avaliações\): excesso de responsabilidades no teste;
