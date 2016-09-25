@@ -16,7 +16,7 @@ Os _plugins_ são incrementos ao _Eclipse_ com o propósito de auxiliar no desen
 
 **Análise de Teste**
 
-* [**EclEmma**](https://marketplace.eclipse.org/content/eclemma-java-code-coverage)\/[**ECobertura**](https://marketplace.eclipse.org/content/ecobertura): estatística da cobertura dos testes.
+* [**EclEmma**](https://marketplace.eclipse.org/content/eclemma-java-code-coverage)/[**ECobertura**](https://marketplace.eclipse.org/content/ecobertura): estatística da cobertura dos testes.
 * [**Pitclipse**](https://marketplace.eclipse.org/content/pitclipse): estatística da cobertura dos testes com mutação de código.
 * [**Infinitest**](https://marketplace.eclipse.org/content/infinitest): automação dos testes unitários.
 
