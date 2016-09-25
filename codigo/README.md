@@ -29,7 +29,7 @@ O código é a implementação da solução do problema proposto durante a etapa
 * _Green_ \(_Test Passes_\): implementação do código - fazer o teste passar; e
 * _Refactor_: aplicação da refatoração em melhorias nos recursos utilizados no ciclo, como código, teste, configuração e etc...
 
-**Integração Contínua** - _Continuous Integration_ \(CI\): processo de integração dos incrementos de codificação, com execução automática e avaliativa dos testes - simulando o ambiente de produção. O processo é automático por um sistema de integração contínua, na qual verifica o repositório de código, realiza o _check-in\/build_ e analisa a saúde do projeto, notificando os problemas aos desenvolvedores.
+**Integração Contínua** - _Continuous Integration_ \(CI\): processo de integração dos incrementos de codificação, com execução automática e avaliativa dos testes - simulando o ambiente de produção. O processo é automático por um sistema de integração contínua, na qual verifica o repositório de código, realiza o _check-in/build_ e analisa a saúde do projeto, notificando os problemas aos desenvolvedores.
 
 ---
 
