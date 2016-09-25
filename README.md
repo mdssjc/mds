@@ -8,9 +8,9 @@ Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _softw
 
 **Página**: [mdssjc.github.io](http://goo.gl/wfgE07 "Página do MDS")
 
-**Repositório**: [github.com\/mdssjc](http://goo.gl/FvxXNM "Repositório do MDS")
+**Repositório**: [github.com/mdssjc](http://goo.gl/FvxXNM "Repositório do MDS")
 
-[**Requisitos**](requisitos/README.md) \| [**Arquitetura**](/arquitetura/README.md) \| [**Testes**](testes/README.md) \| [**Código**](/codigo/README.md) \| [**Ferramentas**](/ferramentas/README.md) \| [**Metodologia Científica**](/metodologia-cientifica/README.md)
+**[Requisitos](requisitos/README.md)** \| **[Arquitetura](/arquitetura/README.md)** \| **[Testes](testes/README.md)** \| **[Código](/codigo/README.md)** \| **[Ferramentas](/ferramentas/README.md)** \| **[Metodologia Científica](/metodologia-cientifica/README.md)**
 
 ![](images/arquitetura-software.png)
 
