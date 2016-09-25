@@ -21,7 +21,7 @@
   * [Emacs](ferramentas/emacs/README.md)
 * [Metodologia Científica](/metodologia-cientifica/README.md)
   * [Variáveis](/metodologia-cientifica/variaveis.md)
-  * [Linguagem de Programação](metodologia-cientifica/linguagem-de-programacao.md)
-  * [Tipos](metodologia-cientifica/tipos.md)
+  * [Linguagem de Programação](/metodologia-cientifica/linguagem-de-programacao.md)
+  * [Tipos](/metodologia-cientifica/tipos.md)
 * [Referências](referencias.md)
 
