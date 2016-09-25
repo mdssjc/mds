@@ -31,11 +31,13 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
   Regras sobre o uso do polimorfismo por subtipos de herança,
 
   com requisitos de assinatura:
+
   * contravariância: dos argumentos\/parâmetros das funções\/métodos em um subtipo, sendo o sentido do relacionamento ascendente ao tipo;
-  * covariância: dos tipos de retorno em um subtipo, sendo o sentido do relacionamento descentente ao tipo; e
+  * covariância: dos tipos de retorno em um subtipo, sendo o sentido do relacionamento descendente ao tipo; e
   * exceção: não pode ser novas e\/ou maior que a definida no tipo.
 
   e requisitos de comportamento:
+
   * invariante: qualquer predicado deve ser preservado em um subtipo;
   * pré-condição: uma condição ou predicado não pode ser mais forte em um subtipo, porém pode ser mais fraca; e
   * pós-condição: uma condição ou predicado não pode ser mais fraca em um subtipo, porém pode ser mais forte.
