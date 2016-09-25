@@ -14,7 +14,7 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
 * **[Princípio do Aberto-Fechado](http://c2.com/cgi/wiki?OpenClosedPrinciple "Open Closed Principle")** - _Open-Closed Principle_ \(_OCP_\) por _Bertrand Meyer_ \(criador da linguagem de programação _Eiffel_\) em 1988: projete elementos de programação para serem abertas para extensão, mas fechadas para modificações, minimize as necessidades de fazer mudanças para elementos de programação existentes.
 
-  _Open_: abstração por polimorfismo \/ _Closed_: definição de API.
+  _Open_: abstração por polimorfismo / _Closed_: definição de API.
 
   O gerenciamento de dependências utiliza-se da abstração para adicionar novas funcionalidades, assim mantendo a definição sem alterações.
 
@@ -32,9 +32,9 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
   com requisitos de assinatura:
 
-  * contravariância: dos argumentos\/parâmetros das funções\/métodos em um subtipo, sendo o sentido do relacionamento ascendente ao tipo;
+  * contravariância: dos argumentos/parâmetros das funções/métodos em um subtipo, sendo o sentido do relacionamento ascendente ao tipo;
   * covariância: dos tipos de retorno em um subtipo, sendo o sentido do relacionamento descendente ao tipo; e
-  * exceção: não pode ser novas e\/ou maior que a definida no tipo.
+  * exceção: não pode ser novas e/ou maior que a definida no tipo.
 
   e requisitos de comportamento:
 
@@ -46,7 +46,7 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
   O gerenciamento de dependências utiliza-se do polimorfismo para manter correta a árvore de relacionamentos.
 
-  A violação do princípio pode ser corrigida com uso do polimorfismo por subtipos de interface, como relacionamento por composição\/agregação e delegação.
+  A violação do princípio pode ser corrigida com uso do polimorfismo por subtipos de interface, como relacionamento por composição/agregação e delegação.
 
   Veja também [_Polymorphism_](/arquitetura/grasp.md) em _GRASP_.
 
