@@ -8,7 +8,7 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
   Aplicar o princípio muito cedo na camada de domínio pode resultar em futuros problemas de projeto.
 
-  Veja também _[High Cohesion](/arquitetura/grasp.md)_ em _GRASP_.
+  Veja também [_Low Coupling_](/arquitetura/grasp.md) e _[High Cohesion](/arquitetura/grasp.md)_ em _GRASP_.
 
 * [**Princípio do Aberto-Fechado**](http://c2.com/cgi/wiki?OpenClosedPrinciple "Open Closed Principle") - _Open-Closed Principle_ \(_OCP_\) por _Bertrand Meyer_ \(criador da linguagem de programação _Eiffel_\) em 1988: projete classes para serem abertas para extensão, mas fechadas para modificações, minimize as necessidades de fazer mudanças para classes existentes.
 
