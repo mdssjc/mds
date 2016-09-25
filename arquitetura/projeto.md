@@ -1,6 +1,6 @@
 # Projeto
 
-Como fazer para solucionar o problema?
+Como fazer para solucionar o problema? No projeto são aplicados os estudos da análise em modelos prontos para a implementação na etapa de Codificação.
 
 ## CRC Cards
 
@@ -29,6 +29,7 @@ A construção dos CRC _cards_ utiliza a técnica de Análise Textual.
 * Identificação dos Substantivos como Classes;
 
 * Refinamento da Lista de Classes;
+
 * Identificação das Responsabilidades Óbvias;
 
 * Identificação dos Verbos como Responsabilidades;
@@ -36,4 +37,5 @@ A construção dos CRC _cards_ utiliza a técnica de Análise Textual.
 * Atribuição das Novas Responsabilidades;
 
 * Apresentação da Lógica para cada Responsabilidade.
+
 
