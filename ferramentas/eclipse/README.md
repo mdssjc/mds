@@ -16,7 +16,7 @@ Notas da Versão: [AQUI](https://www.eclipse.org/neon/noteworthy/)
 
 * **Java EE Developers**
 * **Java Developers**
-* C\/C++ Developers
+* C/C++ Developers
 * PHP Developers
 * Android Developers
 * Eclipse Committers
