@@ -17,6 +17,6 @@ Responsibilities:
 Name  |  Collaborator
 ------+--------------
 Do    |  OtherClass
-Know  |
+Know  |  -
 ```
 
