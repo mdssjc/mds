@@ -6,6 +6,7 @@ Como fazer para solucionar o problema?
 
 CRC significa Class, Responsibility, Collaborator \(Classe, Responsabilidade, Colaboração\).
 
+**Exemplo de Cartão:**
 ```
 Class: NameOfClass
 
