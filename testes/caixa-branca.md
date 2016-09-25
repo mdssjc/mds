@@ -49,7 +49,7 @@ Os seguintes identificadores são utilizados para os:
 
   * _NameTest_: testes unitários;
   * _NameIntegrationTest_: testes de integração; e
-  * _NameSystemTest_: testes de sistema \(ver [Caixa Preta](caixa_preta.md)\).
+  * _NameSystemTest_: testes de sistema \(ver [Caixa Preta](/testes/caixa-preta.md)\).
 
 * Testes:
 
