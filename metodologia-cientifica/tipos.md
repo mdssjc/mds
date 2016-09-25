@@ -8,7 +8,7 @@ Tipos base como inteiro, real, caractere e etc...
 
 ## Composto
 
-Tipos compostos e\/ou encadeado:
+Tipos compostos e/ou encadeado:
 
 * _Each-of_: composição do produto dos tipos, `t = t1 and t2`.
 * _One-of_: composição da soma dos tipos, `t = t or nop`.
