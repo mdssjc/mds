@@ -1,6 +1,6 @@
 # Princípios e Padrões
 
-Os princípios e padrões são as bagagens de experiências do desenvolvedor sobre a etapa de Arquitetura, enquanto os princípios trazem as sugestões e recomendações de expressões idiomáticas para a criação do _software_, os padrões trazem a formalização dos princípios em pares de problema\/solução para serem aplicados e moldados aos contextos de _software_.
+Os princípios e padrões são as bagagens de experiências do desenvolvedor sobre a etapa de Arquitetura, enquanto os princípios trazem as sugestões e recomendações de expressões idiomáticas para a criação do _software_, os padrões trazem a formalização dos princípios em pares de problema/solução para serem aplicados e moldados aos contextos de _software_.
 
 * [GRASP](/arquitetura/grasp.md)
 * [SOLID](/arquitetura/solid.md)
@@ -23,7 +23,7 @@ _em edição_
 
 ### Outros
 
-* **_[DRY](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself")_** \(_Don’t Repeat Yourself_\) \/ **_WET_** \(_Write Every Time_\): princípio sobre o problema da duplicação de código.
+* **_[DRY](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself")_** \(_Don’t Repeat Yourself_\) / **_WET_** \(_Write Every Time_\): princípio sobre o problema da duplicação de código.
 
   Evite código duplicado por abstrair as coisas que são comuns e colocando essas coisas em um único local.
 
