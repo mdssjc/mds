@@ -9,25 +9,18 @@
   * [Princípios e Padrões](arquitetura/principios-padroes.md)
     * [GRASP](arquitetura/grasp.md)
     * [SOLID](arquitetura/solid.md)
-
-
 * [Testes](testes/README.md)
   * [Introdução](testes/introducao.md)
   * [Caixa Branca](/testes/caixa-branca.md)
   * [Caixa Preta](/testes/caixa-preta.md)
   * [Ferramentas](testes/ferramentas.md)
-
 * [Código](codigo/README.md)
 * [Ferramentas](ferramentas/README.md)
   * [Eclipse](ferramentas/eclipse/README.md)
     * [Plugins](ferramentas/eclipse/plugins.md)
-
   * [Emacs](ferramentas/emacs/README.md)
-
 * [Metodologia Científica](/metodologia-cientifica/README.md)
   * [Variáveis](/metodologia-cientifica/variaveis.md)
   * [Linguagem de Programação](metodologia_cientifica/linguagem-de-programação.md)
   * [Tipos](metodologia_cientifica/tipos.md)
-
 * [Referências](referências.md)
-
