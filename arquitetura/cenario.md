@@ -36,7 +36,7 @@ Cada _use case_ é desenvolvido por completo.
 
 ## Feature
 
-A _Feature_ é uma técnica de modelagem clássica \(Desenvolvimento Guiado por Funcionalidades - _Feature Driven Development_ \(FDD\)\) na qual define uma descrição de alto nível em linguagem ubíqua das funcionalidades\/características que o sistema necessita fazer.
+A _Feature_ é uma técnica de modelagem clássica \(Desenvolvimento Guiado por Funcionalidades - _Feature Driven Development_ \(FDD\)\) na qual define uma descrição de alto nível em linguagem ubíqua das funcionalidades/características que o sistema necessita fazer.
 
 ```
 System XYZ
