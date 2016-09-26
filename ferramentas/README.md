@@ -1,6 +1,6 @@
 # Ferramentas
 
-[Eclipse](/ferramentas/eclipse/README.md)
+O ambiente de trabalho de todo desenvolvedor necessita de excelentes ferramentas, tais como: \| 
 
-[Emacs](/ferramentas/emacs/README.md)
+[**Eclipse**](/ferramentas/eclipse/README.md) \| [**Emacs**](/ferramentas/emacs/README.md)
 
