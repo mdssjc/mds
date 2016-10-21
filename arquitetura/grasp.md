@@ -57,7 +57,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Quando alternativas ou comportamentos relacionados variam por tipo, atribua a responsabilidade para o comportamento usando operações polimórficas para os tipos pela qual o comportamento varie.
 
-* **Fabricação\/Invenção Pura** - _Pure Fabrication_: atribuição da responsabilidade de decomposição representacional e comportamental do domínio.
+* **Fabricação/Invenção Pura** - _Pure Fabrication_: atribuição da responsabilidade de decomposição representacional e comportamental do domínio.
 
   Problema: Qual elemento de programação deveria ter a responsabilidade pela funcionalidade, quando não quer violar os princípios de Alta Coesão e Baixo Acoplamento, ou outras metas, mas a solução oferecida pelo princípio de Especialista na Informação não é apropriado?
 
@@ -69,7 +69,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Atribua a responsabilidade para um elemento de programação intermediário para mediar entre outros componentes e serviços de forma que eles não são acoplados diretamente.
 
-* **Variações Protegidas** - _Protected Variations_: atribuição da responsabilidade de proteger os pontos de variação e evolução do sistema_._ Outros nomes: Encapsulamento - _Encapsulation_, Ocultamento de Informação - _Information Hiding_ ou Princípio do Aberto-Fechado - _Open-Closed Principle_.
+* **Variações Protegidas** - _Protected Variations_: atribuição da responsabilidade de proteger os pontos de variação e evolução do sistema. Outros nomes: Encapsulamento - _Encapsulation_, Ocultamento de Informação - _Information Hiding_ ou Princípio do Aberto-Fechado - _Open-Closed Principle_.
 
   Problema: Como projetar elementos de programação, subsistemas e sistemas para que as variações ou instabilidades nesses elementos não tenham impactos indesejáveis sobre outros elementos?
 
