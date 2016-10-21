@@ -31,7 +31,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Atribua responsabilidades, de modo que o acoplamento \(desnecessário\) mantenha baixo. Use este princípio para avaliar alternativas.
 
-* **Controlador** - _Controller_: atribuição da responsabilidade de manipular os eventos no sistema e delegar aos elementos de programação, também conhecido por Coordenadora_._
+* **Controlador** - _Controller_: atribuição da responsabilidade de manipular os eventos no sistema e delegar aos elementos de programação, também conhecido por Coordenadora.
 
   Problema: Qual o primeiro elemento além da camada de apresentação \(visão\) recebe e coordena \(controla\) uma operação no sistema?
 
@@ -57,7 +57,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Quando alternativas ou comportamentos relacionados variam por tipo, atribua a responsabilidade para o comportamento usando operações polimórficas para os tipos pela qual o comportamento varie.
 
-* **Fabricação/Invenção Pura** - _Pure Fabrication_: atribuição da responsabilidade de decomposição representacional e comportamental do domínio.
+* **Fabricação\/Invenção Pura** - _Pure Fabrication_: atribuição da responsabilidade de decomposição representacional e comportamental do domínio.
 
   Problema: Qual elemento de programação deveria ter a responsabilidade pela funcionalidade, quando não quer violar os princípios de Alta Coesão e Baixo Acoplamento, ou outras metas, mas a solução oferecida pelo princípio de Especialista na Informação não é apropriado?
 
