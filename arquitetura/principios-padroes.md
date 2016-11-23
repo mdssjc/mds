@@ -23,7 +23,7 @@ _em edição_
 
 ### Outros
 
-* **_[DRY](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself")_** \(_Don’t Repeat Yourself_\) \/ **_WET_** \(_Write Every Time_\): princípio sobre o problema da duplicação de código.
+* **_[DRY](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself")_** \(_Don’t Repeat Yourself_\) / **_WET_** \(_Write Every Time_\): princípio sobre o problema da duplicação de código.
 
   Evite código duplicado por abstrair as coisas que são comuns e colocando essas coisas em um único local.
 
