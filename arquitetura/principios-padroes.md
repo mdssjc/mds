@@ -3,8 +3,9 @@
 Os princípios e padrões são as bagagens de experiências do desenvolvedor sobre a etapa de Arquitetura, enquanto os princípios trazem as sugestões e recomendações de expressões idiomáticas para a criação do _software_, os padrões trazem a formalização dos princípios em pares de problema/solução para serem aplicados e moldados aos contextos de _software_.
 
 * [GRASP](/arquitetura/grasp.md)
-* [GoF](/arquitetura/gof.md)
 * [SOLID](/arquitetura/solid.md)
+* [GoF](/arquitetura/gof.md)
+* POSA
 
 ### Básico
 
@@ -13,10 +14,6 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
 * Delegação
 * ~~Acoplamento~~
 * ~~Responsabilidade~~
-
-### POSA
-
-_em edição_
 
 ### Outros
 
