@@ -14,10 +14,6 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
 * ~~Acoplamento~~
 * ~~Responsabilidade~~
 
-### GoF
-
-_em edição_
-
 ### POSA
 
 _em edição_
