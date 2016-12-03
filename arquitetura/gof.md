@@ -22,7 +22,7 @@ Classificação segundo GoF:
 
 Classificação segundo _Metsker_:
 
-| Intenção | Padrões |
+| **Intenção** | **Padrões** |
 | :--- | :--- |
 | 1. Interfaces | Adapter, Facade, Composite, Bridge |
 | 2. Responsabilidade | Singleton, Observer, Mediator, Proxy, Chain of Responsibility, Flyweight |
