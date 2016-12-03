@@ -8,7 +8,7 @@
     * [Projeto](arquitetura/projeto.md)
     * [Princípios e Padrões](arquitetura/principios-padroes.md)
         * [GRASP](arquitetura/grasp.md)
-        * GoF
+        * [GoF](arquitetura/gof.md)
         * [SOLID](arquitetura/solid.md)
 * [Testes](testes/README.md)
     * [Introdução](testes/introducao.md)
