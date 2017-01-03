@@ -21,6 +21,7 @@
         * [Plugins](ferramentas/eclipse/plugins.md)
     * [Emacs](ferramentas/emacs/README.md)
 * [Metodologia Científica](metodologia-cientifica/README.md)
+    * [Agil](metodologia-cientifica/agil.md)
     * [Variáveis](metodologia-cientifica/variaveis.md)
     * [Linguagem de Programação](metodologia-cientifica/linguagem-de-programacao.md)
     * [Tipos](metodologia-cientifica/tipos.md)
