@@ -10,13 +10,12 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Abribua a B a responsabilidade de criar uma instância de A, se:
 
-
 > B contém ou agrega A.
-> 
+>
 > B registra ou guarda instância de A.
-> 
+>
 > B faz uso de A.
-> 
+>
 > B tem dados de inicialização de A.
 
 * **Especialista na Informação** - _Information Expert_ \(_Expert_\): atribuição da responsabilidade \(saber e fazer\) ao elemento de programação com a informação.
@@ -37,9 +36,8 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Atribua a responsabilidade para um elemento representando uma das seguintes escolhas:
 
-
 > Representa o sistema geral, um elemento raiz, um dispositivo que o _software_ está em execução ou um subsistema maior \(estas são todas variações de um Controlador de Fachada - _Facade Controller or Front Controller_\).
-> 
+>
 > Representa um cenário de caso de uso em que a operação do sistema ocorre \(um Controlador de Caso de Uso ou de Sessão - _Use Case Controller or Session Controller_\). Identificações comuns são: &lt;name&gt;Handler, &lt;name&gt;Coordinator ou &lt;name&gt;Session.
 
 * **Alta Coesão** - _High Cohesion_: atribuição da responsabilidade de minimizar as funcionalidades não relacionadas aos elementos de programação.
@@ -48,7 +46,6 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Atribua responsabilidades de modo que a coesão mantenha alta. Use este princípio para avaliar alternativas.
 
-
 ## Avançados
 
 * **Polimorfismo** - _Polymorphism_: atribuição da responsabilidade de manipular variações similares no sistema.
@@ -56,6 +53,12 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
   Problema: Como manipular alternativas baseadas em tipo? Como criar componentes de _software_ plugável?
 
   Solução: Quando alternativas ou comportamentos relacionados variam por tipo, atribua a responsabilidade para o comportamento usando operações polimórficas para os tipos pela qual o comportamento varie.
+
+Tipo: _Generics_.
+
+Subtipo: Herança / Composição.
+
+Função: Overload ou _Override_ \(_Dynamic Dispatch_, _Late Binding_ ou _Virtual Method Call_/_Invocation_\).
 
 * **Fabricação/Invenção Pura** - _Pure Fabrication_: atribuição da responsabilidade de decomposição representacional e comportamental do domínio.
 
@@ -75,21 +78,21 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Identifique pontos de variação e instabilidade previsível, atribua responsabilidades para criar uma interface estável ao redor.
 
-
 > Core Protected Variations Mechanisms: recursos da implementados na própria linguagem e sistemas.
-> 
+>
 > Data-Driven Designs: uso de dados para declaração dos comportamentos do sistema em tempo de execução.
-> 
+>
 > * Service Lookup: serviço de localização de recursos por nome.
-> 
+>
 > * Interpreter-Driven Designs: interpretação de código.
-> 
+>
 > * Reflective or Meta-Level Designs: reflexão e metaprogramação.
-> 
-> 
+>
 > Uniform Access: recurso de propriedade da linguagem.
-> 
+>
 > Standard Languages: linguagens padronizadas utilizadas internamente.
-> 
+>
 > The Liskov Substitution Principle: ver [LSP](/arquitetura/solid.md).
+
+
 
