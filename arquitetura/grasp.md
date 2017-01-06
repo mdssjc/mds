@@ -54,11 +54,11 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Quando alternativas ou comportamentos relacionados variam por tipo, atribua a responsabilidade para o comportamento usando operações polimórficas para os tipos pela qual o comportamento varie.
 
-Tipo: _Generics_.
+  Tipo: _Generics_.
 
-Subtipo: Herança / Composição.
+  Subtipo: Herança / Composição.
 
-Função: Overload ou _Override_ \(_Dynamic Dispatch_, _Late Binding_ ou _Virtual Method Call_/_Invocation_\).
+  Função: Overload ou _Override_ \(_Dynamic Dispatch_, _Late Binding_ ou _Virtual Method Call_/_Invocation_\).
 
 * **Fabricação/Invenção Pura** - _Pure Fabrication_: atribuição da responsabilidade de decomposição representacional e comportamental do domínio.
 
