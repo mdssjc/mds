@@ -58,7 +58,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Subtipo: Herança / Composição.
 
-  Função: Overload ou _Override_ \(_Dynamic Dispatch_, _Late Binding_ ou _Virtual Method Call_/_Invocation_\).
+  Parâmetro: Overload ou _Override_ \(_Dynamic Dispatch_, _Late Binding_ ou _Virtual Method Call_/_Invocation_\).
 
 * **Fabricação/Invenção Pura** - _Pure Fabrication_: atribuição da responsabilidade de decomposição representacional e comportamental do domínio.
 
