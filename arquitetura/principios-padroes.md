@@ -2,10 +2,10 @@
 
 Os princípios e padrões são as bagagens de experiências do desenvolvedor sobre a etapa de Arquitetura, enquanto os princípios trazem as sugestões e recomendações de expressões idiomáticas para a criação do _software_, os padrões trazem a formalização dos princípios em pares de problema/solução para serem aplicados e moldados aos contextos de _software_.
 
-* [GRASP](/arquitetura/grasp.md)
-* [SOLID](/arquitetura/solid.md)
-* [GoF](/arquitetura/gof.md)
-* POSA
+* [GRASP](/arquitetura/grasp.md) \(Princípios\)
+* [SOLID](/arquitetura/solid.md) \(Princípios de Projeto\)
+* [GoF](/arquitetura/gof.md) \(Padrões de Projeto\)
+* POSA \(Padrões de Arquitetura\)
 
 ### Básico
 
@@ -24,7 +24,6 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
   Tenha cada peça de informação e comportamento em seu sistema em um único e sensível local.
 
 * [_**Execute Around Method**_](http://c2.com/cgi/wiki?ExecuteAroundMethod "Execute Around Method"): controle sobre recursos externos, como operações em _cleanup_ e _locks_.
-
 
 
 
