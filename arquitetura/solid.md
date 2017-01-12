@@ -6,7 +6,7 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
   "_A class should have only one reason to change_"
 
-  Adapatado para o livro: Um elemento de programação deve ter apenas uma razão para mudar - mantenha um equilíbrio entre baixo acoplamento e alta coesão.
+  Adaptado para o livro: Um elemento de programação deve ter apenas uma razão para mudar - mantenha um equilíbrio entre baixo acoplamento e alta coesão.
 
   O princípio refere-se as mudanças das funcionalidades por um particular ator da aplicação e não na transformação de uma arquitetura monolítica, principalmente em diversos elementos anêmicos \(uso estrutural sem utilizar de sua principal proposta\).
 
