@@ -4,7 +4,7 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
 * [**Princípio da Responsabilidade Única**](http://c2.com/cgi/wiki?SingleResponsibilityPrinciple "Single Responsibility Principle") - _Single Responsibility Principle_ \(_SRP_\) por _Robert C. Martin_ com base nos trabalhos de _Tom DeMarco_ e _Meilir Page-Jones_ sobre coesão:
 
-  "_A class should have only one reason to change_"
+  **"**_**A class should have only one reason to change**_**"**
 
   Adaptado para o livro: Um elemento de programação deve ter apenas uma razão para mudar - mantenha um equilíbrio entre baixo acoplamento e alta coesão.
 
