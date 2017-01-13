@@ -16,7 +16,11 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
   Veja também [_Low Coupling_](/arquitetura/grasp.md) e [_High Cohesion_](/arquitetura/grasp.md) em _GRASP_.
 
-* [**Princípio do Aberto-Fechado**](http://c2.com/cgi/wiki?OpenClosedPrinciple "Open Closed Principle") - _Open-Closed Principle_ \(_OCP_\) por _Bertrand Meyer_ \(criador da linguagem de programação _Eiffel_\) em 1988: projete elementos de programação para serem abertas para extensão, mas fechadas para modificações, minimize as necessidades de fazer mudanças para elementos de programação existentes.
+* [**Princípio do Aberto-Fechado**](http://c2.com/cgi/wiki?OpenClosedPrinciple "Open Closed Principle") - _Open-Closed Principle_ \(_OCP_\) por _Bertrand Meyer_ \(criador da linguagem de programação _Eiffel_\) em 1988:
+
+  **"_Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification_"**
+
+  Projete elementos de programação para serem abertas para extensão, mas fechadas para modificações, minimize as necessidades de fazer mudanças para elementos de programação existentes.
 
   _Open_: abstração por polimorfismo / _Closed_: definição de API.
 
