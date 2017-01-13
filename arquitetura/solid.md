@@ -20,7 +20,7 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
   **"_Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification_"**
 
-  Projete elementos de programação para serem abertas para extensão, mas fechadas para modificações, minimize as necessidades de fazer mudanças para elementos de programação existentes.
+  Adaptado para o livro: _Os elementos de programação deve ser aberto para a extensão, mas fechado para modificação_ - minimize as necessidades de fazer mudanças para elementos de programação existentes.
 
   _Open_: abstração por polimorfismo / _Closed_: definição de API.
 
