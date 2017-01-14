@@ -4,7 +4,7 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
 * [**Princípio da Responsabilidade Única**](http://c2.com/cgi/wiki?SingleResponsibilityPrinciple "Single Responsibility Principle") - _Single Responsibility Principle_ \(_SRP_\) por _Robert C. Martin_ com base nos trabalhos de _Tom DeMarco_ e _Meilir Page-Jones_ sobre coesão:
 
-  **"_A class should have only one reason to change_"**
+  **"**_**A class should have only one reason to change**_**"**
 
   Adaptado para o livro: _Um elemento de programação deve ter apenas uma razão para mudar_ - mantenha um equilíbrio entre baixo acoplamento e alta coesão.
 
@@ -18,7 +18,7 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
 * [**Princípio do Aberto-Fechado**](http://c2.com/cgi/wiki?OpenClosedPrinciple "Open Closed Principle") - _Open-Closed Principle_ \(_OCP_\) por _Bertrand Meyer_ \(criador da linguagem de programação _Eiffel_\) em 1988:
 
-  **"_Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification_"**
+  **"**_**Software entities \(classes, modules, functions, etc.\) should be open for extension, but closed for modification**_**"**
 
   Adaptado para o livro: _Os elementos de programação deve ser aberto para a extensão, mas fechado para modificação_ - minimize as necessidades de fazer mudanças para elementos de programação existentes.
 
@@ -32,17 +32,17 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
 * [**Princípio de Substituição de Liskov**](http://c2.com/cgi/wiki?LiskovSubstitutionPrinciple "Liskov Substitution Principle") - _Liskov Substitution Principle_ \(_LSP_\) por _Barbara Liskov_ em 1988:
 
-  **"_Subtypes must be substitutable for their base types_"**
+  **"**_**Subtypes must be substitutable for their base types**_**"**
 
   Adaptado para o livro: _Os subtipos devem ser substituíveis pelos seus tipos de base_.
 
   Definição do princípio:
-  
-  > _If for each object o1 of type S there is an object o2 of type T such that for all programs P defined in terms of T, the behavior of P is unchanged when o1 is substituted for o2 then S is a subtype of T_
 
+  > _If for each object o1 of type S there is an object o2 of type T such that for all programs P defined in terms of T, the behavior of P is unchanged when o1 is substituted for o2 then S is a subtype of T_
+  >
   > _Se para cada objeto o1 do tipo S há um objeto o2 do tipo T de forma que, para todos os programas P definidos em termos de T, o comportamento de P é inalterado quando o1 é substituído por o2 então S é um subtipo de T_
 
-  Regras sobre o uso do polimorfismo por subtipos de herança são baseados no trabalho _Design By Contract_ (DBC) de _Bertrand Meyer_,
+  Regras sobre o uso do polimorfismo por subtipos de herança são baseados no trabalho _Design By Contract_ \(_DBC_\) de _Bertrand Meyer_,
 
   com requisitos de assinatura:
 
