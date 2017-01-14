@@ -34,7 +34,7 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
   **"_Subtypes must be substitutable for their base types_"**
 
-  Os subtipos devem ser substituídos por seus tipos.
+  Adaptado para o livro: _Os subtipos devem ser substituíveis pelos seus tipos de base_.
 
   Definição do princípio:
 
