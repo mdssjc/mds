@@ -30,7 +30,11 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
   Veja também [_Protected Variations_](/arquitetura/grasp.md) em _GRASP_.
 
-* [**Princípio de Substituição de Liskov**](http://c2.com/cgi/wiki?LiskovSubstitutionPrinciple "Liskov Substitution Principle") - _Liskov Substitution Principle_ \(_LSP_\) por _Barbara Liskov_ em 1988: os subtipos devem ser substituídos por seus tipos.
+* [**Princípio de Substituição de Liskov**](http://c2.com/cgi/wiki?LiskovSubstitutionPrinciple "Liskov Substitution Principle") - _Liskov Substitution Principle_ \(_LSP_\) por _Barbara Liskov_ em 1988:
+
+  **"_Subtypes must be substitutable for their base types_"**
+
+  Os subtipos devem ser substituídos por seus tipos.
 
   Definição do princípio:
 
