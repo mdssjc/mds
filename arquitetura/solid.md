@@ -37,6 +37,8 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
   Adaptado para o livro: _Os subtipos devem ser substituíveis pelos seus tipos de base_.
 
   Definição do princípio:
+  
+  > _If for each object o1 of type S there is an object o2 of type T such that for all programs P defined in terms of T, the behavior of P is unchanged when o1 is substituted for o2 then S is a subtype of T_
 
   > _Se para cada objeto o1 do tipo S há um objeto o2 do tipo T de forma que, para todos os programas P definidos em termos de T, o comportamento de P é inalterado quando o1 é substituído por o2 então S é um subtipo de T_
 
