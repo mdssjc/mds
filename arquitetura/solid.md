@@ -42,7 +42,7 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
   > _Se para cada objeto o1 do tipo S há um objeto o2 do tipo T de forma que, para todos os programas P definidos em termos de T, o comportamento de P é inalterado quando o1 é substituído por o2 então S é um subtipo de T_
 
-  Regras sobre o uso do polimorfismo por subtipos de herança,
+  Regras sobre o uso do polimorfismo por subtipos de herança são baseados no trabalho _Design By Contract_ (DBC) de _Bertrand Meyer_,
 
   com requisitos de assinatura:
 
