@@ -76,5 +76,5 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
   >a. Os módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações.
   >
   >b. Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.
-
-
+  
+  Também conhecido por Princípio de _Hollywood_: "Não nos chame, nós chamaremos você" - "_Don't call us, we'll call you_".
