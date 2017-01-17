@@ -1,4 +1,3 @@
-# SOLID
 
 O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ \(_Uncle Bob_\), sendo composto por 5 princípios de projeto para o gerenciamento de dependências:
 
@@ -70,8 +69,8 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
   Definição do princípio:
   
-  a. High-level modules should not depend on low-level modules. Both should depend on abstractions.
-  
-  b. Abstractions should not depend on details. Details should depend on abstractions.
+  > a. High-level modules should not depend on low-level modules. Both should depend on abstractions.
+  >
+  >b. Abstractions should not depend on details. Details should depend on abstractions.
 
 
