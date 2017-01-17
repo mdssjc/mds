@@ -69,8 +69,12 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
   Definição do princípio:
   
-  > a. High-level modules should not depend on low-level modules. Both should depend on abstractions.
+  >a. High-level modules should not depend on low-level modules. Both should depend on abstractions.
   >
   >b. Abstractions should not depend on details. Details should depend on abstractions.
+  >
+  >a. Os módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações.
+  >
+  >b. Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.
 
 
