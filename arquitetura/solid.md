@@ -68,5 +68,10 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
 * [**Princípio da Inversão de Dependência**](http://c2.com/cgi/wiki?DependencyInversionPrinciple "Dependency Inversion Principle") - _Dependency Inversion Principle_ \(_DIP_\): os módulos de alto nível não devem depender de módulos de baixo nível, ambos devem depender de abstrações.
 
+  Definição do princípio:
+  
+  a. High-level modules should not depend on low-level modules. Both should depend on abstractions.
+  
+  b. Abstractions should not depend on details. Details should depend on abstractions.
 
 
