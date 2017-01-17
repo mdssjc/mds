@@ -1,4 +1,3 @@
-
 O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ \(_Uncle Bob_\), sendo composto por 5 princípios de projeto para o gerenciamento de dependências:
 
 * [**Princípio da Responsabilidade Única**](http://c2.com/cgi/wiki?SingleResponsibilityPrinciple "Single Responsibility Principle") - _Single Responsibility Principle_ \(_SRP_\) por _Robert C. Martin_ com base nos trabalhos de _Tom DeMarco_ e _Meilir Page-Jones_ sobre coesão:
@@ -68,13 +67,16 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 * [**Princípio da Inversão de Dependência**](http://c2.com/cgi/wiki?DependencyInversionPrinciple "Dependency Inversion Principle") - _Dependency Inversion Principle_ \(_DIP_\):
 
   Definição do princípio:
-  
-  >a. High-level modules should not depend on low-level modules. Both should depend on abstractions.
+
+  > a. High-level modules should not depend on low-level modules. Both should depend on abstractions.
   >
-  >b. Abstractions should not depend on details. Details should depend on abstractions.
+  > b. Abstractions should not depend on details. Details should depend on abstractions.
   >
-  >a. Os módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações.
+  > a. Os módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações.
   >
-  >b. Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.
-  
+  > b. Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.
+
   Também conhecido por Princípio de _Hollywood_: "Não nos chame, nós chamaremos você" - "_Don't call us, we'll call you_".
+
+
+
