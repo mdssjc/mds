@@ -2,7 +2,7 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
 * [**Princípio da Responsabilidade Única**](http://c2.com/cgi/wiki?SingleResponsibilityPrinciple "Single Responsibility Principle") - _Single Responsibility Principle_ \(_SRP_\) por _Robert C. Martin_ com base nos trabalhos de _Tom DeMarco_ e _Meilir Page-Jones_ sobre coesão:
 
-  **"**_**A class should have only one reason to change**_**"**
+  **"_A class should have only one reason to change_"**
 
   Adaptado para o livro: _Um elemento de programação deve ter apenas uma razão para mudar_ - mantenha um equilíbrio entre baixo acoplamento e alta coesão.
 
@@ -16,7 +16,7 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
 * [**Princípio do Aberto-Fechado**](http://c2.com/cgi/wiki?OpenClosedPrinciple "Open Closed Principle") - _Open-Closed Principle_ \(_OCP_\) por _Bertrand Meyer_ \(criador da linguagem de programação _Eiffel_\) em 1988:
 
-  **"**_**Software entities \(classes, modules, functions, etc.\) should be open for extension, but closed for modification**_**"**
+  **"_Software entities \(classes, modules, functions, etc.\) should be open for extension, but closed for modification_"**
 
   Adaptado para o livro: _Os elementos de programação deve ser aberto para a extensão, mas fechado para modificação_ - minimize as necessidades de fazer mudanças para elementos de programação existentes.
 
@@ -30,7 +30,7 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
 * [**Princípio de Substituição de Liskov**](http://c2.com/cgi/wiki?LiskovSubstitutionPrinciple "Liskov Substitution Principle") - _Liskov Substitution Principle_ \(_LSP_\) por _Barbara Liskov_ em 1988:
 
-  **"**_**Subtypes must be substitutable for their base types**_**"**
+  **"_Subtypes must be substitutable for their base types_"**
 
   Adaptado para o livro: _Os subtipos devem ser substituíveis pelos seus tipos de base_.
 
@@ -63,6 +63,8 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
   Veja também [_Polymorphism_](/arquitetura/grasp.md) em _GRASP_.
 
 * [**Princípio da Segregação de Interfaces**](http://c2.com/cgi/wiki?InterfaceSegregationPrinciple "Interface Segregation Principle") - _Interface Segregation Principle_ \(_ISP_\): os clientes não devem serem forçados a dependerem de métodos que não usam.
+
+  **"_Clients should not be forced to depend on methods that they do not use_"**
 
 * [**Princípio da Inversão de Dependência**](http://c2.com/cgi/wiki?DependencyInversionPrinciple "Dependency Inversion Principle") - _Dependency Inversion Principle_ \(_DIP_\):
 
