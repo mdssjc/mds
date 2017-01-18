@@ -62,9 +62,11 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
 
   Veja também [_Polymorphism_](/arquitetura/grasp.md) em _GRASP_.
 
-* [**Princípio da Segregação de Interfaces**](http://c2.com/cgi/wiki?InterfaceSegregationPrinciple "Interface Segregation Principle") - _Interface Segregation Principle_ \(_ISP_\): os clientes não devem serem forçados a dependerem de métodos que não usam.
+* [**Princípio da Segregação de Interfaces**](http://c2.com/cgi/wiki?InterfaceSegregationPrinciple "Interface Segregation Principle") - _Interface Segregation Principle_ \(_ISP_\):
 
   **"_Clients should not be forced to depend on methods that they do not use_"**
+
+  Adaptado para o livro: _Os clientes não devem serem forçados a dependerem de métodos que não usam_.
 
 * [**Princípio da Inversão de Dependência**](http://c2.com/cgi/wiki?DependencyInversionPrinciple "Dependency Inversion Principle") - _Dependency Inversion Principle_ \(_DIP_\):
 
@@ -79,6 +81,3 @@ O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Princi
   > b. Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.
 
   Também conhecido por Princípio de _Hollywood_: "Não nos chame, nós chamaremos você" - "_Don't call us, we'll call you_".
-
-
-
