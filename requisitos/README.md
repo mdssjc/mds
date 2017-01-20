@@ -24,13 +24,13 @@ O contexto é um importante componente dos requisitos, assim imergindo no mesmo 
 
 O modelo de gerenciamento de ideias _5W2H_ tem como objetivo em responder 7 perguntas:
 
-* **What** \(O quê?\): o que será feito?
-* **Why** \(Porquê?\): por que será feito?
-* **Who** \(Quem?\): por quem será feito?
-* **When** \(Quando?\): quando será feito?
-* **Where** \(Onde?\): onde será feito?
-* **How** \(Como?\): como será feito?
-* **How Much** \(Quanto Custa?\): quanto vai custar?
+* **What** \(O quê?\): o que será feito? [objetivo, ação, etapas, descrição]
+* **Why** \(Porquê?\): por que será feito? [justificativa, motivo]
+* **Who** \(Quem?\): por quem será feito? [responsável]
+* **When** \(Quando?\): quando será feito? [tempo, datas, prazos]
+* **Where** \(Onde?\): onde será feito? [local]
+* **How** \(Como?\): como será feito? [método, processo]
+* **How Much** \(Quanto Custa?\): quanto vai custar? [custo, gastos]
 
 ### Inception Deck
 
