@@ -4,7 +4,7 @@ Variável é a característica de interesse que é medida em cada elemento da am
 
 **Variáveis Quantitativa:**
 
-Expressa contagens e/ou medidas referentes ao objeto de estudo.
+Expressa números, quantidades, contagens e/ou medidas referentes ao objeto de estudo.
 
 * **discretas:** possuem valores finitos dentro de um intervalo através de contagem ou enumeração.
 * **contínuas:** possuem valores infinitos dentro de um intervalo através de medição.
