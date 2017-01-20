@@ -17,6 +17,9 @@ Expressa categorias ou qualidades referentes ao objeto de estudo.
 * **ordinais:** existe uma ordenação entre as categorias.
 
 **Tipos de Variáveis:**
+
+Diferentes tipos de variáveis.
+
 * **independente/explanatória:** entrada principal, definindo pela causa, fator, fenômeno ou propriedade;
 * **monitora:** entrada secundária, sendo desconsiderado quando em valores mínimos;
 * **interveniente:** condição, estímulo ou determinante;
