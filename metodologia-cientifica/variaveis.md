@@ -17,9 +17,9 @@ Expressa categorias ou qualidades referentes ao objeto de estudo.
 * **ordinais:** existe uma ordenação entre as categorias.
 
 **Tipos de Variáveis:**
-* **independente:** entrada principal, definindo pela causa, fator, fenômeno ou propriedade;
+* **independente/explanatória:** entrada principal, definindo pela causa, fator, fenômeno ou propriedade;
 * **monitora:** entrada secundária, sendo desconsiderado quando em valores mínimos;
 * **interveniente:** condição, estímulo ou determinante;
 * **controle:** interferência externa, deve ser monitorada e controlada;
-* **dependente:** saída, definindo pelo resultado, efeito ou consequência;
+* **dependente/resposta:** saída, definindo pelo resultado, efeito ou consequência;
 * **antecedente:** realiza a condição para as demais variáveis.
