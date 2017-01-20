@@ -9,7 +9,7 @@ Expressa contagens e/ou medidas referentes ao objeto de estudo.
 * **discretas:** possuem valores finitos dentro de um intervalo através de contagem ou enumeração.
 * **contínuas:** possuem valores infinitos dentro de um intervalo através de medição.
 
-**Variáveis Qualitativas:**
+**Variáveis Qualitativa:**
 
 Expressa categorias ou qualidades referentes ao objeto de estudo.
 
