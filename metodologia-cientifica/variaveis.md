@@ -26,4 +26,4 @@ Diferentes tipos de variáveis.
 * **controle:** interferência externa, deve ser monitorada e controlada;
 * **dependente/resposta:** saída, definindo pelo resultado, efeito ou consequência;
 * **antecedente:** realiza a condição para as demais variáveis.
-* **confusão:** correlaciona as variáveis independente e dependente.
+* **confusão:** correlaciona com ambas variáveis independente e dependente.
