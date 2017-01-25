@@ -8,3 +8,17 @@ As partes importantes ao aprender uma nova linguagem de programação são:
 * **Bibliotecas** \(_libraries_\): conjunto de código de apoio com o propósito de facilitar o desenvolvimento na linguagem.
 * **Ferramentas** \(_tools_\): programas de auxílio ao desenvolvimento na linguagem, tais como compiladores, interpretadores, depuradores e etc...
 
+## Paradigmas
+
+Os paradigmas das linguagens de programação são:
+
+* **Declarativo**
+    * Funcional
+    * Fluxo de Dados
+    * Lógico
+* **Imperativo**
+    * _Von Neumann_
+    * Orientada a Objetos
+    * _Script_
+
+Muitas linguagens são multiparadigmas.
