@@ -6,6 +6,8 @@ Os temas serão voltados para o ramo Sistema de Computação, principalmente abo
 
 Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_, apresentando as principais características encontradas, finalizando com as ferramentas utilizadas e metodologias para estudo.
 
+O _framework_ de desenvolvimento é baseado em: **XP**, **SPD** e **4+1**.
+
 **Página**: [mdssjc.github.io](http://goo.gl/wfgE07 "Página do MDS")
 
 **Repositório**: [github.com/mdssjc](http://goo.gl/FvxXNM "Repositório do MDS")
