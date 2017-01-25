@@ -22,3 +22,5 @@ Os paradigmas das linguagens de programação são:
     * _Script_
 
 Muitas linguagens são multiparadigmas.
+
+## Tipos
