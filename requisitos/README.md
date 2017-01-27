@@ -18,6 +18,8 @@ As principais fases são:
 
 ## Tipos
 
+Os tipos são:
+
 * **Funcional**: descreve as funcionalidades;
 * **Não Funcional**: descreve as restrições e limites.
 
