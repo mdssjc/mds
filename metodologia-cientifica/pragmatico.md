@@ -156,3 +156,81 @@ Program for the general case, and put the specifics outside the compiled code ba
 **Analyze Workflow to Improve Concurrency**
 
 Exploit concurrency in your user's workflow.
+
+**Design Using Services**
+
+Design in terms of services—independent, concurrent objects behind well-defined, consistent interfaces.
+
+**Always Design for Concurrency**
+
+Allow for concurrency, and you'll design cleaner interfaces with fewer assumptions.
+
+**Separate Views from Models**
+
+Gain flexibility at low cost by designing your application in terms of models and views.
+
+**Use Blackboards to Coordinate Workflow**
+
+Use blackboards to coordinate disparate facts and agents, while maintaining independence and isolation among participants.
+
+**Don't Program by Coincidence**
+
+Rely only on reliable things. Beware of accidental complexity, and don't confuse a happy coincidence with a purposeful plan.
+
+**Estimate the Order of Your Algorithms**
+
+Get a feel for how long things are likely to take before you write code.
+
+**Test Your Estimates**
+
+Mathematical analysis of algorithms doesn't tell you everything. Try timing your code in its target environment.
+
+**Refactor Early, Refactor Often**
+
+Just as you might weed and rearrange a garden, rewrite, rework, and re-architect code when it needs it. Fix the root of the problem.
+
+**Design to Test**
+
+Start thinking about testing before you write a line of code.
+
+**Test Your Software, or Your Users Will**
+
+Test ruthlessly. Don't make your users find bugs for you.
+
+**Don't Use Wizard Code You Don't Understand**
+
+Wizards can generate reams of code. Make sure you understand all of it before you incorporate it into your project.
+
+**Don't Gather Requirements–Dig for Them**
+
+Requirements rarely lie on the surface. They're buried deep beneath layers of assumptions, misconceptions, and politics.
+
+**Workwith a User to Think Like a User**
+
+It's the best way to gain insight into how the system will really be used.
+
+**Abstractions Live Longer than Details**
+
+Invest in the abstraction, not the implementation. Abstractions can survive the barrage of changes from different implementations and new technologies.
+
+**Use a Project Glossary**
+
+Create and maintain a single source of all the specific terms and vocabulary for a project.
+
+**Don't Think Outside the Box–Find the Box**
+
+When faced with an impossible problem, identify the real constraints. Ask yourself: "Does it have to be done this way? Does it have to be done at all?"
+
+**Start When You're Ready.**
+
+You've been building experience all your life. Don't ignore niggling doubts.
+
+**Some Things Are Better Done than Described**
+
+Don't fall into the specification spiral—at some point you need to start coding.
+
+**Don't Be a Slave to Formal Methods.**
+
+Don't blindly adopt any technique without putting it into the context of your development practices and capabilities.
+
+**Costly Tools Don't Produce Better Designs**
