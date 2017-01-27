@@ -32,5 +32,5 @@ _Teste por Defeito_
 
 **Validação:** o produto está certo, conforme os requisitos do usuário.
 
-**Verificação:** o produto está correto, conforme sua especificação.
+**Verificação:** o produto está correto, conforme seu projeto.
 
