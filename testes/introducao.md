@@ -30,7 +30,3 @@ _Teste por Defeito_
 
 **Cenário** - **Ação** - **Avaliação** \(Validação e Verificação\)
 
-**Validação:** o produto está certo, conforme os requisitos do usuário.
-
-**Verificação:** o produto está correto, conforme seu projeto.
-
