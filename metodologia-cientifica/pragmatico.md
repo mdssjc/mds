@@ -73,3 +73,86 @@ Design and code in your user's language.
 **Estimate to Avoid Surprises**
 
 Estimate before you start. You'll spot potential problems up front.
+
+**Iterate the Schedule with the Code**
+
+Use experience you gain as you implement to refine the project time scales.
+
+**Keep Knowledge in Plain Text**
+
+Plain text won't become obsolete. It helps leverage your work and simplifies debugging and testing.
+
+**Use the Power of Command Shells**
+
+Use the shell when graphical user interfaces don't cut it.
+
+**Use a Single Editor Well**
+The editor should be an extension of your hand; make sure your editor is configurable, extensible, and programmable.
+
+**Always Use Source Code Control**
+
+Source code control is a time machine for your work—you can go back.
+
+**Fix the Problem, Not the Blame**
+
+It doesn't really matter whether the bug is your fault or someone else's—it is still your problem, and it still needs to be fixed.
+
+**Don't Panic When Debugging**
+
+Take a deep breath and THINK! about what could be causing the bug.
+
+**"select" Isn't Broken.**
+
+It is rare to find a bug in the OS or the compiler, or even a third-party product or library. The bug is most likely in the application.
+
+**Don't Assume It—Prove It**
+
+Prove your assumptions in the actual environment-- with real data and boundary conditions.
+
+**Learn a Text Manipulation Language.**
+
+You spend a large part of each day working with text. Why not have the computer do some of it for you?
+
+**Write Code That Writes Code**
+
+Code generators increase your productivity and help avoid duplication.
+
+**You Can't Write Perfect Software**
+
+Software can't be perfect. Protect your code and users from the inevitable errors.
+
+**Design with Contracts**
+
+Use contracts to document and verify that code does no more and no less than it claims to do.
+
+**Crash Early**
+
+A dead program normally does a lot less damage than a crippled one.
+
+**Use Assertions to Prevent the Impossible**
+
+Assertions validate your assumptions. Use them to protect your code from an uncertain world.
+
+**Use Exceptions for Exceptional Problems**
+
+Exceptions can suffer from all the readability and maintainability problems of classic spaghetti code. Reserve exceptions for exceptional things.
+
+**Finish What You Start**
+
+Where possible, the routine or object that allocates a resource should be responsible for deallocating it.
+
+**Minimize Coupling Between Modules**
+
+Avoid coupling by writing "shy" code and applying the Law of Demeter.
+
+**Configure, Don't Integrate**
+
+Implement technology choices for an application as configuration options, not through integration or engineering.
+
+**Put Abstractions in Code, Details in Metadata**
+
+Program for the general case, and put the specifics outside the compiled code base.
+
+**Analyze Workflow to Improve Concurrency**
+
+Exploit concurrency in your user's workflow.
