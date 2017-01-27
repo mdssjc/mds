@@ -17,13 +17,12 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
 
 ### Outros
 
-* [_**DRY**_](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself") \(_Don’t Repeat Yourself_\) / _**WET**_ \(_Write Every Time_\): princípio sobre o problema da duplicação de código.
+* [_**DRY**_](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself") (_Don’t Repeat Yourself_) / _**WET**_ (_Write Every Time_): princípio sobre o problema da duplicação de conhecimento.
+
+  Cada parte do conhecimento deve ter uma representação única, não ambígua e definitva dentro do sistema.
 
   Evite código duplicado por abstrair as coisas que são comuns e colocando essas coisas em um único local.
 
   Tenha cada peça de informação e comportamento em seu sistema em um único e sensível local.
 
 * [_**Execute Around Method**_](http://c2.com/cgi/wiki?ExecuteAroundMethod "Execute Around Method"): controle sobre recursos externos, como operações em _cleanup_ e _locks_.
-
-
-
