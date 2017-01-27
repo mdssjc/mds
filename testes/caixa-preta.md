@@ -1,6 +1,6 @@
 # Caixa Preta
 
-A técnica de **teste de caixa preta** \(_black-box testing_\) tem como objetivo avaliar e verificar o funcionamento externo dos elementos de programação _\(técnica funcional\)_ durante a etapa de Especificação nas fases de **testes de sistema** ou **testes de aceitação** (_acceptance tests_) quando na presença dos clientes - responsáveis por avaliar o sistema como um todo.
+A técnica de **teste de caixa preta** \(_black-box testing_\) tem como objetivo avaliar e verificar o funcionamento externo dos elementos de programação _\(técnica funcional\)_ durante a etapa de Especificação nas fases de **testes de sistema** ou **testes de aceitação** (_acceptance tests_) quando na presença dos clientes - responsáveis por avaliar o sistema como um todo (**Validação**).
 
 * Classes de Equivalência
 * Análise de Limites
