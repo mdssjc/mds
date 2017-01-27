@@ -27,4 +27,3 @@
   * [Tipos](metodologia-cientifica/tipos.md)
   * [Pragmático](metodologia-cientifica/pragmatico.md)
 * [Referências](referencias.md)
-
