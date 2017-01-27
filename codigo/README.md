@@ -10,7 +10,7 @@ O código é a implementação da solução do problema proposto durante a etapa
 +-------+      +---+      +-------------+
 ```
 
-**Testes Unitários** - _Unit Testing_: \(ver [Caixa Branca](/testes/caixa-branca.md)\) execução automática de testes para apoiar na etapa de Codificação, em:
+**Testes Unitários** (_Unit Testing_): \(ver [Caixa Branca](/testes/caixa-branca.md)\) execução automática de testes para apoiar na etapa de Codificação, em:
 
 * Implementação: das funcionalidade do cenário;
 * _FeedBack_: notificação dos problemas no código;
@@ -26,13 +26,13 @@ O código é a implementação da solução do problema proposto durante a etapa
 
 Livro de referência: _Refactoring: Improving the Design of Existing Code_.
 
-**Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\): técnica na qual emprega os testes como a principal ferramenta de desenvolvimento, antes mesmo do código de produção, através do seu ciclo:
+**Desenvolvimento Guiado por Testes** (_Test Driven Development_ - TDD): técnica na qual emprega os testes como a principal ferramenta de desenvolvimento, antes mesmo do código de produção, através do seu ciclo:
 
 * _Red_ \(_Test Fails_\): exercício do código através de teste - fazer falhar, assim representando cada incremento da especificação;
 * _Green_ \(_Test Passes_\): implementação do código - fazer o teste passar; e
 * _Refactor_: aplicação da refatoração em melhorias nos recursos utilizados no ciclo, como código, teste, configuração e etc...
 
-**Integração Contínua** - _Continuous Integration_ \(CI\): processo de integração dos incrementos de codificação, com execução automática e avaliativa dos testes - simulando o ambiente de produção. O processo é automático por um sistema de integração contínua, na qual verifica o repositório de código, realiza o _check-in/build_ e analisa a saúde do projeto, notificando os problemas aos desenvolvedores.
+**Integração Contínua** (_Continuous Integration_ - CI): processo de integração dos incrementos de codificação, com execução automática e avaliativa dos testes - simulando o ambiente de produção. O processo é automático por um sistema de integração contínua, na qual verifica o repositório de código, realiza o _check-in/build_ e analisa a saúde do projeto, notificando os problemas aos desenvolvedores.
 
 ---
 
