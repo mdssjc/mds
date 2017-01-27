@@ -1,4 +1,4 @@
-# Sumário
+# Summary
 
 * [Introdução](README.md)
 * [Requisitos](requisitos/README.md)
@@ -25,7 +25,6 @@
   * [Variáveis](metodologia-cientifica/variaveis.md)
   * [Linguagem de Programação](metodologia-cientifica/linguagem-de-programacao.md)
   * [Tipos](metodologia-cientifica/tipos.md)
+  * [Pragmático](metodologia-cientifica/pragmatico.md)
 * [Referências](referencias.md)
-
-
 
