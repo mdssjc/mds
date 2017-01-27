@@ -13,7 +13,7 @@ A etapa de Requisitos é o início do projeto e sua base de avaliação, na qual
 As principais fases são:
 
 * **Requisitos do Usuário** \(visão - _vision_\): a descrição e especificação do problema pelo cliente, verifica-se a viabilidade do problema;
-* **Requisitos do Sistema** \(característica - _feature_\): a consolidação do problema entre cliente e desenvolvedores, define-se o problema proposto; e
+* **Requisitos do Sistema** \(característica - _feature_\): a consolidação/entendimento do problema entre cliente e desenvolvedores, define-se o problema proposto; e
 * **Modelagem dos Requisitos** \(detalhe - _detail_\): comunicação com a Arquitetura do _Software_ através da transformação em cenário, define-se uma solução para o problema.
 
 ## Tipos
