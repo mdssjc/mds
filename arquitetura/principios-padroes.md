@@ -38,3 +38,5 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
 * **CCP** - _The Commom-Closure Principle_: _the classes in a package should be closed together against the same kinds of changes. A change that affects a package affects all the classes in that package and no other packages_.
 
 ### Estabilidade
+
+* **ADP** - _The Acyclic-Dependencies Principle_: _allow no cycles in the package-dependency graph_.
