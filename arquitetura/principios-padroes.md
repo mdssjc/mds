@@ -29,6 +29,8 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
 
 ## Gerenciamento de Pacotes
 
+* **REP** - _The Reuse-Release Equivalence Principle_: _the granule of reuse is the granule of release_.
+
 ### Granularidade
 
 ### Estabilidade
