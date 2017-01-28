@@ -40,3 +40,5 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
 ### Estabilidade
 
 * **ADP** - _The Acyclic-Dependencies Principle_: _allow no cycles in the package-dependency graph_.
+
+* **SDP** - _The Stable-Dependencies Principle_: _depend in the direction of stability_.
