@@ -29,12 +29,12 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
 
 ## Gerenciamento de Pacotes
 
+### Granularidade
+
 * **REP** - _The Reuse-Release Equivalence Principle_: _the granule of reuse is the granule of release_.
 
 * **CRP** - _The Commom-Reuse Principle_: _the classes in a package are reused together. If you reuse one of the classes in a package, you reuse them all_.
 
 * **CCP** - _The Commom-Closure Principle_: _the classes in a package should be closed together against the same kinds of changes. A change that affects a package affects all the classes in that package and no other packages_.
-
-### Granularidade
 
 ### Estabilidade
