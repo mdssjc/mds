@@ -7,7 +7,7 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
 * [GoF](/arquitetura/gof.md) \(Padrões de Projeto\)
 * POSA \(Padrões de Arquitetura\)
 
-### Básico
+## Básico
 
 * **Encapsulamento** \(_Encapsulation_\): é o processo de envolver elementos de programação em entidades abstratas, com o objetivo de proteger a informação de ser utilizada incorretamente, assim separando o tipo de sua classe, ou seja, os dados de seu comportamento ou também o que fazer de como fazer - outros nomes utilizados são Ocultamento de Informação \(_Information Hiding_\) ou Separação de Interesse \(_Separation of Concerns_\).
 * Interface
@@ -15,7 +15,7 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
 * ~~Acoplamento~~
 * ~~Responsabilidade~~
 
-### Outros
+## Outros
 
 * [_**DRY**_](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself") (_Don’t Repeat Yourself_) / _**WET**_ (_Write Every Time_): princípio sobre o problema da duplicação de conhecimento.
 
@@ -26,3 +26,9 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
   Tenha cada peça de informação e comportamento em seu sistema em um único e sensível local.
 
 * [_**Execute Around Method**_](http://c2.com/cgi/wiki?ExecuteAroundMethod "Execute Around Method"): controle sobre recursos externos, como operações em _cleanup_ e _locks_.
+
+## Gerenciamento de Pacotes
+
+### Granularidade
+
+### Estabilidade
