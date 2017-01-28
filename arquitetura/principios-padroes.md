@@ -27,7 +27,9 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
 
 * [_**Execute Around Method**_](http://c2.com/cgi/wiki?ExecuteAroundMethod "Execute Around Method"): controle sobre recursos externos, como operações em _cleanup_ e _locks_.
 
-## Gerenciamento de Pacotes
+## Princípios do Desenvolvimento de Pacotes
+
+Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ \(_Uncle Bob_\), sendo composto por 6 princípios:
 
 ### Granularidade
 
