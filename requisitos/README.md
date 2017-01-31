@@ -57,7 +57,7 @@ Os tipos de requisitos são:
 
 ## Artefatos
 
-Os principais artefatos são:
+Os principais artefatos produzidos são:
 
 * **Listagem**: itens categorizados com as necessidades do sistema.
 * **Descrição**: itens em alto nível com as características do sistema - utiliza-se a modelagem de _Feature List_.
