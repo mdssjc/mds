@@ -50,7 +50,7 @@ _em edição_
 
 ## Tipos
 
-Os tipos são:
+Os tipos de requisitos são:
 
 * **Funcional**: descreve as funcionalidades;
 * **Não Funcional**: descreve as restrições e limites.
