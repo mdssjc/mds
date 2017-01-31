@@ -46,7 +46,7 @@ _em edição_
 
 ### Project Model Canvas
 
-_em edição_
+O Project Model Canvas (PM Canvas) é uma metodologia de gerenciamento de projetos, na qual emprega características ágil.
 
 ## Tipos
 
