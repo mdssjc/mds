@@ -60,4 +60,4 @@ Os tipos de requisitos são:
 Os principais artefatos produzidos são:
 
 * **Listagem**: itens categorizados com as necessidades do sistema.
-* **Descrição**: itens em alto nível com as características do sistema - utiliza-se a modelagem de _Feature List_.
+* **Descrição**: itens em alto nível com as características do sistema.
