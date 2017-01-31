@@ -16,20 +16,6 @@ As principais fases são:
 * **Requisitos do Sistema** \(característica - _feature_\): a consolidação/entendimento do problema entre cliente e desenvolvedores, define-se o problema proposto; e
 * **Modelagem dos Requisitos** \(detalhe - _detail_\): comunicação com a Arquitetura do _Software_ através da transformação em cenário, define-se uma solução para o problema.
 
-## Tipos
-
-Os tipos são:
-
-* **Funcional**: descreve as funcionalidades;
-* **Não Funcional**: descreve as restrições e limites.
-
-## Artefatos
-
-Os principais artefatos são:
-
-* **Listagem**: itens categorizados com as necessidades do sistema.
-* **Descrição**: itens em alto nível com as características do sistema - utiliza-se a modelagem de _Feature List_.
-
 ## Contexto
 
 O contexto é um importante componente dos requisitos, assim imergindo no mesmo garante melhores resultados ao projeto - existem diversas técnicas específicas para sua gestão, como por exemplo: o SMART, 5W2H, _Inception Deck_ e o _Project Model Canvas_ - dentre as atividades práticas para garimpar as ideias estão o: _brainstorming_, entrevistas e etc...
@@ -61,3 +47,17 @@ _em edição_
 ### Project Model Canvas
 
 _em edição_
+
+## Tipos
+
+Os tipos são:
+
+* **Funcional**: descreve as funcionalidades;
+* **Não Funcional**: descreve as restrições e limites.
+
+## Artefatos
+
+Os principais artefatos são:
+
+* **Listagem**: itens categorizados com as necessidades do sistema.
+* **Descrição**: itens em alto nível com as características do sistema - utiliza-se a modelagem de _Feature List_.
