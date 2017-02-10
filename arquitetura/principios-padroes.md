@@ -47,7 +47,9 @@ Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile S
 
 ### Estabilidade
 
-* **ADP** - _The Acyclic-Dependencies Principle_: _allow no cycles in the package-dependency graph_.
+* [**Princípio das Dependências Acíclicas**](http://wiki.c2.com/?AcyclicDependenciesPrinciple) - _The Acyclic-Dependencies Principle_ (ADP): _allow no cycles in the package-dependency graph_.
+
+  Adaptado para o livro: não permitir ciclos no grafo pacote-dependência.
 
 * **SDP** - _The Stable-Dependencies Principle_: _depend in the direction of stability_.
 
