@@ -33,7 +33,9 @@ Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile S
 
 ### Granularidade
 
-* **REP** - _The Reuse-Release Equivalence Principle_: _the granule of reuse is the granule of release_.
+* [**Princípio da Equivalência entre Liberação e Reuso**](http://wiki.c2.com/?ReuseReleaseEquivalencePrinciple) - _The Reuse-Release Equivalence Principle_ (REP): _the granule of reuse is the granule of release_.
+
+  Adaptado para o livro: a granularidade do reuso is a granularidade do lançamento.
 
 * [**Princípio do Reuso Comum**](http://wiki.c2.com/?CommonReusePrinciple) - _The Commom-Reuse Principle_ (CRP): _the classes in a package are reused together. If you reuse one of the classes in a package, you reuse them all_.
 
