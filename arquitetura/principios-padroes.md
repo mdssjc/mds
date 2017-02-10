@@ -25,7 +25,7 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
 
   Tenha cada peça de informação e comportamento em seu sistema em um único e sensível local.
 
-* [_**Execute Around Method**_](http://c2.com/cgi/wiki?ExecuteAroundMethod "Execute Around Method"): controle sobre recursos externos, como operações em _cleanup_ e _locks_.
+* [_**Execute Around Method**_](http://c2.com/cgi/wiki?ExecuteAroundMethod "Execute Around Method"): controle sobr  e recursos externos, como operações em _cleanup_ e _locks_.
 
 ## Princípios do Desenvolvimento de Pacotes
 
@@ -51,6 +51,8 @@ Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile S
 
   Adaptado para o livro: não permitir ciclos no grafo pacote-dependência.
 
-* **SDP** - _The Stable-Dependencies Principle_: _depend in the direction of stability_.
+* [**Princípio das Dependências Estáveis**](http://wiki.c2.com/?StableDependenciesPrinciple) - _The Stable-Dependencies Principle_ (SDP): _depend in the direction of stability_.
+
+  Adaptado para o livro: dependa na direção da estabilidade.
 
 * **SAP** - _The Stable-Abstractions Principle_: _a package should be as abstract as it is stable_.
