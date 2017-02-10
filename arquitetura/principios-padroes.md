@@ -39,7 +39,9 @@ Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile S
 
   Adaptado para o livro: as classes em um pacote são todas reutilizadas juntas. Se você reusa uma classe no pacote, reusará todas elas.
 
-* **CCP** - _The Commom-Closure Principle_: _the classes in a package should be closed together against the same kinds of changes. A change that affects a package affects all the classes in that package and no other packages_.
+* [**Princípio do Fechamento Comum**](http://wiki.c2.com/?CommonClosurePrinciple) - _The Commom-Closure Principle_ (CCP): _the classes in a package should be closed together against the same kinds of changes. A change that affects a package affects all the classes in that package and no other packages_.
+
+  Adaptado para o livro: as classes em um pacote devem ser fechadas juntas contra os mesmos tipos de alterações. Uma alteração que afeta um pacote afeta todas as classes nesse pacote e nenhuma em outro pacote.
 
 ### Estabilidade
 
