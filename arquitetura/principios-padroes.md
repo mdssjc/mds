@@ -55,4 +55,6 @@ Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile S
 
   Adaptado para o livro: dependa na direção da estabilidade.
 
-* **SAP** - _The Stable-Abstractions Principle_: _a package should be as abstract as it is stable_.
+* [**Princípio das Abstrações Estáveis**](http://wiki.c2.com/?StableAbstractionsPrinciple) - _The Stable-Abstractions Principle_ (SAP): _a package should be as abstract as it is stable_.
+
+  Adaptado para o livro: um pacote deve ser tão abstrato quanto estável.
