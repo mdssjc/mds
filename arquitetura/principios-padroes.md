@@ -35,7 +35,9 @@ Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile S
 
 * **REP** - _The Reuse-Release Equivalence Principle_: _the granule of reuse is the granule of release_.
 
-* **CRP** - _The Commom-Reuse Principle_: _the classes in a package are reused together. If you reuse one of the classes in a package, you reuse them all_.
+* **Princípio do Reuso Comum** - _The Commom-Reuse Principle_ (CRP): _the classes in a package are reused together. If you reuse one of the classes in a package, you reuse them all_.
+
+  Adaptado para o livro: as classes em um pacote são todas reutilizadas juntas. Se você reusa uma classe no pacote, reusará todas elas.
 
 * **CCP** - _The Commom-Closure Principle_: _the classes in a package should be closed together against the same kinds of changes. A change that affects a package affects all the classes in that package and no other packages_.
 
