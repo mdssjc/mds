@@ -54,6 +54,8 @@ Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile S
 * [**Princípio das Dependências Estáveis**](http://wiki.c2.com/?StableDependenciesPrinciple) - _The Stable-Dependencies Principle_ (SDP): _depend in the direction of stability_.
 
   Adaptado para o livro: dependa na direção da estabilidade.
+  
+  A estabilidade de um pacote dá-se pela relação entre os acoplamentos aferentes (_Afferent Couplings_ - Ca, saídas) e eferentes (_Efferent Couplings_ - Ce, entradas) na formula: **I = Ce / (Ce + Ca)**, sendo estável quando próximo de 0.0 e instável próximo de 1.0.
 
 * [**Princípio das Abstrações Estáveis**](http://wiki.c2.com/?StableAbstractionsPrinciple) - _The Stable-Abstractions Principle_ (SAP): _a package should be as abstract as it is stable_.
 
