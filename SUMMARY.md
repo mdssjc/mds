@@ -1,4 +1,4 @@
-# Índice
+# Sumário
 
 * [Introdução](README.md)
 * [Requisitos](requisitos/README.md)
@@ -11,7 +11,6 @@
     * [GoF](arquitetura/gof.md)
     * [SOLID](arquitetura/solid.md)
 * [Testes](testes/README.md)
-  * [Introdução](testes/introducao.md)
   * [Caixa Branca](testes/caixa-branca.md)
   * [Caixa Preta](testes/caixa-preta.md)
   * [Ferramentas](testes/ferramentas.md)
@@ -27,3 +26,4 @@
   * [Linguagem de Programação](metodologia-cientifica/linguagem-de-programacao.md)
   * [Tipos](metodologia-cientifica/tipos.md)
 * [Referências](referencias.md)
+
