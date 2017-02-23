@@ -11,6 +11,8 @@ Para informações acadêmicas sobre testes, acesse o curso: [Automatização de
 
 Os testes são criados através dos requisitos modelados.
 
+---
+
 {Fases}
 
 * Unidade
