@@ -12,10 +12,6 @@ Os mais utilizados/aplicados são:
 ## Básico
 
 * **Encapsulamento** \(_Encapsulation_\): é o processo de envolver elementos de programação em entidades abstratas, com o objetivo de proteger a informação de ser utilizada incorretamente, assim separando o tipo de sua classe, ou seja, os dados de seu comportamento ou também o que fazer de como fazer - outros nomes utilizados são Ocultamento de Informação \(_Information Hiding_\) ou Separação de Interesse \(_Separation of Concerns_\).
-* Interface
-* Delegação
-* ~~Acoplamento~~
-* ~~Responsabilidade~~
 
 ## Outros
 
