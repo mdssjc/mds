@@ -9,11 +9,9 @@ Os mais utilizados/aplicados são:
 * [GoF](/arquitetura/gof.md) \(Padrões de Projeto\)
 * POSA \(Padrões de Arquitetura\)
 
-## Básico
+## Outros
 
 * **Encapsulamento** \(_Encapsulation_\): é o processo de envolver elementos de programação em entidades abstratas, com o objetivo de proteger a informação de ser utilizada incorretamente, assim separando o tipo de sua classe, ou seja, os dados de seu comportamento ou também o que fazer de como fazer - outros nomes utilizados são Ocultamento de Informação \(_Information Hiding_\) ou Separação de Interesse \(_Separation of Concerns_\).
-
-## Outros
 
 * [_**DRY**_](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself") (_Don’t Repeat Yourself_) / _**WET**_ (_Write Every Time_): princípio sobre o problema da duplicação de conhecimento.
 
