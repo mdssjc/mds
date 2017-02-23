@@ -23,6 +23,8 @@ Os mais utilizados/aplicados são:
 
 * [_**Execute Around Method**_](http://c2.com/cgi/wiki?ExecuteAroundMethod "Execute Around Method"): controle sobr  e recursos externos, como operações em _cleanup_ e _locks_.
 
+* **Programe para uma interface, não para uma implementação** - _Program to an interface, not to an implementation_: introduzido no livro do GoF, recomenda o uso de abstrações como ponto de acesso entre elementos de programação.
+
 ### Princípios do Desenvolvimento de Pacotes
 
 Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ \(_Uncle Bob_\), sendo composto por 6 princípios:
