@@ -2,6 +2,8 @@
 
 Os princípios e padrões são as bagagens de experiências do desenvolvedor sobre a etapa de Arquitetura, enquanto os princípios trazem as sugestões e recomendações de expressões idiomáticas para a criação do _software_, os padrões trazem a formalização dos princípios em pares de problema/solução para serem aplicados e moldados aos contextos de _software_.
 
+Os mais utilizados são:
+
 * [GRASP](/arquitetura/grasp.md) \(Princípios\)
 * [SOLID](/arquitetura/solid.md) \(Princípios de Projeto\)
 * [GoF](/arquitetura/gof.md) \(Padrões de Projeto\)
