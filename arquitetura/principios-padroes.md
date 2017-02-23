@@ -29,11 +29,11 @@ Os mais utilizados são:
 
 * [_**Execute Around Method**_](http://c2.com/cgi/wiki?ExecuteAroundMethod "Execute Around Method"): controle sobr  e recursos externos, como operações em _cleanup_ e _locks_.
 
-## Princípios do Desenvolvimento de Pacotes
+### Princípios do Desenvolvimento de Pacotes
 
 Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ \(_Uncle Bob_\), sendo composto por 6 princípios:
 
-### Granularidade
+#### Granularidade
 
 * [**Princípio da Equivalência entre Liberação e Reuso**](http://wiki.c2.com/?ReuseReleaseEquivalencePrinciple) - _The Reuse-Release Equivalence Principle_ (REP): _the granule of reuse is the granule of release_.
 
@@ -47,7 +47,7 @@ Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile S
 
   Adaptado para o livro: as classes em um pacote devem ser fechadas em conjunto contra os mesmos tipos de alterações. Uma alteração que afeta um pacote afeta todas as classes nesse pacote e nenhuma em outro pacote.
 
-### Estabilidade
+#### Estabilidade
 
 * [**Princípio das Dependências Acíclicas**](http://wiki.c2.com/?AcyclicDependenciesPrinciple) - _The Acyclic-Dependencies Principle_ (ADP): _allow no cycles in the package-dependency graph_.
 
