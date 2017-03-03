@@ -6,3 +6,4 @@
 * Working Effectively with Legacy Code - Michael Feathers
 * Test Driven Development: By Example - Kent Beck
 * The Pragmatic Programmer: From Journeyman to Master - Andrew Hunt and David Thomas
+* Growing Object-Oriented Software, Guided by Tests - Steve Freeman and Nat Pryce
