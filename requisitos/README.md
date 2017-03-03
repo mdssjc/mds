@@ -14,7 +14,7 @@ As principais fases são:
 
 * **Requisitos do Usuário** \(visão - _vision_\): apresentação do problema pelo cliente através de descrição e especificação, assim verifica-se a viabilidade para a execução do projeto;
 * **Requisitos do Sistema** \(característica - _feature_\): processo de consolidação/entendimento do problema entre cliente e desenvolvedores, assim define-se o problema proposto; e
-* **Modelagem dos Requisitos** \(detalhe - _detail_\): comunicação com a Arquitetura do _Software_ através da transformação em cenário, define-se uma solução para o problema.
+* **Modelagem dos Requisitos** \(detalhe - _detail_\): comunicação com a Arquitetura do _Software_ através da transformação em cenário, assim define-se uma solução para o problema.
 
 ## Contexto
 
