@@ -42,7 +42,7 @@ O modelo de gerenciamento de ideias _5W2H_ tem como objetivo em responder 7 perg
 
 ### Inception Deck
 
-O _Inception Deck_ é um conjunto de 10 questões sobre o quê pensar antes de iniciar o projeto.
+O _Inception Deck_ é um conjunto de 10 questões sobre o quê pensar antes de iniciar um projeto.
 
 ![](/images/the-inception-deck.jpg)
 
