@@ -18,5 +18,3 @@ O guia para etapas são através dos princípios e padrões:
 * **[SOLID](/arquitetura/solid.md)**
 
 Um estrutura mais completa para a representação da arquitetura é a **Arquitetura 4+1**, definida por _Philippe Kruchten_.
-
-
