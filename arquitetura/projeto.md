@@ -27,17 +27,11 @@ A construção dos CRC _cards_ utiliza a técnica de Análise Textual.
 **Etapas:**
 
 * Obtenção do Cenário;
-
 * Identificação dos Substantivos como Classes;
-
 * Refinamento da Lista de Classes;
-
 * Identificação das Responsabilidades Óbvias;
-
 * Identificação dos Verbos como Responsabilidades;
-
 * Atribuição das Novas Responsabilidades;
-
 * Apresentação da Lógica para cada Responsabilidade.
 
 ## Diagrama de Classe
