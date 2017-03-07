@@ -40,6 +40,28 @@ O Diagrama de Classe é uma técnica de modelagem em Linguagem de Modelagem Unif
 
 ![](/images/arquitetura-projeto-diagrama-classe.png)
 
+Em PlantUML:
+
+```
+@startuml
+
+title Class Diagram
+
+class ClassA {
+  +Type attribute
+  +Type operation()
+}
+
+class ClassB {
+  +Type attribute
+  +Type operation()
+}
+
+ClassA --> ClassB
+
+@enduml
+```
+
 Nível 0 -> conjunto concreto
 
 Nível 1 -> estrutura abstrata
