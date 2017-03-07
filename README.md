@@ -18,6 +18,4 @@ O _framework_ de desenvolvimento é baseado em: **XP**, **DDD**, **SPD** e **4+1
 
 ---
 
-Desde já, recomenda-se o estudo em: [Extreme Programming](http://www.extremeprogramming.org/)
-
-**Última atualização: 03/03/2017**
+**Última atualização: 07/03/2017**
