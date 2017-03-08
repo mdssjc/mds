@@ -17,4 +17,4 @@ O guia para etapas são através dos princípios e padrões:
 * **[GRASP](/arquitetura/grasp.md)**
 * **[SOLID](/arquitetura/solid.md)**
 
-Um estrutura mais completa para a representação da etapa de Arquitetura é a **Arquitetura 4+1**, definida por _Philippe Kruchten_.
+Uma estrutura mais completa para a representação da etapa de **Arquitetura** é a _Arquitetura 4+1_, definida por _Philippe Kruchten_, enquanto sua representação em _software_ baseia-se em variantes da arquitetura _Ports-And-Adapters_.
