@@ -62,8 +62,8 @@ ClassA --> ClassB
 @enduml
 ```
 
-Nível 0 -> conjunto concreto
+Nível 0 -> conjunto concreto das instâncias de dados
 
-Nível 1 -> estrutura abstrata
+Nível 1 -> estrutura abstrata do modelo de dados
 
 A construção do Diagrama de Classe utiliza das técnicas de Análise, principalmente em relação ao domínio.
