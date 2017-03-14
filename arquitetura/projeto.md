@@ -1,8 +1,8 @@
 # Projeto
 
-Como fazer para solucionar o problema? No projeto são aplicados os estudos da etapa de **Arquitetura/Análise** em modelos prontos para a implementação na etapa de **Codificação**.
+Como fazer para solucionar o problema? No projeto são aplicados os estudos da subetapa de **Arquitetura/Análise** em modelos prontos para a implementação na etapa de **Codificação**.
 
-Esses modelos descreve uma visão lógica em relação a cada unidade/tarefa da etapa de **Arquitetura/Cenário** em termos de suas responsabilidades (tipo sabe (atributos) e tipo faz (comportamentos)) e identifica a necessidade de colaboração (relacionamentos).
+Esses modelos descreve uma visão lógica em relação a cada unidade/tarefa da subetapa de **Arquitetura/Cenário** em termos de papéis com específicas responsabilidades (tipo sabe (atributos) e tipo faz (comportamentos)) e interação pela necessidade de colaboração (relacionamentos).
 
 ## Cartão CRC
 
