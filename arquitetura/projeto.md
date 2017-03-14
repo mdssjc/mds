@@ -6,7 +6,7 @@ Esses modelos descreve uma visão lógica em relação a cada unidade/tarefa da 
 
 ## CRC Cards
 
-O CRC significa _Class-Responsibility-Collaborator_ \(Classe-Responsabilidade-Colaboração\) e é uma técnica de modelagem ágil \(Programação Extrema - _Extreme Programming_ \(XP\)\).
+O CRC significa _Class-Responsibility-Collaborator_ (Classe-Responsabilidade-Colaboração) e é uma técnica de modelagem ágil (Programação Extrema - _Extreme Programming_ (XP)).
 
 **Exemplo de Cartão:**
 
