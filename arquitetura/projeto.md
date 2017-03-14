@@ -4,9 +4,9 @@ Como fazer para solucionar o problema? No projeto são aplicados os estudos da e
 
 Esses modelos descreve uma visão lógica em relação a cada unidade/tarefa da etapa de **Arquitetura/Cenário** em termos de suas responsabilidades (tipo sabe (atributos) e tipo faz (comportamentos)) e identifica a necessidade de colaboração (relacionamentos).
 
-## CRC Cards
+## Cartão CRC
 
-O CRC significa _Class-Responsibility-Collaborator_ (Classe-Responsabilidade-Colaboração) e é uma técnica de modelagem ágil (Programação Extrema - _Extreme Programming_ (XP)).
+O cartão Classe-Responsabilidade-Colaboração - _Class-Responsibility-Collaborator_ (CRC) é uma técnica de modelagem da Programação Extrema - _Extreme Programming_ (XP).
 
 **Exemplo de Cartão:**
 
