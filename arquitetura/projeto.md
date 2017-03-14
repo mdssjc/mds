@@ -22,7 +22,7 @@ Do    |  OtherClass
 Know  |  -
 ```
 
-A construção dos CRC _cards_ utiliza a técnica de Análise Textual.
+A construção dos cartões CRC utiliza a técnica de Análise Textual.
 
 **Etapas:**
 
