@@ -18,4 +18,4 @@ O _framework_ de desenvolvimento é baseado em: **XP**, **DDD**, **SPD** e **4+1
 
 ---
 
-**Última atualização: 13/03/2017**
+**Última atualização: 14/03/2017**
