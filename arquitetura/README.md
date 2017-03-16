@@ -18,3 +18,4 @@ O guia para etapas são através dos princípios e padrões:
 * **[Geral](/arquitetura/principios-padroes.md)**
 * **[GRASP](/arquitetura/grasp.md)**
 * **[SOLID](/arquitetura/solid.md)**
+* **[GoF](/arquitetura/gof.md)**
