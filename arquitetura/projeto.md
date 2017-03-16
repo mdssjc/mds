@@ -6,7 +6,7 @@ Esses modelos descreve uma visão lógica em relação a cada unidade/tarefa da 
 
 ## Cartão CRC
 
-O cartão Classe-Responsabilidade-Colaboração - _Class-Responsibility-Collaborator_ (CRC) é uma técnica de modelagem da Programação Extrema - _Extreme Programming_ (XP) na qual utiliza a técnica de Análise Textual.
+O cartão Classe-Responsabilidade-Colaboração - _Class-Responsibility-Collaborator_ (CRC) é uma técnica de modelagem da Programação Extrema - _Extreme Programming_ (XP) na qual utiliza a técnica de Análise Textual nos cenários.
 
 **Exemplo de Cartão:**
 
