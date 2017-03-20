@@ -10,6 +10,8 @@ O que fazer para solucionar o problema? Na análise são realizado diversos estu
 
 * **Análise de Variabilidade**: o processo de identificação das partes variáveis.
 
+* **Análise de Ambiente/Mundo**: o processo de identificação dos eventos.
+
 Análise Contextual
 
 Wire Frame
