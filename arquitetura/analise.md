@@ -12,11 +12,10 @@ O que fazer para solucionar o problema? Na análise são realizado diversos estu
 
 * **Análise de Ambiente/Mundo**: o processo de identificação dos eventos.
 
-Análise Contextual
+**Análise Contextual**: _em edição._
 
-Wire Frame
+**Representações**: _em edição._
 
-Protótipo
-
-StoryBoard
-
+* Wire Frame
+* Protótipo
+* StoryBoard
