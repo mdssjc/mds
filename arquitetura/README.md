@@ -4,8 +4,6 @@
 
 A etapa de **Arquitetura** traz a estrutura organizacional de um sistema, incluindo sua decomposição em partes, sua conectividade, seus mecanismos de interação e os princípios e decisões que orientam no desenvolvimento de um sistema.
 
-Uma estrutura mais completa para a representação da etapa de **Arquitetura** é a _Arquitetura 4+1_, definida por _Philippe Kruchten_, enquanto sua representação em _software_ baseia-se em variantes da arquitetura _Ports-And-Adapters_.
-
 As três fundamentais etapas são:
 
 * [**Cenário**](/arquitetura/cenario.md): Descrevendo o problema.
