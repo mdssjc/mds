@@ -4,10 +4,10 @@ Os princípios e padrões são as bagagens de experiências do desenvolvedor sob
 
 Os mais utilizados/aplicados são:
 
-* [GRASP](/arquitetura/grasp.md) \(Princípios\)
-* [SOLID](/arquitetura/solid.md) \(Princípios de Projeto\)
-* [GoF](/arquitetura/gof.md) \(Padrões de Projeto\)
-* POSA \(Padrões de Arquitetura\)
+* [GRASP](/arquitetura/grasp.md) (Princípios)
+* [SOLID](/arquitetura/solid.md) (Princípios de Projeto)
+* [GoF](/arquitetura/gof.md) (Padrões de Projeto)
+* POSA (Padrões de Arquitetura)
 
 ## Outros
 
