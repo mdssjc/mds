@@ -25,7 +25,7 @@ Os mais utilizados/aplicados são:
 
 * **Programe para uma interface, não para uma implementação** - _Program to an interface, not to an implementation_: introduzido no livro do GoF, recomenda o uso de abstrações como ponto de acesso entre elementos de programação.
 
-* **Princípio de _Hollywood_** - _Hollywood Principle_: Não nos chame, nós chamaremos você - _Don't call us, we will call you_, especifica como componentes de alto e baixo nível interagem sem criar dependências.
+* [**Princípio de _Hollywood_**](http://wiki.c2.com/?HollywoodPrinciple) - _Hollywood Principle_: Não nos chame, nós chamaremos você - _Don't call us, we will call you_, especifica como componentes de alto e baixo nível interagem sem criar dependências.
 
 * [**Ordene, não peça!**](http://wiki.c2.com/?TellDontAsk) - _Tell, dont' ask!_: não peça o produto da informação ao elemento de programação na qual é dono da informação - reduza os acoplamentos.
 
