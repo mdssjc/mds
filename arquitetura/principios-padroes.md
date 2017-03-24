@@ -27,7 +27,7 @@ Os mais utilizados/aplicados são:
 
 * [**Princípio de _Hollywood_**](http://wiki.c2.com/?HollywoodPrinciple) - _Hollywood Principle_: Não nos chame, nós chamaremos você - _Don't call us, we will call you_, especifica como componentes de alto e baixo nível interagem sem criar dependências.
 
-* [**Ordene, não peça!**](http://wiki.c2.com/?TellDontAsk) - _Tell, dont' ask!_: peça o produto da informação ao elemento de programação na qual é dono da informação - reduza os acoplamentos.
+* [**Ordene, não peça!**](http://wiki.c2.com/?TellDontAsk) - _Tell, dont' ask!_: peça o produto da informação ao elemento de programação na qual é dono da informação - reduza os acoplamentos, priorizando o encapsulamento.
 
 ### Princípios do Desenvolvimento de Pacotes
 
