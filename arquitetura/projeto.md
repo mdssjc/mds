@@ -1,6 +1,8 @@
 # Projeto
 
-Como fazer para solucionar o problema? No projeto são aplicados os estudos da subetapa de [**Análise**](/arquitetura/analise.md) em modelos prontos para a implementação na etapa de [**Codificação**](/codigo/README.md).
+Como fazer para solucionar o problema?
+
+No projeto são aplicados os estudos da subetapa de [**Análise**](/arquitetura/analise.md) em modelos prontos para a implementação na etapa de [**Codificação**](/codigo/README.md).
 
 Esses modelos descreve uma visão lógica em relação a cada unidade/tarefa da subetapa de [**Cenário**](/arquitetura/cenario.md) em termos de papéis com específicas responsabilidades (tipo sabe (atributos) e tipo faz (comportamentos)) e interação pela necessidade de colaboração (relacionamentos).
 
