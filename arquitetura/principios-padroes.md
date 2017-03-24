@@ -27,6 +27,8 @@ Os mais utilizados/aplicados são:
 
 * **Princípio de _Hollywood_** - _Hollywood Principle_: Não nos chame, nós chamaremos você - _Don't call us, we will call you_, especifica como componentes de alto e baixo nível interagem sem criar dependências.
 
+* [**Ordene, não peça!**](http://wiki.c2.com/?TellDontAsk) - _Tell, dont' ask!_: não peça o produto da informação ao elemento de programação na qual é dono da informação - reduza os acoplamentos.
+
 ### Princípios do Desenvolvimento de Pacotes
 
 Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ \(_Uncle Bob_\), sendo composto por 6 princípios:
