@@ -1,16 +1,16 @@
 # Caixa Branca
 
-A técnica de **teste de caixa branca** \(_white-box testing_\) tem como objetivo avaliar a estrutura interna dos elementos de programação _\(técnica estrutural\)_ durante a etapa de Codificação nas fases de **testes unitários** \(_unit testing_\) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código \(estrutura interna do programa\) e/ou **testes de integração ou componentes** \(_integration testing or component testing_\) - responsáveis por avaliar a comunicação entre unidades e recursos, principalmente a camada de infraestrutura e códigos de terceiros (**Verificação**).
+A técnica de **teste de caixa branca** (_white-box testing_) tem como objetivo avaliar a estrutura interna dos elementos de programação _(técnica estrutural)_ durante a etapa de Codificação nas fases de **testes unitários** (_unit testing_) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código (estrutura interna do programa) e/ou **testes de integração ou componentes** (_integration testing or component testing_) - responsáveis por avaliar a comunicação entre unidades e recursos, principalmente a camada de infraestrutura e códigos de terceiros (**Verificação**).
 
-Na etapa de Codificação, os testes de caixa branca auxilia nas práticas do _Extrema Programming_ \(XP\):
+Na etapa de Codificação, os testes de caixa branca auxilia nas práticas do _Extrema Programming_ (XP):
 
 * **Refatoração** - _Refactoring_;
-* **Desenvolvimento Guiado por Testes** - _Test Driven Development_ \(TDD\);
-* **Integração Contínua** - _Continuous Integration_ \(CI\);
+* **Desenvolvimento Guiado por Testes** - _Test Driven Development_ (TDD);
+* **Integração Contínua** - _Continuous Integration_ (CI);
 * **Cobertura de Testes** - _Test Coverage_; e
 * **Testes de Regressão** - _Regression Testing._
 
-**Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ \(SRP\) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas \(_Tell, Don't Ask_\) sem o encadeamento de mensagens \(_Law of Demeter_\), a proposta básica é que cada **Classe de Equivalência** deve possuir um caso de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
+**Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (_Tell, Don't Ask_) sem o encadeamento de mensagens (_Law of Demeter_), a proposta básica é que cada **Classe de Equivalência** deve possuir um caso de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
 ## O Teste
 
@@ -20,9 +20,9 @@ Na elaboração dos casos de teste utiliza uma identificação e um nome descrit
 
 `{ ID; Nome do Teste; Entrada; Saída Esperada; Estado Inicial }`
 
-Os casos de teste são organizadas em quatro \(4\) fases/etapas - pensando na sigla **AAA\(A\)**, sendo:
+Os casos de teste são organizadas em quatro (4) fases/etapas - pensando na sigla **AAA(A)**, sendo:
 
-* **setup**: construção e configuração dos estados \(entradas, condições e limites\) requeridos pelo caso de teste;
+* **setup**: construção e configuração dos estados (entradas, condições e limites) requeridos pelo caso de teste;
 * **exercise**: execução das funcionalidades do código sobre teste;
 * **verify**: avaliação dos estados e comportamentos do código, comparando os resultados obtidos com as saídas esperadas; e
 * **teardown**: liberação dos recursos utilizados pelo código.
@@ -39,7 +39,7 @@ As tecnologias de desenvolvimento possuem elementos de programação mínimos pa
 
 ### Documentação
 
-Os testes formam a documentação viva do código, em que são de extrema importância seus identificadores \(nomes dos testes\) serem pensadas em nível sintático \(relação entre os termos\) e semântico \(sentido de ideias\) com o que será testado.
+Os testes formam a documentação viva do código, em que são de extrema importância seus identificadores (nomes dos testes) serem pensadas em nível sintático (relação entre os termos) e semântico (sentido de ideias) com o que será testado.
 
 #### Convenções
 
@@ -49,7 +49,7 @@ Os seguintes identificadores são utilizados para os:
 
   * _NameTest_: testes unitários;
   * _NameIntegrationTest_: testes de integração; e
-  * _NameSystemTest_: testes de sistema \(ver [Caixa Preta](/testes/caixa-preta.md)\).
+  * _NameSystemTest_: testes de sistema (ver [Caixa Preta](/testes/caixa-preta.md)).
 
 * Testes:
 
@@ -65,13 +65,13 @@ Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - u
 
 ### Feedbacks
 
-Os excessos no código de teste \(padrões de _feedback_\) diz o quanto estável é a unidade de programação:
+Os excessos no código de teste (padrões de _feedback_) diz o quanto estável é a unidade de programação:
 
 * exercícios das responsabilidades: baixa coesão;
 * dublês das colaboradoras: alto acoplamento; e
 * avaliação em colaboradoras: encapsulamento.
 
-Complexidade ciclomática: métrica das ramificações existentes em uma unidade de programação, quanto maior o número, mais complexo e difícil de ser testado será o _software_ \(mais informações em [Medindo a complexidade do seu código](http://blog.caelum.com.br/medindo-a-complexidade-do-seu-codigo/ "Medindo a complexidade do seu código")\).
+Complexidade ciclomática: métrica das ramificações existentes em uma unidade de programação, quanto maior o número, mais complexo e difícil de ser testado será o _software_ (mais informações em [Medindo a complexidade do seu código](http://blog.caelum.com.br/medindo-a-complexidade-do-seu-codigo/ "Medindo a complexidade do seu código")).
 
 ### Ferramentas
 
@@ -96,7 +96,7 @@ EAM _em edição_
 
 ## O que pensar?
 
-* **AAA\[A\]** - organização e formatação dos casos de teste:
+* **AAA[A]** - organização e formatação dos casos de teste:
 
   **A**rrange: monta/organiza o código com todas as entradas e pré-condições necessárias ao teste;
 
@@ -124,7 +124,7 @@ EAM _em edição_
 
   **B**oundary: as condições limites estão corretas? Essa é verificada através do **CORRECT**;
 
-  **I**nverse: os relacionamentos inversos \(operações inversas\) estão sendo utilizadas?;
+  **I**nverse: os relacionamentos inversos (operações inversas) estão sendo utilizadas?;
 
   **C**ross-Check: uso de checagem cruzada com outros métodos de mesmo significado estão sendo utilizadas?;
 
@@ -138,48 +138,43 @@ EAM _em edição_
 
   **O**rdering: com o conjunto de valores em uma ordem determinada?
 
-  **R**ange: com os valores dentro da faixa \(mínimo e máximo\) especificada?
+  **R**ange: com os valores dentro da faixa (mínimo e máximo) especificada?
 
   **R**eference: com alguma referência externa fora do controle do código?
 
-  **E**xistence: com valor existente \(nulo, zero, presente e etc...\)?
+  **E**xistence: com valor existente (nulo, zero, presente e etc...)?
 
   **C**ardinality: com a quantidade de números suficiente? Os casos interessantes são Zero, Um e Muitos através da regra **0-1-n**.
 
-  **T**ime: com as temporizações corretas \(sincronização, tempo, eventos, referência e etc...\)?
-
+  **T**ime: com as temporizações corretas (sincronização, tempo, eventos, referência e etc...)?
 
 ## Boas Práticas
 
 * **Identificação**: ver Documentação.
 * **Refatoração**: importante até mesmo para o código de teste.
 * **Baby Steps**: começando pelo cenário de teste mais simples em pequenos incrementos, assim ganhando confiança e conhecimento do sistema.
-* **Test Data Builders**: utilização do padrão de projeto \(GoF\) _Builder_ para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
+* **Test Data Builders**: utilização do padrão de projeto (GoF) _Builder_ para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
 * **Adapters**: utilização para testes com métodos estáticos e códigos legados.
 * **Test Double**: isolação de funcionalidades com dependência externa, assim avaliando as características de estado e comportamento do objeto:
-
   * _Dummy_: _em edição_.
   * _Fake_: _em edição_.
   * _Stubs_: _em edição_.
   * _Saboteurs_: _em edição_.
   * _Mocks_: _em edição_.
   * _Spy_: _em edição_.
-
-* **Infraestrutura**: a camada de infraestrututra \(_DAO_, _Messages_...\) é testada com testes de integração.
-
+* **Infraestrutura**: a camada de infraestrututra (_DAO_, _Messages_...) é testada com testes de integração.
 * **Execute Around Method**: utilização para testes com avaliação de exceção.
-
 
 ### Test Smell
 
 Código de teste também possui _bad smells_, tais como:
 
-* **Unnecessary Test Code** \(Código de Teste Desnecessário\): o caso de teste é construído com código em excesso e/ou defensivo, sem significado e valor ao teste;
-* **Missing Abstractions** \(Falta de Abstração\): exagero e/ou preciosismo nos detalhes sobre a organização e formatação do teste;
-* **Irrelevant Information** \(Informação Irrelevante\): utilização de dados irrelevantes ao teste, tais como literais e sentinelas;
-* **Bloated Construction** \(Construção Inchada\): complexidade na montagem dos elemento no teste;
-* **Multiple Assertions** \(Múltiplas Avaliações\): excesso de responsabilidades no teste;
-* **Irrelevant Details in Test** \(Detalhes Irrelevante no Teste\): uso de recursos desnecessários ao teste, tais como serviços transversais de segurança, _logging_ e etc...;
-* **Misleading Organization** \(Organização Enganosa\): falta de organização no código de teste, por não responder a questão _AAA_;
-* **Implicit Meaning** \(Significado Implícito\): excesso de dados e informações aos elementos \(constantes, variáveis, dados e etc...\) do teste;
+* **Unnecessary Test Code** (Código de Teste Desnecessário): o caso de teste é construído com código em excesso e/ou defensivo, sem significado e valor ao teste;
+* **Missing Abstractions** (Falta de Abstração): exagero e/ou preciosismo nos detalhes sobre a organização e formatação do teste;
+* **Irrelevant Information** (Informação Irrelevante): utilização de dados irrelevantes ao teste, tais como literais e sentinelas;
+* **Bloated Construction** (Construção Inchada): complexidade na montagem dos elemento no teste;
+* **Multiple Assertions** (Múltiplas Avaliações): excesso de responsabilidades no teste;
+* **Irrelevant Details in Test** (Detalhes Irrelevante no Teste): uso de recursos desnecessários ao teste, tais como serviços transversais de segurança, _logging_ e etc...;
+* **Misleading Organization** (Organização Enganosa): falta de organização no código de teste, por não responder a questão _AAA_;
+* **Implicit Meaning** (Significado Implícito): excesso de dados e informações aos elementos (constantes, variáveis, dados e etc...) do teste;
 
