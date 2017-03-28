@@ -42,7 +42,7 @@ Os testes formam a documentação viva do código, em que são de extrema import
 
 #### Convenções
 
-Os seguintes identificadores são utilizados para os:
+As seguintes convenções para os identificadores são utilizados:
 
 * Casos de Testes:
 
