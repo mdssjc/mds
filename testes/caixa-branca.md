@@ -14,7 +14,7 @@ Na etapa de [Codificação](/codigo/README.md), os testes de caixa branca auxili
 
 ## O Teste
 
-O teste utiliza um cenário para composição de um conjunto de casos de teste durante a etapa de Codificação, assim garantindo a estrutura dos elementos de programação na verificação da Arquitetura.
+O teste utiliza um cenário para composição de um conjunto de casos de teste durante a etapa de [Codificação](/codigo/README.md), assim garantindo a estrutura dos elementos de programação na verificação da [Arquitetura](/arquitetura/README.md).
 
 Na elaboração dos casos de teste utiliza uma identificação e um nome descritivo para cada variação de uma específica funcionalidade do cenário - formando uma execução atômica, assim definindo seus dados de testes como entrada e sua saída esperada na execução, conforme o estado inicial.
 
@@ -26,8 +26,6 @@ Os casos de teste são organizadas em quatro (4) fases/etapas - pensando na sigl
 * **exercise**: execução das funcionalidades do código sobre teste;
 * **verify**: avaliação dos estados e comportamentos do código, comparando os resultados obtidos com as saídas esperadas; e
 * **teardown**: liberação dos recursos utilizados pelo código.
-
-A abordagem do TDD utiliza esse fluxo de forma otimizada.
 
 ### O Que Testar?
 
