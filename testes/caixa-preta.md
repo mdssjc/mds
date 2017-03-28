@@ -17,9 +17,9 @@ As seguintes convenções para os identificadores são utilizados:
 
 * Casos de Testes:
 
-  * _NameTest_: testes unitários;
-  * _NameIntegrationTest_: testes de integração; e
-  * _NameSystemTest_: testes de sistema (ver [Caixa Preta](/testes/caixa-preta.md)).
+  * _NameTest_: testes unitários (ver [Caixa Branca](/testes/caixa-branca.md));
+  * _NameIntegrationTest_: testes de integração (ver [Caixa Branca](/testes/caixa-branca.md)); e
+  * _NameSystemTest_: testes de sistema.
 
 ### Ferramentas
 
