@@ -31,7 +31,7 @@ Os casos de teste são organizadas em quatro (4) fases/etapas - pensando na sigl
 
 As tecnologias de desenvolvimento possuem elementos de programação mínimos legíveis aos testes, sendo:
 
-* **Java**: Classes;
+* **Java**: Classes e Métodos;
 * **Haskell**: Funções;
 * **Lisp**: Funções, Comandos e Macros; e
 * **C**: Funções.
