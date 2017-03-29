@@ -17,7 +17,7 @@ O código é a implementação da solução do problema proposto durante a etapa
 * _Bugs_: previne e corrige os problemas; e
 * _Debugging_: reduz a necessidade de uso.
 
-**Refatoração** (_Refactoring_): técnica de melhoria no código através de correções em padrões de problemas (_bad smells_):
+**Refatoração** (_Refactoring_): técnica de melhoria na estrutura interna do código, sem alterar seu comportamento, através de correções em padrões de problemas (_bad smells_):
 
 * _[Refactoring](http://refactoring.com)_: catálogo de técnicas sobre refatoração;
 * _[SourceMaking](https://sourcemaking.com)_: compilado de técnicas para melhoria no código;
