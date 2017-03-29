@@ -2,13 +2,14 @@
 
 A técnica de **teste de caixa branca** (_white-box testing_) tem como objetivo avaliar a estrutura interna dos elementos de programação _(técnica estrutural)_ durante a etapa de [Codificação](/codigo/README.md) nas fases de **testes unitários** (_unit testing_) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código (estrutura interna do programa) e/ou **testes de integração ou componentes** (_integration testing or component testing_) - responsáveis por avaliar a comunicação entre unidades e recursos, principalmente a camada de infraestrutura e códigos de terceiros (**verificação**).
 
-Durante a etapa de [Codificação](/codigo/README.md), os testes auxiliam nas técnicas de:
+Durante o desenvolvimento de _software_, os testes auxiliam nas técnicas de:
 
 * **Refatoração** - _Refactoring_;
 * **Desenvolvimento Guiado por Testes** - _Test Driven Development_ (TDD);
 * **Integração Contínua** - _Continuous Integration_ (CI);
-* **Cobertura de Testes** - _Test Coverage_; e
-* **Testes de Regressão** - _Regression Testing._
+* **Cobertura de Testes** - _Test Coverage_;
+* **Testes de Regressão** - _Regression Testing_; e
+* **Projeto de Programa Sistemático** - _Systematic Program Design_ (SPD).
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (_Tell, Don't Ask_) sem o encadeamento de mensagens (_Law of Demeter_), a proposta básica é que cada **Classe de Equivalência** deve possuir um caso de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
