@@ -4,12 +4,12 @@ A técnica de **teste de caixa branca** (_white-box testing_) tem como objetivo 
 
 Durante o desenvolvimento de _software_, os testes auxiliam nas técnicas de:
 
-* **Refatoração** - _Refactoring_;
+* **Projeto de Programa Sistemático** - _Systematic Program Design_ (SPD);
 * **Desenvolvimento Guiado por Testes** - _Test Driven Development_ (TDD);
-* **Integração Contínua** - _Continuous Integration_ (CI);
+* **Refatoração** - _Refactoring_;
 * **Cobertura de Testes** - _Test Coverage_;
-* **Testes de Regressão** - _Regression Testing_; e
-* **Projeto de Programa Sistemático** - _Systematic Program Design_ (SPD).
+* **Integração Contínua** - _Continuous Integration_ (CI); e
+* **Testes de Regressão** - _Regression Testing_.
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (_Tell, Don't Ask_) sem o encadeamento de mensagens (_Law of Demeter_), a proposta básica é que cada **Classe de Equivalência** deve possuir um caso de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
