@@ -15,14 +15,12 @@ A etapa de **Testes** utiliza os [cenários](/arquitetura/cenario.md) para a ava
 * [Caixa Branca](/testes/caixa-branca.md)
 * [Caixa Preta](/testes/caixa-preta.md)
 
-Para informações acadêmicas sobre testes, acesse o curso: [Automatização de Teste de Software - com ênfase em Ferramentas Open Source](http://napsol.icmc.usp.br/ats/).
-
----
-
-{Critérios}
+**Critérios:**
 
 * Classes de Equivalência
 * Análise de Limites
+
+Para informações acadêmicas sobre testes, acesse o curso: [Automatização de Teste de Software - com ênfase em Ferramentas Open Source](http://napsol.icmc.usp.br/ats/).
 
 ---
 
