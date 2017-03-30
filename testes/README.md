@@ -2,7 +2,7 @@
 
 ![](/images/testes.png)
 
-Este capítulo destina-se sobre testes em _software_, importante no processo de **verificação** (o produto está correto, conforme seu projeto) e **validação** (o produto está certo, conforme os requisitos do usuário) do desenvolvimento em **Arquiteturas de Software**.
+A etapa de **Testes** utiliza os [cenários](/arquitetura/cenario.md) para a avaliação da [codificação](/codigo/README.md) durante o desenvolvimento do _software_, importante no processo de **verificação** (o produto está correto, conforme seu projeto) e **validação** (o produto está certo, conforme os requisitos do usuário) do desenvolvimento em **Arquiteturas de Software**.
 
 **Fases:**
 
@@ -18,8 +18,6 @@ Este capítulo destina-se sobre testes em _software_, importante no processo de 
 Para informações acadêmicas sobre testes, acesse o curso: [Automatização de Teste de Software - com ênfase em Ferramentas Open Source](http://napsol.icmc.usp.br/ats/).
 
 ---
-
-Os testes são criados através dos requisitos modelados.
 
 {Critérios}
 
