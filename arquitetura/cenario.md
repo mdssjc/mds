@@ -4,7 +4,7 @@ O cenário é o processo de transformação (modelagem) dos requisitos em soluç
 
 ## User Story
 
-O _user story_ é uma técnica de modelagem ágil (Programação Extrema - _Extreme Programming_ (XP)) na qual consiste em uma pequena descrição em linguagem ubíqua das características de valor para o sistema, divididas em cartões de restrição e característica, em que originam as tarefas (_tasks_) e critérios de testes (_test criteria_).
+O _User Story_ é uma técnica de modelagem da Programação Extrema - _Extreme Programming_ (XP) na qual consiste em uma pequena descrição em linguagem ubíqua das características de valor para o sistema, divididas em cartões de restrição e característica, em que originam as tarefas (_tasks_) e critérios de testes (_test criteria_).
 
 **Cartão de Restrição:**
 
