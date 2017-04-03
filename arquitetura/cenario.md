@@ -26,11 +26,11 @@ so that < some reason >. (WHY)  // they want to do it
 
 Em BDD utiliza-se as partes: `Given / When / Then`
 
-**Tarefas**: conjunto de atividades necessárias para criar uma execução da estória.
+**Tarefas**: conjunto de atividades necessárias para criar uma execução da _User Story_.
 
-**Critérios de Testes**: conjuntos de testes para verificar a execução da estória.
+**Critérios de Testes**: conjuntos de testes para verificar a execução da _User Story_.
 
-As características de um bom _User Story_ é resumida no acrônimo _INVEST_:
+As características de uma boa _User Story_ é resumida no acrônimo _INVEST_:
 
 * _Independent_ - independente;
 * _Negotiable_ - negociável;
@@ -41,7 +41,7 @@ As características de um bom _User Story_ é resumida no acrônimo _INVEST_:
 
 A lista de atividades é reunida em uma _Master Story List_.
 
-Cada _user story_ é desenvolvida por completo em uma iteração.
+Cada _User Story_ é desenvolvida por completo em uma iteração.
 
 ## Use Case
 
