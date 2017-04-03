@@ -32,7 +32,7 @@ Nós seguimos os seguintes princípios:
 11. As melhores arquiteturas, requisitos e _designs_ emergem de equipes auto-organizáveis.
 12. Em intervalos regulares, a equipe reflete sobre como se tornar mais eficiente, depois aprimora e ajusta seu comportamento em conformidade.
 
-## Versão Original
+## Original
 
 **Manifesto for Agile Software Development**
 
