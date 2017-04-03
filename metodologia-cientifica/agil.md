@@ -2,7 +2,7 @@
 
 ## Manifesto
 
-Manifesto para o desenvolvimento ágil de _software_
+**Manifesto para o desenvolvimento ágil de _software_**
 
 Estamos descobrindo maneiras melhores de desenvolver _software_, fazendo-o nós mesmos e ajudando outros a fazerem o mesmo. Através deste trabalho, passamos a valorizar:
 
@@ -15,7 +15,9 @@ Ou seja, mesmo havendo valor nos itens à direita, valorizamos mais os itens à 
 
 ## Princípios
 
-Os 12 princípios do Manifesto Ágil são:
+**Princípios por trás do manifesto ágil**
+
+Nós seguimos os seguintes princípios:
 
 1. Nossa maior prioridade é satisfazer o cliente através da entrega contínua e adiantada de _software_ de com valor agregado.
 2. Mudanças de requisitos são bem-vindas, mesmo que tardiamente no desenvolvimento. Processos ágeis se aproveitam das mudanças visando promover vantagem competitiva para o cliente.
