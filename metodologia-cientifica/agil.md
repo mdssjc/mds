@@ -16,6 +16,3 @@ Os 12 princípios do Manifesto Ágil são:
 10. Simplicidade - a arte de maximizar a quantidade de trabalho não feito - é essencial.
 11. As melhores arquiteturas, requisitos e _designs_ emergem de equipes auto-organizáveis.
 12. Em intervalos regulares, a equipe reflete sobre como se tornar mais eficiente, depois aprimora e ajusta seu comportamento em conformidade.
-
-
-
