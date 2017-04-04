@@ -12,7 +12,7 @@ O código é a implementação da solução do problema proposto durante a etapa
 
 **Desenvolvimento Guiado por Testes** (_Test Driven Development_ - TDD): é uma técnica de desenvolvimento de _software_ da Programação Extrema - _Extreme Programming_ (XP), em que os testes são criados antes do código de produção, através do seu ciclo:
 
-* _Red_ (_Test Fails_): exercício de uma parte do comportamento da tarefa (_User Story_) através do código de [Testes](/testes/README.md) - fazer falhar, assim representando cada incremento do cenário;
+* _Red_ (_Test Fails_): criação da Interface de Programação de Aplicativos - _Application Programming Interface_ (API) com o exercício de uma parte do comportamento da tarefa (_User Story_) através do código de [Testes](/testes/README.md) - fazer falhar, assim representando cada incremento do cenário;
 * _Green_ (_Test Passes_): implementação do código - fazer o teste passar; e
 * _Refactor_: aplicação da refatoração em melhorias nos recursos utilizados no ciclo, como código, teste, configuração e etc...
 
