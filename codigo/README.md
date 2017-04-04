@@ -20,7 +20,7 @@ O código é a implementação da solução do problema proposto durante a etapa
 * _[Refactoring](http://refactoring.com)_: catálogo de técnicas sobre refatoração;
 * _[SourceMaking](https://sourcemaking.com)_: compilado de técnicas para melhoria no código;
 * Dívida Técnica (_Technical Debt_): complexidade acumulada durante o desenvolvimento;
-* Código Legado: _em edição_; e
+* Código Legado: código antigo e com características fora do padrão de desenvolvimento; e
 * Problemas comuns: Rigidez (_Rigidity_), Fragilidade (_Fragility_), Imobilidade (_Immobility_), Viscosidade (_Viscosity_), Complexidade Desnecessária (_Needless Complexity_), Repetição Desnecessária (_Needless Repetition_) e Opacidade (_Opacity_).
 
 Livro de referência: _Refactoring: Improving the Design of Existing Code_.
