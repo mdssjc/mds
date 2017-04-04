@@ -11,6 +11,12 @@ Durante o desenvolvimento de _software_, os testes auxiliam nas técnicas de:
 * **Integração Contínua** - _Continuous Integration_ (CI); e
 * **Testes de Regressão** - _Regression Testing_.
 
+Outras características apresentadas são:
+* Implementação: das funcionalidade do cenário;
+* _FeedBack_: notificação dos problemas no código;
+* _Bugs_: previne e corrige os problemas; e
+* _Debugging_: reduz a necessidade de uso.
+
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (_Tell, Don't Ask_) sem o encadeamento de mensagens (_Law of Demeter_), a proposta básica é que cada **Classe de Equivalência** deve possuir um caso de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
 ## O Teste
