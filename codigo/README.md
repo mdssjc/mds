@@ -23,8 +23,6 @@ O código é a implementação da solução do problema proposto durante a etapa
 * Código Legado: código antigo e com características fora do padrão de desenvolvimento; e
 * Problemas comuns: Rigidez (_Rigidity_), Fragilidade (_Fragility_), Imobilidade (_Immobility_), Viscosidade (_Viscosity_), Complexidade Desnecessária (_Needless Complexity_), Repetição Desnecessária (_Needless Repetition_) e Opacidade (_Opacity_).
 
-Livro de referência: _Refactoring: Improving the Design of Existing Code_.
-
 **Integração Contínua** (_Continuous Integration_ - CI): processo de integração dos incrementos de codificação, com execução automática e avaliativa dos testes - simulando o ambiente de produção. O processo é automático por um sistema de integração contínua, na qual verifica o repositório de código, realiza o _check-in/build_ e analisa a saúde do projeto, notificando os problemas aos desenvolvedores.
 
 **Programação por Contrato**: o cliente aceita as regras de como manipular os problemas pelo uso incorreto da API - geralmente retornando um valor nulo ou lançando uma exceção.
