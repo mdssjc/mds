@@ -27,8 +27,6 @@ Livro de referência: _Refactoring: Improving the Design of Existing Code_.
 
 **Integração Contínua** (_Continuous Integration_ - CI): processo de integração dos incrementos de codificação, com execução automática e avaliativa dos testes - simulando o ambiente de produção. O processo é automático por um sistema de integração contínua, na qual verifica o repositório de código, realiza o _check-in/build_ e analisa a saúde do projeto, notificando os problemas aos desenvolvedores.
 
----
-
 **Programação por Contrato**: o cliente aceita as regras de como manipular os problemas pelo uso incorreto da API - geralmente retornando um valor nulo ou lançando uma exceção.
 
 **Programação Defensiva**: a API protege o cliente do uso incorreto - geralmente retornando um resultado padrão ou lançando uma exceção com tratamento obrigatório.
