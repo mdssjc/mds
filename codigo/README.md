@@ -2,7 +2,7 @@
 
 ![](/images/codigo.png)
 
-O código é a implementação da solução do problema proposto durante a etapa de Codificação.
+A etapa de **Codificação** traz a implementação da solução do problema proposto em código (produto do projeto).
 
 ```
 +-------+      +---+      +-------------+
