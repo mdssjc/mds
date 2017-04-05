@@ -21,7 +21,7 @@ Outras características apresentadas são:
 
 ## O Teste
 
-O teste utiliza um cenário para composição de um conjunto de casos de teste durante a etapa de [Codificação](/codigo/README.md), assim descrevendo **o que** cada estrutura de programação deve fazer para garantir a **verificação** da [Arquitetura](/arquitetura/README.md).
+O teste utiliza as tarefas do cenário para a composição de um conjunto de casos de teste durante a etapa de [Codificação](/codigo/README.md), assim descrevendo **o que** cada estrutura de programação deve fazer para garantir a **verificação** da [Arquitetura](/arquitetura/README.md).
 
 Na elaboração dos casos de teste utiliza uma identificação e um nome descritivo para cada variação de uma específica funcionalidade do cenário - formando uma execução atômica, assim definindo seus dados de testes como entrada e sua saída esperada na execução, conforme o estado inicial.
 
