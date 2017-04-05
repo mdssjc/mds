@@ -2,7 +2,9 @@
 
 A técnica de **teste de caixa preta** (_black-box testing_) tem como objetivo avaliar e verificar o funcionamento externo dos elementos de programação _(técnica funcional)_ durante a etapa de Especificação nas fases de **testes de sistema** e/ou **testes de aceitação** (_acceptance tests_) quando na presença dos clientes - responsáveis por avaliar o sistema como um todo (**validação**).
 
-BDD: _em edição_.
+Durante o desenvolvimento de _software_, os testes auxiliam nas técnicas de:
+* **Projeto de Programa Sistemático** - _Systematic Program Design_ (SPD); e
+* **Desenvolvimento Guiado por Comportamento** - _Behavior Driven Development_ (BDD).
 
 ## O Teste
 
