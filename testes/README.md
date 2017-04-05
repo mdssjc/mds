@@ -2,7 +2,7 @@
 
 ![](/images/testes.png)
 
-A etapa de **Testes** utiliza os [cenários](/arquitetura/cenario.md) para a avaliação da [codificação](/codigo/README.md) durante o desenvolvimento do _software_, importante no processo de **verificação** (o produto está correto, conforme seu projeto) e **validação** (o produto está certo, conforme os requisitos do usuário) do desenvolvimento em **Arquiteturas de Software**. Os testes são uma forma de documentação - compilável e executável, ou seja, precisa e confiável.
+A etapa de **Testes** utiliza os [cenários](/arquitetura/cenario.md) para a avaliação da [codificação](/codigo/README.md) durante o desenvolvimento do _software_, importante no processo de **verificação** (o produto está correto, conforme seu projeto) e **validação** (o produto está certo, conforme os requisitos do usuário) do desenvolvimento em **Arquiteturas de Software**, os testes são uma forma de documentação - compilável e executável, ou seja, precisa e confiável.
 
 **Fases:**
 
