@@ -17,8 +17,6 @@ Outras características apresentadas são:
 * _Bugs_: previne e corrige os problemas; e
 * _Debugging_: reduz a necessidade de uso.
 
-**Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (_Tell, Don't Ask_) sem o encadeamento de mensagens (_Law of Demeter_), a proposta básica é que cada **Classe de Equivalência** deve possuir um caso de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
-
 ## O Teste
 
 O teste utiliza as tarefas do cenário para a composição de um conjunto de casos de teste durante a etapa de [Codificação](/codigo/README.md), assim descrevendo **o que** cada estrutura de programação deve fazer para garantir a **verificação** da [Arquitetura](/arquitetura/README.md).
@@ -33,6 +31,8 @@ Os casos de teste são organizadas em quatro (4) fases/etapas, sendo:
 * **exercise** ou **act**: execução das funcionalidades do código sobre teste;
 * **verify** ou **assert**: avaliação dos estados e comportamentos do código, comparando os resultados obtidos com as saídas esperadas; e
 * **teardown** ou **after**: liberação dos recursos utilizados pelo código.
+
+**Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (_Tell, Don't Ask_) sem o encadeamento de mensagens (_Law of Demeter_), a proposta básica é que cada **Classe de Equivalência** deve possuir um caso de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
 
 ### O Que Testar?
 
