@@ -16,6 +16,8 @@ A etapa de **Codificação** traz a implementação da solução do problema pro
 * _Green_ (_Test Passes_): implementação do código - fazer o teste passar; e
 * _Refactor_: aplicação da refatoração em melhorias nos recursos utilizados no ciclo, como código, teste, configuração e etc...
 
+Escrever os testes antes do código melhora a estrutura do projeto, pois traz _feedback_ mais cedo e apredizado constante.
+
 **Refatoração** - _Refactoring_: é uma técnica de melhoria na estrutura interna do código, sem alterar seu comportamento, através de correções em padrões de problemas (_bad smells_):
 
 * _[Refactoring](http://refactoring.com)_: catálogo de técnicas sobre refatoração;
