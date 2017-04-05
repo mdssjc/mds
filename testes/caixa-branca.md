@@ -27,12 +27,12 @@ Na elaboração dos casos de teste utiliza uma identificação e um nome descrit
 
 `{ ID; Nome do Teste; Entrada; Saída Esperada; Estado Inicial }`
 
-Os casos de teste são organizadas em quatro (4) fases/etapas - pensando na sigla **AAA(A)**, sendo:
+Os casos de teste são organizadas em quatro (4) fases/etapas, sendo:
 
-* **setup**: construção e configuração dos estados (entradas, condições e limites) requeridos pelo caso de teste;
-* **exercise**: execução das funcionalidades do código sobre teste;
-* **verify**: avaliação dos estados e comportamentos do código, comparando os resultados obtidos com as saídas esperadas; e
-* **teardown**: liberação dos recursos utilizados pelo código.
+* **setup** ou **arrange**: construção e configuração dos estados (entradas, condições e limites) requeridos pelo caso de teste;
+* **exercise** ou **act**: execução das funcionalidades do código sobre teste;
+* **verify** ou **assert**: avaliação dos estados e comportamentos do código, comparando os resultados obtidos com as saídas esperadas; e
+* **teardown** ou **after**: liberação dos recursos utilizados pelo código.
 
 ### O Que Testar?
 
