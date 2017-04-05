@@ -69,7 +69,9 @@ Cada _use case_ é desenvolvido por completo.
 
 ## Outros
 
-## Feature
+Existem outras técnicas de modelagem de cénarios, sendo duas comuns _Feature_ e _Especificação de Requisitos_.
+
+### Feature
 
 A _Feature_ é uma técnica de modelagem clássica (Desenvolvimento Guiado por Funcionalidades - _Feature Driven Development_ (FDD)) na qual define uma descrição de alto nível em linguagem ubíqua das funcionalidades/características que o sistema necessita fazer.
 
@@ -88,4 +90,4 @@ Cada _feature_ é desenvolvida por completo, recomenda-se a arquitetura _Package
 
 ![](/images/skull.png)
 
-Método obsoleto de modelagem.
+Método obsoleto de modelagem do _Waterfall_.
