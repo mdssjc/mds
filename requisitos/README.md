@@ -8,13 +8,15 @@ A etapa de **Requisitos** marca o início de um projeto e determina sua base de 
 
 **Constante** = Mudanças
 
+**Importante regra**: _os requisitos sempre mudam!_
+
 ## Fases
 
 As principais fases são:
 
-* **Requisitos do Usuário** \(visão - _vision_\): apresentação do problema pelo cliente através de descrição e especificação, assim verifica-se a viabilidade para a execução do projeto;
-* **Requisitos do Sistema** \(característica - _feature_\): processo de consolidação/entendimento do problema entre cliente e desenvolvedores, assim define-se o problema proposto; e
-* **Modelagem dos Requisitos** \(detalhe - _detail_\): comunicação com a Arquitetura do _Software_ através da transformação em cenário, assim define-se uma solução para o problema.
+* **Requisitos do Usuário** (visão - _vision_): apresentação do problema pelo cliente através de descrição e especificação, assim verifica-se a viabilidade para a execução do projeto;
+* **Requisitos do Sistema** (característica - _feature_): processo de consolidação/entendimento do problema entre cliente e desenvolvedores, assim define-se o problema proposto; e
+* **Modelagem dos Requisitos** (detalhe - _detail_): comunicação com a Arquitetura do _Software_ através da transformação em cenário, assim define-se uma solução para o problema.
 
 ## Contexto
 
@@ -22,23 +24,23 @@ O contexto é um importante componente dos requisitos, pois é o ponto inicial n
 
 ### SMART
 
-* **S** \(_Specific_\): específica, bem definida;
-* **M** \(_Measurable_\): mensurável, quantificada;
-* **A** \(_Assignable_\): alcançável, desafiadora;
-* **R** \(_Realistic_\): relevante para você; e
-* **T** \(_Time-related_\): temporal, que tenha uma prazo.
+* **S** (_Specific_): específica, bem definida;
+* **M** (_Measurable_): mensurável, quantificada;
+* **A** (_Assignable_): alcançável, desafiadora;
+* **R** (_Realistic_): relevante para você; e
+* **T** (_Time-related_): temporal, que tenha uma prazo.
 
 ### 5W2H
 
 O modelo de gerenciamento de ideias _5W2H_ tem como objetivo em responder 7 perguntas:
 
-* **What** \(O quê?\): o que será feito? [objetivo, ação, etapas, descrição]
-* **Why** \(Porquê?\): por que será feito? [justificativa, motivo, benefício]
-* **Who** \(Quem?\): por quem será feito? [responsável, equipe]
-* **When** \(Quando?\): quando será feito? [tempo, data, prazo, cronograma]
-* **Where** \(Onde?\): onde será feito? [local, departamento]
-* **How** \(Como?\): como será feito? [atividades, método, processo]
-* **How Much** \(Quanto Custa?\): quanto vai custar? [custo, gastos, quantidade]
+* **What** (O quê?): o que será feito? [objetivo, ação, etapas, descrição]
+* **Why** (Porquê?): por que será feito? [justificativa, motivo, benefício]
+* **Who** (Quem?): por quem será feito? [responsável, equipe]
+* **When** (Quando?): quando será feito? [tempo, data, prazo, cronograma]
+* **Where** (Onde?): onde será feito? [local, departamento]
+* **How** (Como?): como será feito? [atividades, método, processo]
+* **How Much** (Quanto Custa?): quanto vai custar? [custo, gastos, quantidade]
 
 ### Inception Deck
 
