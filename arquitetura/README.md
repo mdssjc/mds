@@ -18,7 +18,7 @@ Dentre os pontos importantes estão:
 
 O guia para etapas são através dos [princípios, padrões e práticas](/arquitetura/principios-padroes-praticas.md):
 
-* **[Geral](/arquitetura/principios-padroes.md)**
+* **[Geral](/arquitetura/principios-padroes-praticas.md)**
 * **[GRASP](/arquitetura/grasp.md)**
 * **[SOLID](/arquitetura/solid.md)**
 * **[GoF](/arquitetura/gof.md)**
