@@ -24,7 +24,7 @@ Escrever os testes antes do código melhora a estrutura do projeto, pois traz _f
 * _[SourceMaking](https://sourcemaking.com)_: compilado de técnicas para melhoria no código;
 * Dívida Técnica (_Technical Debt_): complexidade acumulada durante o desenvolvimento;
 * Código Legado: código antigo e com características fora do padrão de desenvolvimento; e
-* Problemas comuns: Rigidez (_Rigidity_), Fragilidade (_Fragility_), Imobilidade (_Immobility_), Viscosidade (_Viscosity_), Complexidade Desnecessária (_Needless Complexity_), Repetição Desnecessária (_Needless Repetition_) e Opacidade (_Opacity_).
+* Problemas comuns: Rigidez (_Rigidity_), Fragilidade (_Fragility_), Imobilidade (_Immobility_), Viscosidade (_Viscosity_), Complexidade Desnecessária (_Needless Complexity_), Repetição Desnecessária (_Needless Repetition_) e Opacidade (_Opacity_); esses problemas podem ser solucionados com [SOLID](/arquitetura/solid.md).
 
 **Integração Contínua** - _Continuous Integration_ - (CI): é um processo da Programação Extrema - _Extreme Programming_ (XP) para a integração dos incrementos de codificação, com execução automática e avaliativa dos testes - simulando o ambiente de produção. O processo é automático por um sistema de integração contínua, na qual verifica o repositório de código, realiza o _check-in/build_ e analisa a saúde do projeto, notificando os problemas aos desenvolvedores.
 
