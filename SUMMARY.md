@@ -6,7 +6,7 @@
   * [Cenário](arquitetura/cenario.md)
   * [Análise](arquitetura/analise.md)
   * [Projeto](arquitetura/projeto.md)
-  * [Princípios e Padrões](arquitetura/principios-padroes.md)
+  * [Princípios, Padrões e Práticas](arquitetura/principios-padroes-praticas.md)
     * [GRASP](arquitetura/grasp.md)
     * [GoF](arquitetura/gof.md)
     * [SOLID](arquitetura/solid.md)

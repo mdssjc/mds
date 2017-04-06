@@ -1,4 +1,4 @@
-# Princípios e Padrões
+# Princípios, Padrões e Práticas
 
 Os princípios e padrões são as bagagens de experiências do desenvolvedor sobre a etapa de Arquitetura - com a adição de _complexidade adicional_ na maioria dos casos, enquanto os princípios trazem as sugestões e recomendações de expressões idiomáticas para a criação do _software_, os padrões trazem a formalização dos princípios em pares de problema/solução para serem aplicados e moldados aos contextos de _software_.
 
