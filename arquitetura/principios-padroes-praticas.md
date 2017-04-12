@@ -33,11 +33,13 @@ Os mais utilizados/aplicados são:
 
 Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ (_Uncle Bob_), sendo composto por 6 princípios:
 
-#### Granularidade
+#### Granularidade: Os Princípios da Coesão de Pacotes
 
 * [**Princípio da Equivalência entre Liberação e Reuso**](http://wiki.c2.com/?ReuseReleaseEquivalencePrinciple) - _The Reuse-Release Equivalence Principle_ (REP): _the granule of reuse is the granule of release_.
 
   Adaptado para o livro: a granularidade do reuso é a granularidade do lançamento.
+
+  _Ou todas as classes em um pacote são reutilizáveis ou nenhuma delas são._
 
 * [**Princípio do Reuso Comum**](http://wiki.c2.com/?CommonReusePrinciple) - _The Commom-Reuse Principle_ (CRP): _the classes in a package are reused together. If you reuse one of the classes in a package, you reuse them all_.
 
