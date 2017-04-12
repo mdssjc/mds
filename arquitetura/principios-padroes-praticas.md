@@ -49,7 +49,7 @@ Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile S
 
   Adaptado para o livro: as classes em um pacote devem ser fechadas em conjunto contra os mesmos tipos de alterações. Uma alteração que afeta um pacote afeta todas as classes nesse pacote e nenhuma em outro pacote.
 
-#### Estabilidade
+#### Estabilidade: Os Princípios do Acoplamento de Pacotes
 
 * [**Princípio das Dependências Acíclicas**](http://wiki.c2.com/?AcyclicDependenciesPrinciple) - _The Acyclic-Dependencies Principle_ (ADP): _allow no cycles in the package-dependency graph_.
 
