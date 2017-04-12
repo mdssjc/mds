@@ -64,3 +64,5 @@ Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile S
 * [**Princípio das Abstrações Estáveis**](http://wiki.c2.com/?StableAbstractionsPrinciple) - _The Stable-Abstractions Principle_ (SAP): _a package should be as abstract as it is stable_.
 
   Adaptado para o livro: um pacote deve ser tão abstrato quanto estável.
+
+  A abstração (A) de um pacote dá-se pela relação do número de classes abstratas (Na) pelo número de classes (Nc) na formula: **A = Na / Nc**, sendo não abstrata quanto mais próximo de 0.0 e abstrata quanto mais próximo de 1.0.
