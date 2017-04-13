@@ -20,7 +20,7 @@ Expressa categorias ou qualidades referentes ao objeto de estudo.
 
 Diferentes tipos de variáveis.
 
-* **independente/explanatória:** entrada principal, definindo pela causa, fator, fenômeno ou propriedade;
+* **independente/explanatória/preditora:** entrada principal, definindo pela causa, fator, fenômeno ou propriedade;
 * **monitora:** entrada secundária, sendo desconsiderado quando em valores mínimos;
 * **interveniente:** condição, estímulo ou determinante;
 * **controle:** interferência externa, deve ser monitorada e controlada;
