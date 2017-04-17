@@ -61,7 +61,7 @@ As partes comportamentais de um _Use Case_ são: título (_title_), atores (_act
 
 As partes executáveis de um _Use Case_ são: caminho principal (_main path_), caminho alternativo (_alternative path_) e exceções (_exceptions_).
 
-Cada _Use Case_ é desenvolvido por completo e também derivam-se para Casos de Testes ou _Tests Case_.
+Cada _Use Case_ é desenvolvido por completo e também derivam-se para _Tests Case_ ou Casos de Testes.
 
 ## Outros
 
