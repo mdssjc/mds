@@ -41,7 +41,7 @@ A lista de cenários é reunida em uma _Master Story List_, sendo que cada _User
 
 ## Use Case
 
-O _Use Case_ ou Caso de Uso é uma técnica de modelagem clássica (Desenvolvimento Guiado por Caso de Uso - _Use Case Driven Development_ (UCDD)) na qual descreve em diferentes níveis através de diagrama (visão geral) e descrição (visão detalhada) as interações dos atores ao sistema.
+O _Use Case_ ou Caso de Uso é uma técnica de modelagem clássica para Desenvolvimento Guiado por Caso de Uso - _Use Case Driven Development_ (UCDD) na qual descreve em diferentes níveis através de diagrama (visão geral) e descrição (visão detalhada) as interações dos atores ao sistema.
 
 **Diagrama:**
 
@@ -57,11 +57,11 @@ Title XYZ
 ...
 ```
 
-As partes comportamentais de um _use case_ são: título (_title_), atores (_actors_), pré-condições (_preconditions_) e meta (_goal_).
+As partes comportamentais de um _Use Case_ são: título (_title_), atores (_actors_), pré-condições (_preconditions_) e meta (_goal_).
 
-As partes executáveis de um _use case_ são: caminho principal (_main path_), caminho alternativo (_alternative path_) e exceções (_exceptions_).
+As partes executáveis de um _Use Case_ são: caminho principal (_main path_), caminho alternativo (_alternative path_) e exceções (_exceptions_).
 
-Cada _use case_ é desenvolvido por completo.
+Cada _Use Case_ é desenvolvido por completo e também derivam-se para Casos de Testes ou _Tests Case_.
 
 ## Outros
 
