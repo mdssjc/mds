@@ -24,11 +24,9 @@ I want < some goal >     (WHAT) // they want to do
 so that < some reason >. (WHY)  // they want to do it
 ```
 
-Em BDD utiliza-se as partes: `Given / When / Then`
-
 **Tarefas**: conjunto de atividades necessárias para criar uma execução da _User Story_.
 
-**Critérios de Testes**: conjuntos de testes para verificar a execução da _User Story_.
+**Critérios de Testes**: conjuntos de testes para verificar a execução da _User Story_. Em Desenvolvimento Guiado por Comportamento - _Behavior Driven Development_ (BDD) utiliza-se as partes: `Given / When / Then`.
 
 As características de uma boa _User Story_ é resumida no acrônimo _INVEST_:
 
@@ -39,9 +37,7 @@ As características de uma boa _User Story_ é resumida no acrônimo _INVEST_:
 * _Small_ - pequeno; e
 * _Testable_ - testável.
 
-A lista de atividades é reunida em uma _Master Story List_.
-
-Cada _User Story_ é desenvolvida por completo em uma iteração.
+A lista de cenários é reunida em uma _Master Story List_, sendo que cada _User Story_ é desenvolvida por completo, ou seja, todas as tarefas são verificadas com testes durante uma iteração.
 
 ## Use Case
 
