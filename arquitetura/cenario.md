@@ -35,6 +35,12 @@ Test C
 
 **Critérios de Testes**: conjuntos de testes para verificar a execução da _User Story_. Em Desenvolvimento Guiado por Comportamento - _Behavior Driven Development_ (BDD) utiliza-se as partes: `Given / When / Then`.
 
+```
+Given A
+When B
+Then C
+```
+
 As características de uma boa _User Story_ é resumida no acrônimo _INVEST_:
 
 * _Independent_ - independente;
