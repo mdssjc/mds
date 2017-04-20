@@ -26,6 +26,13 @@ so that < some reason >. (WHY)  // they want to do it
 
 **Tarefas**: conjunto de atividades necessárias de _como_ criar uma execução da _User Story_.
 
+```
+Implement A
+Write B
+Test C
+...
+```
+
 **Critérios de Testes**: conjuntos de testes para verificar a execução da _User Story_. Em Desenvolvimento Guiado por Comportamento - _Behavior Driven Development_ (BDD) utiliza-se as partes: `Given / When / Then`.
 
 As características de uma boa _User Story_ é resumida no acrônimo _INVEST_:
