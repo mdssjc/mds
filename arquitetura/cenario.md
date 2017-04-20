@@ -24,7 +24,7 @@ I want < some goal >     (WHAT) // they want to do
 so that < some reason >. (WHY)  // they want to do it
 ```
 
-**Tarefas**: conjunto de atividades necessárias de _como_ criar uma execução da _User Story_.
+**Tarefas**: conjunto de atividades necessárias de _como_ criar uma execução da _User Story_ - utiliza-se linguagem técnica.
 
 ```
 Implement A
