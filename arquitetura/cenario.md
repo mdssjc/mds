@@ -27,10 +27,10 @@ so that < some reason >. (WHY)  // they want to do it
 **Tarefas**: conjunto de atividades necessárias de _como_ criar uma execução da _User Story_ - utiliza-se linguagem técnica.
 
 ```
-Implement A
-Write B
-Test C
-...
+Analysis A1
+Design A1
+Implementation A1
+Testing A1
 ```
 
 **Critérios de Testes**: conjuntos de testes para verificar a execução da _User Story_. Em Desenvolvimento Guiado por Comportamento - _Behavior Driven Development_ (BDD) utiliza-se as partes: `Given / When / Then`.
