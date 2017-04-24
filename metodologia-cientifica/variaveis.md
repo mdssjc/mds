@@ -27,3 +27,4 @@ Diferentes tipos de variáveis.
 * **dependente/resposta:** saída, definindo pelo resultado, efeito ou consequência;
 * **antecedente:** realiza a condição para as demais variáveis.
 * **confusão:** correlaciona com ambas variáveis independente e dependente.
+* **indicadora:** _dummy_, representa dados qualitativo como quantitativo.
