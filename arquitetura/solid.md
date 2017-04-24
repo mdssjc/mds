@@ -1,6 +1,17 @@
 # SOLID
 
-O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ (_Uncle Bob_), sendo composto por 5 princípios de projeto para o gerenciamento de dependências:
+O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ (_Uncle Bob_), sendo composto por 5 princípios de projeto para o gerenciamento de dependências.
+
+Os sintomas (_smells_) de projeto ruim são:
+* **Rigidez** - _Rigidity_: o projeto é difícil de mudar;
+* **Fragilidade** - _Fragility_: o projeto é fácil de quebrar;
+* **Imobilidade** - _Immobility_: o projeto é difícil de reusar;
+* **Viscosidade** - _Viscosity_: é difícil fazer a coisa certa;
+* **Complexidade Desnecessária** - _Needless Complexity_: sobreprojeto;
+* **Repetição Desnecessária** - _Needless Repetition_: abuso do _mouse_; e
+* **Opacidade** - _Opacity_: expressão desorganizada.
+
+---
 
 * [**Princípio da Responsabilidade Única**](http://c2.com/cgi/wiki?SingleResponsibilityPrinciple "Single Responsibility Principle") - _Single Responsibility Principle_ (SRP) por _Robert C. Martin_ com base nos trabalhos de _Tom DeMarco_ e _Meilir Page-Jones_ sobre coesão:
 
