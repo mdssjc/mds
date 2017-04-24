@@ -7,8 +7,8 @@ Os sintomas (_design smells_) de um projeto ruim são:
 * **Fragilidade** - _Fragility_: o projeto é fácil de quebrar;
 * **Imobilidade** - _Immobility_: o projeto é difícil de reusar;
 * **Viscosidade** - _Viscosity_: é difícil fazer a coisa certa;
-* **Complexidade Desnecessária** - _Needless Complexity_: sobreprojeto;
-* **Repetição Desnecessária** - _Needless Repetition_: abuso do _mouse_; e
+* **Complexidade Desnecessária** - _Needless Complexity_: sobreprojeto, excesso de complexidade adicional;
+* **Repetição Desnecessária** - _Needless Repetition_: abuso do _mouse_, excesso de repetição; e
 * **Opacidade** - _Opacity_: expressão desorganizada.
 
 ---
