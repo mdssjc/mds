@@ -96,3 +96,43 @@ Os sintomas (_design smells_) de um projeto ruim são:
   Também conhecido por Princípio de _Hollywood_: "Não nos chame, nós chamaremos você" - "_Don't call us, we'll call you_".
   
   Solução para dependências: cíclica e estável-instável/flexível.
+
+---
+
+## Princípios do Desenvolvimento de Pacotes
+
+Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ (_Uncle Bob_), sendo composto por 6 princípios:
+
+### Granularidade: Os Princípios da Coesão de Pacotes
+
+* [**Princípio da Equivalência entre Liberação e Reuso**](http://wiki.c2.com/?ReuseReleaseEquivalencePrinciple) - _The Reuse-Release Equivalence Principle_ (REP): _the granule of reuse is the granule of release_.
+
+  Adaptado para o livro: a granularidade do reuso é a granularidade do lançamento.
+
+  _Ou todas as classes em um pacote são reutilizáveis ou nenhuma delas são._
+
+* [**Princípio do Reuso Comum**](http://wiki.c2.com/?CommonReusePrinciple) - _The Commom-Reuse Principle_ (CRP): _the classes in a package are reused together. If you reuse one of the classes in a package, you reuse them all_.
+
+  Adaptado para o livro: as classes em um pacote são todas reutilizadas juntas. Se você reusa uma classe no pacote, reusará todas elas.
+
+* [**Princípio do Fechamento Comum**](http://wiki.c2.com/?CommonClosurePrinciple) - _The Commom-Closure Principle_ (CCP): _the classes in a package should be closed together against the same kinds of changes. A change that affects a package affects all the classes in that package and no other packages_.
+
+  Adaptado para o livro: as classes em um pacote devem ser fechadas em conjunto contra os mesmos tipos de alterações. Uma alteração que afeta um pacote afeta todas as classes nesse pacote e nenhuma em outro pacote.
+
+### Estabilidade: Os Princípios do Acoplamento de Pacotes
+
+* [**Princípio das Dependências Acíclicas**](http://wiki.c2.com/?AcyclicDependenciesPrinciple) - _The Acyclic-Dependencies Principle_ (ADP): _allow no cycles in the package-dependency graph_.
+
+  Adaptado para o livro: não permitir ciclos no grafo pacote-dependência.
+
+* [**Princípio das Dependências Estáveis**](http://wiki.c2.com/?StableDependenciesPrinciple) - _The Stable-Dependencies Principle_ (SDP): _depend in the direction of stability_.
+
+  Adaptado para o livro: dependa na direção da estabilidade.
+  
+  A estabilidade de um pacote dá-se pela relação dos acoplamentos aferentes (_Afferent Couplings_ - Ca, saídas) pelos acoplamentos eferentes (_Efferent Couplings_ - Ce, entradas) na formula: **I = Ce / (Ce + Ca)**, sendo estável quanto mais próximo de 0.0 e instável quanto mais próximo de 1.0.
+
+* [**Princípio das Abstrações Estáveis**](http://wiki.c2.com/?StableAbstractionsPrinciple) - _The Stable-Abstractions Principle_ (SAP): _a package should be as abstract as it is stable_.
+
+  Adaptado para o livro: um pacote deve ser tão abstrato quanto estável.
+
+  A abstração (A) de um pacote dá-se pela relação do número de classes abstratas (Na) pelo número de classes (Nc) na formula: **A = Na / Nc**, sendo não abstrata quanto mais próximo de 0.0 e abstrata quanto mais próximo de 1.0.
