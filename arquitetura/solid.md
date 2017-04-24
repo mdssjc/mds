@@ -2,7 +2,7 @@
 
 O acrônimo _SOLID_ é apresentado no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ (_Uncle Bob_), sendo composto por 5 princípios de projeto para o gerenciamento de dependências.
 
-Os sintomas (_smells_) de projeto ruim são:
+Os sintomas (_design smells_) de um projeto ruim são:
 * **Rigidez** - _Rigidity_: o projeto é difícil de mudar;
 * **Fragilidade** - _Fragility_: o projeto é fácil de quebrar;
 * **Imobilidade** - _Immobility_: o projeto é difícil de reusar;
