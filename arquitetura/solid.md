@@ -33,7 +33,7 @@ Os sintomas (_design smells_) de um projeto ruim são:
 
   Adaptado para o livro: _Os elementos de programação deve ser aberto para a extensão, mas fechado para modificação_ - minimize as necessidades de fazer mudanças para elementos de programação existentes.
 
-  _Open_: abstração por polimorfismo / _Closed_: definição de API.
+  _Open_: abstração por polimorfismo / _Closed_: definição de Interface de Programação de Aplicação - _Application Programming Interface_ (API).
 
   O gerenciamento de dependências utiliza-se da abstração para adicionar novas funcionalidades, assim mantendo a definição sem alterações.
 
