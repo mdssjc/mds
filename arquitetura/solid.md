@@ -70,6 +70,8 @@ Os sintomas (_design smells_) de um projeto ruim são:
   Dois problemas comuns são: primeiro, qualquer modificação no tipo afeta todos os subtipos; e segundo, os subtipos evoluem com proposta diferente do tipo.
 
   O gerenciamento de dependências utiliza-se do polimorfismo para manter correta a árvore de relacionamentos.
+  
+  Uma violação do princípio é uma violação latente do OCP.
 
   A violação do princípio pode ser corrigida com uso do polimorfismo por subtipos de interface, como relacionamento por composição/agregação e delegação.
 
