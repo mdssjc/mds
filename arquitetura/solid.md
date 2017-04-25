@@ -73,7 +73,7 @@ Os sintomas (_design smells_) de um projeto ruim são:
 
   O gerenciamento de dependências utiliza-se do polimorfismo para manter correta a árvore de relacionamentos.
 
-  A violação do princípio pode ser corrigida com uso do polimorfismo por subtipos de interface, como relacionamento por composição/agregação e delegação.
+  A violação do princípio pode ser corrigida com fatoração e/ou uso do polimorfismo por subtipos de interface, como relacionamento por composição/agregação e delegação.
 
   Veja também [_Polymorphism_](/arquitetura/grasp.md) em _GRASP_.
 
