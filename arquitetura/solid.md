@@ -50,7 +50,8 @@ Os sintomas (_design smells_) de um projeto ruim são:
   Definição do princípio:
 
   > _If for each object o1 of type S there is an object o2 of type T such that for all programs P defined in terms of T, the behavior of P is unchanged when o1 is substituted for o2 then S is a subtype of T_
-  >
+  
+  Adaptado para o livro:
   > _Se para cada objeto o1 do tipo S há um objeto o2 do tipo T de forma que, para todos os programas P definidos em termos de T, o comportamento de P é inalterado quando o1 é substituído por o2 então S é um subtipo de T_
 
   Regras sobre o uso do polimorfismo por subtipos de herança são baseados no trabalho _Design By Contract_ (DBC) de _Bertrand Meyer_,
@@ -90,7 +91,8 @@ Os sintomas (_design smells_) de um projeto ruim são:
   > a. High-level modules should not depend on low-level modules. Both should depend on abstractions.
   >
   > b. Abstractions should not depend on details. Details should depend on abstractions.
-  >
+
+  Adaptado para o livro:
   > a. Os módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações.
   >
   > b. Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.
