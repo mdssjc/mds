@@ -109,7 +109,7 @@ Os 5 princípios de projeto são:
 
 ## Princípios do Desenvolvimento de Pacotes
 
-Os 6 princípios do desenvolvimento de pacotes são divididos em granularidade e estabilidade.
+Os 6 princípios do desenvolvimento de pacotes são divididos em granularidade (coesão) e estabilidade (acoplamento).
 
 ### Granularidade: Os Princípios da Coesão de Pacotes
 
