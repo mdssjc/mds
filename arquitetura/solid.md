@@ -13,6 +13,10 @@ Os sintomas (_design smells_) de um projeto ruim são:
 
 ---
 
+## Princípios
+
+Os 5 princípios de projeto são:
+
 * [**Princípio da Responsabilidade Única**](http://c2.com/cgi/wiki?SingleResponsibilityPrinciple "Single Responsibility Principle") - _Single Responsibility Principle_ (SRP) por _Robert C. Martin_ com base nos trabalhos de _Tom DeMarco_ e _Meilir Page-Jones_ sobre coesão:
 
   **"_A class should have only one reason to change_"**
