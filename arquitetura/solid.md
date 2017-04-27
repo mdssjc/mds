@@ -109,7 +109,7 @@ Os 5 princípios de projeto são:
 
 ## Princípios do Desenvolvimento de Pacotes
 
-Os princípios do desenvolvimento de pacotes são apresentados no livro _Agile Software Development - Principles, Patterns, and Practices_ do autor _Robert C. Martin_ (_Uncle Bob_), sendo composto por 6 princípios:
+Os 6 princípios do desenvolvimento de pacotes são divididos em granularidade e estabilidade.
 
 ### Granularidade: Os Princípios da Coesão de Pacotes
 
