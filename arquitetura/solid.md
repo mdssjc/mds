@@ -139,7 +139,7 @@ Os 6 princípios do desenvolvimento de pacotes são divididos em granularidade (
 
 ### Métricas
 
-  A estabilidade de um pacote dá-se pela relação dos acoplamentos aferentes (_Afferent Couplings_ - Ca, saídas) pelos acoplamentos eferentes (_Efferent Couplings_ - Ce, entradas) na fórmula: **I = Ce / (Ce + Ca)**, sendo estável (responsável e independente) quanto mais próximo de 0.0 e instável (irresponsável e dependente) quanto mais próximo de 1.0.
+  A instabilidade (I) de um pacote dá-se pela relação dos acoplamentos aferentes (_Afferent Couplings_ - Ca, saídas) pelos acoplamentos eferentes (_Efferent Couplings_ - Ce, entradas) na fórmula: **I = Ce / (Ce + Ca)**, sendo estável (responsável e independente) quanto mais próximo de 0.0 e instável (irresponsável e dependente) quanto mais próximo de 1.0.
 
   A abstração (A) de um pacote dá-se pela relação do número de classes abstratas (Na) pelo número de classes (Nc) na fórmula: **A = Na / Nc**, sendo não abstrata quanto mais próximo de 0.0 e abstrata quanto mais próximo de 1.0.
 
