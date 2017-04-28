@@ -139,7 +139,7 @@ Os 6 princípios do desenvolvimento de pacotes são divididos em granularidade (
 
 ### Métricas
 
-  A Coesão Relacional - _Relational Cohesion_ (H) representa a média dos relacionamentos internos do elemento de programação e dá-se pela fórmula: **H = (R + 1) / N**, sendo R o número de relacionamentos internos e N o número de elementos de programação.
+  A Coesão Relacional - _Relational Cohesion_ (H) de um pacote dá-se pela média dos relacionamentos internos do elemento de programação (R) pelos elementos de programação na fórmula: **H = (R + 1) / N**.
 
   A instabilidade (I) de um pacote dá-se pela relação dos acoplamentos aferentes (_Afferent Couplings_ - Ca, saídas) pelos acoplamentos eferentes (_Efferent Couplings_ - Ce, entradas) na fórmula: **I = Ce / (Ce + Ca)**, sendo estável (responsável e independente) quanto mais próximo de 0.0 e instável (irresponsável e dependente) quanto mais próximo de 1.0.
 
