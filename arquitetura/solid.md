@@ -137,7 +137,7 @@ Os 6 princípios do desenvolvimento de pacotes são divididos em granularidade (
 
   Adaptado para o livro: dependa na direção da estabilidade.
   
-  A estabilidade de um pacote dá-se pela relação dos acoplamentos aferentes (_Afferent Couplings_ - Ca, saídas) pelos acoplamentos eferentes (_Efferent Couplings_ - Ce, entradas) na formula: **I = Ce / (Ce + Ca)**, sendo estável quanto mais próximo de 0.0 e instável quanto mais próximo de 1.0.
+  A estabilidade de um pacote dá-se pela relação dos acoplamentos aferentes (_Afferent Couplings_ - Ca, saídas) pelos acoplamentos eferentes (_Efferent Couplings_ - Ce, entradas) na formula: **I = Ce / (Ce + Ca)**, sendo estável (responsável e independente) quanto mais próximo de 0.0 e instável (irresponsável e dependente) quanto mais próximo de 1.0.
 
 * [**Princípio das Abstrações Estáveis**](http://wiki.c2.com/?StableAbstractionsPrinciple) - _The Stable-Abstractions Principle_ (SAP): _a package should be as abstract as it is stable_.
 
