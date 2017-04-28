@@ -143,6 +143,6 @@ Os 6 princípios do desenvolvimento de pacotes são divididos em granularidade (
 
   A Instabilidade - _Instability_ (I) de um pacote dá-se pela relação dos acoplamentos aferentes (_Afferent Couplings_ - Ca, saídas) pelos acoplamentos eferentes (_Efferent Couplings_ - Ce, entradas) na fórmula: **I = Ce / (Ce + Ca)**, sendo estável (responsável e independente) quanto mais próximo de 0.0 e instável (irresponsável e dependente) quanto mais próximo de 1.0.
 
-  A abstração (A) de um pacote dá-se pela relação do número de classes abstratas (Na) pelo número de classes (Nc) na fórmula: **A = Na / Nc**, sendo não abstrata quanto mais próximo de 0.0 e abstrata quanto mais próximo de 1.0.
+  A Abstração - _Abstractness_ (A) de um pacote dá-se pela relação do número de classes abstratas (Na) pelo número de classes (Nc) na fórmula: **A = Na / Nc**, sendo não abstrata quanto mais próximo de 0.0 e abstrata quanto mais próximo de 1.0.
 
   A distância (D) da Sequência Principal - _Main Sequence_ dá-se pela fórmula: **D = |A + I - 1|**, sendo a Zona de Exclusão - _Zone of Exclusion_ quanto mais próximo de 0.0 e a Zona de Dor - Zone of Pain (A e I ~= 0) ou Zona de Inútilidade - _Zone of Uselessness_ (A e I ~= 1) quanto mais próximo 1.0.
