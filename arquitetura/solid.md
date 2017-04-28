@@ -11,8 +11,6 @@ Os sintomas (_design smells_) de um projeto ruim são:
 * **Repetição Desnecessária** - _Needless Repetition_: abuso do _mouse_, excesso de repetição; e
 * **Opacidade** - _Opacity_: expressão desorganizada.
 
----
-
 ## Princípios
 
 Os 5 princípios de projeto são:
@@ -104,8 +102,6 @@ Os 5 princípios de projeto são:
   Também conhecido por Princípio de _Hollywood_: "Não nos chame, nós chamaremos você" - "_Don't call us, we'll call you_".
   
   Solução para dependências: cíclica e estável-instável/flexível.
-
----
 
 ## Princípios do Desenvolvimento de Pacotes
 
