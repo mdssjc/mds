@@ -162,10 +162,10 @@ EAM _em edição_
 * **Test Data Builders**: utilização do padrão de projeto (GoF) _Builder_ para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
 * **Adapters**: utilização para testes com métodos estáticos e códigos legados.
 * **Test Double**: isolação e simplificação das funcionalidades com dependência externa, assim avaliando as características de estado e comportamento do objeto:
-  * _Dummy_: _em edição_.
+  * _Dummy_: _em edição_;
   * _Fake_: simplificação (com atalhos) dos recursos e dependências necessários para o código de produção, útil para _prototyping_ e _spikes_ em memória;
   * _Stubs_: implementa uma _Query_ - responde com valores predefinidos (_hardcoded_), sem o uso de dados reais e livre de efeitos colaterais;
-  * _Saboteurs_: _em edição_.
+  * _Saboteurs_: _em edição_;
   * _Mocks_: registra e avalia as expectativas da comunicação, simulando os recursos e dependências; e
   * _Spy_: _em edição_.
 * **Infraestrutura**: a camada de infraestrututra (_DAO_, _Messages_...) é testada com testes de integração.
