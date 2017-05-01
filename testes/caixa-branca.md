@@ -166,7 +166,7 @@ EAM _em edição_
   * _Fake_: simplificação (com atalhos) dos recursos e dependências necessários para o código de produção, útil para _prototyping_ e _spikes_ em memória;
   * _Stubs_: implementa uma _Query_ - responde com valores predefinidos (_hardcoded_), sem o uso de dados reais e livre de efeitos colaterais;
   * _Saboteurs_: _em edição_.
-  * _Mocks_: _em edição_.
+  * _Mocks_: registra e avalia as expectativas da comunicação, simulando os recursos e dependências; e
   * _Spy_: _em edição_.
 * **Infraestrutura**: a camada de infraestrututra (_DAO_, _Messages_...) é testada com testes de integração.
 * **Execute Around Method**: utilização para testes com avaliação de exceção.
