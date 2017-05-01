@@ -34,4 +34,4 @@ As [ferramentas](ferramentas.md) mais utilizadas são:
 
 * **Test Data Builders**: utilização do padrão de projeto (GoF) _Builder_ para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
 
-* **Page Object:** abstrair/encapsular os detalhes de estruturamento de interface gráfica em objetos simples (Navegação e Formulário) para _frameworks_ de Interface do Usuário - _User Interface_ (UI).
+* **Page Object:** abstração/encapsulamento dos detalhes de estruturamento da interface gráfica em objetos simples (Navegação e Formulário) para _frameworks_ de Interface do Usuário - _User Interface_ (UI).
