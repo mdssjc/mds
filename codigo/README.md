@@ -28,6 +28,9 @@ Escrever os testes antes do código melhora a estrutura do projeto, pois traz _f
 
 **Integração Contínua** - _Continuous Integration_ - (CI): é um processo da Programação Extrema - _Extreme Programming_ (XP) para a integração dos incrementos de codificação, com execução automática e avaliativa dos testes - simulando o ambiente de produção. O processo é automático por um sistema de integração contínua, na qual verifica o repositório de código, realiza o _check-in/build_ e analisa a saúde do projeto, notificando os problemas aos desenvolvedores.
 
-**Programação por Contrato**: o cliente aceita as regras de como manipular os problemas pelo uso incorreto da API - geralmente retornando um valor nulo ou lançando uma exceção.
+**Programação por Contrato**: o cliente aceita as regras (obrigações e benefícios) de como manipular os problemas pelo uso incorreto da Interface de Programação de Aplicação - _Application Programming Interface_ (API) - geralmente verificando as pré-condições, pós-condições e invariâncias; e retornando um valor nulo, opcional ou lançando uma exceção - uma representação de falha.
+    * Pré-condição: indica uma violação pelo cliente, falhou em não observar as condições impostas na sua chamada.
+    * Pós-condição: indica uma violação pela implementação, falhou em entregar sua promessa.
+    * Invariância: indica uma propriedade na qual deve ser satisfeita pelo cliente e preservada pela implementação.
 
-**Programação Defensiva**: a API protege o cliente do uso incorreto - geralmente retornando um resultado padrão ou lançando uma exceção com tratamento obrigatório.
+**Programação Defensiva**: a Interface de Programação de Aplicação - _Application Programming Interface_ (API) protege o cliente do uso incorreto - geralmente realizando checagens nos valores de entrada e retornando um resultado padrão ou lançando uma exceção com tratamento obrigatório.
