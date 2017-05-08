@@ -16,9 +16,4 @@ Dentre os pontos importantes estão:
 * **Visão 4+1**: representação das visões da arquitetura em [análise](/arquitetura/analise.md) e [projeto](/arquitetura/projeto.md) com o auxílio da técnica de modelagem em Linguagem de Modelagem Unificada - _Unified Modeling Language_ (UML), definida por _Philippe Kruchten_.
 * **Arquiteturas Modernas**: novos estudos de arquiteturas para a representação de _software_, baseadas em variantes da arquitetura _Ports-And-Adapters_, tais como: _Hexagonal_, _Onion_ e _Clean_.
 
-O guia para etapas são através dos [princípios, padrões e práticas](/arquitetura/principios-padroes-praticas.md):
-
-* **[Geral](/arquitetura/principios-padroes-praticas.md)**
-* **[GRASP](/arquitetura/grasp.md)**
-* **[SOLID](/arquitetura/solid.md)**
-* **[GoF](/arquitetura/gof.md)**
+O guia para etapas são através dos [**Princípios, Padrões e Práticas**](/arquitetura/principios-padroes-praticas.md).
