@@ -58,7 +58,7 @@ O _Project Model Canvas_ (_PM Canvas_) é uma metodologia de gerenciamento de pr
 
 Os tipos de requisitos são:
 
-* **Funcional**: descreve as funcionalidades;
+* **Funcional**: descreve as funcionalidades e características;
 * **Não Funcional**: descreve as restrições e limites.
 
 ## Artefatos
