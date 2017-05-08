@@ -19,9 +19,13 @@ All resources must load in less than 10 seconds.
 Descrição das características de uso do sistema.
 
 ```
+Title: User Story
+
 As a < type of user >,   (WHO)  // is this story for
 I want < some goal >     (WHAT) // they want to do
 so that < some reason >. (WHY)  // they want to do it
+
+Days: [#]   Priority [#]
 ```
 
 **Tarefas**: conjunto de atividades necessárias de _como_ criar uma execução da _User Story_ - utiliza-se linguagem técnica sobre uma fatia da arquitetura pretendida.
