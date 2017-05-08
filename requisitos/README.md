@@ -20,7 +20,7 @@ As principais fases são:
 
 ## Contexto
 
-O contexto é um importante componente dos requisitos, pois é o ponto inicial na construção de um modelo genérico da arquitetura, assim imergindo no mesmo garante melhores resultados ao projeto - existem diversas técnicas específicas para sua gestão, como por exemplo: o SMART, 5W2H, _Inception Deck_ e o _Project Model Canvas_ - dentre as atividades práticas para garimpar as ideias estão o: _brainstorming_, entrevistas e etc...
+O contexto é um importante componente dos requisitos, pois seu domínio é o ponto inicial na construção de um modelo genérico da arquitetura, assim imergindo no mesmo garante melhores resultados ao projeto - existem diversas técnicas específicas para sua gestão, como por exemplo: o SMART, 5W2H, _Inception Deck_ e o _Project Model Canvas_ - dentre as atividades práticas para garimpar as ideias estão o: _brainstorming_, entrevistas e etc...
 
 ### SMART
 
