@@ -18,6 +18,20 @@ As principais fases são:
 * **Requisitos do Sistema** (característica - _feature_): processo de consolidação/entendimento do problema entre cliente e desenvolvedores, assim define-se o problema proposto; e
 * **Modelagem dos Requisitos** (detalhe - _detail_): comunicação com a Arquitetura do _Software_ através da transformação em cenário, assim define-se uma solução para o problema.
 
+## Tipos
+
+Os tipos de requisitos são:
+
+* **Funcional**: descreve as funcionalidades e características;
+* **Não Funcional**: descreve as restrições e limites.
+
+## Artefatos
+
+Os principais artefatos produzidos durante esta etapa são:
+
+* **Listagem**: itens categorizados em tópicos com as necessidades do sistema; ou
+* **Descrição**: itens em alto nível com as características do sistema.
+
 ## Contexto
 
 O contexto é um importante componente dos requisitos, pois seu domínio é o ponto inicial na construção de um modelo genérico da arquitetura, assim imergindo no mesmo garante melhores resultados ao projeto - existem diversas técnicas específicas para sua gestão, como por exemplo: o SMART, 5W2H, _Inception Deck_ e o _Project Model Canvas_ - dentre as atividades práticas para garimpar as ideias estão o: _brainstorming_, entrevistas e etc...
@@ -53,17 +67,3 @@ O _Inception Deck_ é um conjunto de 10 questões sobre o quê pensar antes de i
 O _Project Model Canvas_ (_PM Canvas_) é uma metodologia de gerenciamento de projetos, na qual emprega características ágil.
 
 ![](/images/canvas.png)
-
-## Tipos
-
-Os tipos de requisitos são:
-
-* **Funcional**: descreve as funcionalidades e características;
-* **Não Funcional**: descreve as restrições e limites.
-
-## Artefatos
-
-Os principais artefatos produzidos durante esta etapa são:
-
-* **Listagem**: itens categorizados em tópicos com as necessidades do sistema; ou
-* **Descrição**: itens em alto nível com as características do sistema.
