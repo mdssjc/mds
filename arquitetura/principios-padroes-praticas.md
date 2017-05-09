@@ -11,7 +11,7 @@ solucionados pelos Padrões.
 
 Os mais utilizados/aplicados são:
 
-* Práticas: aplicação das atividades do XP, SPD e XDD
+* [Práticas](/arquitetura/praticas.md) (Aplicação do XP, SPD e XDD)
 * [Básicos](/arquitetura/basicos.md) (Princípios Básicos)
 * [GRASP](/arquitetura/grasp.md) (Princípios Básicos)
 * [SOLID](/arquitetura/solid.md) (Princípios de Projeto)
