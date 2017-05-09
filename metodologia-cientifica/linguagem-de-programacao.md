@@ -1,5 +1,11 @@
 # Linguagem de Programação
 
+Processo: _em edição_
+Procedimento: _em edição_
+Unidade de Significado (Expressões primitivas): _em edição_
+Meios de Abstração: _em edição_
+Meios de Combinação: _em edição_
+
 As partes importantes ao aprender uma nova linguagem de programação são:
 
 * **Sintaxe** \(_syntax_\): as regras de construção da linguagem.
