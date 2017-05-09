@@ -9,6 +9,7 @@
   * [Princípios, Padrões e Práticas](arquitetura/principios-padroes-praticas.md)
     * [Práticas](arquitetura/praticas.md)
     * [Básicos](arquitetura/basicos.md)
+    * [Gerais](arquitetura/gerais.md)
     * [GRASP](arquitetura/grasp.md)
     * [GoF](arquitetura/gof.md)
     * [SOLID](arquitetura/solid.md)
@@ -29,4 +30,3 @@
   * [Linguagem de Programação](metodologia-cientifica/linguagem-de-programacao.md)
   * [Tipos](metodologia-cientifica/tipos.md)
 * [Referências](referencias.md)
-
