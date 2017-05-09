@@ -13,7 +13,7 @@ Os mais utilizados/aplicados são:
 
 * [Práticas](/arquitetura/praticas.md) (Aplicação do XP, SPD e XDD)
 * [Básicos](/arquitetura/basicos.md) (Princípios Básicos)
-* [GRASP](/arquitetura/grasp.md) (Princípios Básicos)
+* [GRASP](/arquitetura/grasp.md) (Princípios Fundamentais)
 * [SOLID](/arquitetura/solid.md) (Princípios de Projeto)
 * [GoF](/arquitetura/gof.md) (Padrões de Projeto)
 * [POSA](/arquitetura/posa.md) (Padrões de Arquitetura)
