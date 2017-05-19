@@ -1,9 +1,13 @@
 # Linguagem de Programação
 
 Processo: _em edição_
+
 Procedimento: _em edição_
+
 Unidade de Significado (Expressões primitivas): os elementos mais simples (atômico) da linguagem.
+
 Meios de Abstração: os elementos compostos podem ser nomeados e manipulados como unidades.
+
 Meios de Combinação: os elementos compostos são construídos a partir de elementos mais simples.
 
 As partes importantes ao aprender uma nova linguagem de programação são:
