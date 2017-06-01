@@ -7,3 +7,4 @@
 * Test Driven Development: By Example - Kent Beck
 * The Pragmatic Programmer: From Journeyman to Master - Andrew Hunt and David Thomas
 * Growing Object-Oriented Software, Guided by Tests - Steve Freeman and Nat Pryce
+* [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt and Shriram Krishnamurthi
