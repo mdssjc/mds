@@ -1,6 +1,6 @@
 # Requisitos
 
-![](/images/requisitos.png)
+![](../images/requisitos.png)
 
 A etapa de **Requisitos** marca o início de um projeto e determina sua base de avaliação, na qual a equipe de desenvolvimento será exposta aos problemas do cliente, esses são formados pelos requisitos em que definem uma necessidade específica, na qual detalha o que um particular produto deve ser ou fazer - etapa fundamental nas disciplinas de Engenharia de Sistemas ou Engenharia de _Software_.
 
@@ -60,10 +60,10 @@ O modelo de gerenciamento de ideias _5W2H_ tem como objetivo em responder 7 perg
 
 O _Inception Deck_ é um conjunto de 10 questões sobre o quê pensar antes de iniciar um projeto.
 
-![](/images/the-inception-deck.jpg)
+![](../images/the-inception-deck.jpg)
 
 ### Project Model Canvas
 
 O _Project Model Canvas_ (_PM Canvas_) é uma metodologia de gerenciamento de projetos, na qual emprega características ágil.
 
-![](/images/canvas.png)
+![](../images/canvas.png)
