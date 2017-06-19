@@ -1,6 +1,6 @@
 # Arquitetura
 
-![](images/arquitetura.png)
+![](../images/arquitetura.png)
 
 A etapa de **Arquitetura** traz a estrutura organizacional de um sistema, incluindo sua decomposição em partes, sua conectividade, seus mecanismos de interação e os princípios e decisões que orientam no desenvolvimento de um sistema.
 
