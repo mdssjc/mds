@@ -14,8 +14,8 @@ O _framework_ de desenvolvimento é baseado em:
 * **Systematic Program Design - SPD**: técnica de desenvolvimento de _software_ geral para múltiplos paradigmas, recomendado para grupos com expertise; e
 * **XDD**: filosofia de desenvolvimento de _software_ formado por: Desenvolvimento Guiado por Testes - _Test-Driven Development_ (TDD), Desenvolvimento Guiado por Comportamento - _Behavior Driven Development_ (BDD) e Projeto Orientado a Domínio - _Domain Driven Design_ (DDD), base para modernas arquiteturas baseadas no _Ports-And-Adapters_, tais como: _Hexagonal_, _Onion_ e _Clean_.
   * **Desenvolvimento Guiado por Testes** - _Test Driven Development_ (TDD): é uma técnica de desenvolvimento de _software_ da Programação Extrema - _Extreme Programming_ (XP), em que os testes são criados antes do código de produção;
-  * **Desenvolvimento Guiado por Comportamento** - _Behavior Driven Development_ (BDD): _em edição_; e
-  * **Projeto Orientado a Domínio** - _Domain Driven Design_ (DDD): _em edição_.
+  * **Desenvolvimento Guiado por Comportamento** - _Behavior Driven Development_ (BDD): é uma técnica de desenvolvimento de _software_ da Programação Extrema - _Extreme Programming_ (XP), em que os testes são criados em paralelo ao código de produção; e
+  * **Projeto Orientado a Domínio** - _Domain Driven Design_ (DDD): aborda um compilado de experiências aplicadas ao desenvolvimento de _software_.
 
 ## Navegação
 
@@ -29,4 +29,4 @@ O _framework_ de desenvolvimento é baseado em:
 
 ---
 
-**Última atualização: 18/06/2017**
+**Última atualização: 19/06/2017**
