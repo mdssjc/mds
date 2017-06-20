@@ -5,19 +5,19 @@ Os princípios, padrões e práticas são as bagagens de experiências do desenv
 Os problemas são:
 ```
 detectados pelas Práticas,
-diagnosticados pelos Príncipios e
+diagnosticados pelos Princípios e
 solucionados pelos Padrões.
 ```
 
 Os mais utilizados/aplicados são:
 
-* [Práticas](/arquitetura/praticas.md) (Aplicação do XP, SPD e XDD)
-* [Básicos](/arquitetura/basicos.md) (Princípios Básicos)
-* [Gerais](/arquitetura/gerais.md) (Princípios Gerais)
-* [GRASP](/arquitetura/grasp.md) (Princípios Fundamentais)
-* [SOLID](/arquitetura/solid.md) (Princípios de Projeto)
-* [GoF](/arquitetura/gof.md) (Padrões de Projeto)
-* [POSA](/arquitetura/posa.md) (Padrões de Arquitetura)
+* [Práticas](praticas.md) (Aplicação do XP, SPD e XDD)
+* [Básicos](basicos.md) (Princípios Básicos)
+* [Gerais](gerais.md) (Princípios Gerais)
+* [GRASP](grasp.md) (Princípios Fundamentais)
+* [SOLID](solid.md) (Princípios de Projeto)
+* [GoF](gof.md) (Padrões de Projeto)
+* [POSA](posa.md) (Padrões de Arquitetura)
 
 ## Outros
 
