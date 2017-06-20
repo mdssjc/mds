@@ -21,19 +21,7 @@ Os mais utilizados/aplicados são:
 
 ## Outros
 
-* **Encapsulamento** - _Encapsulation_: é o processo de envolver elementos de programação em entidades abstratas, com o objetivo de proteger a informação (em meios controlados) de ser utilizada incorretamente, assim separando o tipo de sua classe, ou seja, os dados de seu comportamento ou também o que fazer de como fazer - outros nomes utilizados são Ocultamento de Informação (_Information Hiding_) ou Separação de Interesse (_Separation of Concerns_). Em projetos, o **Encapsulamento refere-se a API**, enquando o **Ocultamento de Informação a sua implementação**.
-
-* [_**DRY**_](http://c2.com/cgi/wiki?DontRepeatYourself "Dont Repeat Yourself") (_Don’t Repeat Yourself_) / _**WET**_ (_Write Every Time_): princípio sobre o problema da duplicação de conhecimento.
-
-  Cada parte do conhecimento deve ter uma representação única, não ambígua e definitva dentro do sistema.
-
-  Evite código duplicado por abstrair as coisas que são comuns e colocando essas coisas em um único local.
-
-  Tenha cada peça de informação e comportamento em seu sistema em um único e sensível local.
-
-* [_**Execute Around Method**_](http://c2.com/cgi/wiki?ExecuteAroundMethod "Execute Around Method"): controle sobr  e recursos externos, como operações em _cleanup_ e _locks_.
-
-* **Programe para uma interface, não para uma implementação** - _Program to an interface, not to an implementation_: introduzido no livro do GoF, recomenda o uso de abstrações como ponto de acesso entre elementos de programação.
+* [_**Execute Around Method**_](http://c2.com/cgi/wiki?ExecuteAroundMethod "Execute Around Method"): controle sobre recursos externos, como operações em _cleanup_ e _locks_.
 
 * [**Princípio de _Hollywood_**](http://wiki.c2.com/?HollywoodPrinciple) - _Hollywood Principle_: Não nos chame, nós chamaremos você - _Don't call us, we will call you_, especifica como componentes de alto e baixo nível interagem sem criar dependências.
 
