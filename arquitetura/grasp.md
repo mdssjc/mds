@@ -6,9 +6,9 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
 * **Criador** - _Creator_: atribuição da responsabilidade (fazer) de criação ao elemento de programação.
 
-  Problema: Quem deve ser responsável por cria uma nova instância de algum elemento?
+  Problema: Quem deve ser responsável por criar uma nova instância de algum elemento?
 
-  Solução: Abribua a B a responsabilidade de criar uma instância de A, se:
+  Solução: Atribua a B a responsabilidade de criar uma instância de A, se:
 
 > B contém ou agrega A.
 >
@@ -46,6 +46,8 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Atribua responsabilidades de modo que a coesão mantenha alta. Use este princípio para avaliar alternativas.
 
+  Coesão mede o grau de conectividade entre cada um dos elementos de programação. Quanto maior a coesão do _software_, mais bem definida e relacionada são as responsabilidades de cada elemento de programação individual da aplicação. Cada elemento de programação tem um conjunto muito específico de ações que executa.
+
 ## Avançados
 
 * **Polimorfismo** - _Polymorphism_: atribuição da responsabilidade de manipular variações similares no sistema.
@@ -76,9 +78,9 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Problema: Como projetar elementos de programação, subsistemas e sistemas para que as variações ou instabilidades nesses elementos não tenham impactos indesejáveis sobre outros elementos?
 
-  Solução: Identifique pontos de variação e instabilidade previsível, atribua responsabilidades para criar uma interface estável ao redor.
+  Solução: Identifique pontos de variação e instabilidade previsível, atribua responsabilidades para criar uma _interface_ estável ao redor.
 
-> Core Protected Variations Mechanisms: recursos da implementados na própria linguagem e sistemas.
+> Core Protected Variations Mechanisms: recursos implementados na própria linguagem e sistemas.
 >
 > Data-Driven Designs: uso de dados para declaração dos comportamentos do sistema em tempo de execução.
 >
@@ -86,7 +88,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 >
 > * Interpreter-Driven Designs: interpretação de código.
 >
-> * Reflective or Meta-Level Designs: reflexão e metaprogramação.
+> * Reflective or Meta-Level Designs: reflexão e meta programação.
 >
 > Uniform Access: recurso de propriedade da linguagem.
 >
