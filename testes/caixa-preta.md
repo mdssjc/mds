@@ -3,10 +3,21 @@
 A técnica de **teste de caixa preta** (_black-box testing_) tem como objetivo avaliar e verificar o funcionamento externo dos elementos de programação _(técnica funcional)_ durante a etapa de Especificação nas fases de **testes de sistema** e/ou **testes de aceitação** (_acceptance tests_) quando na presença dos clientes - responsáveis por avaliar o sistema como um todo (**validação**).
 
 Durante o desenvolvimento de _software_, os testes auxiliam nas técnicas de:
+
 * **Projeto de Programa Sistemático** - _Systematic Program Design_ (SPD); e
 * **Desenvolvimento Guiado por Comportamento** - _Behavior Driven Development_ (BDD).
 
 ## O Teste
+
+Os testes tem como objetivos:
+
+* Funcionalidade;
+* Validação de dados;
+* Saída de resultados;
+* Transição de estados; e
+* Equivalências e Limites.
+
+Com auxílio dos desenvolvedores: verificação de auditoria e _logging_, dados para outros sistemas, informações do sistema e recursos utilizados.
 
 ### Documentação
 
@@ -16,8 +27,8 @@ As seguintes convenções para os identificadores são utilizados:
 
 * Casos de Testes:
 
-  * _NameTest_: testes unitários (ver [Caixa Branca](/testes/caixa-branca.md));
-  * _NameIntegrationTest_: testes de integração (ver [Caixa Branca](/testes/caixa-branca.md)); e
+  * _NameTest_: testes unitários (ver [Caixa Branca](caixa-branca.md));
+  * _NameIntegrationTest_: testes de integração (ver [Caixa Branca](caixa-branca.md)); e
   * _NameSystemTest_: testes de sistema.
 
 ### Ferramentas
