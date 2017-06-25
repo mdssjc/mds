@@ -92,4 +92,4 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 >
 > Standard Languages: linguagens padronizadas utilizadas internamente.
 >
-> The Liskov Substitution Principle: ver [LSP](/arquitetura/solid.md).
+> The Liskov Substitution Principle: ver [LSP](solid.md).
