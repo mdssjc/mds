@@ -1,6 +1,6 @@
 # Caixa Branca
 
-A técnica de **teste de caixa branca** (_white-box testing_) tem como objetivo avaliar a estrutura interna dos elementos de programação _(técnica estrutural)_ durante a etapa de [Codificação](/codigo/README.md) nas fases de **testes unitários** (_unit testing_) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código (estrutura interna do programa) e/ou **testes de integração ou componentes** (_integration testing or component testing_) - responsáveis por avaliar a comunicação entre unidades e recursos, principalmente a camada de infraestrutura e códigos de terceiros (**verificação**).
+A técnica de **teste de caixa branca** (_white-box testing_) tem como objetivo avaliar a estrutura interna dos elementos de programação _(técnica estrutural)_ durante a etapa de [Codificação](../codigo/README.md) nas fases de **testes unitários** (_unit testing_) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código (estrutura interna do programa) e/ou **testes de integração ou componentes** (_integration testing or component testing_) - responsáveis por avaliar a comunicação entre unidades e recursos, principalmente a camada de infraestrutura e códigos de terceiros (**verificação**).
 
 Durante o desenvolvimento de _software_, os testes auxiliam nas técnicas de:
 
@@ -12,14 +12,14 @@ Durante o desenvolvimento de _software_, os testes auxiliam nas técnicas de:
 * **Testes de Regressão** - _Regression Testing_.
 
 Outras características apresentadas são:
-* Implementação: das funcionalidade do cenário;
+* Implementação: das funcionalidades do cenário;
 * _FeedBack_: notificação dos problemas no código;
 * _Bugs_: previne e corrige os problemas; e
 * _Debugging_: reduz a necessidade de uso.
 
 ## O Teste
 
-O teste utiliza as tarefas do cenário para a composição de um conjunto de casos de teste durante a etapa de [Codificação](/codigo/README.md), assim descrevendo **o que** cada estrutura de programação deve fazer para garantir a **verificação** da [Arquitetura](/arquitetura/README.md).
+O teste utiliza as tarefas do cenário para a composição de um conjunto de casos de teste durante a etapa de [Codificação](../codigo/README.md), assim descrevendo **o que** cada estrutura de programação deve fazer para garantir a **verificação** da [Arquitetura](../arquitetura/README.md).
 
 Na elaboração dos casos de teste utiliza uma identificação e um nome descritivo para cada variação de uma específica funcionalidade do cenário - formando uma execução atômica, assim definindo seus dados de testes como entrada e sua saída esperada na execução, conforme o estado inicial.
 
@@ -55,7 +55,7 @@ As seguintes convenções para os identificadores são utilizados:
 
   * _NameTest_: testes unitários;
   * _NameIntegrationTest_: testes de integração; e
-  * _NameSystemTest_: testes de sistema (ver [Caixa Preta](/testes/caixa-preta.md)).
+  * _NameSystemTest_: testes de sistema (ver [Caixa Preta](caixa-preta.md)).
 
 * Testes:
 
@@ -183,4 +183,3 @@ Código de teste também possui _bad smells_, tais como:
 * **Irrelevant Details in Test** (Detalhes Irrelevante no Teste): uso de recursos desnecessários ao teste, tais como serviços transversais de segurança, _logging_ e etc...;
 * **Misleading Organization** (Organização Enganosa): falta de organização no código de teste, por não responder a questão _AAA_;
 * **Implicit Meaning** (Significado Implícito): excesso de dados e informações aos elementos (constantes, variáveis, dados e etc...) do teste;
-
