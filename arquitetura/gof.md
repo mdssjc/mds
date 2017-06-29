@@ -7,27 +7,30 @@ O acrônimo GoF - _Gang of Four_ apresentado no livro _Design Patterns_ dos auto
 
 Classificação segundo GoF:
 
-|  | **Propósito** |  |
-| :---: | :---: | :---: |
-| **Criação** | **Estrutura** | **Comportamento** |
-| Factory Method | Adapter | Interpreter |
-| Abstract Factory | Bridge | Template Method |
-| Builder | Composite | Chain of Responsability |
-| Prototype | Decorator | Command |
-| Singleton | Facade | Iterator |
-|  | Flyweight | Mediator |
-|  | Proxy | Memento |
-|  |  | Observer |
-|  |  | State |
-|  |  | Strategy |
-|  |  | Visitor |
+ |            |            |                  | **Propósito**    |                         |
+ |------------|------------|------------------|------------------|-------------------------|
+ |            |            | **Criação**      | **Estrutura**    | **Comportamento**       |
+ |            |            | _Creational_     | _Structural_     | _Behavioral_            |
+ |------------|------------|------------------|------------------|-------------------------|
+ | **Escopo** | **Classe** | Factory Method   | Adapter (Class)  | Interpreter             |
+ | _Scope_    | _Class_    |                  |                  | Template Method         |
+ |------------|------------|------------------|------------------|-------------------------|
+ |            | **Objeto** | Abstract Factory | Adapter (Object) | Chain of Responsability |
+ |            | _Object_   | Builder          | Bridge           | Command                 |
+ |            |            | Prototype        | Composite        | Iterator                |
+ |            |            | Singleton        | Decorator        | Mediator                |
+ |            |            |                  | Facade           | Memento                 |
+ |            |            |                  | Flyweight        | Observer                |
+ |            |            |                  | Proxy            | State                   |
+ |            |            |                  |                  | Strategy                |
+ |            |            |                  |                  | Visitor                 |
 
 Classificação segundo _Metsker_:
 
-| **Intenção** | **Padrões** |
-| :--- | :--- |
-| 1. Interfaces | Adapter, Facade, Composite, Bridge |
+| **Intenção**        | **Padrões**                                                              |
+|---------------------|--------------------------------------------------------------------------|
+| 1. Interfaces       | Adapter, Facade, Composite, Bridge                                       |
 | 2. Responsabilidade | Singleton, Observer, Mediator, Proxy, Chain of Responsibility, Flyweight |
-| 3. Construção | Builder, Factory Method, Abstract Factory, Prototype, Memento |
-| 4. Operações | Template Method, State, Strategy, Command, Interpreter |
-| 5. Extensões | Decorator, Iterator, Visitor |
+| 3. Construção       | Builder, Factory Method, Abstract Factory, Prototype, Memento            |
+| 4. Operações        | Template Method, State, Strategy, Command, Interpreter                   |
+| 5. Extensões        | Decorator, Iterator, Visitor                                             |
