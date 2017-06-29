@@ -29,4 +29,4 @@ O _framework_ de desenvolvimento é baseado em:
 
 ---
 
-**Última atualização: 27/06/2017**
+**Última atualização: 28/06/2017**
