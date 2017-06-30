@@ -34,3 +34,7 @@ Classificação segundo _Metsker_:
 | 3. Construção       | Builder, Factory Method, Abstract Factory, Prototype, Memento            |
 | 4. Operações        | Template Method, State, Strategy, Command, Interpreter                   |
 | 5. Extensões        | Decorator, Iterator, Visitor                                             |
+
+Relacionamento entre padrões:
+
+![Relacionamento entre padrões](../images/arquitetura-gof-relationships.png "Relacionamento entre padrões")
