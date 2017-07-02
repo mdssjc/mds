@@ -60,7 +60,7 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Subtipo: Herança (Estático - Tempo de Compilação, _Compile time_) / Composição e Delegação (Dinâmico - Tempo de Execução, _Runtime_).
 
-  Parâmetro: _Ad hoc_, _Overload_ ou _Override_ (_Dynamic Dispatch_, _Late Binding_ ou _Virtual Method Call_/_Invocation_).
+  Parâmetro: _Ad hoc_, _Overload_ (Estático - Tempo de Compilação, _Compile time_) ou _Override_ (Dinâmico - Tempo de Execução, _Runtime_) - _Dynamic Dispatch_, _Late Binding_ ou _Virtual Method Call_/_Invocation_.
 
 * **Fabricação/Invenção Pura** - _Pure Fabrication_: atribuição da responsabilidade de decomposição representacional e comportamental do domínio.
 
