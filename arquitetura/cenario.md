@@ -4,7 +4,7 @@ O cenário é o processo de transformação (modelagem) dos requisitos em soluç
 
 ## User Story
 
-O _User Story_ é uma técnica de modelagem da Programação Extrema - _Extreme Programming_ (XP) na qual consiste em uma pequena descrição em linguagem ubíqua das características de valor para o sistema, divididas em cartões de restrição e característica, em que originam as tarefas (_tasks_) e critérios de testes (_test criteria_).
+Em XP, o _User Story_ é uma técnica de modelagem da Programação Extrema - _Extreme Programming_ (XP) na qual consiste em uma pequena descrição em linguagem ubíqua das características de valor para o sistema, divididas em cartões de restrição e característica, em que originam as tarefas (_tasks_) e critérios de testes (_test criteria_).
 
 **Cartão de Restrição:**
 
@@ -58,18 +58,21 @@ A lista de cenários é reunida em uma _Master Story List_, sendo que cada _User
 
 ## Use Case
 
-O _Use Case_ ou Caso de Uso é uma técnica de modelagem clássica para Desenvolvimento Guiado por Caso de Uso - _Use Case Driven Development_ (UCDD) na qual descreve em diferentes níveis através de diagrama (visão geral) e descrição (visão detalhada) as interações dos atores ao sistema.
+Em 4+1, o _Use Case_ ou Caso de Uso é uma técnica de modelagem clássica para Desenvolvimento Guiado por Caso de Uso - _Use Case Driven Development_ (UCDD) na qual descreve em diferentes níveis através de diagrama (visão geral) e descrição (visão detalhada) as interações dos atores ao sistema.
 
 **Diagrama:**
 
-![](/images/arquitetura-cenario-usecase-1.png)
+![](../images/arquitetura-cenario-usecase-1.png)
 
 **Descrição:**
 
 ```
-Title XYZ
-1. Step 1
-  1.1 Substep 1.1
+Project MDS,  version 1.0
+-------------------------
+        Title XYZ
+
+1. Step 1                 ---> Main Path
+  1.1 Substep 1.1         ---> Alternate Path
 2. Step 2
 ...
 ```
@@ -79,6 +82,10 @@ As partes comportamentais de um _Use Case_ são: título (_title_), atores (_act
 As partes executáveis de um _Use Case_ são: caminho principal (_main path_), caminho alternativo (_alternative path_) e exceções (_exceptions_).
 
 Cada _Use Case_ é desenvolvido por completo e também derivam-se para _Tests Case_ ou Casos de Testes.
+
+## Problem
+
+Em SPD, _Problem_...
 
 ## Outros
 
@@ -101,6 +108,6 @@ Cada _feature_ é desenvolvida por completo, recomenda-se a arquitetura _Package
 
 ### Especificação de Requisitos
 
-![](/images/skull.png)
+![](../images/skull.png)
 
 Método obsoleto de modelagem do _Waterfall_.
