@@ -11,10 +11,10 @@ solucionados pelos Padrões.
 
 Os mais utilizados/aplicados são:
 
-* [Práticas](praticas.md) (Aplicação do XP, SPD e XDD)
-* [Básicos](basicos.md) (Princípios Básicos)
-* [Gerais](gerais.md) (Princípios Gerais)
-* [GRASP](grasp.md) (Princípios Fundamentais)
-* [SOLID](solid.md) (Princípios de Projeto)
-* [GoF](gof.md) (Padrões de Projeto)
-* [POSA](posa.md) (Padrões de Arquitetura)
+* [Práticas](praticas.md "Práticas") (Aplicação do XP, SPD e XDD)
+* [Básicos](basicos.md "Básicos") (Princípios Básicos)
+* [Gerais](gerais.md "Gerais") (Princípios Gerais)
+* [GRASP](grasp.md "GRASP") (Princípios Fundamentais)
+* [SOLID](solid.md "SOLID") (Princípios de Projeto)
+* [GoF](gof.md "GoF") (Padrões de Projeto)
+* [POSA](posa.md "POSA") (Padrões de Arquitetura)
