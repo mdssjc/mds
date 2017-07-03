@@ -4,6 +4,8 @@
 
   Separa o que varia do que permanece constante.
 
+* **Delegação** - _Delegation_: é o ato de um elemento de programação encaminhar uma necessidade para outro elemento de programação, para ser executado em função do primeiro.
+
 * [**Não se Repita**](http://wiki.c2.com/?DontRepeatYourself "Dont Repeat Yourself") - _Don’t Repeat Yourself_ (DRY) / _Write Every Time_ (WET): princípio sobre o problema da duplicação de conhecimento.
 
   Cada parte do conhecimento deve ter uma representação única, não ambígua e definitiva dentro do sistema.
