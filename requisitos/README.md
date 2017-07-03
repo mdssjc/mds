@@ -2,7 +2,7 @@
 
 ![](../images/requisitos.png)
 
-A etapa de **Requisitos** marca o início de um projeto e determina sua base de avaliação, na qual a equipe de desenvolvimento será exposta aos problemas do cliente, esses são formados pelos requisitos em que definem uma necessidade específica, na qual detalha o que um particular produto deve ser ou fazer - etapa fundamental nas disciplinas de Engenharia de Sistemas ou Engenharia de _Software_.
+A etapa de **Requisitos** marca o início de um projeto e determina sua base de avaliação, na qual a equipe de desenvolvimento será exposta aos problemas do cliente, esses são formados pelos requisitos em que definem uma necessidade específica, na qual detalha o que um particular produto ou serviço deve ser ou fazer - etapa fundamental nas disciplinas de Engenharia de Sistemas ou Engenharia de _Software_.
 
 **Requisitos** = _Software_ + _Hardware_ + Contexto
 
@@ -29,8 +29,19 @@ Os tipos de requisitos são:
 
 Os principais artefatos produzidos durante esta etapa são:
 
-* **Listagem**: itens categorizados em tópicos com as necessidades do sistema; ou
-* **Descrição**: itens em alto nível com as características/funcionalidades do sistema.
+* **Listagem**: itens categorizados em tópicos, conforme a disciplina de cada requisito; ou
+* **Descrição**: itens com descrição textual em alto nível para cada requisito.
+
+```
+Project MDS,  version 1.0
+-------------------------
+    Requirements List
+
+1. requirement A
+2. requirement B
+3. requirement C
+#. ...
+```
 
 ## Contexto
 
