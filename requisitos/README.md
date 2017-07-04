@@ -49,6 +49,8 @@ O contexto é um importante componente dos requisitos, pois seu domínio é o po
 
 ### SMART
 
+O que esperar de uma boa ideia:
+
 * **S** (_Specific_): específica, bem definida;
 * **M** (_Measurable_): mensurável, quantificada;
 * **A** (_Assignable_): alcançável, desafiadora;
