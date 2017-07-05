@@ -35,10 +35,10 @@ Os paradigmas das linguagens de programação são:
     * Fluxo de Dados
     * Lógico
 * **Imperativo**
-    * _Von Neumann_
-    * Orientada a Objetos
-    * _Script_
+    * _Von Neumann_: visão de _software_ sobre a arquitetura do computador, com estruturas de controle (decisão e repetição) e funções.
+    * Orientada a Objetos: visão de abstração (antropomorfismo) do mundo real, com encapsulamento, herança e polimorfismo.
+    * _Script_: uma forma dinâmica de resolver problemas computacionais.
 
-Muitas linguagens são multiparadigmas.
+Muitas linguagens são multiparadigmas, principalmente com um balanço entre Orientada a Objetos/_Script_ e Funcional, alguns casos com DSL em Fluxo de Dados.
 
 ## Tipos
