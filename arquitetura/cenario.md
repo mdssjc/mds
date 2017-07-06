@@ -60,6 +60,12 @@ A lista de cenários é reunida em uma _Master Story List_, sendo que cada _User
 
 Em 4+1, o _Use Case_ ou Caso de Uso é uma técnica de modelagem clássica para Desenvolvimento Guiado por Caso de Uso - _Use Case Driven Development_ (UCDD) na qual descreve em diferentes níveis através de diagrama (visão geral) e descrição (visão detalhada) os cenários com as interações dos atores ao sistema em alcançar uma específica meta.
 
+O _Use Case_ explana **claramente** e **precisamente** o que o sistema faz em linguagem ubíqua.
+
+As partes comportamentais de um _Use Case_ são: título (_title_), atores (_actors_), pré-condições (_preconditions_) e meta (_goal_).
+
+As partes executáveis de um _Use Case_ são: caminho principal (_main path_), caminho opcional (_optional path_), caminho alternativo (_alternative path_) e exceções (_exceptions_).
+
 **Diagrama:**
 
 ![](../images/arquitetura-cenario-usecase-1.png)
@@ -67,8 +73,8 @@ Em 4+1, o _Use Case_ ou Caso de Uso é uma técnica de modelagem clássica para 
 **Descrição:**
 
 ```
-Project MDS,  version 1.0
--------------------------
+Project MDS,   version 1.0
+--------------------------
         Title XYZ
 
 1. Step 1                    ---> Main Path
@@ -110,10 +116,6 @@ Goal: ...              2. Step 2
                        1.1 Substep 1.1
                        2.2 Substep 2.2
 ```
-
-As partes comportamentais de um _Use Case_ são: título (_title_), atores (_actors_), pré-condições (_preconditions_) e meta (_goal_).
-
-As partes executáveis de um _Use Case_ são: caminho principal (_main path_), caminho opcional (_optional path_), caminho alternativo (_alternative path_) e exceções (_exceptions_).
 
 Cada _Use Case_ é desenvolvido por completo e também derivam-se para _Tests Case_ ou Casos de Testes.
 
