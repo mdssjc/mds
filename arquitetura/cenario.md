@@ -71,8 +71,10 @@ Project MDS,  version 1.0
 -------------------------
         Title XYZ
 
-1. Step 1                 ---> Main Path
-  1.1 Substep 1.1         ---> Alternate Path
+1. Step 1                    ---> Main Path
+  1.1 Substep 1.1            ---> Optional Path
+    1.1.1 Subsubstep 1.1.1   ---> Alternative Path
+  1.1.# ...
   1.# ...
 2. Step 2
 #. ...
@@ -111,7 +113,7 @@ Goal: ...              2. Step 2
 
 As partes comportamentais de um _Use Case_ são: título (_title_), atores (_actors_), pré-condições (_preconditions_) e meta (_goal_).
 
-As partes executáveis de um _Use Case_ são: caminho principal (_main path_), caminho alternativo (_alternative path_) e exceções (_exceptions_).
+As partes executáveis de um _Use Case_ são: caminho principal (_main path_), caminho opcional (_optional path_), caminho alternativo (_alternative path_) e exceções (_exceptions_).
 
 Cada _Use Case_ é desenvolvido por completo e também derivam-se para _Tests Case_ ou Casos de Testes.
 
