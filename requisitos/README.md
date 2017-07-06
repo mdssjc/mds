@@ -6,7 +6,7 @@ A etapa de **Requisitos** marca o início de um projeto e determina sua base de 
 
 **Requisitos** = _Software_ + _Hardware_ + Contexto
 
-**Constante** = Mudanças
+**Constante** = Mudança - _Change_
 
 **Importante regra**: _os requisitos sempre mudam!_
 
