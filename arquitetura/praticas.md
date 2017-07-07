@@ -1,7 +1,5 @@
 # Práticas
 
-## SPD
-
 ## XP
 
 **Programação Extrema** - _Extreme Programming_ (XP): estude pela página [www.extremeprogramming.org](http://www.extremeprogramming.org "Extreme Programming").
@@ -10,3 +8,5 @@
 * Entregue _software_: que seja necessário, no tempo e no orçamento.
 
 ## 4+1
+
+## SPD
