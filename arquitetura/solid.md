@@ -27,7 +27,7 @@ Os 5 princípios de projeto são:
 
   Aplicar o princípio muito cedo na camada de domínio pode resultar em futuros problemas de projeto.
 
-  Veja também [_Low Coupling_](/arquitetura/grasp.md) e [_High Cohesion_](/arquitetura/grasp.md) em _GRASP_.
+  Veja também [_Low Coupling_](grasp.md) e [_High Cohesion_](grasp.md) em _GRASP_.
 
 * [**Princípio do Aberto-Fechado**](http://c2.com/cgi/wiki?OpenClosedPrinciple "Open Closed Principle") - _Open-Closed Principle_ (OCP) por _Bertrand Meyer_ (criador da linguagem de programação _Eiffel_) em 1988:
 
@@ -41,7 +41,7 @@ Os 5 princípios de projeto são:
 
   Pode ser aplicado para qualquer elemento de programação.
 
-  Veja também [_Protected Variations_](/arquitetura/grasp.md) em _GRASP_.
+  Veja também [_Protected Variations_](grasp.md) em _GRASP_.
 
 * [**Princípio de Substituição de Liskov**](http://c2.com/cgi/wiki?LiskovSubstitutionPrinciple "Liskov Substitution Principle") - _Liskov Substitution Principle_ (LSP) por _Barbara Liskov_ em 1988:
 
@@ -52,7 +52,7 @@ Os 5 princípios de projeto são:
   Definição do princípio:
 
   > _If for each object o1 of type S there is an object o2 of type T such that for all programs P defined in terms of T, the behavior of P is unchanged when o1 is substituted for o2 then S is a subtype of T_
-  
+
   Adaptado para o livro:
   > _Se para cada objeto o1 do tipo S há um objeto o2 do tipo T de forma que, para todos os programas P definidos em termos de T, o comportamento de P é inalterado quando o1 é substituído por o2 então S é um subtipo de T_
 
@@ -78,7 +78,7 @@ Os 5 princípios de projeto são:
 
   A violação do princípio pode ser corrigida com fatoração e/ou uso do polimorfismo por subtipos de interface, como relacionamento por composição/agregação e delegação.
 
-  Veja também [_Polymorphism_](/arquitetura/grasp.md) em _GRASP_.
+  Veja também [_Polymorphism_](grasp.md) em _GRASP_.
 
 * [**Princípio da Segregação de Interfaces**](http://c2.com/cgi/wiki?InterfaceSegregationPrinciple "Interface Segregation Principle") - _Interface Segregation Principle_ (ISP):
 
@@ -100,7 +100,7 @@ Os 5 princípios de projeto são:
   > b. Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.
 
   Também conhecido por Princípio de _Hollywood_: "Não nos chame, nós chamaremos você" - "_Don't call us, we'll call you_".
-  
+
   Solução para dependências: cíclica e estável-instável/flexível.
 
 ## Princípios do Desenvolvimento de Pacotes
@@ -132,7 +132,7 @@ Os 6 princípios do desenvolvimento de pacotes são divididos em granularidade (
 * [**Princípio das Dependências Estáveis**](http://wiki.c2.com/?StableDependenciesPrinciple) - _The Stable-Dependencies Principle_ (SDP): _depend in the direction of stability_.
 
   Adaptado para o livro: dependa na direção da estabilidade.
-  
+
 * [**Princípio das Abstrações Estáveis**](http://wiki.c2.com/?StableAbstractionsPrinciple) - _The Stable-Abstractions Principle_ (SAP): _a package should be as abstract as it is stable_.
 
   Adaptado para o livro: um pacote deve ser tão abstrato quanto estável.
