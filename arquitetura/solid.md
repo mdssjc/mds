@@ -15,7 +15,7 @@ Os sintomas (_design smells_) de um projeto ruim são:
 
 Os 5 princípios de projeto são:
 
-* [**Princípio da Responsabilidade Única**](http://c2.com/cgi/wiki?SingleResponsibilityPrinciple "Single Responsibility Principle") - _Single Responsibility Principle_ (SRP) por _Robert C. Martin_ com base nos trabalhos de _Tom DeMarco_ e _Meilir Page-Jones_ sobre coesão:
+* [**Princípio da Responsabilidade Única**](http://wiki.c2.com/?SingleResponsibilityPrinciple "Single Responsibility Principle") - _Single Responsibility Principle_ (SRP) por _Robert C. Martin_ com base nos trabalhos de _Tom DeMarco_ e _Meilir Page-Jones_ sobre coesão:
 
   **"_A class should have only one reason to change_"**
 
@@ -29,7 +29,7 @@ Os 5 princípios de projeto são:
 
   Veja também [_Low Coupling_](grasp.md) e [_High Cohesion_](grasp.md) em _GRASP_.
 
-* [**Princípio do Aberto-Fechado**](http://c2.com/cgi/wiki?OpenClosedPrinciple "Open Closed Principle") - _Open-Closed Principle_ (OCP) por _Bertrand Meyer_ (criador da linguagem de programação _Eiffel_) em 1988:
+* [**Princípio do Aberto-Fechado**](http://wiki.c2.com/?OpenClosedPrinciple "Open Closed Principle") - _Open-Closed Principle_ (OCP) por _Bertrand Meyer_ (criador da linguagem de programação _Eiffel_) em 1988:
 
   **"_Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification_"**
 
@@ -43,7 +43,7 @@ Os 5 princípios de projeto são:
 
   Veja também [_Protected Variations_](grasp.md) em _GRASP_.
 
-* [**Princípio de Substituição de Liskov**](http://c2.com/cgi/wiki?LiskovSubstitutionPrinciple "Liskov Substitution Principle") - _Liskov Substitution Principle_ (LSP) por _Barbara Liskov_ em 1988:
+* [**Princípio de Substituição de Liskov**](http://wiki.c2.com/?LiskovSubstitutionPrinciple "Liskov Substitution Principle") - _Liskov Substitution Principle_ (LSP) por _Barbara Liskov_ em 1988:
 
   **"_Subtypes must be substitutable for their base types_"**
 
@@ -80,13 +80,13 @@ Os 5 princípios de projeto são:
 
   Veja também [_Polymorphism_](grasp.md) em _GRASP_.
 
-* [**Princípio da Segregação de Interfaces**](http://c2.com/cgi/wiki?InterfaceSegregationPrinciple "Interface Segregation Principle") - _Interface Segregation Principle_ (ISP):
+* [**Princípio da Segregação de Interfaces**](http://wiki.c2.com/?InterfaceSegregationPrinciple "Interface Segregation Principle") - _Interface Segregation Principle_ (ISP):
 
   **"_Clients should not be forced to depend on methods that they do not use_"**
 
   Adaptado para o livro: _Os clientes não devem serem forçados a dependerem de métodos que não usam_.
 
-* [**Princípio da Inversão de Dependência**](http://c2.com/cgi/wiki?DependencyInversionPrinciple "Dependency Inversion Principle") - _Dependency Inversion Principle_ (DIP):
+* [**Princípio da Inversão de Dependência**](http://wiki.c2.com/?DependencyInversionPrinciple "Dependency Inversion Principle") - _Dependency Inversion Principle_ (DIP):
 
   Definição do princípio:
 
