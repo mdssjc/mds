@@ -4,6 +4,8 @@
 
   Separa o que varia do que permanece constante.
 
+  Protege os elementos de programação de desnecessárias mudanças.
+
 * **Delegação** - _Delegation_: é o ato de um elemento de programação encaminhar uma necessidade/responsabilidade para outro elemento de programação, para ser executado em função do primeiro.
 
   Blinda seus elementos de programação de alterações nos outros elementos de programação.
