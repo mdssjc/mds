@@ -11,10 +11,11 @@ solucionados pelos Padrões.
 
 Os mais utilizados/aplicados são:
 
-* [Práticas](praticas.md "Práticas") (Práticas do XP, SPD e XDD)
+* [Práticas](praticas.md "Práticas") (Práticas do XP, 4+1, SPD e XDD)
 * [Básicos](basicos.md "Básicos") (Princípios Básicos)
 * [Gerais](gerais.md "Gerais") (Princípios Gerais)
 * [SOLID](solid.md "SOLID") (Princípios de Projeto)
 * [GRASP](grasp.md "GRASP") (Padrões Fundamentais)
+* PLoP (Padrões de Projeto)
 * [GoF](gof.md "GoF") (Padrões de Projeto)
 * [POSA](posa.md "POSA") (Padrões de Arquitetura)
