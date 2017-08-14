@@ -2,9 +2,9 @@
 
 Como fazer para solucionar o problema?
 
-No projeto são aplicados os estudos da subetapa de [**Análise**](/arquitetura/analise.md) em modelos prontos para a implementação na etapa de [**Codificação**](/codigo/README.md).
+No projeto são aplicados os estudos da subetapa de [**Análise**](analise.md) em modelos prontos para a implementação na etapa de [**Codificação**](../codigo/README.md).
 
-Esses modelos descreve uma visão lógica em relação a cada unidade/tarefa da subetapa de [**Cenário**](/arquitetura/cenario.md) em termos de papéis com específicas responsabilidades (tipo sabe (atributos) e tipo faz (comportamentos)) e interação pela necessidade de colaboração (relacionamentos).
+Esses modelos descreve uma visão lógica em relação a cada unidade/tarefa da subetapa de [**Cenário**](cenario.md) em termos de papéis com específicas responsabilidades (tipo sabe (atributos) e tipo faz (comportamentos)) e interação pela necessidade de colaboração (relacionamentos).
 
 ## Cartão CRC
 
@@ -38,7 +38,7 @@ Know  |  -
 
 O Diagrama de Classe é uma técnica de modelagem em Linguagem de Modelagem Unificada - _Unified Modeling Language_ (UML).
 
-![](/images/arquitetura-projeto-diagrama-classe.png)
+![](../images/arquitetura-projeto-diagrama-classe.png)
 
 Em PlantUML:
 
