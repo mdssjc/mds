@@ -22,8 +22,8 @@ As principais fases são:
 
 Os tipos de requisitos são:
 
-* **Funcional**: descreve as funcionalidades e características;
-* **Não Funcional**: descreve as restrições e limites.
+* **Funcional**: descreve as funcionalidades e características necessárias ao sistema;
+* **Não Funcional**: descreve as restrições e limites impostas ao sistema.
 
 ## Artefatos
 
