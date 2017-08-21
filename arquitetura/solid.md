@@ -27,6 +27,17 @@ Os 5 princípios de projeto são:
 
   Aplicar o princípio muito cedo na camada de domínio pode resultar em futuros problemas de projeto.
 
+  Um método prático para a aplicação do SRP:
+
+```
+Análise de SRP para __________
+
+O _____  _____ para ele mesmo.
+O _____  _____ para ele mesmo.
+O _____  _____ para ele mesmo.
+...
+```
+
   Veja também [_Low Coupling_](grasp.md "GRASP") e [_High Cohesion_](grasp.md "GRASP") em _GRASP_.
 
 * [**Princípio do Aberto-Fechado**](http://wiki.c2.com/?OpenClosedPrinciple "Open Closed Principle") - _Open-Closed Principle_ (OCP) por _Bertrand Meyer_ (criador da linguagem de programação _Eiffel_) em 1988:
@@ -109,23 +120,23 @@ Os 6 princípios do desenvolvimento de pacotes são divididos em granularidade (
 
 ### Granularidade: Os Princípios da Coesão de Pacotes
 
-* [**Princípio da Equivalência entre Liberação e Reuso**](http://wiki.c2.com/?ReuseReleaseEquivalencePrinciple "Princípio da Equivalência entre Liberação e Reuso") - _The Reuse-Release Equivalence Principle_ (REP): _the granule of reuse is the granule of release_.
+* [**Princípio da Equivalência entre Liberação e Reuso**](http://wiki.c2.com/?ReuseReleaseEquivalencePrinciple "Reuse Release Equivalence Principle") - _The Reuse-Release Equivalence Principle_ (REP): _the granule of reuse is the granule of release_.
 
   Adaptado para o livro: a granularidade do reuso é a granularidade do lançamento.
 
   _Ou todas as classes em um pacote são reutilizáveis ou nenhuma delas são._
 
-* [**Princípio do Reuso Comum**](http://wiki.c2.com/?CommonReusePrinciple "Princípio do Reuso Comum") - _The Commom-Reuse Principle_ (CRP): _the classes in a package are reused together. If you reuse one of the classes in a package, you reuse them all_.
+* [**Princípio do Reuso Comum**](http://wiki.c2.com/?CommonReusePrinciple "Common Reuse Principle") - _The Commom-Reuse Principle_ (CRP): _the classes in a package are reused together. If you reuse one of the classes in a package, you reuse them all_.
 
   Adaptado para o livro: as classes em um pacote são todas reutilizadas juntas. Se você reusa uma classe no pacote, reusará todas elas.
 
-* [**Princípio do Fechamento Comum**](http://wiki.c2.com/?CommonClosurePrinciple "Princípio do Fechamento Comum") - _The Commom-Closure Principle_ (CCP): _the classes in a package should be closed together against the same kinds of changes. A change that affects a package affects all the classes in that package and no other packages_.
+* [**Princípio do Fechamento Comum**](http://wiki.c2.com/?CommonClosurePrinciple "Common Closure Principle") - _The Commom-Closure Principle_ (CCP): _the classes in a package should be closed together against the same kinds of changes. A change that affects a package affects all the classes in that package and no other packages_.
 
   Adaptado para o livro: as classes em um pacote devem ser fechadas em conjunto contra os mesmos tipos de alterações. Uma alteração que afeta um pacote afeta todas as classes nesse pacote e nenhuma em outro pacote.
 
 ### Estabilidade: Os Princípios do Acoplamento de Pacotes
 
-* [**Princípio das Dependências Acíclicas**](http://wiki.c2.com/?AcyclicDependenciesPrinciple "Princípio das Dependências Acíclicas") - _The Acyclic-Dependencies Principle_ (ADP): _allow no cycles in the package-dependency graph_.
+* [**Princípio das Dependências Acíclicas**](http://wiki.c2.com/?AcyclicDependenciesPrinciple "Acyclic Dependencies Principle") - _The Acyclic-Dependencies Principle_ (ADP): _allow no cycles in the package-dependency graph_.
 
   Adaptado para o livro: não permitir ciclos no grafo pacote-dependência.
 
