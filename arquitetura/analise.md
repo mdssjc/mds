@@ -16,7 +16,7 @@ Na análise são realizados diversos estudos sobre como resolver o problema prop
 
 **Análise de Variabilidade** - _Variability_: o processo de identificação das partes variáveis do sistema, também como definições de dados.
 
-**Análise de Ambiente/Mundo**: o processo de identificação dos eventos.
+**Análise de Ambiente/Mundo** - _Environment_: o processo de identificação dos eventos do sistema.
 
 **Análise Textual** - _Textual Analysis_: o processo de obtenção dos candidatos a elementos de programação no cenário, sendo os substantivos representados como abstração e os verbos como funcionalidades.
 
