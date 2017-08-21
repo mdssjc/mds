@@ -10,7 +10,7 @@
 
   Blinda seus elementos de programação de alterações nos outros elementos de programação.
 
-* [**Não se Repita**](http://wiki.c2.com/?DontRepeatYourself "Dont Repeat Yourself") - _Don’t Repeat Yourself_ (DRY) / _Write Every Time_ (WET): princípio sobre o problema da duplicação de conhecimento.
+* [**Não se Repita**](http://wiki.c2.com/?DontRepeatYourself "Don't Repeat Yourself") - _Don’t Repeat Yourself_ (DRY) / _Write Every Time_ (WET): princípio sobre o problema da duplicação de conhecimento.
 
   Cada parte do conhecimento deve ter uma representação única, não ambígua e definitiva dentro do sistema.
 
