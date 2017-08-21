@@ -87,9 +87,9 @@ O _____  _____ para ele mesmo.
 
   O gerenciamento de dependências utiliza-se do polimorfismo para manter correta a árvore de relacionamentos.
 
-  A violação do princípio pode ser corrigida com fatoração e/ou uso do polimorfismo por subtipos de interface, como relacionamento por composição/agregação e delegação.
+  A violação do princípio pode ser corrigida com fatoração e/ou uso do polimorfismo por subtipos de interface, como o relacionamento por composição/agregação e delegação.
 
-  Veja também [_Polymorphism_](grasp.md "GRASP") em _GRASP_.
+  Veja também [Delegação, Composição e Agregação](basicos.md "Princípios Básicos") em Princípios Básicos e [_Polymorphism_](grasp.md "GRASP") em _GRASP_.
 
 * [**Princípio da Segregação de Interfaces**](http://wiki.c2.com/?InterfaceSegregationPrinciple "Interface Segregation Principle") - _Interface Segregation Principle_ (ISP):
 
