@@ -27,7 +27,7 @@ Os 5 princípios de projeto são:
 
   Aplicar o princípio muito cedo na camada de domínio pode resultar em futuros problemas de projeto.
 
-  Veja também [_Low Coupling_](grasp.md) e [_High Cohesion_](grasp.md) em _GRASP_.
+  Veja também [_Low Coupling_](grasp.md "GRASP") e [_High Cohesion_](grasp.md "GRASP") em _GRASP_.
 
 * [**Princípio do Aberto-Fechado**](http://wiki.c2.com/?OpenClosedPrinciple "Open Closed Principle") - _Open-Closed Principle_ (OCP) por _Bertrand Meyer_ (criador da linguagem de programação _Eiffel_) em 1988:
 
@@ -41,7 +41,7 @@ Os 5 princípios de projeto são:
 
   Pode ser aplicado para qualquer elemento de programação.
 
-  Veja também [_Protected Variations_](grasp.md) em _GRASP_.
+  Veja também [_Protected Variations_](grasp.md "GRASP") em _GRASP_.
 
 * [**Princípio de Substituição de Liskov**](http://wiki.c2.com/?LiskovSubstitutionPrinciple "Liskov Substitution Principle") - _Liskov Substitution Principle_ (LSP) por _Barbara Liskov_ em 1988:
 
@@ -78,7 +78,7 @@ Os 5 princípios de projeto são:
 
   A violação do princípio pode ser corrigida com fatoração e/ou uso do polimorfismo por subtipos de interface, como relacionamento por composição/agregação e delegação.
 
-  Veja também [_Polymorphism_](grasp.md) em _GRASP_.
+  Veja também [_Polymorphism_](grasp.md "GRASP") em _GRASP_.
 
 * [**Princípio da Segregação de Interfaces**](http://wiki.c2.com/?InterfaceSegregationPrinciple "Interface Segregation Principle") - _Interface Segregation Principle_ (ISP):
 
@@ -109,31 +109,31 @@ Os 6 princípios do desenvolvimento de pacotes são divididos em granularidade (
 
 ### Granularidade: Os Princípios da Coesão de Pacotes
 
-* [**Princípio da Equivalência entre Liberação e Reuso**](http://wiki.c2.com/?ReuseReleaseEquivalencePrinciple) - _The Reuse-Release Equivalence Principle_ (REP): _the granule of reuse is the granule of release_.
+* [**Princípio da Equivalência entre Liberação e Reuso**](http://wiki.c2.com/?ReuseReleaseEquivalencePrinciple "Princípio da Equivalência entre Liberação e Reuso") - _The Reuse-Release Equivalence Principle_ (REP): _the granule of reuse is the granule of release_.
 
   Adaptado para o livro: a granularidade do reuso é a granularidade do lançamento.
 
   _Ou todas as classes em um pacote são reutilizáveis ou nenhuma delas são._
 
-* [**Princípio do Reuso Comum**](http://wiki.c2.com/?CommonReusePrinciple) - _The Commom-Reuse Principle_ (CRP): _the classes in a package are reused together. If you reuse one of the classes in a package, you reuse them all_.
+* [**Princípio do Reuso Comum**](http://wiki.c2.com/?CommonReusePrinciple "Princípio do Reuso Comum") - _The Commom-Reuse Principle_ (CRP): _the classes in a package are reused together. If you reuse one of the classes in a package, you reuse them all_.
 
   Adaptado para o livro: as classes em um pacote são todas reutilizadas juntas. Se você reusa uma classe no pacote, reusará todas elas.
 
-* [**Princípio do Fechamento Comum**](http://wiki.c2.com/?CommonClosurePrinciple) - _The Commom-Closure Principle_ (CCP): _the classes in a package should be closed together against the same kinds of changes. A change that affects a package affects all the classes in that package and no other packages_.
+* [**Princípio do Fechamento Comum**](http://wiki.c2.com/?CommonClosurePrinciple "Princípio do Fechamento Comum") - _The Commom-Closure Principle_ (CCP): _the classes in a package should be closed together against the same kinds of changes. A change that affects a package affects all the classes in that package and no other packages_.
 
   Adaptado para o livro: as classes em um pacote devem ser fechadas em conjunto contra os mesmos tipos de alterações. Uma alteração que afeta um pacote afeta todas as classes nesse pacote e nenhuma em outro pacote.
 
 ### Estabilidade: Os Princípios do Acoplamento de Pacotes
 
-* [**Princípio das Dependências Acíclicas**](http://wiki.c2.com/?AcyclicDependenciesPrinciple) - _The Acyclic-Dependencies Principle_ (ADP): _allow no cycles in the package-dependency graph_.
+* [**Princípio das Dependências Acíclicas**](http://wiki.c2.com/?AcyclicDependenciesPrinciple "Princípio das Dependências Acíclicas") - _The Acyclic-Dependencies Principle_ (ADP): _allow no cycles in the package-dependency graph_.
 
   Adaptado para o livro: não permitir ciclos no grafo pacote-dependência.
 
-* [**Princípio das Dependências Estáveis**](http://wiki.c2.com/?StableDependenciesPrinciple) - _The Stable-Dependencies Principle_ (SDP): _depend in the direction of stability_.
+* [**Princípio das Dependências Estáveis**](http://wiki.c2.com/?StableDependenciesPrinciple "Princípio das Dependências Estáveis") - _The Stable-Dependencies Principle_ (SDP): _depend in the direction of stability_.
 
   Adaptado para o livro: dependa na direção da estabilidade.
 
-* [**Princípio das Abstrações Estáveis**](http://wiki.c2.com/?StableAbstractionsPrinciple) - _The Stable-Abstractions Principle_ (SAP): _a package should be as abstract as it is stable_.
+* [**Princípio das Abstrações Estáveis**](http://wiki.c2.com/?StableAbstractionsPrinciple "Princípio das Abstrações Estáveis") - _The Stable-Abstractions Principle_ (SAP): _a package should be as abstract as it is stable_.
 
   Adaptado para o livro: um pacote deve ser tão abstrato quanto estável.
 
