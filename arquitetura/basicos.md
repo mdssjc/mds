@@ -10,6 +10,10 @@
 
   Blinda seus elementos de programação de alterações nos outros elementos de programação.
 
+* **Composição** - _Composition_: é o ato de um elemento de programação usar as funcionalidades/comportamentos de uma família de outros elementos de programação e modificar essas funcionalidades/comportamentos em tempo de execução.
+
+* **Agregação** - _Aggregation_: é o ato de um elemento de programação usar as funcionalidades/comportamentos de outros elementos de programação, mas sem controlar seu tempo de vida.
+
 * [**Não se Repita**](http://wiki.c2.com/?DontRepeatYourself "Don't Repeat Yourself") - _Don’t Repeat Yourself_ (DRY) / _Write Every Time_ (WET): princípio sobre o problema da duplicação de conhecimento.
 
   Cada parte do conhecimento deve ter uma representação única, não ambígua e definitiva dentro do sistema.
