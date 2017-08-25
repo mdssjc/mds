@@ -88,18 +88,6 @@ As [ferramentas](ferramentas.md) mais utilizadas são:
 * Hamcrest
 * Mockito
 
-## A Prática
-
-### Exceções
-
-@Test:expected _em edição_
-
-@Rules _em edição_
-
-Try-Catch _em edição_
-
-EAM _em edição_
-
 ## O que pensar?
 
 * **AAA[A]** - organização e formatação dos casos de teste:
@@ -183,3 +171,13 @@ Código de teste também possui _bad smells_, tais como:
 * **Irrelevant Details in Test** (Detalhes Irrelevante no Teste): uso de recursos desnecessários ao teste, tais como serviços transversais de segurança, _logging_ e etc...;
 * **Misleading Organization** (Organização Enganosa): falta de organização no código de teste, por não responder a questão _AAA_;
 * **Implicit Meaning** (Significado Implícito): excesso de dados e informações aos elementos (constantes, variáveis, dados e etc...) do teste;
+
+### Exceções
+
+@Test:expected _em edição_
+
+@Rules _em edição_
+
+Try-Catch _em edição_
+
+EAM _em edição_
