@@ -127,21 +127,6 @@ Em SPD, _Sample Problem_...
 
 Existem outras técnicas de modelagem de cénarios, sendo duas comuns _Feature_ e _Especificação de Requisitos_.
 
-### Feature
-
-A _Feature_ é uma técnica de modelagem clássica (Desenvolvimento Guiado por Funcionalidades - _Feature Driven Development_ (FDD)) na qual define uma descrição de alto nível em linguagem ubíqua das funcionalidades/características que o sistema necessita fazer.
-
-```
-System XYZ
-Features List
-
-1. Feature A;
-2. Feature B; and
-3. Feature C;
-```
-
-Cada _feature_ é desenvolvida por completo, recomenda-se a arquitetura _Package by Feature_.
-
 ### Especificação de Requisitos
 
 ![](../images/skull.png)
