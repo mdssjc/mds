@@ -25,6 +25,20 @@ Na elaboração dos casos de teste utiliza uma identificação e um nome descrit
 
 `{ ID; Nome do Teste; Entrada; Saída Esperada; Estado Inicial }`
 
+**Exemplo:**
+
+```
+| ID  | Nome do Teste   | Entrada    | Saída Esperada | Estado Inicial            |
+|-----+-----------------+------------+----------------+---------------------------|
+|  1  | Testando o A... | "variável" | "variável"     | Objeto Contador existente |
+|     |                 | 20         | 123            |                           |
+|-----+-----------------+------------+----------------+---------------------------|
+|  2  | Testando o B... | N/A        | "variável"     | Objeto Contador com valor |
+|     |                 |            | 345            | padrão de 345             |
+|-----+-----------------+------------+----------------+---------------------------|
+| ... |                 |            |                |                           |
+```
+
 Os casos de teste são organizadas em quatro (4) fases/etapas, sendo:
 
 * **setup** ou **arrange**: construção e configuração dos estados (entradas, condições e limites) requeridos pelo caso de teste;
