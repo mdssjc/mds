@@ -123,11 +123,7 @@ Cada _Use Case_ é desenvolvido por completo e também derivam-se para _Tests Ca
 
 Em SPD, _Sample Problem_...
 
-## Outros
-
-Existem outras técnicas de modelagem de cénarios, sendo duas comuns _Feature_ e _Especificação de Requisitos_.
-
-### Especificação de Requisitos
+## Especificação de Requisitos
 
 ![](../images/skull.png)
 
