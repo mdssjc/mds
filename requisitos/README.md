@@ -43,6 +43,21 @@ Project MDS,  version 1.0
 #. ...
 ```
 
+## Desenvolvimento Guiado por Funcionalidades
+
+A _Feature_ é uma técnica de modelagem clássica para Desenvolvimento Guiado por Funcionalidades - _Feature Driven Development_ (FDD) na qual utiliza os _requisitos do sistema_ quando existe uma maior granularidade das necessidades para o desenvolvimento do sistema.
+
+```
+System XYZ
+Features List
+
+1. Feature A;
+2. Feature B; and
+3. Feature C;
+```
+
+Cada _feature_ é desenvolvida por completo, recomenda-se a arquitetura _Package by Feature_.
+
 ## Contexto
 
 O contexto é um importante componente dos requisitos, pois seu domínio é o ponto inicial na construção de um modelo genérico da arquitetura, assim imergindo no mesmo garante melhores resultados ao projeto - existem diversas técnicas específicas para sua gestão, como por exemplo: o SMART, 5W2H, _Inception Deck_ e o _Project Model Canvas_ - dentre as atividades práticas para garimpar as ideias estão o: _brainstorming_, entrevistas e etc...
