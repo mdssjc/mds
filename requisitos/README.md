@@ -15,8 +15,44 @@ A etapa de **Requisitos** marca o início de um projeto e determina sua base de 
 As principais fases são:
 
 * **Requisitos do Usuário** (visão - _vision_): apresentação do problema pelo cliente através de descrição e especificação, assim verifica-se a viabilidade para a execução do projeto;
+
+```
+Statement of Work
+-----------------
+
+Statements ... Project MDS ...
+... ... ...
+... ... ...
+... ... ...
+
+     ... CEO ...
+```
+
 * **Requisitos do Sistema** (característica - _feature_): processo de consolidação/entendimento do problema entre cliente e desenvolvedores, assim define-se o problema proposto; e
+
+```
+Project MDS
+Features List
+-------------
+
+1. Feature A ...;
+2. Feature B ...;
+3. Feature C ...; and
+...
+```
+
 * **Modelagem dos Requisitos** (detalhe - _detail_): comunicação com a Arquitetura do _Software_ através da transformação em cenário, assim define-se uma solução para o problema.
+
+```
+Project MDS,  version 1.0
+-------------------------
+    Requirements List
+
+1. requirement A ...
+2. requirement B ...
+3. requirement C ...
+#. ...
+```
 
 ## Tipos
 
@@ -32,29 +68,9 @@ Os principais artefatos produzidos durante esta etapa são:
 * **Listagem**: itens categorizados em tópicos, conforme a disciplina de cada requisito; ou
 * **Descrição**: itens com descrição textual em alto nível para cada requisito.
 
-```
-Project MDS,  version 1.0
--------------------------
-    Requirements List
-
-1. requirement A
-2. requirement B
-3. requirement C
-#. ...
-```
-
 ## Desenvolvimento Guiado por Funcionalidades
 
-A _Feature_ é uma técnica de modelagem clássica para Desenvolvimento Guiado por Funcionalidades - _Feature Driven Development_ (FDD) na qual utiliza os _requisitos do sistema_ quando existe uma maior granularidade das necessidades para o desenvolvimento do sistema.
-
-```
-System XYZ
-Features List
-
-1. Feature A;
-2. Feature B; and
-3. Feature C;
-```
+A _Feature_ é uma técnica de modelagem clássica para Desenvolvimento Guiado por Funcionalidades - _Feature Driven Development_ (FDD) na qual utiliza os _requisitos do sistema_ como funcionalidades, quando existe uma maior granularidade das necessidades para o desenvolvimento do sistema.
 
 Cada _feature_ é desenvolvida por completo, recomenda-se a arquitetura _Package by Feature_.
 
