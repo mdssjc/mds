@@ -20,8 +20,8 @@ Escrever os testes antes do código melhora a estrutura do projeto, pois traz _f
 
 **Refatoração** - _Refactoring_: é uma técnica de melhoria na estrutura interna do código, sem alterar seu comportamento, através de correções em padrões de problemas (_bad smells_):
 
-* _[Refactoring](http://refactoring.com)_: catálogo de técnicas sobre refatoração;
-* _[SourceMaking](https://sourcemaking.com)_: compilado de técnicas para melhoria no código;
+* [_Refactoring_](http://refactoring.com)_: catálogo de técnicas sobre refatoração;
+* [_SourceMaking_](https://sourcemaking.com): compilado de técnicas para melhoria no código;
 * Dívida Técnica (_Technical Debt_): complexidade acumulada durante o desenvolvimento;
 * Código Legado: código antigo e com características fora do padrão de desenvolvimento; e
 * [_Design smells_](../arquitetura/solid.md): sintomas de um projeto ruim.
