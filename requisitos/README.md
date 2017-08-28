@@ -54,9 +54,9 @@ Project MDS,  version 1.0
 #. ...
 ```
 
-## Tipos
+## Classificação
 
-Os tipos de requisitos são:
+Os requisitos são classificados em:
 
 * **Funcional**: descreve as funcionalidades e características necessárias ao sistema;
 * **Não Funcional**: descreve as restrições e limites impostas ao sistema.
