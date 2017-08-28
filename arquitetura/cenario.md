@@ -73,48 +73,72 @@ As partes executáveis de um _Use Case_ são: caminho principal (_main path_), c
 **Descrição:**
 
 ```
-Project MDS,   version 1.0
---------------------------
-        Title XYZ
+Project MDS, version 1.0
+------------------------
+       Title XYZ
 
-1. Step 1                    ---> Main Path
-  1.1 Substep 1.1            ---> Optional Path
-    1.1.1 Subsubstep 1.1.1   ---> Alternative Path
+1. Step 1 ...                  ---> Main Path
+  1.1 Substep 1.1 ...          ---> Optional Path
+    1.1.1 Subsubstep 1.1.1 ... ---> Alternative Path
   1.1.# ...
   1.# ...
-2. Step 2
+2. Step 2 ...
 #. ...
 ```
 
 ```
-Title XYZ
----------
-Description of main path...
+Project MDS, version 1.0
+------------------------
+       Title XYZ
 
-Description of alternate path...
-```
-
-```
-Title XYZ
----------
-1. Step 1
-2. Step 2
-#. Step ...
+1. Step 1 ...
+2. Step 2 ...
+#. ...
 ```
 
 ```
-Title XYZ
----------
+Project MDS, version 1.0
+------------------------
+       Title XYZ
+
+Description of main path ...
+
+Description of alternate path ...
+```
+
+```
+Project MDS, version 1.0
+------------------------
+       Title XYZ
+
+    Actor     |   System
+---------------------------
+...           |
+              | ... ... ...
+... ... ...   |
+              | ... ... ...
+...
+
+Extensions
+----------
+Description of alternate path ...
+```
+
+```
+Project MDS, version 1.0
+------------------------
+       Title XYZ
+
 Primary Actor: XXX     Main Path
 Secondary Actor: YYY   ---------
-Preconditions: ...     1. Step 1
-Goal: ...              2. Step 2
-                       #. Step ...
+Preconditions: ...     1. Step 1 ...
+Goal: ...              2. Step 2 ...
+                       #. ...
 
                        Extensions
                        ----------
-                       1.1 Substep 1.1
-                       2.2 Substep 2.2
+                       1.1 Substep 1.1 ...
+                       2.2 Substep 2.2 ...
 ```
 
 Cada _Use Case_ é desenvolvido por completo e também derivam-se para _Tests Case_ ou Casos de Testes.

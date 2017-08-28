@@ -31,9 +31,9 @@ Statements ... Project MDS ...
 * **Requisitos do Sistema** (característica - _feature_): processo de consolidação/entendimento do problema entre cliente e desenvolvedores, assim define-se o problema proposto; e
 
 ```
-Project MDS
+ Project MDS
+ -----------
 Features List
--------------
 
 1. Feature A ...;
 2. Feature B ...;
