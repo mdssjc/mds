@@ -1,6 +1,6 @@
 # Básicos
 
-* [**Encapsulamento**](http://wiki.c2.com/?EncapsulationDefinition "Encapsulation") - _Encapsulation_: é o processo de envolver elementos de programação em entidades abstratas, com o objetivo de proteger a informação (em meios controlados) de ser utilizada incorretamente, assim separando o tipo de sua classe, ou seja, os dados de seu comportamento ou também o que fazer de como fazer - outros nomes utilizados são Ocultamento de Informação (_Information Hiding_) ou Separação de Interesse (_Separation of Concerns_). Em projetos, o **Encapsulamento refere-se a API**, enquando o **Ocultamento de Informação a sua implementação**.
+* [**Encapsulamento**](http://wiki.c2.com/?EncapsulationDefinition "Encapsulation") - _Encapsulation_: é o processo de envolver elementos de programação em entidades maiores e mais abstratas, com o objetivo de proteger a informação (em meios controlados) de ser utilizada incorretamente, assim separando o tipo de sua classe, ou seja, os dados de seu comportamento ou também o que fazer de como fazer - outros nomes utilizados são Ocultamento de Informação (_Information Hiding_) ou Separação de Interesse (_Separation of Concerns_). Em projetos, o **Encapsulamento refere-se a API**, enquando o **Ocultamento de Informação a sua implementação**.
 
   Separa o que varia do que permanece constante.
 
