@@ -12,7 +12,7 @@ O _framework_ de desenvolvimento é baseado em:
 
 * **Programação Extrema** - _Extreme Programming_ (XP): metodologia ágil de desenvolvimento de _software_ de proposta geral para grupos pequenos e médios;
 
-* **Visão 4+1**: modelagem das visões da arquitetura de _software_ em análise e projeto na Linguagem de Modelagem Unificada - _Unified Modeling Language_ (UML), com aspectos científicos para grupos médios e grandes - definida por _Philippe Kruchten_;
+* **Visão 4+1**: modelagem das visões da arquitetura de _software_ em análise e projeto na Linguagem de Modelagem Unificada - _Unified Modeling Language_ (UML), com aspectos científicos para grupos médios e grandes - definida por _Philippe Kruchten_ no artigo _Architectural Blueprints - The "4+1" View Model of Software Architecture_ em 1995;
 
 * **Systematic Program Design - SPD**: técnica de desenvolvimento de _software_ geral para múltiplos paradigmas, recomendado para grupos com expertise; e
 
@@ -36,4 +36,4 @@ O _framework_ de desenvolvimento é baseado em:
 
 ---
 
-**Última atualização: 28/08/2017**
+**Última atualização: 03/09/2017**
