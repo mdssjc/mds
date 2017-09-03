@@ -41,7 +41,7 @@ Features List
 ...
 ```
 
-* **Modelagem dos Requisitos** (detalhe - _detail_): comunicação com a Arquitetura do _Software_ através da transformação em cenário, assim define-se uma solução para o problema.
+* **Modelagem dos Requisitos** (detalhe - _detail_): comunicação com a Arquitetura do _Software_ através da transformação em cenários, assim define-se uma solução para o problema.
 
 ```
 Project MDS,  version 1.0
