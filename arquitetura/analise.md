@@ -18,7 +18,7 @@ Na análise são realizados diversos estudos sobre como resolver o problema prop
 
 **Análise de Ambiente/Mundo** - _Environment_: o processo de identificação dos eventos do sistema.
 
-**Análise Textual** - _Textual Analysis_: o processo de obtenção dos candidatos a elementos de programação no cenário, sendo os substantivos representados como abstração e os verbos como funcionalidades; os adjetivos também são avaliados em abstração e/ou funcionalidades.
+**Análise Textual** - _Textual Analysis_: o processo de obtenção dos candidatos a elementos de programação no cenário, sendo os substantivos representados como abstrações e os verbos como funcionalidades/comportamentos; os adjetivos também são avaliados em abstrações e/ou funcionalidades/comportamentos.
 
 **Análise Contextual**: _em edição_.
 
