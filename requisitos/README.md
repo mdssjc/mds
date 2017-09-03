@@ -28,7 +28,7 @@ Statements ... Project MDS ...
      ... CEO ...
 ```
 
-* **Requisitos do Sistema** (característica - _feature_): processo de consolidação/entendimento do problema entre cliente e desenvolvedores, assim define-se o problema proposto; e
+* **Requisitos do Sistema** (característica - _feature_): processo de consolidação/entendimento do problema entre cliente e desenvolvedores através da descrição de funcionalidades/capacidades do sistema, assim define-se o problema proposto; e
 
 ```
  Project MDS
