@@ -12,6 +12,10 @@ As três fundamentais etapas são:
 
 As três questões para a avaliação (Análise de Risco) das partes arquiteturalmente significativa são:
 
+```
+[Gather Requirements] -> [Analyze in Real World Context] -> [Develop the Architecture]
+```
+
 * _Essence_: qual a sua essência?
   * A essência de um sistema é o que esse sistema é em seu nível mais básico.
 * _What_: o que significa?
