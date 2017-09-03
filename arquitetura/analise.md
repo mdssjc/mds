@@ -12,14 +12,10 @@ Na análise são realizados diversos estudos sobre como resolver o problema prop
   * Protótipo: _em edição_.
   * _StoryBoard_: _em edição_.
 
+**Análise Textual** - _Textual Analysis_: o processo de obtenção dos candidatos a elementos de programação no cenário, sendo os substantivos representados como abstrações e os verbos como funcionalidades/comportamentos; os adjetivos também são avaliados em abstrações e/ou funcionalidades/comportamentos.
+
 **Análise de Comunalidade** - _Commonality_: o processo de identificação das partes invariáveis do sistema, também como constantes.
 
 **Análise de Variabilidade** - _Variability_: o processo de identificação das partes variáveis do sistema, também como definições de dados.
 
 **Análise de Ambiente/Mundo** - _Environment_: o processo de identificação dos eventos do sistema.
-
-**Análise Textual** - _Textual Analysis_: o processo de obtenção dos candidatos a elementos de programação no cenário, sendo os substantivos representados como abstrações e os verbos como funcionalidades/comportamentos; os adjetivos também são avaliados em abstrações e/ou funcionalidades/comportamentos.
-
-**Análise Contextual**: _em edição_.
-
-**Representações**: _em edição_.
