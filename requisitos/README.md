@@ -68,6 +68,10 @@ Os principais artefatos produzidos durante esta etapa são:
 * **Listagem**: itens categorizados em tópicos, conforme a disciplina de cada requisito; ou
 * **Descrição**: itens com descrição textual em alto nível para cada requisito.
 
+## Rastreabilidade
+
+A rastreabilidade - _traceability_ dos requisitos é realizada por uma matriz entre as características do Requisitos do Sistema e os cenários da Modelagem do Sistema.
+
 ## Desenvolvimento Guiado por Funcionalidades
 
 A _Feature_ é uma técnica de modelagem clássica para Desenvolvimento Guiado por Funcionalidades - _Feature Driven Development_ (FDD) na qual utiliza os _requisitos do sistema_ como funcionalidades, quando existe uma maior granularidade das necessidades para o desenvolvimento do sistema.
