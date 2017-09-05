@@ -74,9 +74,11 @@ A rastreabilidade - _traceability_ dos requisitos é realizada por uma matriz en
 
 ## Desenvolvimento Guiado por Funcionalidades
 
-A _Feature_ é uma técnica de modelagem clássica para Desenvolvimento Guiado por Funcionalidades - _Feature Driven Development_ (FDD) na qual utiliza os _requisitos do sistema_ como funcionalidades, quando existe uma maior granularidade das necessidades para o desenvolvimento do sistema.
+A _Feature_ é uma técnica de modelagem clássica para Desenvolvimento Guiado por Funcionalidades - _Feature Driven Development_ (FDD) publicada por _Jeff DeLuca_ e _Peter Coad_, na qual utiliza os _requisitos do sistema_ como funcionalidades, quando existe uma maior granularidade das necessidades para o desenvolvimento do sistema.
 
 Cada _feature_ é desenvolvida por completo, recomenda-se a arquitetura _Package by Feature_.
+
+Saiba mais em [www.featuredrivendevelopment.com](http://www.featuredrivendevelopment.com "http://www.featuredrivendevelopment.com").
 
 ## Contexto
 

@@ -58,7 +58,7 @@ A lista de cenários é reunida em uma _Master Story List_, sendo que cada _User
 
 ## Use Case
 
-Em 4+1, o _Use Case_ ou Caso de Uso é uma técnica de modelagem clássica para Desenvolvimento Guiado por Caso de Uso - _Use Case Driven Development_ (UCDD) na qual descreve em diferentes níveis através de diagrama (visão geral) e descrição (visão detalhada) os cenários com as interações dos atores ao sistema em alcançar uma específica meta.
+Em 4+1, o _Use Case_ ou Caso de Uso é uma técnica de modelagem clássica para Desenvolvimento Guiado por Caso de Uso - _Use Case Driven Development_ (UCDD), na qual descreve em diferentes níveis os cenários com as interações dos atores ao sistema em alcançar uma específica meta através de diagrama (visão geral) e descrição (visão detalhada), quando existe uma visão de um todo das necessidades para o desenvolvimento do sistema.
 
 O _Use Case_ explana **claramente** e **precisamente** o que o sistema faz em linguagem ubíqua.
 
