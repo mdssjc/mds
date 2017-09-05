@@ -12,6 +12,18 @@ Na análise são realizados diversos estudos sobre como resolver o problema prop
   * Protótipo: _em edição_.
   * _StoryBoard_: _em edição_.
 
+**Análise de Risco**: as três questões para a avaliação das partes arquiteturalmente significativa - _architecturally significant_ são:
+
+* _Essence_: qual a sua essência?
+  * A essência de um sistema é o que esse sistema é em seu nível mais básico.
+  * O sistema pode existir sem?
+* _What_: o que significa?
+  * Existe realmente um entendimento sobre?
+* _How_: como fazer?
+  * Pode ser implementado?
+  * Falta de conhecimento.
+  * Nova ou não existente tecnologia.
+
 **Análise Textual** - _Textual Analysis_: o processo de obtenção dos candidatos a elementos de programação no cenário, sendo os substantivos representados como abstrações e os verbos como funcionalidades/comportamentos; os adjetivos também são avaliados em abstrações e/ou funcionalidades/comportamentos.
 
 **Análise de Comunalidade** - _Commonality_: o processo de identificação das partes invariáveis do sistema, também como constantes.
