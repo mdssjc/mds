@@ -10,7 +10,7 @@
 
   Blinda seus elementos de programação de alterações nos outros elementos de programação.
 
-* **Composição** - _Composition_: é o ato de um elemento de programação usar as funcionalidades/comportamentos de uma família de outros elementos de programação e modificar essas funcionalidades/comportamentos em tempo de execução.
+* **Composição** - _Composition_: é o ato de um elemento de programação usar as funcionalidades/comportamentos de uma família de outros elementos de programação e modificar (por seleção) essas funcionalidades/comportamentos em tempo de execução.
 
 * **Agregação** - _Aggregation_: é o ato de um elemento de programação usar as funcionalidades/comportamentos de outros elementos de programação, mas sem controlar seu tempo de vida.
 
