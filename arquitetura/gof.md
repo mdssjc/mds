@@ -43,3 +43,12 @@ Classificação segundo _Metsker_:
 Relacionamento entre padrões:
 
 ![Relacionamento entre padrões](../images/arquitetura-gof-relationships.png "Relacionamento entre padrões")
+
+## Padrões
+
+### Strategy
+
+O padrão _Strategy_ define uma família de algoritmos, encapsula cada uma delas e torná-las intercambiáveis. _Strategy_ permite que o algoritmo varie independentemente dos clientes que o utilizam.
+
+Do GoF:
+> _Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it._
