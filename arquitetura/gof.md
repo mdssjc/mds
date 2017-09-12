@@ -52,3 +52,10 @@ O padrão _Strategy_ define uma família de algoritmos, encapsula cada uma delas
 
 Do GoF:
 > _Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it._
+
+### Observer
+
+O padrão _Observer_ define uma dependência um-para-muitos entre objetos, de maneira que quando um objeto muda de estado todos os seus dependentes são notificados e atualizados automaticamente.
+
+Do GoF:
+> _Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically._
