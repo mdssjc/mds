@@ -59,3 +59,10 @@ O padrão _Observer_ define uma dependência um-para-muitos entre objetos, de ma
 
 Do GoF:
 > _Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically._
+
+### Decorator
+
+O padrão _Decorator_ anexar dinamicamente responsabilidades adicionais a um objeto. Os _Decorators_ fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
+
+Do GoF:
+> _Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality._
