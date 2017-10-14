@@ -115,3 +115,10 @@ Conhecido como: _Wrapper_.
 
 Do GoF:
 > _Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces._
+
+### Facade
+
+O padrão _Facade_ Fornece uma interface unificada para um conjunto de interfaces em um subsistema. _Facade_ define uma interface de nível mais alto que torna o subsistema mais fácil de ser usado.
+
+Do GoF:
+> _Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use._
