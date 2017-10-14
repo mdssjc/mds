@@ -6,6 +6,8 @@
 
 * [**Ordene, não peça!**](http://wiki.c2.com/?TellDontAsk "Tell, don't ask!") - _Tell, don't ask!_: peça o produto da informação ao elemento de programação na qual é dono da informação - reduza os acoplamentos, priorizando o encapsulamento.
 
+  Técnica para refatoração: redirecionamento e delegação
+
 * [**Princípio do Mínimo Conhecimento**](http://wiki.c2.com/?LawOfDemeter "Principle of Least Knowledge") - _Principle of Least Knowledge_: também conhecido por _Law of Demeter_ (1988) ou _Don't Talk to Strangers_, fale somente com seus amigos imediatos:
 
   1. O elemento em si;
