@@ -68,7 +68,7 @@ Do GoF:
 
 O padrão _Decorator_ anexa dinamicamente responsabilidades adicionais a um objeto. Os _Decorators_ fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
 
-Conhecido por: _Wrapper_.
+Conhecido como: _Wrapper_.
 
 Do GoF:
 > _Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality._
@@ -77,7 +77,16 @@ Do GoF:
 
 O padrão _Factory Method_ define uma interface para criar um objeto, mas deixa as subclasses decidirem que classe instanciar. O _Factory Method_ permite adiar a instanciação para subclasse.
 
-Conhecido por: _Virtual Constructor_.
+Conhecido como: _Virtual Constructor_.
 
 Do GoF:
 > _Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses._
+
+### Abstract Factory
+
+O padrão _Abstract Factory_ prove uma interface para criar uma família de objetos relacionados ou dependentes sem especificar suas classes concretas.
+
+Conhecido como: _Kit_.
+
+do GoF:
+> _Provide an interface for creating families of related or dependent objects without specifying their concrete classes._
