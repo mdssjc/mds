@@ -97,3 +97,12 @@ O padrão _Singleton_ garante que uma classe tenha somente uma instância e forn
 
 Do GoF:
 > _Ensure a class only has one instance, and provide a global point of access to it._
+
+### Command
+
+O padrão _Command_ encapsula uma solicitação como um objeto, desta forma permitindo parametrizar clientes em diferentes solicitações, enfileira ou faz registro (_log_) de solicitações e suporta operações que podem ser desfeitos.
+
+Conhecido como: _Action_, _Transaction_.
+
+Do GoF:
+> _Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations._
