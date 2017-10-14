@@ -88,5 +88,12 @@ O padrão _Abstract Factory_ prove uma interface para criar uma família de obje
 
 Conhecido como: _Kit_.
 
-do GoF:
+Do GoF:
 > _Provide an interface for creating families of related or dependent objects without specifying their concrete classes._
+
+### Singleton
+
+O padrão _Singleton_ garante que uma classe tenha somente uma instância e forneça um ponto global de acesso para a mesma.
+
+Do GoF:
+> _Ensure a class only has one instance, and provide a global point of access to it._
