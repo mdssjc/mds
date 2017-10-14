@@ -106,3 +106,12 @@ Conhecido como: _Action_, _Transaction_.
 
 Do GoF:
 > _Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations._
+
+### Adapter
+
+O padrão _Adapter_ converte a interface de uma classe em outra interface, esperada pelos clientes. O _Adapter_ permite que classes com interfaces incompatíveis trabalhem em conjunto - o que de outra foram seria impossível.
+
+Conhecido como: _Wrapper_.
+
+Do GoF:
+> _Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces._
