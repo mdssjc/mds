@@ -118,7 +118,14 @@ Do GoF:
 
 ### Facade
 
-O padrão _Facade_ Fornece uma interface unificada para um conjunto de interfaces em um subsistema. _Facade_ define uma interface de nível mais alto que torna o subsistema mais fácil de ser usado.
+O padrão _Facade_ fornece uma interface unificada para um conjunto de interfaces em um subsistema. _Facade_ define uma interface de nível mais alto que torna o subsistema mais fácil de ser usado.
 
 Do GoF:
 > _Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use._
+
+### Template Method
+
+O padrão _Template Method_ define o esqueleto de um algoritmo em uma operação, postergando alguns passos para as subclasses. _Template Method_ permite que subclasses redefinam certos passos de um algoritmo sem mudar a estrutura do mesmo.
+
+Do GoF:
+> _Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure._
