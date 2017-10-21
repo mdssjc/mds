@@ -138,3 +138,10 @@ Conhecido como: _Cursor_.
 
 Do GoF:
 > _Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation._
+
+### Composite
+
+O padrão _Composite_ compõe objetos em estruturas de árvore para representarem hierarquias parte-todo. _Composite_ permite aos clientes tratarem de maneira uniforme objetos individuais e composições de objetos.
+
+Do GoF:
+> _Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly._
