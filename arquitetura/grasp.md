@@ -56,11 +56,11 @@ O acrônimo GRASP - _General Responsibility Assignment Software Patterns_ aprese
 
   Solução: Quando alternativas ou comportamentos relacionados variam por tipo, atribua a responsabilidade para o comportamento usando operações polimórficas para os tipos pela qual o comportamento varie.
 
-  Tipo: _Generics_.
+  Paramétrico: cria um espaço reservado - _placeholder_ para o tipo. Exemplo de recurso: Genéricos - _Generics_.
 
-  Subtipo: Herança (Estático - Tempo de Compilação, _Compile time_) / Composição e Delegação (Dinâmico - Tempo de Execução, _Runtime_).
+  _Ad hoc_: cria um espaço reservado - _placeholder_ para o tipo, porém com restrição de tipo em tempo de compilação - _compile time_. Exemplos de recursos: _Overload_ (Estático) / _Override_ (Dinâmico) - _Dynamic Dispatch_, _Late Binding_ ou _Virtual Method Call_/_Invocation_.
 
-  Parâmetro: _Ad hoc_, _Overload_ (Estático - Tempo de Compilação, _Compile time_) ou _Override_ (Dinâmico - Tempo de Execução, _Runtime_) - _Dynamic Dispatch_, _Late Binding_ ou _Virtual Method Call_/_Invocation_.
+  Subtipo: cria um espaço reservado - _placeholder_ para o tipo, porém com restrição de tipo em tempo de execução - _runtime_. Exemplos de recursos: Herança (Estático) / Composição e Delegação (Dinâmico).
 
 * **Fabricação/Invenção Pura** - _Pure Fabrication_: atribuição da responsabilidade de decomposição representacional e comportamental do domínio.
 
