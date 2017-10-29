@@ -145,3 +145,12 @@ O padrão _Composite_ compõe objetos em estruturas de árvore para representare
 
 Do GoF:
 > _Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly._
+
+### State
+
+O padrão _State_ permite a um objeto alterar seu comportamento quando o seu estado interno muda. O objeto parecerá ter mudado sua classe.
+
+Conhecido como: _Objects for States_.
+
+Do GoF:
+> _Allow an object to alter its behavior when its internal state changes. The object will appear to change its class._
