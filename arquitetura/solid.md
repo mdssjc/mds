@@ -78,8 +78,8 @@ O _____  _____ para ele mesmo.
   e requisitos de comportamento:
 
   * invariante: qualquer predicado deve ser preservado em um subtipo;
-  * pré-condição: uma condição ou predicado não pode ser mais forte em um subtipo, porém pode ser mais fraca; e
-  * pós-condição: uma condição ou predicado não pode ser mais fraca em um subtipo, porém pode ser mais forte.
+  * pré-condição: uma condição ou predicado não pode ser mais forte em um subtipo, porém pode ser mais fraca - onde o supertipo funcionava, o subtipo deveria também; e
+  * pós-condição: uma condição ou predicado não pode ser mais fraca em um subtipo, porém pode ser mais forte - onde o supertipo causou um efeito, então o subtipo deveria também.
 
   Dois problemas comuns são: primeiro, qualquer modificação no tipo afeta todos os subtipos; e segundo, os subtipos evoluem com proposta diferente do tipo.
 
