@@ -46,6 +46,35 @@ Relacionamento entre padrões:
 
 ## Padrões
 
+### Criação
+
+#### Abstract Factory
+
+O padrão _Abstract Factory_ prove uma interface para criar uma família de objetos relacionados ou dependentes sem especificar suas classes concretas.
+
+Conhecido como: _Kit_.
+
+Do GoF:
+> _Provide an interface for creating families of related or dependent objects without specifying their concrete classes._
+
+#### Builder
+
+O padrão _Builder_ separa a construção de um objeto complexo da sua representação de modo que o mesmo processo de construção possa criar diferentes representações.
+
+Do GoF:
+> _Separate the construction of a complex object from its representation so that the same construction process can create different representations._
+
+#### Factory Method
+
+O padrão _Factory Method_ define uma interface para criar um objeto, mas deixa as subclasses decidirem que classe instanciar. O _Factory Method_ permite adiar a instanciação para subclasse.
+
+Conhecido como: _Virtual Constructor_.
+
+Do GoF:
+> _Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses._
+
+-------------------------------------------------------------------------------
+
 ### Strategy
 
 O padrão _Strategy_ define uma família de algoritmos, encapsula cada uma delas e torná-las intercambiáveis. _Strategy_ permite que o algoritmo varie independentemente dos clientes que o utilizam.
@@ -72,24 +101,6 @@ Conhecido como: _Wrapper_.
 
 Do GoF:
 > _Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality._
-
-### Factory Method
-
-O padrão _Factory Method_ define uma interface para criar um objeto, mas deixa as subclasses decidirem que classe instanciar. O _Factory Method_ permite adiar a instanciação para subclasse.
-
-Conhecido como: _Virtual Constructor_.
-
-Do GoF:
-> _Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses._
-
-### Abstract Factory
-
-O padrão _Abstract Factory_ prove uma interface para criar uma família de objetos relacionados ou dependentes sem especificar suas classes concretas.
-
-Conhecido como: _Kit_.
-
-Do GoF:
-> _Provide an interface for creating families of related or dependent objects without specifying their concrete classes._
 
 ### Singleton
 
