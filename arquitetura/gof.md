@@ -73,6 +73,13 @@ Conhecido como: _Virtual Constructor_.
 Do GoF:
 > _Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses._
 
+#### Prototype
+
+O padrão _Prototype_ especifica os tipos de objetos a serem criados usando uma instância-protótipo e cria novos objetos pela cópia desse protótipo.
+
+Do GoF:
+> _Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype._
+
 -------------------------------------------------------------------------------
 
 ### Strategy
