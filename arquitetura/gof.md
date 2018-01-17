@@ -80,7 +80,7 @@ O padrão _Prototype_ especifica os tipos de objetos a serem criados usando uma 
 Do GoF:
 > _Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype._
 
-### Singleton
+#### Singleton
 
 O padrão _Singleton_ garante que uma classe tenha somente uma instância e forneça um ponto global de acesso para a mesma.
 
