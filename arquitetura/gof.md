@@ -80,6 +80,13 @@ O padrão _Prototype_ especifica os tipos de objetos a serem criados usando uma 
 Do GoF:
 > _Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype._
 
+### Singleton
+
+O padrão _Singleton_ garante que uma classe tenha somente uma instância e forneça um ponto global de acesso para a mesma.
+
+Do GoF:
+> _Ensure a class only has one instance, and provide a global point of access to it._
+
 -------------------------------------------------------------------------------
 
 ### Strategy
@@ -108,13 +115,6 @@ Conhecido como: _Wrapper_.
 
 Do GoF:
 > _Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality._
-
-### Singleton
-
-O padrão _Singleton_ garante que uma classe tenha somente uma instância e forneça um ponto global de acesso para a mesma.
-
-Do GoF:
-> _Ensure a class only has one instance, and provide a global point of access to it._
 
 ### Command
 
