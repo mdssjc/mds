@@ -14,7 +14,7 @@ Classificação segundo GoF:
 
  |            |            |                  | **Propósito**    |                         |
  |------------|------------|------------------|------------------|-------------------------|
- |            |            | **Criação**      | **Estrutura**    | **Comportamento**       |
+ |            |            | **Criação**      | **Estrutural**   | **Comportamento**       |
  |            |            | _Creational_     | _Structural_     | _Behavioral_            |
  |------------|------------|------------------|------------------|-------------------------|
  | **Escopo** | **Classe** | Factory Method   | Adapter (Class)  | Interpreter             |
@@ -86,6 +86,8 @@ O padrão _Singleton_ garante que uma classe tenha somente uma instância e forn
 
 Do GoF:
 > _Ensure a class only has one instance, and provide a global point of access to it._
+
+### Estrutural
 
 -------------------------------------------------------------------------------
 
