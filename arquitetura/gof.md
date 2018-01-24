@@ -89,6 +89,47 @@ Do GoF:
 
 ### Estrutural
 
+#### Adapter
+
+O padrão _Adapter_ converte a interface de uma classe em outra interface, esperada pelos clientes. O _Adapter_ permite que classes com interfaces incompatíveis trabalhem em conjunto - o que de outra foram seria impossível.
+
+Conhecido como: _Wrapper_.
+
+Do GoF:
+> _Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces._
+
+#### Bridge
+
+O padrão _Bridge_ desacopla uma abstração da sua implementação, de modo que as duas possam variar independentemente.
+
+Conhecido como: _Handle/Body_.
+
+Do GoF:
+> _Decouple an abstraction from its implementation so that the two can vary independently._
+
+#### Composite
+
+O padrão _Composite_ compõe objetos em estruturas de árvore para representarem hierarquias parte-todo. _Composite_ permite aos clientes tratarem de maneira uniforme objetos individuais e composições de objetos.
+
+Do GoF:
+> _Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly._
+
+#### Decorator
+
+O padrão _Decorator_ anexa dinamicamente responsabilidades adicionais a um objeto. Os _Decorators_ fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
+
+Conhecido como: _Wrapper_.
+
+Do GoF:
+> _Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality._
+
+#### Facade
+
+O padrão _Facade_ fornece uma interface unificada para um conjunto de interfaces em um subsistema. _Facade_ define uma interface de nível mais alto que torna o subsistema mais fácil de ser usado.
+
+Do GoF:
+> _Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use._
+
 -------------------------------------------------------------------------------
 
 ### Strategy
@@ -109,15 +150,6 @@ Conhecido como: _Dependents_, _Publish-Subscribe_.
 Do GoF:
 > _Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically._
 
-### Decorator
-
-O padrão _Decorator_ anexa dinamicamente responsabilidades adicionais a um objeto. Os _Decorators_ fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
-
-Conhecido como: _Wrapper_.
-
-Do GoF:
-> _Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality._
-
 ### Command
 
 O padrão _Command_ encapsula uma solicitação como um objeto, desta forma permitindo parametrizar clientes em diferentes solicitações, enfileira ou faz registro (_log_) de solicitações e suporta operações que podem ser desfeitos.
@@ -126,22 +158,6 @@ Conhecido como: _Action_, _Transaction_.
 
 Do GoF:
 > _Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations._
-
-### Adapter
-
-O padrão _Adapter_ converte a interface de uma classe em outra interface, esperada pelos clientes. O _Adapter_ permite que classes com interfaces incompatíveis trabalhem em conjunto - o que de outra foram seria impossível.
-
-Conhecido como: _Wrapper_.
-
-Do GoF:
-> _Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces._
-
-### Facade
-
-O padrão _Facade_ fornece uma interface unificada para um conjunto de interfaces em um subsistema. _Facade_ define uma interface de nível mais alto que torna o subsistema mais fácil de ser usado.
-
-Do GoF:
-> _Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use._
 
 ### Template Method
 
@@ -158,13 +174,6 @@ Conhecido como: _Cursor_.
 
 Do GoF:
 > _Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation._
-
-### Composite
-
-O padrão _Composite_ compõe objetos em estruturas de árvore para representarem hierarquias parte-todo. _Composite_ permite aos clientes tratarem de maneira uniforme objetos individuais e composições de objetos.
-
-Do GoF:
-> _Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly._
 
 ### State
 
