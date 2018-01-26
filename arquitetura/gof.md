@@ -130,6 +130,13 @@ O padrão _Facade_ fornece uma interface unificada para um conjunto de interface
 Do GoF:
 > _Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use._
 
+#### Flyweight
+
+O padrão _Flyweight_ usa compartilhamento para suportar eficientemente grandes quantidades de objetos de granularidade fina.
+
+Do GoF:
+> _Use sharing to support large numbers of fine-grained objects efficiently._
+
 -------------------------------------------------------------------------------
 
 ### Strategy
