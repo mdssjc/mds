@@ -148,7 +148,6 @@ Do GoF:
 
 Tipos: _Remote_, _Virtual_, _Protection_, _Smart Reference_, _Firewall_, _Caching_, _Synchronization_, _Complexity Hiding_ e _Copy-On-Write_.
 
-
 -------------------------------------------------------------------------------
 
 ### Strategy
