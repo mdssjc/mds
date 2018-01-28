@@ -137,6 +137,18 @@ O padrão _Flyweight_ usa compartilhamento para suportar eficientemente grandes 
 Do GoF:
 > _Use sharing to support large numbers of fine-grained objects efficiently._
 
+#### Proxy
+
+O padrão _Proxy_ fornece um substituto ou marcador da localização de outro objeto para controlar o acesso a esse objeto.
+
+Conhecido como: _Surrogate_.
+
+Do GoF:
+> _Provide a surrogate or placeholder for another object to control access to it._
+
+Tipos: _Remote_, _Virtual_, _Protection_, _Smart Reference_, _Firewall_, _Caching_, _Synchronization_, _Complexity Hiding_ e _Copy-On-Write_.
+
+
 -------------------------------------------------------------------------------
 
 ### Strategy
@@ -190,14 +202,3 @@ Conhecido como: _Objects for States_.
 
 Do GoF:
 > _Allow an object to alter its behavior when its internal state changes. The object will appear to change its class._
-
-### Proxy
-
-O padrão _Proxy_ fornece um substituto ou marcador da localização de outro objeto para controlar o acesso a esse objeto.
-
-Conhecido como: _Surrogate_.
-
-Do GoF:
-> _Provide a surrogate or placeholder for another object to control access to it._
-
-Tipos: _Remote_, _Virtual_, _Protection_, _Firewall_, _Smart Reference_, _Caching_, _Synchronization_, _Complexity Hiding_ e _Copy-On-Write_.
