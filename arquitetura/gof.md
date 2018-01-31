@@ -157,6 +157,15 @@ O padrão _Chain of Responsibility_ evita o acoplamento do remetente de uma soli
 Do GoF:
 > _Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it._
 
+#### Command
+
+O padrão _Command_ encapsula uma solicitação como um objeto, desta forma permitindo parametrizar clientes em diferentes solicitações, enfileira ou faz registro (_log_) de solicitações e suporta operações que podem ser desfeitos.
+
+Conhecido como: _Action_, _Transaction_.
+
+Do GoF:
+> _Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations._
+
 -------------------------------------------------------------------------------
 
 ### Strategy
@@ -176,15 +185,6 @@ Conhecido como: _Dependents_, _Publish-Subscribe_.
 
 Do GoF:
 > _Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically._
-
-### Command
-
-O padrão _Command_ encapsula uma solicitação como um objeto, desta forma permitindo parametrizar clientes em diferentes solicitações, enfileira ou faz registro (_log_) de solicitações e suporta operações que podem ser desfeitos.
-
-Conhecido como: _Action_, _Transaction_.
-
-Do GoF:
-> _Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations._
 
 ### Template Method
 
