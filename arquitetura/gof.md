@@ -148,6 +148,15 @@ Do GoF:
 
 Tipos: _Remote_, _Virtual_, _Protection_, _Smart Reference_, _Firewall_, _Caching_, _Synchronization_, _Complexity Hiding_ e _Copy-On-Write_.
 
+### Comportamento
+
+#### Chain of Responsibility
+
+O padrão _Chain of Responsibility_ evita o acoplamento do remetente de uma solicitação ao seu receptor, ao dar a mais de um objeto a oportunidade de tratar a solicitação. Encadea os objetos receptores, passando a solicitação ao longo da cadeia até que um objeto a trate.
+
+Do GoF:
+> _Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it._
+
 -------------------------------------------------------------------------------
 
 ### Strategy
