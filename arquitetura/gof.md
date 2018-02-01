@@ -166,6 +166,13 @@ Conhecido como: _Action_, _Transaction_.
 Do GoF:
 > _Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations._
 
+#### Interpreter
+
+O padrão _Interpreter_, dada uma linguagem, define uma representação para a sua gramática juntamente com um interpretador que usa a representação para interpretar sentenças dessa linguagem.
+
+Do GoF:
+> _Given a language, define a represention for its grammar along with an interpreter that uses the representation to interpret sentences in the language._
+
 -------------------------------------------------------------------------------
 
 ### Strategy
