@@ -89,7 +89,7 @@ Do GoF:
 
 ### Estrutural
 
-#### Adapter
+#### [Adapter](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/adapter "Adapter")
 
 O padrão _Adapter_ converte a interface de uma classe em outra interface, esperada pelos clientes. O _Adapter_ permite que classes com interfaces incompatíveis trabalhem em conjunto - o que de outra foram seria impossível.
 
@@ -173,6 +173,15 @@ O padrão _Interpreter_, dada uma linguagem, define uma representação para a s
 Do GoF:
 > _Given a language, define a represention for its grammar along with an interpreter that uses the representation to interpret sentences in the language._
 
+#### Iterator
+
+O padrão _Iterator_ fornece meios de acessar, sequencialmente, os elementos de um objeto agregado sem expor a sua representação subjacente.
+
+Conhecido como: _Cursor_.
+
+Do GoF:
+> _Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation._
+
 -------------------------------------------------------------------------------
 
 ### Strategy
@@ -199,15 +208,6 @@ O padrão _Template Method_ define o esqueleto de um algoritmo em uma operação
 
 Do GoF:
 > _Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure._
-
-### Iterator
-
-O padrão _Iterator_ fornece meios de acessar, sequencialmente, os elementos de um objeto agregado sem expor a sua representação subjacente.
-
-Conhecido como: _Cursor_.
-
-Do GoF:
-> _Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation._
 
 ### State
 
