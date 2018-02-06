@@ -182,6 +182,13 @@ Conhecido como: _Cursor_.
 Do GoF:
 > _Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation._
 
+#### Mediator
+
+O padrão _Mediator_ define um objeto que encapsula a forma como um conjunto de objetos interage. O _Mediator_ promove o acomplamento fraco ao evitar que os objetos se refiram uns aos outros explicitamente e permite variar suas interações independentemente.
+
+Do GoF:
+> _Define an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently._
+
 -------------------------------------------------------------------------------
 
 ### Strategy
