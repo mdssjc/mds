@@ -189,6 +189,15 @@ O padrão _Mediator_ define um objeto que encapsula a forma como um conjunto de 
 Do GoF:
 > _Define an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently._
 
+#### Memento
+
+O padrão _Memento_, sem violar o encapsulamento, captura e externaliza um estado interno de um objeto, de maneiras que o objeto possa ser restaurado para esse estado mais tarde.
+
+Conhecido como: _Token_.
+
+Do GoF:
+> _Without violating encapsulation, capture and externalize an object's internal state so that the object can be restored to this state later._
+
 -------------------------------------------------------------------------------
 
 ### Strategy
