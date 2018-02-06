@@ -198,6 +198,15 @@ Conhecido como: _Token_.
 Do GoF:
 > _Without violating encapsulation, capture and externalize an object's internal state so that the object can be restored to this state later._
 
+#### Observer
+
+O padrão _Observer_ define uma dependência um-para-muitos entre objetos, de maneira que quando um objeto muda de estado, todos os seus dependentes são notificados e atualizados automaticamente.
+
+Conhecido como: _Dependents_, _Publish-Subscribe_.
+
+Do GoF:
+> _Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically._
+
 -------------------------------------------------------------------------------
 
 ### Strategy
@@ -208,15 +217,6 @@ Conhecido como: _Policy_.
 
 Do GoF:
 > _Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it._
-
-### Observer
-
-O padrão _Observer_ define uma dependência um-para-muitos entre objetos, de maneira que quando um objeto muda de estado todos os seus dependentes são notificados e atualizados automaticamente.
-
-Conhecido como: _Dependents_, _Publish-Subscribe_.
-
-Do GoF:
-> _Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically._
 
 ### Template Method
 
