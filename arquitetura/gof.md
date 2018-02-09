@@ -207,9 +207,16 @@ Conhecido como: _Dependents_, _Publish-Subscribe_.
 Do GoF:
 > _Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically._
 
--------------------------------------------------------------------------------
+#### State
 
-### Strategy
+O padrão _State_ permite a um objeto alterar seu comportamento quando o seu estado interno muda. O objeto parecerá ter mudado sua classe.
+
+Conhecido como: _Objects for States_.
+
+Do GoF:
+> _Allow an object to alter its behavior when its internal state changes. The object will appear to change its class._
+
+#### Strategy
 
 O padrão _Strategy_ define uma família de algoritmos, encapsula cada uma delas e torná-las intercambiáveis. _Strategy_ permite que o algoritmo varie independentemente dos clientes que o utilizam.
 
@@ -218,18 +225,10 @@ Conhecido como: _Policy_.
 Do GoF:
 > _Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it._
 
-### Template Method
+#### Template Method
 
 O padrão _Template Method_ define o esqueleto de um algoritmo em uma operação, postergando alguns passos para as subclasses. _Template Method_ permite que subclasses redefinam certos passos de um algoritmo sem mudar a estrutura do mesmo.
 
 Do GoF:
 > _Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure._
 
-### State
-
-O padrão _State_ permite a um objeto alterar seu comportamento quando o seu estado interno muda. O objeto parecerá ter mudado sua classe.
-
-Conhecido como: _Objects for States_.
-
-Do GoF:
-> _Allow an object to alter its behavior when its internal state changes. The object will appear to change its class._
