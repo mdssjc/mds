@@ -231,4 +231,3 @@ O padrão _Template Method_ define o esqueleto de um algoritmo em uma operação
 
 Do GoF:
 > _Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure._
-
