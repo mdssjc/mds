@@ -231,3 +231,10 @@ O padrão _Template Method_ define o esqueleto de um algoritmo em uma operação
 
 Do GoF:
 > _Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure._
+
+#### Visitor
+
+O padrão _Visitor_ representa uma operação a ser executada nos elementos de uma estrutura de objetos. _Visitor_ permite definir uma nova operação sem mudar as classes dos elementos sobre os quais opera.
+
+Do GoF:
+> _Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates._
