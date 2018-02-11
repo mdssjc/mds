@@ -1,7 +1,6 @@
 # GoF
 
-O acrônimo GoF - _Gang of Four_ apresentado no livro _Design Patterns_ dos autores _Erich Gamma_,
- _John Vlissides_, _Ralph Jonhson_ e _Richard Helm_ explana um catálogo de 23 genéricas soluções para o desenvolvimento de _software_ no paradigma orientado a objetos.
+O acrônimo GoF - _Gang of Four_ apresentado no livro _Design Patterns: Elements of Reusable Object-Oriented Software_ dos autores _Erich Gamma_, _John Vlissides_, _Ralph Jonhson_ e _Richard Helm_ explana um catálogo de 23 genéricas soluções para o desenvolvimento de _software_ no paradigma orientado a objetos.
 
 Os _Design Patterns_ do livro são: "_descrições de objetos e classes comunicantes que precisam ser personalizadas para resolver um problema geral de projeto num contexto particular_".
 
@@ -238,3 +237,7 @@ O padrão _Visitor_ representa uma operação a ser executada nos elementos de u
 
 Do GoF:
 > _Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates._
+
+## Mais...
+
+* [Refcardz](https://dzone.com/refcardz/design-patterns)
