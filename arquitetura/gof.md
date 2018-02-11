@@ -241,3 +241,5 @@ Do GoF:
 ## Mais...
 
 * [Refcardz](https://dzone.com/refcardz/design-patterns)
+* [Vincehuston](http://www.vincehuston.org/dp)
+* [SourceMaking](https://sourcemaking.com/design_patterns)
