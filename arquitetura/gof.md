@@ -1,8 +1,16 @@
 # GoF
 
-O acrônimo GoF - _Gang of Four_ apresentado no livro _Design Patterns: Elements of Reusable Object-Oriented Software_ dos autores _Erich Gamma_, _John Vlissides_, _Ralph Jonhson_ e _Richard Helm_ explana um catálogo de 23 genéricas soluções para o desenvolvimento de _software_ no paradigma orientado a objetos.
+O acrônimo GoF - _Gang of Four_ refere-se aos autores do primeiro livro sobre
+padrões em _software_ - _Design Patterns: Elements of Reusable Object-Oriented
+Software_ dos autores _Erich Gamma_, _John Vlissides_, _Ralph Jonhson_ e
+_Richard Helm_ em que explanam um catálogo de 23 genéricas soluções para o
+desenvolvimento de _software_ no paradigma orientado a objetos, a obra traz a
+ideia do trabalho de _Christopher Alexander_ em seu livro sobre arquitetura
+urbana - _A Pattern Language: Towns, Buildings, Construction_.
 
-Os _Design Patterns_ do livro são: "_descrições de objetos e classes comunicantes que precisam ser personalizadas para resolver um problema geral de projeto num contexto particular_".
+Os _Design Patterns_ do livro são: "_descrições de objetos e classes
+comunicantes que precisam ser personalizadas para resolver um problema geral de
+projeto num contexto particular_".
 
 Os princípios por trás dos padrões estão:
 
