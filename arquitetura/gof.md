@@ -17,6 +17,8 @@ Os princípios por trás dos padrões estão:
 * **Programe para uma interface, não para uma implementação** - _Program to an interface, not to an implementation_: introduzido no livro do GoF, recomenda o uso de abstrações como ponto de acesso entre elementos de programação.
 * **Prefira a composição de objeto à herança de classe** - _Favor object composition over class inheritance_: introduzido no livro do GoF, recomenda o uso de composição à herança na construção elementos de programação.
 
+## Classificação
+
 Classificação segundo GoF:
 
  |            |            |                  | **Propósito**    |                         |
@@ -47,6 +49,8 @@ Classificação segundo _Metsker_:
 | 4. Operações        | Template Method, State, Strategy, Command, Interpreter                   |
 | 5. Extensões        | Decorator, Iterator, Visitor                                             |
 
+## Relacionamento
+
 Relacionamento entre padrões:
 
 ![Relacionamento entre padrões](../images/arquitetura-gof-relationships.png "Relacionamento entre padrões")
@@ -66,12 +70,16 @@ Do GoF:
 
 #### Builder
 
+[**CODE**](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/creational/builder)
+
 O padrão _Builder_ separa a construção de um objeto complexo da sua representação de modo que o mesmo processo de construção possa criar diferentes representações.
 
 Do GoF:
 > _Separate the construction of a complex object from its representation so that the same construction process can create different representations._
 
 #### Factory Method
+
+[**CODE**](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/creational/factory_method)
 
 O padrão _Factory Method_ define uma interface para criar um objeto, mas deixa as subclasses decidirem que classe instanciar. O _Factory Method_ permite adiar a instanciação para subclasse.
 
@@ -251,3 +259,4 @@ Do GoF:
 * [Refcardz](https://dzone.com/refcardz/design-patterns)
 * [Vincehuston](http://www.vincehuston.org/dp)
 * [SourceMaking](https://sourcemaking.com/design_patterns)
+* [Refactoring.Guru](https://refactoring.guru/design-patterns)
