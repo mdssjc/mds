@@ -61,6 +61,8 @@ Relacionamento entre padrões:
 
 #### Abstract Factory
 
+[**CODE**](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/creational/abstract_factory)
+
 O padrão _Abstract Factory_ prove uma interface para criar uma família de objetos relacionados ou dependentes sem especificar suas classes concretas.
 
 Conhecido como: _Kit_.
@@ -90,12 +92,16 @@ Do GoF:
 
 #### Prototype
 
+[**CODE**](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/creational/prototype)
+
 O padrão _Prototype_ especifica os tipos de objetos a serem criados usando uma instância-protótipo e cria novos objetos pela cópia desse protótipo.
 
 Do GoF:
 > _Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype._
 
 #### Singleton
+
+[**CODE**](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/creational/singleton)
 
 O padrão _Singleton_ garante que uma classe tenha somente uma instância e forneça um ponto global de acesso para a mesma.
 
