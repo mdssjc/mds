@@ -187,12 +187,16 @@ Tipos: _Remote_, _Virtual_, _Protection_, _Smart Reference_, _Firewall_, _Cachin
 
 #### Chain of Responsibility
 
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/chain_of_responsibility)
+
 O padrão _Chain of Responsibility_ evita o acoplamento do remetente de uma solicitação ao seu receptor, ao dar a mais de um objeto a oportunidade de tratar a solicitação. Encadea os objetos receptores, passando a solicitação ao longo da cadeia até que um objeto a trate.
 
 Do GoF:
 > _Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it._
 
 #### Command
+
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/command)
 
 O padrão _Command_ encapsula uma solicitação como um objeto, desta forma permitindo parametrizar clientes em diferentes solicitações, enfileira ou faz registro (_log_) de solicitações e suporta operações que podem ser desfeitos.
 
@@ -203,12 +207,16 @@ Do GoF:
 
 #### Interpreter
 
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/interpreter)
+
 O padrão _Interpreter_, dada uma linguagem, define uma representação para a sua gramática juntamente com um interpretador que usa a representação para interpretar sentenças dessa linguagem.
 
 Do GoF:
 > _Given a language, define a represention for its grammar along with an interpreter that uses the representation to interpret sentences in the language._
 
 #### Iterator
+
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/iterator)
 
 O padrão _Iterator_ fornece meios de acessar, sequencialmente, os elementos de um objeto agregado sem expor a sua representação subjacente.
 
@@ -219,12 +227,16 @@ Do GoF:
 
 #### Mediator
 
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/mediator)
+
 O padrão _Mediator_ define um objeto que encapsula a forma como um conjunto de objetos interage. O _Mediator_ promove o acomplamento fraco ao evitar que os objetos se refiram uns aos outros explicitamente e permite variar suas interações independentemente.
 
 Do GoF:
 > _Define an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently._
 
 #### Memento
+
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/memento)
 
 O padrão _Memento_, sem violar o encapsulamento, captura e externaliza um estado interno de um objeto, de maneiras que o objeto possa ser restaurado para esse estado mais tarde.
 
@@ -235,6 +247,8 @@ Do GoF:
 
 #### Observer
 
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/observer)
+
 O padrão _Observer_ define uma dependência um-para-muitos entre objetos, de maneira que quando um objeto muda de estado, todos os seus dependentes são notificados e atualizados automaticamente.
 
 Conhecido como: _Dependents_, _Publish-Subscribe_.
@@ -243,6 +257,8 @@ Do GoF:
 > _Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically._
 
 #### State
+
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/state)
 
 O padrão _State_ permite a um objeto alterar seu comportamento quando o seu estado interno muda. O objeto parecerá ter mudado sua classe.
 
@@ -253,6 +269,8 @@ Do GoF:
 
 #### Strategy
 
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/strategy)
+
 O padrão _Strategy_ define uma família de algoritmos, encapsula cada uma delas e torná-las intercambiáveis. _Strategy_ permite que o algoritmo varie independentemente dos clientes que o utilizam.
 
 Conhecido como: _Policy_.
@@ -262,12 +280,16 @@ Do GoF:
 
 #### Template Method
 
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/template_method)
+
 O padrão _Template Method_ define o esqueleto de um algoritmo em uma operação, postergando alguns passos para as subclasses. _Template Method_ permite que subclasses redefinam certos passos de um algoritmo sem mudar a estrutura do mesmo.
 
 Do GoF:
 > _Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure._
 
 #### Visitor
+
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/visitor)
 
 O padrão _Visitor_ representa uma operação a ser executada nos elementos de uma estrutura de objetos. _Visitor_ permite definir uma nova operação sem mudar as classes dos elementos sobre os quais opera.
 
