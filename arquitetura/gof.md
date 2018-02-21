@@ -181,7 +181,7 @@ Conhecido como: _Surrogate_.
 Do GoF:
 > _Provide a surrogate or placeholder for another object to control access to it._
 
-Tipos: _Remote_, _Virtual_, _Protection_, _Smart Reference_, _Firewall_, _Caching_, _Synchronization_, _Complexity Hiding_ e _Copy-On-Write_.
+Tipos: _Remote_, _Virtual_, _Protection_, _Smart Reference_, _Firewall_, _Caching_, _Synchronization_, _Complexity Hiding_, _Copy-On-Write_ e _Logging_.
 
 ### Comportamento
 
