@@ -110,7 +110,9 @@ Do GoF:
 
 ### Estrutural
 
-#### [Adapter](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/adapter "Adapter")
+#### Adapter
+
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/adapter)
 
 O padrão _Adapter_ converte a interface de uma classe em outra interface, esperada pelos clientes. O _Adapter_ permite que classes com interfaces incompatíveis trabalhem em conjunto - o que de outra foram seria impossível.
 
@@ -121,6 +123,8 @@ Do GoF:
 
 #### Bridge
 
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/bridge)
+
 O padrão _Bridge_ desacopla uma abstração da sua implementação, de modo que as duas possam variar independentemente.
 
 Conhecido como: _Handle/Body_.
@@ -130,12 +134,16 @@ Do GoF:
 
 #### Composite
 
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/composite)
+
 O padrão _Composite_ compõe objetos em estruturas de árvore para representarem hierarquias parte-todo. _Composite_ permite aos clientes tratarem de maneira uniforme objetos individuais e composições de objetos.
 
 Do GoF:
 > _Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly._
 
 #### Decorator
+
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/decorator)
 
 O padrão _Decorator_ anexa dinamicamente responsabilidades adicionais a um objeto. Os _Decorators_ fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
 
@@ -146,6 +154,8 @@ Do GoF:
 
 #### Facade
 
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/facade)
+
 O padrão _Facade_ fornece uma interface unificada para um conjunto de interfaces em um subsistema. _Facade_ define uma interface de nível mais alto que torna o subsistema mais fácil de ser usado.
 
 Do GoF:
@@ -153,12 +163,16 @@ Do GoF:
 
 #### Flyweight
 
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/flyweight)
+
 O padrão _Flyweight_ usa compartilhamento para suportar eficientemente grandes quantidades de objetos de granularidade fina.
 
 Do GoF:
 > _Use sharing to support large numbers of fine-grained objects efficiently._
 
 #### Proxy
+
+[CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/proxy)
 
 O padrão _Proxy_ fornece um substituto ou marcador da localização de outro objeto para controlar o acesso a esse objeto.
 
