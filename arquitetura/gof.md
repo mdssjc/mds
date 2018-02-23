@@ -92,6 +92,10 @@ Conhecido como: _Virtual Constructor_.
 Do GoF:
 > _Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses._
 
+Características:
+
+* Cria através de herança.
+
 #### Prototype
 
 [**CODE**](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/creational/prototype)
@@ -101,6 +105,10 @@ O padrão _Prototype_ especifica os tipos de objetos a serem criados usando uma 
 Do GoF:
 > _Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype._
 
+Características:
+
+* Cria através de delegação.
+
 #### Singleton
 
 [**CODE**](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/creational/singleton)
@@ -109,6 +117,22 @@ O padrão _Singleton_ garante que uma classe tenha somente uma instância e forn
 
 Do GoF:
 > _Ensure a class only has one instance, and provide a global point of access to it._
+
+Características:
+
+* Pode ser substituído pelo Dependency Injection.
+* DoubleCheckSingleton é um anti-pattern.
+* Objetos podem ser mutáveis.
+* Benefícios:
+  - cross platform;
+  - applicable to any class;
+  - can be created through derivation; and
+  - lazy evaluation.
+* Custos:
+  - destruction is undefined;
+  - not inherited;
+  - efficiency; and
+  - nontransparent.
 
 ### Estrutural
 
