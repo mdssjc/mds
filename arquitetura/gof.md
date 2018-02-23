@@ -59,6 +59,8 @@ Relacionamento entre padrões:
 
 ### Criação
 
+Os padrões de criação focam na eficiência do processo de instanciação.
+
 #### Abstract Factory
 
 [**CODE**](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/creational/abstract_factory)
