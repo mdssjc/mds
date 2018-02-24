@@ -213,6 +213,8 @@ Tipos: _Remote_, _Virtual_, _Protection_, _Smart Reference_, _Firewall_, _Cachin
 
 ### Comportamento
 
+Os padrões de comportamento focam na comunicação entre elementos de programação.
+
 #### Chain of Responsibility
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/chain_of_responsibility)
