@@ -136,7 +136,8 @@ Características:
 
 ### Estrutural
 
-Os padrões estrutural focam na composição e no relacionamento entre classes.
+Os padrões estrutural focam na composição e no relacionamento entre elementos de
+programação.
 
 #### Adapter
 
