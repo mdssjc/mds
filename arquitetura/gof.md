@@ -136,6 +136,8 @@ Características:
 
 ### Estrutural
 
+Os padrões estrutural focam na composição e no relacionamento entre classes.
+
 #### Adapter
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/adapter)
