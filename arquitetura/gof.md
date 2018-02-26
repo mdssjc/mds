@@ -57,6 +57,9 @@ Relacionamento entre padrões:
 
 ## Padrões
 
+Os padrões do GoF focam nos aspectos de criação, estrutural e comportamento dos
+elementos de programação.
+
 ### Criação
 
 Os padrões de criação focam na eficiência do processo de instanciação.
