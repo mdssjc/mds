@@ -14,8 +14,12 @@ projeto num contexto particular_".
 
 Os princípios por trás dos padrões estão:
 
-* **Programe para uma interface, não para uma implementação** - _Program to an interface, not to an implementation_: introduzido no livro do GoF, recomenda o uso de abstrações como ponto de acesso entre elementos de programação.
-* **Prefira a composição de objeto à herança de classe** - _Favor object composition over class inheritance_: introduzido no livro do GoF, recomenda o uso de composição à herança na construção elementos de programação.
+* **Programe para uma interface, não para uma implementação** - _Program to an
+  interface, not to an implementation_: introduzido no livro do GoF, recomenda o
+  uso de abstrações como ponto de acesso entre elementos de programação.
+* **Prefira a composição de objeto à herança de classe** - _Favor object
+  composition over class inheritance_: introduzido no livro do GoF, recomenda o
+  uso de composição à herança na construção elementos de programação.
 
 ## Classificação
 
@@ -53,7 +57,8 @@ Classificação segundo _Metsker_:
 
 Relacionamento entre padrões:
 
-![Relacionamento entre padrões](../images/arquitetura-gof-relationships.png "Relacionamento entre padrões")
+![Relacionamento entre padrões](../images/arquitetura-gof-relationships.png
+"Relacionamento entre padrões")
 
 ## Padrões
 
@@ -68,7 +73,8 @@ Os padrões de criação focam na eficiência do processo de instanciação.
 
 [**CODE**](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/creational/abstract_factory)
 
-O padrão _Abstract Factory_ prove uma interface para criar uma família de objetos relacionados ou dependentes sem especificar suas classes concretas.
+O padrão _Abstract Factory_ prove uma interface para criar uma família de
+objetos relacionados ou dependentes sem especificar suas classes concretas.
 
 Conhecido como: _Kit_.
 
@@ -79,7 +85,9 @@ Do GoF:
 
 [**CODE**](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/creational/builder)
 
-O padrão _Builder_ separa a construção de um objeto complexo da sua representação de modo que o mesmo processo de construção possa criar diferentes representações.
+O padrão _Builder_ separa a construção de um objeto complexo da sua
+representação de modo que o mesmo processo de construção possa criar diferentes
+representações.
 
 Do GoF:
 > _Separate the construction of a complex object from its representation so that the same construction process can create different representations._
@@ -88,7 +96,9 @@ Do GoF:
 
 [**CODE**](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/creational/factory_method)
 
-O padrão _Factory Method_ define uma interface para criar um objeto, mas deixa as subclasses decidirem que classe instanciar. O _Factory Method_ permite adiar a instanciação para subclasse.
+O padrão _Factory Method_ define uma interface para criar um objeto, mas deixa
+as subclasses decidirem que classe instanciar. O _Factory Method_ permite adiar
+a instanciação para subclasse.
 
 Conhecido como: _Virtual Constructor_.
 
@@ -103,7 +113,8 @@ Características:
 
 [**CODE**](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/creational/prototype)
 
-O padrão _Prototype_ especifica os tipos de objetos a serem criados usando uma instância-protótipo e cria novos objetos pela cópia desse protótipo.
+O padrão _Prototype_ especifica os tipos de objetos a serem criados usando uma
+instância-protótipo e cria novos objetos pela cópia desse protótipo.
 
 Do GoF:
 > _Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype._
@@ -116,7 +127,8 @@ Características:
 
 [**CODE**](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/creational/singleton)
 
-O padrão _Singleton_ garante que uma classe tenha somente uma instância e forneça um ponto global de acesso para a mesma.
+O padrão _Singleton_ garante que uma classe tenha somente uma instância e
+forneça um ponto global de acesso para a mesma.
 
 Do GoF:
 > _Ensure a class only has one instance, and provide a global point of access to it._
@@ -146,7 +158,9 @@ programação.
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/adapter)
 
-O padrão _Adapter_ converte a interface de uma classe em outra interface, esperada pelos clientes. O _Adapter_ permite que classes com interfaces incompatíveis trabalhem em conjunto - o que de outra foram seria impossível.
+O padrão _Adapter_ converte a interface de uma classe em outra interface,
+esperada pelos clientes. O _Adapter_ permite que classes com interfaces
+incompatíveis trabalhem em conjunto - o que de outra foram seria impossível.
 
 Conhecido como: _Wrapper_.
 
@@ -157,7 +171,8 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/bridge)
 
-O padrão _Bridge_ desacopla uma abstração da sua implementação, de modo que as duas possam variar independentemente.
+O padrão _Bridge_ desacopla uma abstração da sua implementação, de modo que as
+duas possam variar independentemente.
 
 Conhecido como: _Handle/Body_.
 
@@ -168,7 +183,9 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/composite)
 
-O padrão _Composite_ compõe objetos em estruturas de árvore para representarem hierarquias parte-todo. _Composite_ permite aos clientes tratarem de maneira uniforme objetos individuais e composições de objetos.
+O padrão _Composite_ compõe objetos em estruturas de árvore para representarem
+hierarquias parte-todo. _Composite_ permite aos clientes tratarem de maneira
+uniforme objetos individuais e composições de objetos.
 
 Do GoF:
 > _Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly._
@@ -177,7 +194,9 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/decorator)
 
-O padrão _Decorator_ anexa dinamicamente responsabilidades adicionais a um objeto. Os _Decorators_ fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
+O padrão _Decorator_ anexa dinamicamente responsabilidades adicionais a um
+objeto. Os _Decorators_ fornecem uma alternativa flexível ao uso de subclasses
+para extensão de funcionalidades.
 
 Conhecido como: _Wrapper_.
 
@@ -188,7 +207,9 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/facade)
 
-O padrão _Facade_ fornece uma interface unificada para um conjunto de interfaces em um subsistema. _Facade_ define uma interface de nível mais alto que torna o subsistema mais fácil de ser usado.
+O padrão _Facade_ fornece uma interface unificada para um conjunto de interfaces
+em um subsistema. _Facade_ define uma interface de nível mais alto que torna o
+subsistema mais fácil de ser usado.
 
 Do GoF:
 > _Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use._
@@ -197,7 +218,8 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/flyweight)
 
-O padrão _Flyweight_ usa compartilhamento para suportar eficientemente grandes quantidades de objetos de granularidade fina.
+O padrão _Flyweight_ usa compartilhamento para suportar eficientemente grandes
+quantidades de objetos de granularidade fina.
 
 Do GoF:
 > _Use sharing to support large numbers of fine-grained objects efficiently._
@@ -206,7 +228,8 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/structural/proxy)
 
-O padrão _Proxy_ fornece um substituto ou marcador da localização de outro objeto para controlar o acesso a esse objeto.
+O padrão _Proxy_ fornece um substituto ou marcador da localização de outro
+objeto para controlar o acesso a esse objeto.
 
 Conhecido como: _Surrogate_.
 
@@ -223,7 +246,10 @@ Os padrões de comportamento focam na comunicação entre elementos de programa�
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/chain_of_responsibility)
 
-O padrão _Chain of Responsibility_ evita o acoplamento do remetente de uma solicitação ao seu receptor, ao dar a mais de um objeto a oportunidade de tratar a solicitação. Encadea os objetos receptores, passando a solicitação ao longo da cadeia até que um objeto a trate.
+O padrão _Chain of Responsibility_ evita o acoplamento do remetente de uma
+solicitação ao seu receptor, ao dar a mais de um objeto a oportunidade de tratar
+a solicitação. Encadea os objetos receptores, passando a solicitação ao longo da
+cadeia até que um objeto a trate.
 
 Do GoF:
 > _Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it._
@@ -232,7 +258,9 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/command)
 
-O padrão _Command_ encapsula uma solicitação como um objeto, desta forma permitindo parametrizar clientes em diferentes solicitações, enfileira ou faz registro (_log_) de solicitações e suporta operações que podem ser desfeitos.
+O padrão _Command_ encapsula uma solicitação como um objeto, desta forma
+permitindo parametrizar clientes em diferentes solicitações, enfileira ou faz
+registro (_log_) de solicitações e suporta operações que podem ser desfeitos.
 
 Conhecido como: _Action_, _Transaction_.
 
@@ -243,7 +271,9 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/interpreter)
 
-O padrão _Interpreter_, dada uma linguagem, define uma representação para a sua gramática juntamente com um interpretador que usa a representação para interpretar sentenças dessa linguagem.
+O padrão _Interpreter_, dada uma linguagem, define uma representação para a sua
+gramática juntamente com um interpretador que usa a representação para
+interpretar sentenças dessa linguagem.
 
 Do GoF:
 > _Given a language, define a represention for its grammar along with an interpreter that uses the representation to interpret sentences in the language._
@@ -252,7 +282,8 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/iterator)
 
-O padrão _Iterator_ fornece meios de acessar, sequencialmente, os elementos de um objeto agregado sem expor a sua representação subjacente.
+O padrão _Iterator_ fornece meios de acessar, sequencialmente, os elementos de
+um objeto agregado sem expor a sua representação subjacente.
 
 Conhecido como: _Cursor_.
 
@@ -263,7 +294,10 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/mediator)
 
-O padrão _Mediator_ define um objeto que encapsula a forma como um conjunto de objetos interage. O _Mediator_ promove o acomplamento fraco ao evitar que os objetos se refiram uns aos outros explicitamente e permite variar suas interações independentemente.
+O padrão _Mediator_ define um objeto que encapsula a forma como um conjunto de
+objetos interage. O _Mediator_ promove o acomplamento fraco ao evitar que os
+objetos se refiram uns aos outros explicitamente e permite variar suas
+interações independentemente.
 
 Do GoF:
 > _Define an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently._
@@ -272,7 +306,9 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/memento)
 
-O padrão _Memento_, sem violar o encapsulamento, captura e externaliza um estado interno de um objeto, de maneiras que o objeto possa ser restaurado para esse estado mais tarde.
+O padrão _Memento_, sem violar o encapsulamento, captura e externaliza um estado
+interno de um objeto, de maneiras que o objeto possa ser restaurado para esse
+estado mais tarde.
 
 Conhecido como: _Token_.
 
@@ -283,7 +319,9 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/observer)
 
-O padrão _Observer_ define uma dependência um-para-muitos entre objetos, de maneira que quando um objeto muda de estado, todos os seus dependentes são notificados e atualizados automaticamente.
+O padrão _Observer_ define uma dependência um-para-muitos entre objetos, de
+maneira que quando um objeto muda de estado, todos os seus dependentes são
+notificados e atualizados automaticamente.
 
 Conhecido como: _Dependents_, _Publish-Subscribe_.
 
@@ -294,7 +332,8 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/state)
 
-O padrão _State_ permite a um objeto alterar seu comportamento quando o seu estado interno muda. O objeto parecerá ter mudado sua classe.
+O padrão _State_ permite a um objeto alterar seu comportamento quando o seu
+estado interno muda. O objeto parecerá ter mudado sua classe.
 
 Conhecido como: _Objects for States_.
 
@@ -305,7 +344,9 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/strategy)
 
-O padrão _Strategy_ define uma família de algoritmos, encapsula cada uma delas e torná-las intercambiáveis. _Strategy_ permite que o algoritmo varie independentemente dos clientes que o utilizam.
+O padrão _Strategy_ define uma família de algoritmos, encapsula cada uma delas e
+torná-las intercambiáveis. _Strategy_ permite que o algoritmo varie
+independentemente dos clientes que o utilizam.
 
 Conhecido como: _Policy_.
 
@@ -316,7 +357,10 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/template_method)
 
-O padrão _Template Method_ define o esqueleto de um algoritmo em uma operação, postergando alguns passos para as subclasses. _Template Method_ permite que subclasses redefinam certos passos de um algoritmo sem mudar a estrutura do mesmo.
+O padrão _Template Method_ define o esqueleto de um algoritmo em uma operação,
+postergando alguns passos para as subclasses. _Template Method_ permite que
+subclasses redefinam certos passos de um algoritmo sem mudar a estrutura do
+mesmo.
 
 Do GoF:
 > _Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure._
@@ -325,7 +369,9 @@ Do GoF:
 
 [CODE](https://github.com/mdssjc/study/tree/master/design-patterns/src/main/java/com/github/mdssjc/design_patterns/behavioral/visitor)
 
-O padrão _Visitor_ representa uma operação a ser executada nos elementos de uma estrutura de objetos. _Visitor_ permite definir uma nova operação sem mudar as classes dos elementos sobre os quais opera.
+O padrão _Visitor_ representa uma operação a ser executada nos elementos de uma
+estrutura de objetos. _Visitor_ permite definir uma nova operação sem mudar as
+classes dos elementos sobre os quais opera.
 
 Do GoF:
 > _Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates._
