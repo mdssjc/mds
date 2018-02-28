@@ -2,6 +2,8 @@
 
 ## Básicos
 
+* **Herança**: _em edição_.
+
 * [**Encapsulamento**](http://wiki.c2.com/?EncapsulationDefinition
   "Encapsulation") - _Encapsulation_: é o processo de envolver elementos de
   programação em entidades maiores e mais abstratas, com o objetivo de proteger
@@ -15,6 +17,8 @@
   Separa o que varia do que permanece constante.
 
   Protege os elementos de programação de desnecessárias mudanças.
+
+* **Polimorfismo**: _em edição_.
 
 * **Delegação** - _Delegation_: é o ato de um elemento de programação encaminhar
   uma necessidade/responsabilidade para outro elemento de programação, para ser
