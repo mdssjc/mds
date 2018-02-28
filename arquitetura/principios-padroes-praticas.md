@@ -28,3 +28,8 @@ Os mais utilizados/aplicados são:
 * [GoF](gof.md "GoF") (Padrões de Projeto)
 * [POSA](posa.md "POSA") (Padrões de Arquitetura)
 * [Antipadrões](antipadroes.md "Antipadrões") (Antipadrões)
+
+Pontos importantes:
+
+* **Trade-off**: os padrões de projeto são utilizados conforme um equilíbrio entre
+  espaço e tempo dos recursos computacionais.
