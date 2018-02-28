@@ -376,7 +376,7 @@ classes dos elementos sobre os quais opera.
 Do GoF:
 > _Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates._
 
-## Mais...
+## Mais sobre...
 
 * [Refcardz](https://dzone.com/refcardz/design-patterns)
 * [Vincehuston](http://www.vincehuston.org/dp)
