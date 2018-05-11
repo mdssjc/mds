@@ -1,12 +1,12 @@
 # Introdução
 
 Este livro tem como objetivo reunir/compilar os fragmentos de
-conhecimento/sabedoria utilizados pela profissão de "_Construtor de Software_".
+conhecimento/sabedoria utilizados pela profissão de _Craftsman_ - **Construtor
+de Software**.
 
 Os temas serão pragmaticamente voltados para o ramo Sistema de Computação,
 principalmente abordando a disciplina de **Arquitetura de Software e Testes**
-com Algoritmos e Mineração de Dados nas tecnologias _Java_, _Haskell_, _Lisp_,
-_C_, _Emacs_ e _GNU/Linux_.
+com Algoritmos e Mineração de Dados com foco nos dialetos da tecnologia _Lisp_.
 
 Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de
 _software_, considerando uma base sólida como também os aspectos filosóficos e
@@ -14,17 +14,21 @@ científicos do processo.
 
 ## A Base
 
-Dentre as ferramentas para a construção de _software_ estão as linguagens
-_mainframe_ e acadêmicas. As linguagens _mainframe_ (_Java_, _.NET_, _C++_,
-_JavaScript_, _Python_, dentre outras...) ditam o mercado de desenvolvimento de
-_software_ com grande variedade de plataformas e voltadas para os requisitos de
-desempenho e adaptação para as máquinas atuais - são as linguagens primárias,
-geralmente utilizadas para a resolução de problemas. As linguagens acadêmicas
-ditam a evolução da tecnologia e possuem uma comunidade especializada e voltada
-a aprendizagem - são as linguagens secundárias, geralmente utilizadas para a
-prototipação e experimentação de ideias.
+As tecnologias para a construção de _software_ são divididas em: _mainstream_ e
+acadêmica.
 
-A base do livro utiliza o dialeto _Lisp_¹ através dos livros texto:
+As tecnologias _mainstream_, tais como _Java_, _.NET_, _C++_, _JavaScript_,
+_Python_, dentre outras..., ditam o mercado de desenvolvimento de _software_ com
+uma grande variedade de plataformas e ferramentas (_tooling_), voltadas para os
+requisitos de desempenho e adaptação para as máquinas atuais - são as linguagens
+primárias, geralmente utilizadas para a resolução de problemas.
+
+As tecnologias acadêmicas, tais como _Haskell_, _C_, dentre outras..., ditam a
+evolução da tecnologia e possuem uma comunidade especializada e voltada a
+aprendizagem - são as linguagens secundárias, geralmente utilizadas para a
+prototipação, prova de conceito e experimentação de ideias.
+
+A base do livro utiliza o dialeto _Lisp_ através dos livros texto:
 
 * _How to Design Programs_ (HtDP); e
 * _Structure and Interpretation of Computer Programs_ (SICP).
@@ -34,11 +38,14 @@ Technology_ (MIT).
 
 Dentre os dialetos _Lisp_ estão:
 
-* _Racket_
-* _Clojure_
-* _Emacs Lisp_
-* _Guile_
-* _Kawa_
+* _Racket_;
+* _Clojure_ (JVM, CLR e JS);
+* _Emacs Lisp_;
+* _Common Lisp_;
+* _Guile_;
+* _Kawa_ (JVM);
+* _Fennel_ (_Lua_);
+* ...
 
 ## Filosófia
 
@@ -90,10 +97,12 @@ _Em edição..._
 
 ---
 
-**Atualização de 03/2018**
+**Atualização de 05/2018**
 
-**Página**: [mdssjc.github.io](http://goo.gl/wfgE07 "Página do MDS") | 
-**Repositório**: [github.com/mdssjc](http://goo.gl/FvxXNM "Repositório do MDS")
+**Página**: [mdssjc.github.io](http://mdssjc.github.io "Página do MDS") | 
+**Repositório**: [github.com/mdssjc](http://github.com/mdssjc "Repositório do MDS")
 
 ---
-¹: em processo de atualização.
+JVM: _Java Virtual Machine_.
+CLR: _Common Language Runtime_.
+JS: _Java Script_.
