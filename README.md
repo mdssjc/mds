@@ -31,10 +31,15 @@ prototipação, prova de conceito e experimentação de ideias.
 A base do livro utiliza o dialeto _Lisp_ através dos livros texto:
 
 * _How to Design Programs_ (HtDP); e
+  * _Program_
+  * _Component_; e
+  * _System_
 * _Structure and Interpretation of Computer Programs_ (SICP).
 
-=> complemento com os materiais do curso 6.005 do _Massachusetts Institute of
-Technology_ (MIT).
+=> complemento com os materiais do curso 6.005: _Software Construction_ do
+_Massachusetts Institute of Technology_ (MIT).
+
+=> todos os livros estão no capítulo [Referências](referencias.md).
 
 Dentre os dialetos _Lisp_ estão:
 
@@ -45,6 +50,7 @@ Dentre os dialetos _Lisp_ estão:
 * _Guile_;
 * _Kawa_ (JVM);
 * _Fennel_ (_Lua_);
+* _Ferret_ (_Embedded Control Systems_)
 * ...
 
 ## Filosófia
@@ -84,14 +90,14 @@ _Em edição..._
 
 ## Fluxo
 
-_Em edição..._
+O livro percorre as atividades da construção de _software_ através de:
 
 **[Requisitos](requisitos/README.md)** |
 **[Arquitetura](arquitetura/README.md)** |
 **[Testes](testes/README.md)** |
 **[Código](codigo/README.md)** |
-**[Ferramentas](ferramentas/README.md)** |
-**[Metodologia Científica](metodologia-cientifica/README.md)**
+**[Metodologia Científica](metodologia-cientifica/README.md)** | 
+**[Referências](referencias.md)**
 
 ![](images/arquitetura-software.png)
 
