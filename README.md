@@ -107,6 +107,9 @@ O livro percorre as atividades da construção de _software_ através de:
 
 ---
 JVM: _Java Virtual Machine_.
+
 CLR: _Common Language Runtime_.
+
 JS: _Java Script_.
+
 XP: _Extreme Programming_ (Programação Extrema).
