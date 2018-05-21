@@ -73,17 +73,29 @@ _Ports-And-Adapters_, tais como: _Hexagonal_, _Onion_ e _Clean Architecture_.
 
 ## Ciência
 
-_Em edição..._
+A ciência da construção de _software_ é composta por:
 
 * **Programação Extrema** - _Extreme Programming_ (XP): metodologia ágil de
   desenvolvimento de _software_ de proposta geral para grupos pequenos e médios;
+
 * **Visão 4+1**: modelagem das visões da arquitetura de _software_ em análise e
   projeto na Linguagem de Modelagem Unificada - _Unified Modeling Language_
   (UML), com aspectos científicos para grupos médios e grandes - definida por
   _Philippe Kruchten_ no artigo _Architectural Blueprints - The "4+1" View Model
   of Software Architecture_ em 1995;
+
 * **Systematic Program Design - SPD**: técnica de desenvolvimento de _software_
-  geral para múltiplos paradigmas, recomendado para grupos com expertise; e
+  geral para múltiplos paradigmas, recomendado para grupos com expertise;
+
+* **Metodologia Clean**: metodologia apresentada por um conjunto de livros e
+  materiais multimídia com as experiências do autor _Robert Cecil Martin_ -
+  conhecido por _Uncle Bob_;
+
+* **Effective**: representado pelos livros com abordagem semântica e
+  dialética das tecnologias; e
+
+* **Documentação**: os famosos _docs_ apresentados pelos desenvolvedores da
+  tecnologia, geralmente no formato _online_.
 
 ## Fluxo
 
