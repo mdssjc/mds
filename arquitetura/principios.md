@@ -70,6 +70,8 @@
   Blinda seus elementos de programação de alterações nos outros elementos de
   programação.
 
+  É um exemplo extremo de composição.
+
 * **Composição** - _Composition_: é o ato de um elemento de programação usar as
   funcionalidades/comportamentos de uma família de outros elementos de
   programação e modificar (por seleção) essas funcionalidades/comportamentos em
