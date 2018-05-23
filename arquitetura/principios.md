@@ -15,11 +15,11 @@
   Tenha cada peça de informação e comportamento em seu sistema em um único e
   sensível local.
 
-* [**_Execute Around Method_**](http://wiki.c2.com/?ExecuteAroundMethod "Execute
+* [**Execute Around Method**](http://wiki.c2.com/?ExecuteAroundMethod "Execute
   Around Method"): controle sobre recursos externos, como operações em _cleanup_
   e _locks_.
 
-* [**Princípio de _Hollywood_**](http://wiki.c2.com/?HollywoodPrinciple
+* [**Princípio de _Hollywood**](http://wiki.c2.com/?HollywoodPrinciple
   "Hollywood Principle") - _Hollywood Principle_: Não nos chame, nós chamaremos
   você - _Don't call us, we will call you_, especifica como componentes de alto
   e baixo nível interagem sem criar dependências, sendo uma técnica para a
