@@ -43,6 +43,13 @@
   4. Quaisquer componentes do elemento; e
   5. Os elementos globais.
 
+* [**Mantenha Simples, Estúpido**](http://wiki.c2.com/?KeepItSimple "Keep It
+  Simple, Stupid") - _Keep It Simple, Stupid_ (KISS): _em edição_.
+
+* [**Você Não Vai Precisar Disso**](http://wiki.c2.com/?YouArentGonnaNeedIt "You
+  Aren't Gonna Need It") - _You Aren't Gonna Need It_ (YAGNI): resista a
+  urgência da necessidade no futuro, guiando o desenvolvimento através do TDD.
+
 ## Conceitos
 
 * **Herança**: _em edição_.
