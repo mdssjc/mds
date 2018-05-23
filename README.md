@@ -75,9 +75,6 @@ _Ports-And-Adapters_, tais como: _Hexagonal_, _Onion_ e _Clean Architecture_.
 
 A ciência da construção de _software_ é composta por:
 
-* **Programação Extrema** - _Extreme Programming_ (XP): metodologia ágil de
-  desenvolvimento de _software_ de proposta geral para grupos pequenos e médios;
-
 * **Visão 4+1**: modelagem das visões da arquitetura de _software_ em análise e
   projeto na Linguagem de Modelagem Unificada - _Unified Modeling Language_
   (UML), com aspectos científicos para grupos médios e grandes - definida por
@@ -96,6 +93,29 @@ A ciência da construção de _software_ é composta por:
 
 * **Documentação**: os famosos _docs_ apresentados pelos desenvolvedores da
   tecnologia, geralmente no formato _online_.
+
+## Guia
+
+### Individual
+
+* **GTD**: em breve;
+
+* **Writer**: em breve;
+
+* **Mind Maps**: em breve; e
+
+* **Sketch Notes**: em breve.
+
+### Grupo
+
+* **XP**: metodologia ágil de desenvolvimento de _software_ de proposta geral
+  para grupos pequenos e médios;
+
+* **Scrum**: em breve;
+
+* **Kanban**: em breve; e
+
+* **Lean**: em breve.
 
 ## Fluxo
 
