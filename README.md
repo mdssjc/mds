@@ -96,6 +96,8 @@ A ciência da construção de _software_ é composta por:
 
 ## Guia
 
+O guia da construção de _software_ é dividida em: **individual** e **grupo**.
+
 ### Individual
 
 * **GTD**: em breve;
