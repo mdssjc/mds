@@ -30,7 +30,7 @@
   qual é dono da informação - reduza os acoplamentos, priorizando o
   encapsulamento.
 
-  Técnica para refatoração: redirecionamento e delegação
+  Técnicas para a refatoração: delegação e redirecionamento.
 
 * [**Princípio do Mínimo Conhecimento**](http://wiki.c2.com/?LawOfDemeter
   "Principle of Least Knowledge") - _Principle of Least Knowledge_: também
@@ -80,3 +80,5 @@
 * **Agregação** - _Aggregation_: é o ato de um elemento de programação usar as
   funcionalidades/comportamentos de outros elementos de programação, mas sem
   controlar seu tempo de vida.
+
+* **Redirecionamento**: _em edição_.
