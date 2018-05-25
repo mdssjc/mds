@@ -54,6 +54,7 @@ Pontos importantes:
 
 * **Trade-off**: os padrões de projeto são utilizados conforme um equilíbrio entre
   espaço e tempo dos recursos computacionais.
+* **4 elementos essenciais**: nome do padrão, problema, solução e consequências.
 
 ## Outros
 
