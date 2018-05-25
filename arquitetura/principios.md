@@ -68,7 +68,8 @@
 
   Protege os elementos de programação de desnecessárias mudanças.
 
-* **Polimorfismo** - _Polymorphism_: _em edição_.
+* [**Polimorfismo**](http://wiki.c2.com/?PolyMorphism "Polimorfismo")-
+  _Polymorphism_: _em edição_.
 
 * **Delegação** - _Delegation_: é o ato de um elemento de programação encaminhar
   uma necessidade/responsabilidade para outro elemento de programação, para ser
