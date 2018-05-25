@@ -52,7 +52,7 @@
 
 ## Conceitos
 
-* **Herança**: _em edição_.
+* **Herança** - _Inheritance_: _em edição_.
 
 * [**Encapsulamento**](http://wiki.c2.com/?EncapsulationDefinition
   "Encapsulation") - _Encapsulation_: é o processo de envolver elementos de
@@ -68,7 +68,7 @@
 
   Protege os elementos de programação de desnecessárias mudanças.
 
-* **Polimorfismo**: _em edição_.
+* **Polimorfismo** - _Polymorphism_: _em edição_.
 
 * **Delegação** - _Delegation_: é o ato de um elemento de programação encaminhar
   uma necessidade/responsabilidade para outro elemento de programação, para ser
@@ -79,6 +79,8 @@
 
   É um exemplo extremo de composição.
 
+* **Redirecionamento** - _Forwarding_: _em edição_.
+
 * **Composição** - _Composition_: é o ato de um elemento de programação usar as
   funcionalidades/comportamentos de uma família de outros elementos de
   programação e modificar (por seleção) essas funcionalidades/comportamentos em
@@ -87,7 +89,5 @@
 * **Agregação** - _Aggregation_: é o ato de um elemento de programação usar as
   funcionalidades/comportamentos de outros elementos de programação, mas sem
   controlar seu tempo de vida.
-
-* **Redirecionamento** - _Forwarding_: _em edição_.
 
 * **Associação** - _Acquaintance_: _em edição_.
