@@ -54,6 +54,7 @@ Pontos importantes:
 
 * **Trade-off**: os padrões de projeto são utilizados conforme um equilíbrio entre
   espaço e tempo dos recursos computacionais.
+
 * **4 elementos essenciais**: nome do padrão, problema, solução e consequências.
 
 ## Outros
@@ -64,6 +65,7 @@ Dentre os pontos importantes estão:
   o cenário mais simples (_World_ ou _Walking Skeleton_) e representativo do
   projeto, assim validando o ambiente de desenvolvimento (IDE, Controle de
   Versão, Servidores, _Frameworks_, _Rigs_, etc...).
+
 * **Arquiteturas Modernas**: novos estudos de arquiteturas para a representação
   de _software_, baseadas em variantes da arquitetura _Ports-And-Adapters_, tais
   como: _Hexagonal_, _Onion_ e _Clean_.
