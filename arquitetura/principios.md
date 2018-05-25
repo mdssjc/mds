@@ -89,3 +89,5 @@
   controlar seu tempo de vida.
 
 * **Redirecionamento**: _em edição_.
+
+* **Associação** - _Acquaintance_: _em edição_.
