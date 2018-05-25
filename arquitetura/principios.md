@@ -88,6 +88,6 @@
   funcionalidades/comportamentos de outros elementos de programação, mas sem
   controlar seu tempo de vida.
 
-* **Redirecionamento**: _em edição_.
+* **Redirecionamento** - _Forwarding_: _em edição_.
 
 * **Associação** - _Acquaintance_: _em edição_.
