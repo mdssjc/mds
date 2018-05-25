@@ -52,7 +52,9 @@
 
 ## Conceitos
 
-* **Herança** - _Inheritance_: _em edição_.
+* **Herança** - _Inheritance_: é o ato de um elemento de programação estender as
+  responsabilidades de outro elemento de programação através da construção de um
+  novo nível na hierarquia durante o tempo de compilação.
 
 * [**Encapsulamento**](http://wiki.c2.com/?EncapsulationDefinition
   "Encapsulation") - _Encapsulation_: é o processo de envolver elementos de
