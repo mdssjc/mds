@@ -45,12 +45,18 @@ Dentre os dialetos _Lisp_ estão:
 
 * _Racket_;
 * _Clojure_ (JVM, CLR e JS);
+  * _Clojerl_ (Erlang);
 * _Emacs Lisp_;
 * _Common Lisp_;
 * _Guile_;
 * _Kawa_ (JVM);
-* _Fennel_ (_Lua_);
-* _Ferret_ (_Embedded Control Systems_)
+* _Fennel_ (Lua);
+* _Ferret_ (Embedded Control Systems);
+* _Cloe_ (Go);
+* _Carp_ (Haskel);
+* _Picolisp_;
+* _Lux_ (JVM);
+* _Hy_ (Python);
 * ...
 
 ## Filosófia
