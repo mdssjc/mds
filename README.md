@@ -48,7 +48,7 @@ Dentre os dialetos _Lisp_ estão:
   * _Clojerl_ (Erlang);
 * _Emacs Lisp_;
 * _Common Lisp_;
-* _Guile_;
+* _Guile_ (Unix);
 * _Kawa_ (JVM);
 * _Fennel_ (Lua);
 * _Ferret_ (Embedded Control Systems);
@@ -57,6 +57,9 @@ Dentre os dialetos _Lisp_ estão:
 * _Picolisp_;
 * _Lux_ (JVM);
 * _Hy_ (Python);
+* _Gambit_ (C);
+* _Chicken_ (C);
+* _Bigloo_;
 * ...
 
 ## Filosófia
