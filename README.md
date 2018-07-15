@@ -52,6 +52,7 @@ Dentre os dialetos _Lisp_ estão:
 * _Kawa_ (JVM);
 * _Fennel_ (Lua);
 * _Ferret_ (Embedded Control Systems);
+* _uLisp_ (Embedded Control Systems);
 * _Cloe_ (Go);
 * _Carp_ (Haskel);
 * _Picolisp_;
@@ -60,6 +61,7 @@ Dentre os dialetos _Lisp_ estão:
 * _Gambit_ (C);
 * _Chicken_ (C);
 * _Bigloo_;
+* _Shen_;
 * ...
 
 ## Filosófia
