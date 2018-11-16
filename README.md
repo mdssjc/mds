@@ -64,7 +64,7 @@ Dentre os dialetos _Lisp_ estão:
 * _Shen_;
 * ...
 
-## Filosófia
+## Filosofia
 
 A filosofia da construção de _software_ é composta por:
   
