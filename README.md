@@ -6,7 +6,7 @@ de Software**.
 
 Os temas serão pragmaticamente voltados para o ramo Sistema de Computação,
 principalmente abordando a disciplina de **Arquitetura de Software e Testes**
-com Algoritmos e Mineração de Dados com foco nos dialetos da tecnologia _Lisp_.
+com foco nos dialetos da tecnologia _Lisp_.
 
 Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de
 _software_, considerando uma base sólida como também os aspectos filosóficos e
