@@ -28,7 +28,8 @@ evolução da tecnologia e possuem uma comunidade especializada e voltada a
 aprendizagem - são as linguagens secundárias, geralmente utilizadas para a
 prototipação, prova de conceito e experimentação de ideias.
 
-A base do livro utiliza o dialeto _Lisp_ através dos livros texto:
+A base do livro utiliza os dialetos _Racket_, _Clojure_ e _Emacs_ da tecnologia
+_Lisp_ através dos livros texto:
 
 * _How to Design Programs_ (HtDP); e
   * _Program_
