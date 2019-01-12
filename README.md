@@ -146,7 +146,7 @@ O livro percorre as atividades da construção de _software_ através de:
 
 ---
 
-**Atualização de 11/2018**
+**Atualização de 12/01/2019**
 
 **Página**: [mdssjc.github.io](http://mdssjc.github.io "Página do MDS") | 
 **Repositório**: [github.com/mdssjc](http://github.com/mdssjc "Repositório do MDS")
