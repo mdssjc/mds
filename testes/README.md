@@ -6,9 +6,9 @@ A etapa de **Testes** utiliza os [cenários](../arquitetura/cenario.md) para a a
 
 **Fases:**
 
-* Unidade
-* Integração/Componente
-* Sistema/Aceitação
+* Unidade: testa a menor parte do _software_;
+* Integração/Componente: testa a comunicação entre as partes; e
+* Sistema/Aceitação: testa o conjunto do _software_.
 
 **Técnicas:**
 
