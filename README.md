@@ -1,3 +1,5 @@
+Uma nova versão está em desenvolvimento, na **branch v2**, focada na masterização do desenvolvimento de **software** utilizando a linguagem **Racket**.
+
 # Introdução
 
 Este livro tem como objetivo reunir/compilar os fragmentos de
@@ -146,7 +148,7 @@ O livro percorre as atividades da construção de _software_ através de:
 
 ---
 
-**Atualização de 12/01/2019**
+**Atualização de 27/06/2020**
 
 **Página**: [mdssjc.github.io](http://mdssjc.github.io "Página do MDS") | 
 **Repositório**: [github.com/mdssjc](http://github.com/mdssjc "Repositório do MDS")
