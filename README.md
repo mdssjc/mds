@@ -1,5 +1,3 @@
-Uma nova versão está em desenvolvimento, na **branch v2**, focada na masterização do desenvolvimento de **software** utilizando a linguagem **Racket**.
-
 # Introdução
 
 Este livro tem como objetivo reunir/compilar os fragmentos de
