@@ -14,6 +14,10 @@ Os temas serão pragmaticamente voltados para o ramo Sistema de Computação, pr
 
 Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_, considerando uma base sólida como também os aspectos filosóficos e científicos do processo.
 
+# Observação
+
+A versão antiga do livro está na `branch old`.
+
 ---
 
 Atualizado em 01/01/2021.
