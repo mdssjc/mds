@@ -32,6 +32,18 @@ Dentre as linguagens de programação encontradas no projeto estão:
 
 --images do fluxo--
 
+### Filosofia
+
+A filosofia da construção de _software_ é composta por:
+
+- **Desenvolvimento Guiado por Testes** - _Test Driven Development_ (TDD): é uma técnica de desenvolvimento de _software_ da Programação Extrema - _Extreme Programming_ (XP), em que os testes são criados antes do código de produção em um ciclo de falhar o teste - passar o teste - refatorar;
+
+- **Desenvolvimento Guiado por Comportamento** - _Behavior Driven Development_ (BDD): é uma técnica de desenvolvimento de _software_ da XP, em que os testes são criados em paralelo ao código de produção; e
+
+- **Projeto Orientado a Domínio** - _Domain Driven Design_ (DDD): aborda um compilado de experiências aplicadas ao desenvolvimento de _software_.
+
+Essas ideias são aplicadas como base para as modernas arquiteturas baseadas no _Ports-And-Adapters_, tais como: _Hexagonal_, _Onion_ e _Clean Architecture_.
+
 ## Capítulos
 
 - [Introdução](readme.md "Introdução")
