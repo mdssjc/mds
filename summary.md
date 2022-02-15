@@ -1,4 +1,4 @@
 # Sumário
 
-* [Início](readme.md)
+* [Introdução](readme.md)
 * [Referências](references.md)

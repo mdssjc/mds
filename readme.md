@@ -4,6 +4,8 @@ A ideia desse projeto vem dos livros _Pragmatic Thinking and Learning - Refactor
 
 O projeto tem a composição de:
 
+[**ATEMPORAL** -> **TEMPORAL** -> **FRAGMENTOS** -> **CONSTRUÇÃO**]
+
 - [o livro](https://github.com/mdssjc/mds/ "o livro") (atemporal);
 - [a página](https://marcelo-mds.dev/ "a página") (temporal);
 - [as notas](https://github.com/mdssjc/mds-notes/ "as notas") (fragmentos); e
@@ -11,7 +13,7 @@ O projeto tem a composição de:
 
 ## Objetivos
 
-Reunir/compilar os fragmentos de conhecimento/sabedoria utilizados pela profissão de _Craftsman_ - Construtor de _Software_.
+Reunir/compilar os conhecimentos/sabedorias utilizados pela profissão de _Craftsman_ - Construtor de _Software_.
 
 ## Introdução
 
@@ -19,18 +21,18 @@ Os temas serão pragmaticamente voltados para o ramo Sistema de Computação, pr
 
 Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_, considerando uma base sólida como também os aspectos filosóficos e científicos do processo.
 
+### Fluxo de Desenvolvimento
+
+![Fluxo de Desenvolvimento](./assets/introduction-development-flow.png "Fluxo de Desenvolvimento")
+
 ### Linguagens de Programação
 
 Dentre as linguagens de programação encontradas no projeto estão:
 
-- acadêmicas: C, Racket (ao lado de Clojure) e Haskell
-- modernas: Dart (Flutter/Flame), Rust e TypeScript (Tauri/Svelte/Deno)
-- padrão de indústria (mainstream): Java (Spring Boot)
-- em desenvolvimento: V, Enso e Red
-
-### Fluxo de Desenvolvimento
-
---images do fluxo--
+- acadêmicas: C, Racket (ao lado de Clojure) e Haskell;
+- modernas: Dart (Flutter/Flame), Rust e TypeScript (Tauri/Svelte/Deno/P5);
+- padrão de indústria (mainstream): Java (Spring Boot); e
+- em desenvolvimento: V, Zig, Enso e Red.
 
 ### Filosofia
 
@@ -55,4 +57,4 @@ Para visualizar a versão antiga do livro, acesse a `branch old`.
 
 ## Data da Atualização
 
-31/01/2022
+28/02/2022
