@@ -4,7 +4,7 @@ A ideia desse projeto vem dos livros _Pragmatic Thinking and Learning - Refactor
 
 O projeto tem a composição de:
 
-[**ATEMPORAL** -> **TEMPORAL** -> **FRAGMENTOS** -> **CONSTRUÇÃO**]
+![Composição do Projeto](./assets/introduction-project-composition.png "Composição do Projeto")
 
 - [o livro](https://github.com/mdssjc/mds/ "o livro") (atemporal);
 - [a página](https://marcelo-mds.dev/ "a página") (temporal);
@@ -27,12 +27,18 @@ Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _softw
 
 ### Linguagens de Programação
 
+As tecnologias para a construção de _software_ são divididas em: _mainstream_ e acadêmica.
+
+As tecnologias _mainstream_, tais como _Java_, _.NET_, _C++_, _JavaScript_, _Python_, dentre outras..., ditam o mercado de desenvolvimento de _software_ com uma grande variedade de plataformas e ferramentas (_tooling_), voltadas para os requisitos de desempenho e adaptação para as máquinas atuais - geralmente utilizadas para a resolução de problemas.
+
+As tecnologias acadêmicas, tais como _C_, _Racket_, _Haskell_, dentre outras..., ditam a evolução da tecnologia e possuem uma comunidade especializada e voltada a aprendizagem - geralmente utilizadas para a prototipação, prova de conceito e experimentação de ideias.
+
 Dentre as linguagens de programação encontradas no projeto estão:
 
 - acadêmicas: C, Racket (ao lado de Clojure) e Haskell;
 - modernas: Dart (Flutter/Flame), Rust e TypeScript (Tauri/Svelte/Deno/P5);
 - padrão de indústria (mainstream): Java (Spring Boot); e
-- em desenvolvimento: V, Zig, Enso e Red.
+- em desenvolvimento: V, Roc, Zig, Enso e Red.
 
 ### Filosofia
 
@@ -46,9 +52,28 @@ A filosofia da construção de _software_ é composta por:
 
 Essas ideias são aplicadas como base para as modernas arquiteturas baseadas no _Ports-And-Adapters_, tais como: _Hexagonal_, _Onion_ e _Clean Architecture_.
 
+### Ciência
+
+A ciência da construção de _software_ é composta por:
+
+- **Systematic Program Design - SPD**: técnica de desenvolvimento de _software_ geral para múltiplos paradigmas, recomendado para grupos com expertise;
+
+- **Visão 4+1**: modelagem das visões da arquitetura de _software_ em análise e projeto na Linguagem de Modelagem Unificada - _Unified Modeling Language_ (UML), com aspectos científicos para grupos médios e grandes - definida por _Philippe Kruchten_ no artigo _Architectural Blueprints - The "4+1" View Model of Software Architecture_ em 1995;
+
+- **Metodologia Clean**: metodologia apresentada por um conjunto de livros e materiais multimídia com as experiências do autor _Robert Cecil Martin_ - conhecido por _Uncle Bob_;
+
+- **Effective**: conjunto de expertise sobre uma determinada tecnologia; e
+
+- **Documentação**: os famosos _docs_ e _guides_ apresentados pelos desenvolvedores da tecnologia, geralmente no formato _online_.
+
 ## Capítulos
 
 - [Introdução](readme.md "Introdução")
+- Requisitos
+- Arquitetura
+- Testes
+- Código
+- Metodologia
 - [Referências](references.md "Referências")
 
 ## Observação
