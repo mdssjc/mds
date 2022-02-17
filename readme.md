@@ -46,7 +46,7 @@ A filosofia da construção de _software_ é composta por:
 
 - **Desenvolvimento Guiado por Testes** - _Test Driven Development_ (TDD): é uma técnica de desenvolvimento de _software_ da Programação Extrema - _Extreme Programming_ (XP), em que os testes são criados antes do código de produção em um ciclo de falhar o teste - passar o teste - refatorar;
 
-- **Desenvolvimento Guiado por Comportamento** - _Behavior Driven Development_ (BDD): é uma técnica de desenvolvimento de _software_ da XP, em que os testes são criados em paralelo ao código de produção; e
+- **Desenvolvimento Guiado por Comportamento** - _Behavior Driven Development_ (BDD): é uma técnica de desenvolvimento de _software_ derivada do Desenvolvimento Guiado por Testes - _Test Driven Development_ (TDD) e combinada com práticas do Projeto Orientado a Domínio - _Domain Driven Design_ (DDD) e Análise e Projeto Orientado a Objeto - _Object-Oriented Analysis and Design_ (OOAD), em que utiliza a linguagem do domínio e os testes são criados em paralelo ao código de produção; e
 
 - **Projeto Orientado a Domínio** - _Domain Driven Design_ (DDD): aborda um compilado de experiências aplicadas ao desenvolvimento de _software_.
 
@@ -58,13 +58,13 @@ A ciência da construção de _software_ é composta por:
 
 - **Systematic Program Design - SPD**: técnica de desenvolvimento de _software_ geral para múltiplos paradigmas, recomendado para grupos com expertise;
 
+- **Clean Design**: metodologia apresentada por um conjunto de livros e materiais multimídia com as experiências do autor _Robert Cecil Martin_ - conhecido por _Uncle Bob_;
+
 - **Visão 4+1**: modelagem das visões da arquitetura de _software_ em análise e projeto na Linguagem de Modelagem Unificada - _Unified Modeling Language_ (UML), com aspectos científicos para grupos médios e grandes - definida por _Philippe Kruchten_ no artigo _Architectural Blueprints - The "4+1" View Model of Software Architecture_ em 1995;
 
-- **Metodologia Clean**: metodologia apresentada por um conjunto de livros e materiais multimídia com as experiências do autor _Robert Cecil Martin_ - conhecido por _Uncle Bob_;
+- **Effective**: documentação explanado o que fazer e não fazer com a tecnologia na visão dos desenvolvedores com expertise; e
 
-- **Effective**: conjunto de expertise sobre uma determinada tecnologia; e
-
-- **Documentação**: os famosos _docs_ e _guides_ apresentados pelos desenvolvedores da tecnologia, geralmente no formato _online_.
+- **Documentação**: documentação e/ou guias sobre o ecossistema da tecnologia na visão dos desenvolvedores.
 
 ## Capítulos
 
