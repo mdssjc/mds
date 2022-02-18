@@ -56,11 +56,11 @@ Essas ideias são aplicadas como base para as modernas arquiteturas baseadas no 
 
 A ciência da construção de _software_ é composta por:
 
-- **Systematic Program Design - SPD**: técnica de desenvolvimento de _software_ geral para múltiplos paradigmas, recomendado para grupos com expertise;
+- **Systematic Program Design - SPD**: metodologia de desenvolvimento sistemático através de receitas e refinamentos do domínio para o projeto de funções, dados e mundo;
 
-- **Clean Design**: metodologia apresentada por um conjunto de livros e materiais multimídia com as experiências do autor _Robert Cecil Martin_ - conhecido por _Uncle Bob_;
+- **Clean Design**: metodologia apresentada por práticas, princípios e padrões através das experiências do autor _Robert Cecil Martin_ - conhecido por _Uncle Bob_;
 
-- **Visão 4+1**: modelagem das visões da arquitetura de _software_ em análise e projeto na Linguagem de Modelagem Unificada - _Unified Modeling Language_ (UML), com aspectos científicos para grupos médios e grandes - definida por _Philippe Kruchten_ no artigo _Architectural Blueprints - The "4+1" View Model of Software Architecture_ em 1995;
+- **Visão 4+1**: modelagem das visões da arquitetura de _software_ em Análise e Projeto Orientado a Objeto - _Object-Oriented Analysis and Design_ (OOAD) na Linguagem de Modelagem Unificada - _Unified Modeling Language_ (UML) com aspectos científicos - definida por _Philippe Kruchten_ no artigo _Architectural Blueprints - The "4+1" View Model of Software Architecture_ em 1995;
 
 - **Effective**: documentação explanado o que fazer e não fazer com a tecnologia na visão dos desenvolvedores com expertise; e
 
