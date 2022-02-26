@@ -25,6 +25,8 @@ Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _softw
 
 ![Fluxo de Desenvolvimento](./assets/introduction-development-flow.png "Fluxo de Desenvolvimento")
 
+A prática é aplicada através da Programação Extrema - _Extreme Programming_ (XP).
+
 ### Linguagens de Programação
 
 As tecnologias para a construção de _software_ são divididas em: _mainstream_ e acadêmica.
@@ -35,8 +37,8 @@ As tecnologias acadêmicas, tais como _C_, _Racket_, _Haskell_, dentre outras...
 
 Dentre as linguagens de programação encontradas no projeto estão:
 
-- acadêmicas: C, Racket (ao lado de Clojure) e Haskell;
-- modernas: Dart (Flutter/Flame), Rust e TypeScript (Tauri/Svelte/Deno/P5);
+- acadêmicas: C, Racket e Haskell;
+- modernas: Dart (Flutter/Flame), Rust (Tauri) e TypeScript (Svelte/Deno/P5);
 - padrão de indústria (mainstream): Java (Spring Boot); e
 - em desenvolvimento: V, Roc, Zig, Enso e Red.
 
@@ -68,7 +70,7 @@ A ciência da construção de _software_ é composta por:
 
 ## Capítulos
 
-- [Introdução](readme.md "Introdução")
+- [Introdução](README.md "Introdução")
 - Requisitos
 - Arquitetura
 - Testes
