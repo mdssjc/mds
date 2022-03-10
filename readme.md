@@ -84,4 +84,4 @@ Para visualizar a versão antiga do livro, acesse a `branch old`.
 
 ## Data da Atualização
 
-28/02/2022
+31/03/2022
