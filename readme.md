@@ -25,8 +25,6 @@ Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _softw
 
 ![Fluxo de Desenvolvimento](./assets/introduction-development-flow.png "Fluxo de Desenvolvimento")
 
-A prática é aplicada através da Programação Extrema - _Extreme Programming_ (XP).
-
 ### Linguagens de Programação
 
 As tecnologias para a construção de _software_ são divididas em: _mainstream_ e acadêmica.
@@ -60,7 +58,7 @@ A ciência da construção de _software_ é composta por:
 
 - **Systematic Program Design - SPD**: metodologia de desenvolvimento sistemático através de receitas e refinamentos do domínio para o projeto de funções, dados e mundo;
 
-- **Clean Design**: metodologia apresentada por práticas, princípios e padrões através das experiências do autor _Robert Cecil Martin_ - conhecido por _Uncle Bob_;
+- **Clean Design**: metodologia apresentada por práticas, princípios e padrões aplicados com a Programação Extrema - _Extreme Programming_ (XP) através das experiências do autor _Robert Cecil Martin_ - conhecido por _Uncle Bob_;
 
 - **Visão 4+1**: modelagem das visões da arquitetura de _software_ em Análise e Projeto Orientado a Objeto - _Object-Oriented Analysis and Design_ (OOAD) na Linguagem de Modelagem Unificada - _Unified Modeling Language_ (UML) com aspectos científicos - definida por _Philippe Kruchten_ no artigo _Architectural Blueprints - The "4+1" View Model of Software Architecture_ em 1995;
 
@@ -71,7 +69,7 @@ A ciência da construção de _software_ é composta por:
 ## Capítulos
 
 - [Introdução](README.md "Introdução")
-- Requisitos
+- [Requisitos](requirements.md "Requisitos")
 - Arquitetura
 - Testes
 - Código
