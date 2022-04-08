@@ -4,12 +4,12 @@ A ideia desse projeto vem dos livros _Pragmatic Thinking and Learning - Refactor
 
 O projeto tem a composição de:
 
-![Composição do Projeto](./assets/introduction-project-composition.png "Composição do Projeto")
+![Composição do Projeto](./assets/introduction-project-composition.png 'Composição do Projeto')
 
-- [o livro](https://github.com/mdssjc/mds/ "o livro") (atemporal);
-- [a página](https://marcelo-mds.dev/ "a página") (temporal);
-- [as notas](https://github.com/mdssjc/mds-notes/ "as notas") (fragmentos); e
-- [o repositório](https://github.com/mdssjc/ "o repositório") (construção).
+- [o livro](https://github.com/mdssjc/mds/ 'o livro') (atemporal);
+- [a página](https://marcelo-mds.dev/ 'a página') (temporal);
+- [as notas](https://github.com/mdssjc/mds-notes/ 'as notas') (fragmentos); e
+- [o repositório](https://github.com/mdssjc/ 'o repositório') (construção).
 
 ## Objetivos
 
@@ -17,13 +17,13 @@ Reunir/compilar os conhecimentos/sabedorias utilizados pela profissão de _Craft
 
 ## Introdução
 
-Os temas serão pragmaticamente voltados para o ramo Sistema de Computação, principalmente abordando a disciplina de Arquitetura de Software e Testes com foco na linguagem acadêmica **[Racket](https://racket-lang.org/ "Racket")** - outras tecnologias também serão utilizadas durante a exemplificação e/ou comparação.
+Os temas serão pragmaticamente voltados para o ramo Sistema de Computação, principalmente abordando a disciplina de Arquitetura de Software e Testes com foco na linguagem acadêmica **[Racket](https://racket-lang.org/ 'Racket')** - outras tecnologias também serão utilizadas durante a exemplificação e/ou comparação.
 
 Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_, considerando uma base sólida como também os aspectos filosóficos e científicos do processo.
 
 ### Fluxo de Desenvolvimento
 
-![Fluxo de Desenvolvimento](./assets/introduction-development-flow.png "Fluxo de Desenvolvimento")
+![Fluxo de Desenvolvimento](./assets/introduction-development-flow.png 'Fluxo de Desenvolvimento')
 
 ### Linguagens de Programação
 
@@ -58,7 +58,7 @@ A ciência da construção de _software_ é composta por:
 
 - **Systematic Program Design - SPD**: metodologia de desenvolvimento sistemático através de receitas e refinamentos do domínio para o projeto de funções, dados e mundo;
 
-- **Clean Design**: metodologia apresentada por práticas, princípios e padrões aplicados com a Programação Extrema - _Extreme Programming_ (XP) através das experiências do autor _Robert Cecil Martin_ - conhecido por _Uncle Bob_;
+- **Clean Design**: metodologia apresentada por práticas, princípios e padrões aplicados ao _Circle of Life_ da Programação Extrema - _Extreme Programming_ (XP) através das experiências do autor _Robert Cecil Martin_ - conhecido por _Uncle Bob_;
 
 - **Visão 4+1**: modelagem das visões da arquitetura de _software_ em Análise e Projeto Orientado a Objeto - _Object-Oriented Analysis and Design_ (OOAD) na Linguagem de Modelagem Unificada - _Unified Modeling Language_ (UML) com aspectos científicos - definida por _Philippe Kruchten_ no artigo _Architectural Blueprints - The "4+1" View Model of Software Architecture_ em 1995;
 
@@ -68,13 +68,13 @@ A ciência da construção de _software_ é composta por:
 
 ## Capítulos
 
-- [Introdução](README.md "Introdução")
-- [Requisitos](requirements.md "Requisitos")
+- [Introdução](README.md 'Introdução')
+- [Requisitos](requirements.md 'Requisitos')
 - Arquitetura
 - Testes
 - Código
 - Metodologia
-- [Referências](references.md "Referências")
+- [Referências](references.md 'Referências')
 
 ## Observação
 
@@ -82,4 +82,4 @@ Para visualizar a versão antiga do livro, acesse a `branch old`.
 
 ## Data da Atualização
 
-31/03/2022
+30/04/2022
