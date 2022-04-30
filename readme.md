@@ -17,7 +17,7 @@ Reunir/compilar os conhecimentos/sabedorias utilizados pela profissão de _Craft
 
 ## Introdução
 
-Os temas serão pragmaticamente voltados para o ramo Sistema de Computação, principalmente abordando a disciplina de Arquitetura de Software e Testes com foco na linguagem acadêmica **[Racket](https://racket-lang.org/ 'Racket')** - outras tecnologias também serão utilizadas durante a exemplificação e/ou comparação.
+Os temas serão pragmaticamente voltados para o ramo Sistema de Computação, principalmente abordando a disciplina de Arquitetura de Software e Testes com foco na linguagem acadêmica **[Racket](https://racket-lang.org/ 'Racket')**¹ - outras tecnologias também serão utilizadas durante a exemplificação e/ou comparação.
 
 Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_, considerando uma base sólida como também os aspectos filosóficos e científicos do processo.
 
@@ -36,9 +36,10 @@ As tecnologias acadêmicas, tais como _C_, _Racket_, _Haskell_, dentre outras...
 Dentre as linguagens de programação encontradas no projeto estão:
 
 - acadêmicas: C, Racket e Haskell;
-- modernas: Dart (Flutter/Flame), Rust (Tauri) e TypeScript (Svelte/Deno/P5);
-- padrão de indústria (mainstream): Java (Spring Boot); e
-- em desenvolvimento: V, Roc, Zig, Enso e Red.
+- modernas: Dart, Rust e TypeScript;
+- padrão de indústria (_mainstream_): Java (Spring Boot);
+- _low-code_: Enso; e
+- em desenvolvimento: V, Roc, Zig e Red.
 
 ### Filosofia
 
@@ -68,7 +69,7 @@ A ciência da construção de _software_ é composta por:
 
 ## Capítulos
 
-- [Introdução](README.md 'Introdução')
+- [Introdução](readme.md 'Introdução')
 - [Requisitos](requirements.md 'Requisitos')
 - Arquitetura
 - Testes
@@ -83,3 +84,7 @@ Para visualizar a versão antiga do livro, acesse a `branch old`.
 ## Data da Atualização
 
 30/04/2022
+
+---
+
+¹: possivelmente será substituída pela tecnologia _Scala_.

@@ -1,5 +1,5 @@
 # Sumário
 
-* [Introdução](readme.md "Introdução")
-* [Requisitos](requirements.md "Requisitos")
-* [Referências](references.md "Referências")
+- [Introdução](readme.md 'Introdução')
+- [Requisitos](requirements.md 'Requisitos')
+- [Referências](references.md 'Referências')
