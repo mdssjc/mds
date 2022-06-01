@@ -17,7 +17,7 @@ Reunir/compilar os conhecimentos/sabedorias utilizados pela profissão de _Craft
 
 ## Introdução
 
-Os temas serão pragmaticamente voltados para o ramo Sistema de Computação, principalmente abordando a disciplina de Arquitetura de Software e Testes com foco na linguagem acadêmica **[Racket](https://racket-lang.org/ 'Racket')**¹ - outras tecnologias também serão utilizadas durante a exemplificação e/ou comparação.
+Os temas serão pragmaticamente voltados para o ramo Sistema de Computação, principalmente abordando a disciplina de Arquitetura de Software e Testes com foco na linguagem **[Scala](https://scala-lang.org// 'Scala')** e plataformas _Java_ e _Java Script_.
 
 Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_, considerando uma base sólida como também os aspectos filosóficos e científicos do processo.
 
@@ -27,19 +27,11 @@ Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _softw
 
 ### Linguagens de Programação
 
-As tecnologias para a construção de _software_ são divididas em: _mainstream_ e acadêmica.
+As tecnologias para a construção de _software_ são divididas em: _mainstream_ e acadêmica, sendo:
 
-As tecnologias _mainstream_, tais como _Java_, _.NET_, _C++_, _JavaScript_, _Python_, dentre outras..., ditam o mercado de desenvolvimento de _software_ com uma grande variedade de plataformas e ferramentas (_tooling_), voltadas para os requisitos de desempenho e adaptação para as máquinas atuais - geralmente utilizadas para a resolução de problemas.
+- **mainstream**: tais como _Java_, _.NET_, _C++_, _JavaScript_, _Python_, dentre outras..., ditam o mercado de desenvolvimento de _software_ com uma grande variedade de plataformas e ferramentas (_tooling_), voltadas para os requisitos de desempenho e adaptação para as máquinas atuais, possuem uma grande comunidade impulsionada por evangelistas e entusiastas - geralmente utilizadas para a resolução de problemas.
 
-As tecnologias acadêmicas, tais como _C_, _Racket_, _Haskell_, dentre outras..., ditam a evolução da tecnologia e possuem uma comunidade especializada e voltada a aprendizagem - geralmente utilizadas para a prototipação, prova de conceito e experimentação de ideias.
-
-Dentre as linguagens de programação encontradas no projeto estão:
-
-- acadêmicas: C, Racket e Haskell;
-- modernas: Dart, Rust e TypeScript;
-- padrão de indústria (_mainstream_): Java (Spring Boot);
-- _low-code_: Enso; e
-- em desenvolvimento: V, Roc, Zig e Red.
+- **acadêmicas**: tais como _C_, _Racket_, _Haskell_, dentre outras..., ditam a evolução da tecnologia e possuem uma comunidade especializada e voltada a aprendizagem - geralmente utilizadas para a prototipação, prova de conceito e experimentação de ideias.
 
 ### Filosofia
 
@@ -83,8 +75,4 @@ Para visualizar a versão antiga do livro, acesse a `branch old`.
 
 ## Data da Atualização
 
-30/04/2022
-
----
-
-¹: possivelmente será substituída pela tecnologia _Scala_.
+31/05/2022

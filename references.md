@@ -12,3 +12,8 @@
 - **Clean Craftsmanship: Disciplines, Standards, and Ethics, 1st Edition** - _Robert C. Martin_.
 - **Clean Architecture: A Craftsman's Guide to Software Structure and Design, 1st Edition** - _Robert C. Martin_.
 - **Clean Agile: Back to Basics, 1st Edition** - _Robert C. Martin_.
+
+## DDD
+
+- **Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition** - _Eric Evans_.
+- **Implementing Domain-Driven Design 1st Edition** - _Vaughn Vernon_.
