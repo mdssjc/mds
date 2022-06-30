@@ -75,4 +75,6 @@ Para visualizar a versão antiga do livro, acesse a `branch old`.
 
 ## Data da Atualização
 
-31/05/2022
+Observação: sem atualização em Junho/22.
+
+30/06/2022
