@@ -3,6 +3,7 @@
 - **[How to Design Programs, Second Edition](https://htdp.org/)** - _Matthias Felleisen_, _Robert Bruce Findler_, _Matthew Flatt_ and _Shriram Krishnamurthi_.
 - **Pragmatic Thinking and Learning - Refactor Your "Wetware"** - _Andy Hunt_.
 - **The Pragmatic Programmer: From Journeyman to Master** - _Andrew Hunt and David Thomas_.
+- **Growing Object-Oriented Software, Guided by Tests** - _Steve Freeman and, Nat Pryce_.
 
 ## Clean Design
 
@@ -17,3 +18,7 @@
 
 - **Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition** - _Eric Evans_.
 - **Implementing Domain-Driven Design 1st Edition** - _Vaughn Vernon_.
+
+## Programação Funcional
+
+- **Grokking Simplicity: Taming complex software with functional thinking** - _Eric Normand_.
