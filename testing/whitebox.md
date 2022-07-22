@@ -1,0 +1,3 @@
+# CAIXA BRANCA
+
+A técnica de **teste de caixa branca** (_white-box testing_) tem como objetivo avaliar a estrutura interna dos elementos de programação _(técnica estrutural)_ durante a etapa de Codificação nas fases de **testes unitários** (_unit testing_) - responsáveis por auxiliar e avaliar no desenvolvimento dos cenários de uma unidade de código (estrutura interna do programa) e/ou **testes de integração ou componentes** (_integration testing or component testing_) - responsáveis por avaliar a comunicação entre unidades e recursos, principalmente a camada de infraestrutura e códigos de terceiros (**verificação**).
