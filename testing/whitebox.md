@@ -47,3 +47,33 @@ Os casos de teste são organizadas em quatro (4) fases/etapas, sendo:
 - **teardown** ou **after**: liberação dos recursos utilizados pelo código.
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (_Tell, Don't Ask_) sem o encadeamento de mensagens (_Law of Demeter_), a proposta básica é que cada **Classe de Equivalência** deva possuir um caso de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
+
+## O Que Testar?
+
+As tecnologias de desenvolvimento possuem elementos de programação mínimos legíveis aos testes, sendo: funções, comandos, macros, métodos, classes, dentre outros...
+
+## Documentação
+
+Os testes formam a documentação viva do código, em que são de extrema importância seus identificadores (nomes dos testes) serem pensadas ao nível sintático (relação entre os termos) e semântico (sentido de ideias) com o que será testado.
+
+### Convenções
+
+As seguintes convenções para os identificadores são utilizados:
+
+- Casos de Testes:
+
+  - _NameTest_: testes unitários;
+  - _NameIntegrationTest_: testes de integração; e
+  - _NameSystemTest_: testes de sistema (ver Caixa Preta).
+
+- Testes:
+
+  - _Action_: utiliza uma ação avaliável do teste, considerando o resultado e/ou condição da operação, exemplo: _adicionaUmUsuarioEmUmaListaVazia_;
+  - _Given-When-Then_: relaciona o contexto, ação e resultado do teste, exemplo: _dadoXQuandoAcontecerYEntaoFacaZ_; e
+  - _Helper Objects_: nomeia os comandos em modo imperativo e as avaliações em modo indicativo, exemplo: _dispareUmSinalDeFalha_ e _mostraAOcorrenciaDaFalha_.
+
+### Dicas
+
+Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - uma dica é utilizar _underscore_ sobre o _camel case_, conhecido também por _snake case_:
+
+`requisitarUmaMensagemComRepositorioVazio` para `requisitar_uma_mensagem_com_repositorio_vazio`
