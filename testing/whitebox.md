@@ -17,6 +17,16 @@ Outras características apresentadas são:
 - _Bugs_: previne e corrige os problemas; e
 - _Debugging_: reduz a necessidade de uso.
 
+O teste é divido em unidades de testes, em que é o menor elemento de programação de uma dada tecnologia, tais como: funções, comandos, macros, métodos, classes, dentre outros...
+
+Os excessos na unidade de teste (padrões de _feedback_) diz o quanto estável é a unidade de programação:
+
+- exercícios das responsabilidades: baixa coesão;
+- dublês das colaboradoras: alto acoplamento; e
+- avaliação em colaboradoras: encapsulamento.
+
+Complexidade ciclomática: métrica das ramificações existentes em uma unidade de programação, quanto maior o número, mais complexo e difícil de ser testado será o _software_ (mais informações em [Medindo a complexidade do seu código](http://blog.caelum.com.br/medindo-a-complexidade-do-seu-codigo/ 'Medindo a complexidade do seu código')).
+
 ## O Teste
 
 O teste utiliza as tarefas do cenário para a composição de um conjunto de casos de teste durante a etapa de Codificação, assim descrevendo **o que** cada estrutura de programação deve fazer para garantir a **verificação** da Arquitetura.
@@ -47,10 +57,6 @@ Os casos de teste são organizadas em quatro (4) fases/etapas, sendo:
 - **teardown** ou **after**: liberação dos recursos utilizados pelo código.
 
 **Importante o cuidado** para não violar o Princípio da Responsabilidade Única - _Single Responsibility Principle_ (SRP) durante a implementação do código sobre teste, pois deve-se testar apenas as funcionalidades expostas (_Tell, Don't Ask_) sem o encadeamento de mensagens (_Law of Demeter_), a proposta básica é que cada **Classe de Equivalência** deva possuir um caso de teste único e suficiente, ou seja, a inclusão de pequenos incrementos entre testes conforme suas condições limites.
-
-## O Que Testar?
-
-As tecnologias de desenvolvimento possuem elementos de programação mínimos legíveis aos testes, sendo: funções, comandos, macros, métodos, classes, dentre outros...
 
 ## Documentação
 
