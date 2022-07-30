@@ -83,3 +83,57 @@ As seguintes convenções para os identificadores são utilizados:
 Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - uma dica é utilizar _underscore_ sobre o _camel case_, conhecido também por _snake case_:
 
 `requisitarUmaMensagemComRepositorioVazio` para `requisitar_uma_mensagem_com_repositorio_vazio`
+
+## Padrões de Teste?
+
+- **AAA[A]** - organização e formatação dos casos de teste:
+
+  **A**rrange: monta/organiza o código com todas as entradas e pré-condições necessárias ao teste;
+
+  **A**ct: exercita/executa o código sobre teste;
+
+  **A**ssert: avalia os resultados obtidos do código com os esperados pelo teste;
+
+  **A**fter: finaliza os recursos utilizados no teste.
+
+- **FIRST** - propriedades de bons testes:
+
+  **F**ast: rápidos em sua execução, assim mais testes serão avaliados;
+
+  **I**solated: isolados dos outros códigos, assim a verificação da falha será óbvia;
+
+  **R**epeatable: possui repetibilidade em qualquer ordem e tempo;
+
+  **S**elf-validating: testes autoavaliáveis, automação em sua execução e avaliação;
+
+  **T**imely: em momento oportuno, escreva os testes antes do código.
+
+- **R-&gt;BICEP** - questões sobre os testes:
+
+  **R**ight: os resultados estão certos?;
+
+  **B**oundary: as condições limites estão corretas? Essa é verificada através do **CORRECT**;
+
+  **I**nverse: os relacionamentos inversos (operações inversas) estão sendo utilizadas?;
+
+  **C**ross-Check: uso de checagem cruzada com outros métodos de mesmo significado estão sendo utilizadas?;
+
+  **E**rror Conditions: as condições de erros estão sendo forçadas?;
+
+  **P**erformance: o desempenho está dentro dos limites?.
+
+- **CORRECT** - as condições limites estão:
+
+  **C**onformance: com os valores conforme o formato especificado?
+
+  **O**rdering: com o conjunto de valores em uma ordem determinada?
+
+  **R**ange: com os valores dentro da faixa (mínimo e máximo) especificada?
+
+  **R**eference: com alguma referência externa fora do controle do código?
+
+  **E**xistence: com valor existente (nulo, zero, presente e etc...)?
+
+  **C**ardinality: com a quantidade de números suficiente? Os casos interessantes são Zero, Um e Muitos através da regra **0-1-n**.
+
+  **T**ime: com as temporizações corretas (sincronização, tempo, eventos, referência e etc...)?
