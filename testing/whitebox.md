@@ -137,3 +137,20 @@ Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - u
   **C**ardinality: com a quantidade de números suficiente? Os casos interessantes são Zero, Um e Muitos através da regra **0-1-n**.
 
   **T**ime: com as temporizações corretas (sincronização, tempo, eventos, referência e etc...)?
+
+## Boas Práticas
+
+- **Identificação**: ver Documentação.
+- **Refatoração**: importante até mesmo para o código de teste.
+- **Baby Steps**: começando pelo cenário de teste mais simples em pequenos incrementos, assim ganhando confiança e conhecimento do sistema.
+- **Test Data Builders**: utilização do padrão de projeto (GoF) _Builder_ para o processo de criação dos objetos para os cenários de testes - auxilia no problema de duplicação de código.
+- **Adapters**: utilização para testes com métodos estáticos e códigos legados.
+- **Test Double**: isolação e simplificação das funcionalidades com dependência externa, assim avaliando as características de estado e comportamento do objeto:
+  - _Dummy_: implementa uma versão simples do código, visando a compilação e/ou execução;
+  - _Fake_: simplifica (com atalhos e simulação) a utilização dos recursos e dependências necessários para o código de produção, útil para _prototyping_ e _spikes_ em memória;
+  - _Stubs_: implementa uma _Query_ - responde com valores predefinidos (_hardcoded_), sem o uso de dados reais e livre de efeitos colaterais;
+  - _Saboteurs_: _em edição_;
+  - _Mocks_: registra e avalia as expectativas do comportamento da comunicação, simulando os recursos e dependências; e
+  - _Spy_: registra a utilização da comunicação - estatístico.
+- **Infraestrutura**: a camada de infraestrututra (_DAO_, _Messages_...) é testada com testes de integração.
+- **Execute Around Method**: utilização para testes com avaliação de exceção.
