@@ -154,3 +154,16 @@ Os identificadores tendem a ficarem longo, assim dificultando em sua leitura - u
   - _Spy_: registra a utilização da comunicação - estatístico.
 - **Infraestrutura**: a camada de infraestrututra (_DAO_, _Messages_...) é testada com testes de integração.
 - **Execute Around Method**: utilização para testes com avaliação de exceção.
+
+## Test Smell
+
+O código de teste pode apresentar _bad smells_, tais como:
+
+- **Unnecessary Test Code** (Código de Teste Desnecessário): o caso de teste é construído com código em excesso e/ou defensivo, sem significado e valor ao teste;
+- **Missing Abstractions** (Falta de Abstração): exagero e/ou preciosismo nos detalhes sobre a organização e formatação do teste;
+- **Irrelevant Information** (Informação Irrelevante): utilização de dados irrelevantes ao teste, tais como literais e sentinelas;
+- **Bloated Construction** (Construção Inchada): complexidade na montagem dos elementos no teste;
+- **Multiple Assertions** (Múltiplas Avaliações): excesso de responsabilidades no teste;
+- **Irrelevant Details in Test** (Detalhes Irrelevante no Teste): uso de recursos desnecessários ao teste, tais como serviços transversais de segurança, _logging_ e etc...;
+- **Misleading Organization** (Organização Enganosa): falta de organização no código de teste, por não responder a questão _AAA_;
+- **Implicit Meaning** (Significado Implícito): excesso de dados e informações aos elementos (constantes, variáveis, dados e etc...) do teste;
