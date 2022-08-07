@@ -33,6 +33,8 @@ As tecnologias para a construção de _software_ são divididas em: _mainstream_
 
 - **acadêmicas**: tais como _C_, _Racket_, _Haskell_, dentre outras..., ditam a evolução da tecnologia e possuem uma comunidade especializada e voltada a aprendizagem - geralmente utilizadas para a prototipação, prova de conceito e experimentação de ideias.
 
+**Observação**: existem também as linguagens modernas, tais como: _V_, _Red_, _Zig_, _Roc_, dentre outras..., ditam novas formas de abordagem para os problemas do mercado, pode-se considerar como uma aposta.
+
 ### Filosofia
 
 A filosofia da construção de _software_ é composta por:
