@@ -51,7 +51,7 @@ Essas ideias são aplicadas como base para as modernas arquiteturas baseadas no 
 
 A ciência da construção de _software_ é composta por:
 
-- **Systematic Program Design - SPD**: metodologia de desenvolvimento sistemático através de receitas e refinamentos do domínio para o projeto de funções, dados e mundo;
+- **Programação Funcional**: paradigma de programação baseado em princípios matemáticos, em que busca declarar as funcionalidades do _software_.
 
 - **Clean Design**: metodologia apresentada por práticas, princípios e padrões aplicados ao _Circle of Life_ da Programação Extrema - _Extreme Programming_ (XP) através das experiências do autor _Robert Cecil Martin_ - conhecido por _Uncle Bob_;
 
