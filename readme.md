@@ -64,7 +64,7 @@ A ciência da construção de _software_ é composta por:
 ## Capítulos
 
 - [Introdução](readme.md 'Introdução')
-- [Requisitos](requirements.md 'Requisitos')
+- [Requisitos](requirements/readme.md 'Requisitos')
 - Arquitetura
 - [Testes](testing/readme.md 'Testes')
 - Código
