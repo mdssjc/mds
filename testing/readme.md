@@ -11,4 +11,4 @@ A etapa de **Testes** utiliza os cenários para a avaliação da codificação d
 ## Técnicas
 
 - **[Caixa Branca](whitebox.md 'Caixa Branca')**: teste com o conhecimento da implementação.
-- **Caixa Preta**
+- **[Caixa Preta](blackbox.md 'Caixa Preta')**: teste sem o conhecimento da implementação.
