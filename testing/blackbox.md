@@ -21,6 +21,8 @@ Com auxílio dos desenvolvedores: verificação de auditoria e _logging_, dados 
 
 ## Documentação
 
+Os testes formam a documentação viva do código, em que são de extrema importância seus identificadores (nomes dos testes) serem pensadas ao nível sintático (relação entre os termos) e semântico (sentido de ideias) com o que será testado.
+
 ### Convenções
 
 As seguintes convenções para os identificadores são utilizados:

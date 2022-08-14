@@ -72,7 +72,7 @@ As seguintes convenções para os identificadores são utilizados:
 
   - _NameTest_: testes unitários;
   - _NameIntegrationTest_: testes de integração; e
-  - _NameSystemTest_: testes de sistema (ver Caixa Preta).
+  - _NameSystemTest_: testes de sistema (ver [Caixa Preta](blackbox.md 'Caixa Preta')).
 
 - Testes:
 
