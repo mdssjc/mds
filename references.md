@@ -4,6 +4,9 @@
 - **Pragmatic Thinking and Learning - Refactor Your "Wetware"** - _Andy Hunt_.
 - **The Pragmatic Programmer: From Journeyman to Master** - _Andrew Hunt and David Thomas_.
 - **Growing Object-Oriented Software, Guided by Tests** - _Steve Freeman and, Nat Pryce_.
+- **Design Patterns: Elements of Reusable Object-Oriented Software 1st Edition** - _Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides_.
+- **Design Patterns com Java: Projeto orientado a objetos guiado por padrões** - _Eduardo Guerra_.
+- **Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software 2nd Edition** - _Eric Freeman and Elisabeth Robson_.
 
 ## Clean Design
 
