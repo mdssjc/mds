@@ -16,9 +16,15 @@
 
 ## DDD
 
-- **Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition** - _Eric Evans_.
-- **Implementing Domain-Driven Design 1st Edition** - _Vaughn Vernon_.
+- **Domain-Driven Design: Tackling Complexity in the Heart of Software, 1st Edition** - _Eric Evans_.
+- **Implementing Domain-Driven Design, 1st Edition** - _Vaughn Vernon_.
 
 ## Programação Funcional
 
 - **Grokking Simplicity: Taming complex software with functional thinking** - _Eric Normand_.
+
+## Design Patterns
+
+- **Design Patterns: Elements of Reusable Object-Oriented Software, 1st Edition** - _Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides_.
+- **Design Patterns com Java: Projeto orientado a objetos guiado por padrões** - _Eduardo Guerra_.
+- **Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software, 2nd Edition** - _Eric Freeman and Elisabeth Robson_.

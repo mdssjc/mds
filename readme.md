@@ -33,6 +33,8 @@ As tecnologias para a construção de _software_ são divididas em: _mainstream_
 
 - **acadêmicas**: tais como _C_, _Racket_, _Haskell_, dentre outras..., ditam a evolução da tecnologia e possuem uma comunidade especializada e voltada a aprendizagem - geralmente utilizadas para a prototipação, prova de conceito e experimentação de ideias.
 
+**Observação**: existem também as linguagens modernas, tais como: _V_, _Red_, _Zig_, _Roc_, dentre outras..., ditam novas formas de abordagem para os problemas do mercado, pode-se considerar como uma aposta.
+
 ### Filosofia
 
 A filosofia da construção de _software_ é composta por:
@@ -49,7 +51,7 @@ Essas ideias são aplicadas como base para as modernas arquiteturas baseadas no 
 
 A ciência da construção de _software_ é composta por:
 
-- **Systematic Program Design - SPD**: metodologia de desenvolvimento sistemático através de receitas e refinamentos do domínio para o projeto de funções, dados e mundo;
+- **Programação Funcional**: paradigma de programação baseado em princípios matemáticos, em que busca declarar as funcionalidades do _software_.
 
 - **Clean Design**: metodologia apresentada por práticas, princípios e padrões aplicados ao _Circle of Life_ da Programação Extrema - _Extreme Programming_ (XP) através das experiências do autor _Robert Cecil Martin_ - conhecido por _Uncle Bob_;
 
@@ -62,7 +64,7 @@ A ciência da construção de _software_ é composta por:
 ## Capítulos
 
 - [Introdução](readme.md 'Introdução')
-- [Requisitos](requirements.md 'Requisitos')
+- [Requisitos](requirements/readme.md 'Requisitos')
 - Arquitetura
 - [Testes](testing/readme.md 'Testes')
 - Código
@@ -75,4 +77,4 @@ Para visualizar a versão antiga do livro, acesse a `branch old`.
 
 ## Data da Atualização
 
-31/07/2022
+31/08/2022

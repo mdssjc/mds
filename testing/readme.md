@@ -4,11 +4,11 @@ A etapa de **Testes** utiliza os cenários para a avaliação da codificação d
 
 ## Fases
 
-- **Unidade**: testa a menor parte do _software_;
-- **Integração/Componente**: testa a comunicação entre as partes; e
-- **Sistema/Aceitação**: testa o conjunto do _software_.
+- **Unidade**: testa o menor elemento de programação;
+- **Integração/Componente**: testa a comunicação entre os elementos de programação (funcionamento entre interfaces); e
+- **Sistema/Aceitação**: testa o _software_ conforme as regras de negócio (necessidades do cliente).
 
 ## Técnicas
 
-- **[Caixa Branca](whitebox.md 'Caixa Branca')**:
-- **Caixa Preta**:
+- **[Caixa Branca](whitebox.md 'Caixa Branca')**: teste com o conhecimento da implementação (verificação).
+- **[Caixa Preta](blackbox.md 'Caixa Preta')**: teste sem o conhecimento da implementação (validação).

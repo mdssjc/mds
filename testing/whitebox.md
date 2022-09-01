@@ -10,6 +10,8 @@ Durante o desenvolvimento de _software_, os testes auxiliam nas técnicas de:
 - **Integração Contínua** - _Continuous Integration_ (CI); e
 - **Testes de Regressão** - _Regression Testing_.
 
+**IMPORTANTE**: o teste unitário pode capturar alguns erros, porém o teste é quase sempre um processo probabilístico do que determinístico, ou seja, o teste é um substituto ruim para a prova (processo científico).
+
 Outras características apresentadas são:
 
 - Implementação: das funcionalidades do cenário;
@@ -70,7 +72,7 @@ As seguintes convenções para os identificadores são utilizados:
 
   - _NameTest_: testes unitários;
   - _NameIntegrationTest_: testes de integração; e
-  - _NameSystemTest_: testes de sistema (ver Caixa Preta).
+  - _NameSystemTest_: testes de sistema (ver [Caixa Preta](blackbox.md 'Caixa Preta')).
 
 - Testes:
 
