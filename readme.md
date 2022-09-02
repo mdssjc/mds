@@ -75,6 +75,8 @@ A ciência da construção de _software_ é composta por:
 
 Para visualizar a versão antiga do livro, acesse a `branch old`.
 
+A linguagem de exemplo do livro não está definida, podendo ser o _Scala_ ou _OCaml/Racket_ (utilizado por [Dan Grossman](https://homes.cs.washington.edu/~djg/ 'Dan Grossman')). Existe também a possibilidade do uso dessas linguagens com uma implementação final em _Java_.
+
 ## Data da Atualização
 
-31/08/2022
+30/09/2022
