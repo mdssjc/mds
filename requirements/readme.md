@@ -1,6 +1,6 @@
 # REQUISITOS
 
-![Fluxo dos Requisitos](./assets/requirements/requirements-flow.png "Fluxo dos Requisitos")
+![Fluxo dos Requisitos](../assets/requirements/requirements-flow.png "Fluxo dos Requisitos")
 
 A etapa de **Requisitos** marca o início de um projeto e determina sua base de avaliação, na qual a equipe de desenvolvimento será exposta aos problemas do cliente, esses são formados pelos requisitos em que definem uma necessidade específica, na qual detalha o que um particular produto ou serviço deve ser ou fazer - etapa fundamental nas disciplinas de Engenharia de Sistemas ou Engenharia de _Software_.
 
