@@ -81,4 +81,4 @@ A linguagem de exemplo do livro não está definida, podendo ser o _Scala_ ou _O
 
 ## Data da Atualização
 
-30/09/2022
+31/10/2022
