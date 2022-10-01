@@ -17,9 +17,11 @@ Reunir/compilar os conhecimentos/sabedorias utilizados pela profissão de _Craft
 
 ## Introdução
 
-Os temas serão pragmaticamente voltados para o ramo Sistema de Computação, principalmente abordando a disciplina de Arquitetura de Software e Testes com foco na linguagem **[Scala](https://scala-lang.org// 'Scala')** e plataformas _Java_ e _Java Script_.
+Os temas serão pragmaticamente voltados para a construção de _softwares_ na categoria de aplicações, com foco na linguagem ??? (ver observações).
 
 Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_, considerando uma base sólida como também os aspectos filosóficos e científicos do processo.
+
+O livro é um guia para carregar durante a carreira de construtor de _software_ ou _Craftman_.
 
 ### Fluxo de Desenvolvimento
 
@@ -31,13 +33,13 @@ As tecnologias para a construção de _software_ são divididas em: _mainstream_
 
 - **mainstream**: tais como _Java_, _.NET_, _C++_, _JavaScript_, _Python_, dentre outras..., ditam o mercado de desenvolvimento de _software_ com uma grande variedade de plataformas e ferramentas (_tooling_), voltadas para os requisitos de desempenho e adaptação para as máquinas atuais, possuem uma grande comunidade impulsionada por evangelistas e entusiastas - geralmente utilizadas para a resolução de problemas.
 
-- **acadêmicas**: tais como _C_, _Racket_, _Haskell_, dentre outras..., ditam a evolução da tecnologia e possuem uma comunidade especializada e voltada a aprendizagem - geralmente utilizadas para a prototipação, prova de conceito e experimentação de ideias.
+- **acadêmicas**: tais como _C_, _OCaml_, _Racket_, _Haskell_, dentre outras..., ditam a evolução da tecnologia e possuem uma comunidade especializada e voltada a aprendizagem - geralmente utilizadas para a prototipação, prova de conceito e experimentação de ideias.
 
 **Observação**: existem também as linguagens modernas, tais como: _V_, _Red_, _Zig_, _Roc_, dentre outras..., ditam novas formas de abordagem para os problemas do mercado, pode-se considerar como uma aposta.
 
 ### Filosofia
 
-A filosofia da construção de _software_ é composta por:
+A filosofia da construção de _software_ é composta por TDD, BDD e DDD, sendo:
 
 - **Desenvolvimento Guiado por Testes** - _Test Driven Development_ (TDD): é uma técnica de desenvolvimento de _software_ da Programação Extrema - _Extreme Programming_ (XP), em que os testes são criados antes do código de produção em um ciclo de falhar o teste - passar o teste - refatorar;
 
@@ -67,7 +69,7 @@ A ciência da construção de _software_ é composta por:
 - [Requisitos](requirements/readme.md 'Requisitos')
 - Arquitetura
 - [Testes](testing/readme.md 'Testes')
-- Código
+- [Código](coding/readme.md 'Código')
 - Metodologia
 - [Referências](references.md 'Referências')
 
@@ -75,6 +77,8 @@ A ciência da construção de _software_ é composta por:
 
 Para visualizar a versão antiga do livro, acesse a `branch old`.
 
+A linguagem de exemplo do livro não está definida, podendo ser o _Scala_ ou _OCaml/Racket_ (utilizado por [Dan Grossman](https://homes.cs.washington.edu/~djg/ 'Dan Grossman')). Existe também a possibilidade do uso dessas linguagens com uma implementação final em _Java_ ou _Dart_.
+
 ## Data da Atualização
 
-31/08/2022
+30/09/2022
