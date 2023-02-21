@@ -1,19 +1,27 @@
 # LIVRO DO MDS
 
-A ideia desse projeto vem dos livros _Pragmatic Thinking and Learning - Refactor Your "Wetware"_ do autor _Andy Hunt_ e _The Pragmatic Programmer: From Journeyman to Master_ dos autores _Andrew Hunt and David Thomas_, em que aconselha a criação de uma forma de cérebro externo para o registro dos estudos.
+A ideia desse projeto vem dos livros _Pragmatic Thinking and Learning - Refactor Your "Wetware"_ do autor _Andy Hunt_ e _The Pragmatic Programmer: From Journeyman to Master_ dos autores _Andrew Hunt and David Thomas_, em que aconselha a criação de uma forma de cérebro externo para os registros dos estudos.
 
 O projeto tem a composição de:
 
 ![Composição do Projeto](./assets/introduction-project-composition.png 'Composição do Projeto')
 
-- [o livro](https://github.com/mdssjc/mds/ 'o livro') (atemporal);
-- [a página](https://marcelo-mds.dev/ 'a página') (temporal);
-- [as notas](https://github.com/mdssjc/mds-notes/ 'as notas') (fragmentos); e
-- [o repositório](https://github.com/mdssjc/ 'o repositório') (construção).
+- [o livro](https://github.com/mdssjc/mds/ 'o livro') (atemporal): este projeto;
+- [a página](https://marcelo-mds.dev/ 'a página') (temporal): estado atual do projeto;
+- [as notas](https://github.com/mdssjc/mds-notes/ 'as notas') (fragmentos): complemento ao projeto através de listagens de notas e itens; e
+- [o repositório](https://github.com/mdssjc/ 'o repositório') (construção): código do projeto, com as experiências e estudos.
+
+## Para Quem é Este Livro?
+
+Para todos que desejam dar um passo a mais na profissão de _Craftsman_ - Construtor de _Software_.
+
+Se você nunca programou, estude a lógica de programação antes de continuar no livro, em breve haverá dojos para iniciantes em programação na página.
 
 ## Objetivos
 
-Reunir/compilar os conhecimentos/sabedorias utilizados pela profissão de _Craftsman_ - Construtor de _Software_.
+- Compilar os conhecimentos/sabedorias utilizados pelo craftman.
+- Explanar um modelo base de desenvolvimento com fácil aplicação em modelos de mercado.
+- Sugerir os pontos de estudos para a evolução dos temas.
 
 ## Introdução
 
@@ -81,4 +89,4 @@ A linguagem de exemplo do livro não está definida, podendo ser o _Scala_ ou _O
 
 ## Data da Atualização
 
-31/10/2022
+28/02/2023
