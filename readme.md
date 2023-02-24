@@ -15,21 +15,21 @@ O projeto tem a composição de:
 
 Para todos que desejam dar um passo a mais na profissão de _Craftsman_ - Construtor de _Software_.
 
-Se você nunca programou, estude a lógica de programação antes de continuar no livro, em breve haverá dojos para iniciantes em programação na página.
+Se você nunca programou, estude a lógica de programação antes de continuar no livro, em breve haverá dojos e/ou atividades para iniciantes em programação na página.
 
 ## Objetivos
 
-- Compilar os conhecimentos/sabedorias utilizados pelo craftman.
+- Compilar os conhecimentos/sabedorias utilizados pelo _craftman_.
 - Explanar um modelo base de desenvolvimento com fácil aplicação em modelos de mercado.
 - Sugerir os pontos de estudos para a evolução dos temas.
 
 ## Introdução
 
-Os temas serão pragmaticamente voltados para a construção de _softwares_ na categoria de aplicações, com foco na linguagem ??? (ver observações).
+O livro é um guia para carregar durante sua carreira de _Craftman_ com temas pragmaticamente voltados para a construção de _softwares_ na categoria de aplicações.
 
-Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_, considerando uma base sólida como também os aspectos filosóficos e científicos do processo.
+Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_, considerando uma base sólida como também os aspectos filosóficos e científicos do processo, assim como seus pontos de extensão.
 
-O livro é um guia para carregar durante a carreira de construtor de _software_ ou _Craftman_.
+A linguagem utilizada será o _Dart_ e a plataforma _Flutter_ para trabalhar os temas das aplicações, assim como trabalhar o _mindset_ para utilizar uma linguagem secundária para atividades complementares.
 
 ### Fluxo de Desenvolvimento
 
@@ -84,8 +84,6 @@ A ciência da construção de _software_ é composta por:
 ## Observação
 
 Para visualizar a versão antiga do livro, acesse a `branch old`.
-
-A linguagem de exemplo do livro não está definida, podendo ser o _Scala_ ou _OCaml/Racket_ (utilizado por [Dan Grossman](https://homes.cs.washington.edu/~djg/ 'Dan Grossman')). Existe também a possibilidade do uso dessas linguagens com uma implementação final em _Java_ ou _Dart_.
 
 ## Data da Atualização
 
