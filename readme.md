@@ -19,8 +19,8 @@ Se você nunca programou, estude a lógica de programação antes de continuar n
 
 ## Objetivos
 
-- Compilar os conhecimentos/sabedorias utilizados pelo _craftman_.
-- Explanar um modelo base de desenvolvimento com fácil aplicação em modelos de mercado.
+- Compilar os conhecimentos/sabedorias utilizados pelo _Craftman_.
+- Explanar um modelo de desenvolvimento base com fácil aplicação em modelos utilizados no mercado.
 - Sugerir os pontos de estudos para a evolução dos temas.
 
 ## Introdução
@@ -29,7 +29,7 @@ O livro é um guia para carregar durante sua carreira de _Craftman_ com temas pr
 
 Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_, considerando uma base sólida como também os aspectos filosóficos e científicos do processo, assim como seus pontos de extensão.
 
-A linguagem utilizada será o _Dart_ e a plataforma _Flutter_ para trabalhar os temas das aplicações, assim como trabalhar o _mindset_ para utilizar uma linguagem secundária para atividades complementares.
+A linguagens utilizadas serão o _Dart_ como também a plataforma _Flutter_ para as tarefas gerais e o _Rust_ para as estruturas mais complexas, assim trabalhando o _mindset_ para utilizar uma linguagem secundária para as atividades complementares.
 
 ### Fluxo de Desenvolvimento
 
