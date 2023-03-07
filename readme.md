@@ -9,13 +9,13 @@ O projeto tem a composição de:
 - [o livro](https://github.com/mdssjc/mds/ 'o livro') (atemporal): este projeto;
 - [a página](https://marcelo-mds.dev/ 'a página') (temporal): estado atual do projeto;
 - [as notas](https://github.com/mdssjc/mds-notes/ 'as notas') (fragmentos): complemento ao projeto através de listagens de notas e itens; e
-- [o repositório](https://github.com/mdssjc/ 'o repositório') (construção): código do projeto, com as experiências e estudos.
+- [o repositório](https://github.com/mdssjc/ 'o repositório') (construção): código do projeto com as experiências e estudos.
 
 ## Para Quem é Este Livro?
 
 Para todos que desejam dar um passo a mais na profissão de _Craftsman_ - Construtor de _Software_.
 
-Se você nunca programou, estude a lógica de programação antes de continuar no livro, em breve haverá dojos e/ou atividades para iniciantes em programação na página.
+Se você nunca programou, estude a lógica de programação antes de continuar no livro, em breve haverá dojos e/ou atividades para iniciantes em programação na página, assim como a possibildiade de apêndices sobre como iniciar na profissão.
 
 ## Objetivos
 
@@ -29,7 +29,7 @@ O livro é um guia para carregar durante sua carreira de _Craftman_ com temas pr
 
 Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_, considerando uma base sólida como também os aspectos filosóficos e científicos do processo, assim como seus pontos de extensão.
 
-A linguagens utilizadas serão o _Dart_ como também a plataforma _Flutter_ para as tarefas gerais e o _Rust_ para as estruturas mais complexas, assim trabalhando o _mindset_ para utilizar uma linguagem secundária para as atividades complementares.
+A linguagens utilizadas serão o _Dart_, a plataforma _Flutter_ e seu ecossitema para as tarefas gerais e a linguagem _Rust_ e seu ecossistema para as estruturas mais complexas, assim trabalhando o _mindset_ para utilizar uma linguagem secundária para as atividades complementares.
 
 ### Fluxo de Desenvolvimento
 
