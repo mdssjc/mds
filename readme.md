@@ -25,9 +25,9 @@ Se você nunca programou, estude a lógica de programação antes de continuar n
 
 ## Introdução
 
-O livro é um guia para carregar durante sua carreira de _Craftman_ com temas pragmaticamente voltados para a construção de _softwares_ na categoria de aplicações.
+O livro é um guia para você leitor carregar durante sua carreira de _Craftman_ com temas pragmaticamente voltados para a construção de _softwares_ na categoria de aplicações.
 
-Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_, considerando uma base sólida como também os aspectos filosóficos e científicos do processo, assim como seus pontos de extensão.
+Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_ geral, considerando uma base sólida como também os aspectos filosóficos e científicos do processo, assim como seus pontos de extensão.
 
 A linguagens utilizadas serão o _Dart_, a plataforma _Flutter_ e seu ecossitema para as tarefas gerais e a linguagem _Rust_ e seu ecossistema para as estruturas mais complexas, assim trabalhando o _mindset_ para utilizar uma linguagem secundária para as atividades complementares.
 
@@ -37,13 +37,13 @@ A linguagens utilizadas serão o _Dart_, a plataforma _Flutter_ e seu ecossitema
 
 ### Linguagens de Programação
 
-As tecnologias para a construção de _software_ são divididas em: _mainstream_ e acadêmica, sendo:
+As tecnologias para a construção de _software_ são divididas em: _mainstream_, modernas e acadêmicas, sendo:
 
 - **mainstream**: tais como _Java_, _.NET_, _C++_, _JavaScript_, _Python_, dentre outras..., ditam o mercado de desenvolvimento de _software_ com uma grande variedade de plataformas e ferramentas (_tooling_), voltadas para os requisitos de desempenho e adaptação para as máquinas atuais, possuem uma grande comunidade impulsionada por evangelistas e entusiastas - geralmente utilizadas para a resolução de problemas.
 
-- **acadêmicas**: tais como _C_, _OCaml_, _Racket_, _Haskell_, dentre outras..., ditam a evolução da tecnologia e possuem uma comunidade especializada e voltada a aprendizagem - geralmente utilizadas para a prototipação, prova de conceito e experimentação de ideias.
+- **modernas**: tais como _V_, _Red_, _Zig_, _Roc_, dentre outras..., ditam novas formas de abordagem para os problemas do mercado, pode-se considerar como uma aposta.
 
-**Observação**: existem também as linguagens modernas, tais como: _V_, _Red_, _Zig_, _Roc_, dentre outras..., ditam novas formas de abordagem para os problemas do mercado, pode-se considerar como uma aposta.
+- **acadêmicas**: tais como _C_, _OCaml_, _Racket_, _Haskell_, dentre outras..., ditam a evolução da tecnologia e possuem uma comunidade especializada e voltada a aprendizagem - geralmente utilizadas para a prototipação, prova de conceito e experimentação de ideias.
 
 ### Filosofia
 
