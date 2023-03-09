@@ -13,9 +13,7 @@ O projeto tem a composição de:
 
 ## Para Quem é Este Livro?
 
-Para todos que desejam dar um passo a mais na profissão de _Craftsman_ - Construtor de _Software_.
-
-Se você nunca programou, estude a lógica de programação antes de continuar no livro, em breve haverá dojos e/ou atividades para iniciantes em programação na página, assim como a possibildiade de apêndices sobre como iniciar na profissão.
+Este livro destina-se a todos que desejam aprimorar suas habilidades na profissão de **_Craftsman_ - Construtor de _Software_**. Se você é um iniciante na programação, recomendamos que estude a lógica de programação antes de continuar com o livro, em breve será adicionado apêndices sobre como ingressar na profissão. Na página, você encontrará dojos e/ou atividades específicas para iniciantes em programação.
 
 ## Objetivos
 
@@ -29,25 +27,27 @@ O livro é um guia para você leitor carregar durante sua carreira de _Craftman_
 
 Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_ geral, considerando uma base sólida como também os aspectos filosóficos e científicos do processo, assim como seus pontos de extensão.
 
-A linguagens utilizadas serão o _Dart_, a plataforma _Flutter_ e seu ecossitema para as tarefas gerais e a linguagem _Rust_ e seu ecossistema para as estruturas mais complexas, assim trabalhando o _mindset_ para utilizar uma linguagem secundária para as atividades complementares.
-
 ### Fluxo de Desenvolvimento
+
+O fluxo de desenvolvimento utilizado pelo _Craftman_ tem a seguinte composição:
 
 ![Fluxo de Desenvolvimento](./assets/introduction-development-flow.png 'Fluxo de Desenvolvimento')
 
-### Linguagens de Programação
+### A Linguagem
 
-As tecnologias para a construção de _software_ são divididas em: _mainstream_, modernas e acadêmicas, sendo:
+As linguagens de programação são geralmente classificadas em três categorias: _mainstream_, modernas e acadêmicas.
 
-- **mainstream**: tais como _Java_, _.NET_, _C++_, _JavaScript_, _Python_, dentre outras..., ditam o mercado de desenvolvimento de _software_ com uma grande variedade de plataformas e ferramentas (_tooling_), voltadas para os requisitos de desempenho e adaptação para as máquinas atuais, possuem uma grande comunidade impulsionada por evangelistas e entusiastas - geralmente utilizadas para a resolução de problemas.
+- **Mainstream**: são as linguagens mais amplamente utilizadas na indústria de _software_ devido à sua confiabilidade, grande variedade de plataformas e bibliotecas disponíveis, bem como à sua adaptação às máquinas atuais. Essas linguagens são usadas para resolver problemas em geral e possuem uma grande comunidade de entusiastas e evangelistas. Alguns exemplos de linguagens _mainstream_ incluem _Java_, _C#,_ _C++_, _JavaScript_, _Python_ e _Ruby_.
 
-- **modernas**: tais como _V_, _Red_, _Zig_, _Roc_, dentre outras..., ditam novas formas de abordagem para os problemas do mercado, pode-se considerar como uma aposta.
+- **Modernas**: são as linguagens de programação criadas recentemente para atender às necessidades específicas do mercado. Elas trazem novas ideias e abordagens para resolver problemas, visando aumentar a produtividade e a segurança. Exemplos de linguagens modernas incluem _Dart_, _Rust_, _Kotlin_, _Swift_, _Go_, _V_ e _Zig_.
 
-- **acadêmicas**: tais como _C_, _OCaml_, _Racket_, _Haskell_, dentre outras..., ditam a evolução da tecnologia e possuem uma comunidade especializada e voltada a aprendizagem - geralmente utilizadas para a prototipação, prova de conceito e experimentação de ideias.
+- **Acadêmicas**: são as linguagens de programação que são usadas principalmente no ambiente acadêmico para pesquisa e experimentação de ideias. Essas linguagens são frequentemente usadas para ensinar conceitos avançados de programação e ciência da computação. Alguns exemplos de linguagens acadêmicas incluem _Haskell_, _Racket_, _Lisp_, _ML_ e _Prolog_.
 
-### Filosofia
+As linguagens de programação escolhidas para este livro são o _Dart_, que será utilizada em conjunto com a plataforma _Flutter_ e seu ecossistema para tarefas gerais, e a linguagem _Rust_, juntamente com seu ecossistema, para estruturas mais complexas. A escolha dessas duas linguagens visa fomentar a adoção de uma mentalidade (_mindset_) de usar uma linguagem secundária para atividades complementares.
 
-A filosofia da construção de _software_ é composta por TDD, BDD e DDD, sendo:
+### A Filosofia
+
+A filosofia do _Craftman_ é composta por TDD, BDD e DDD, sendo:
 
 - **Desenvolvimento Guiado por Testes** - _Test Driven Development_ (TDD): é uma técnica de desenvolvimento de _software_ da Programação Extrema - _Extreme Programming_ (XP), em que os testes são criados antes do código de produção em um ciclo de falhar o teste - passar o teste - refatorar;
 
@@ -55,21 +55,15 @@ A filosofia da construção de _software_ é composta por TDD, BDD e DDD, sendo:
 
 - **Projeto Orientado a Domínio** - _Domain Driven Design_ (DDD): aborda um compilado de experiências aplicadas ao desenvolvimento de _software_.
 
-Essas ideias são aplicadas como base para as modernas arquiteturas baseadas no _Ports-And-Adapters_, tais como: _Hexagonal_, _Onion_ e _Clean Architecture_.
+### A Ciência
 
-### Ciência
+A ciência do _Craftman_ é composta por PLT, _Clean Design_ e Manuscritos, sendo:
 
-A ciência da construção de _software_ é composta por:
+- **Circle of Life**: em breve.
 
-- **Programação Funcional**: paradigma de programação baseado em princípios matemáticos, em que busca declarar as funcionalidades do _software_.
+- **Clean Design**: em breve;
 
-- **Clean Design**: metodologia apresentada por práticas, princípios e padrões aplicados ao _Circle of Life_ da Programação Extrema - _Extreme Programming_ (XP) através das experiências do autor _Robert Cecil Martin_ - conhecido por _Uncle Bob_;
-
-- **Visão 4+1**: modelagem das visões da arquitetura de _software_ em Análise e Projeto Orientado a Objeto - _Object-Oriented Analysis and Design_ (OOAD) na Linguagem de Modelagem Unificada - _Unified Modeling Language_ (UML) com aspectos científicos - definida por _Philippe Kruchten_ no artigo _Architectural Blueprints - The "4+1" View Model of Software Architecture_ em 1995;
-
-- **Effective**: documentação explanado o que fazer e não fazer com a tecnologia na visão dos desenvolvedores com expertise; e
-
-- **Documentação**: documentação e/ou guias sobre o ecossistema da tecnologia na visão dos desenvolvedores.
+- **Pergaminhos**: em breve.
 
 ## Capítulos
 
