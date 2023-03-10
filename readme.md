@@ -57,7 +57,7 @@ A filosofia do _Craftman_ é composta por TDD, BDD e DDD, sendo:
 
 ### A Ciência
 
-A ciência do _Craftman_ é composta por PLT, _Clean Design_ e Manuscritos, sendo:
+A ciência do _Craftman_ é composta por _Circle of Life_, _Clean Design_ e Pergaminhos, sendo:
 
 - **Circle of Life**: em breve.
 
@@ -72,7 +72,9 @@ A ciência do _Craftman_ é composta por PLT, _Clean Design_ e Manuscritos, send
 - Arquitetura
 - [Testes](testing/readme.md 'Testes')
 - [Código](coding/readme.md 'Código')
+- Monitoramento
 - Metodologia
+- Conclusão
 - [Referências](references.md 'Referências')
 
 ## Observação
