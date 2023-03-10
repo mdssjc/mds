@@ -1,8 +1,13 @@
 # REFERÊNCIAS
 
+## Base
+
+- Hunt, Andy. Pragmatic Thinking and Learning - Refactor Your "Wetware".
+- Hunt, Andrew, and Thomas, David. The Pragmatic Programmer: From Journeyman to Master.
+
+## Programming
+
 - **[How to Design Programs, Second Edition](https://htdp.org/)** - _Matthias Felleisen_, _Robert Bruce Findler_, _Matthew Flatt_ and _Shriram Krishnamurthi_.
-- **Pragmatic Thinking and Learning - Refactor Your "Wetware"** - _Andy Hunt_.
-- **The Pragmatic Programmer: From Journeyman to Master** - _Andrew Hunt and David Thomas_.
 - **Growing Object-Oriented Software, Guided by Tests** - _Steve Freeman and, Nat Pryce_.
 
 ## Clean Design
