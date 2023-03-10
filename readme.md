@@ -1,6 +1,6 @@
 # LIVRO DO MDS
 
-A ideia desse projeto vem dos livros _Pragmatic Thinking and Learning - Refactor Your "Wetware"_ do autor _Andy Hunt_ e _The Pragmatic Programmer: From Journeyman to Master_ dos autores _Andrew Hunt and David Thomas_, em que aconselha a criação de uma forma de cérebro externo para os registros dos estudos.
+A ideia por trás desse projeto foi inspirada pelos livros _Pragmatic Thinking and Learning - Refactor Your "Wetware"_ do autor _Andy Hunt_ e _The Pragmatic Programmer: From Journeyman to Master_ dos autores _Andrew Hunt_ e _David Thomas_. Ambos os livros abordam a importância de se criar um "cérebro externo" para registro e organização dos estudos e aprendizados.
 
 O projeto tem a composição de:
 
