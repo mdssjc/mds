@@ -6,10 +6,10 @@ O projeto tem a composição de:
 
 ![Composição do Projeto](./assets/introduction-project-composition.png 'Composição do Projeto')
 
-- [o livro](https://github.com/mdssjc/mds/ 'o livro') (atemporal): este projeto;
-- [a página](https://marcelo-mds.dev/ 'a página') (temporal): estado atual do projeto;
-- [as notas](https://github.com/mdssjc/mds-notes/ 'as notas') (fragmentos): complemento ao projeto através de listagens de notas e itens; e
-- [o repositório](https://github.com/mdssjc/ 'o repositório') (construção): código do projeto com as experiências e estudos.
+- [o livro](https://github.com/mdssjc/mds/ 'o livro') (atemporal): livro na qual explora diversos tópicos relacionados ao desenvolvimento de software, com foco em boas práticas e técnicas modernas;
+- [a página](https://marcelo-mds.dev/ 'a página') (temporal): página pessoal com informações sobre experiências e projetos relacionados ao desenvolvimento de software;
+- [as notas](https://github.com/mdssjc/mds-notes/ 'as notas') (fragmentos): repositório de anotações sobre diversos tópicos relacionados ao desenvolvimento de software e assuntos relacionados; e
+- [o repositório](https://github.com/mdssjc/ 'o repositório') (construção): repositório principal do projeto com o código-fonte e as contribuições na forma de experiências e estudos.
 
 ## Para Quem é Este Livro?
 
@@ -47,23 +47,23 @@ As linguagens de programação escolhidas para este livro são o _Dart_, que ser
 
 ### A Filosofia
 
-A filosofia do _Craftman_ é composta por TDD, BDD e DDD, sendo:
+A filosofia do Craftman é composta por três importantes técnicas de desenvolvimento de software: TDD, BDD e DDD.
 
-- **Desenvolvimento Guiado por Testes** - _Test Driven Development_ (TDD): é uma técnica de desenvolvimento de _software_ da Programação Extrema - _Extreme Programming_ (XP), em que os testes são criados antes do código de produção em um ciclo de falhar o teste - passar o teste - refatorar;
+- **Desenvolvimento Guiado por Testes (TDD)**: é uma técnica da Programação Extrema (XP) que consiste em escrever os testes antes do código de produção, em um ciclo de falha-passa-refatora. Essa abordagem visa garantir a qualidade do código e reduzir a quantidade de bugs.
 
-- **Desenvolvimento Guiado por Comportamento** - _Behavior Driven Development_ (BDD): é uma técnica de desenvolvimento de _software_ derivada do Desenvolvimento Guiado por Testes - _Test Driven Development_ (TDD) e combinada com práticas do Projeto Orientado a Domínio - _Domain Driven Design_ (DDD) e Análise e Projeto Orientado a Objeto - _Object-Oriented Analysis and Design_ (OOAD), em que utiliza a linguagem do domínio e os testes são criados em paralelo ao código de produção; e
+- **Desenvolvimento Guiado por Comportamento (BDD)**: é uma técnica derivada do TDD que utiliza a linguagem do domínio e foca no comportamento esperado do sistema. Em conjunto com práticas de Domain Driven Design (DDD) e Object-Oriented Analysis and Design (OOAD), os testes são criados em paralelo ao código de produção, permitindo uma melhor comunicação entre as equipes de desenvolvimento e negócios.
 
-- **Projeto Orientado a Domínio** - _Domain Driven Design_ (DDD): aborda um compilado de experiências aplicadas ao desenvolvimento de _software_.
+- **Projeto Orientado a Domínio (DDD)**: é uma abordagem que reúne um conjunto de experiências e práticas para o desenvolvimento de software. O DDD se concentra em modelar o domínio do problema, utilizando conceitos como entidades, valores, serviços e agregados para criar um código mais expressivo e sustentável ao longo do tempo.
 
 ### A Ciência
 
-A ciência do _Craftman_ é composta por _Circle of Life and Pomodoro_, _Clean Design_ e Pergaminhos, sendo:
+A ciência do Craftman é composta por três elementos essenciais para os desenvolvedores de software: Circle of Life and Pomodoro, Clean Design e Pergaminhos.
 
-- **Circle of Life and Pomodoro**: em breve.
+- **Circle of Life and Pomodoro**: são duas ferramentas poderosas para maximizar a produtividade e alcançar objetivos de maneira eficiente e saudável. A combinação dessas ferramentas pode ajudar a gerenciar melhor o tempo e o trabalho, levando a melhores resultados e satisfação pessoal e profissional.
 
-- **Clean Design**: em breve;
+- **Clean Design**: é uma metodologia criada pelo autor Robert C. Martin, também conhecido como Uncle Bob, que prioriza a clareza, simplicidade e facilidade de manutenção do código em todas as fases do processo de desenvolvimento de software. Esses princípios ajudam a criar sistemas mais eficientes e sustentáveis.
 
-- **Pergaminhos**: em breve.
+- **Pergaminhos**: são um conjunto de conhecimentos e experiências que têm sido utilizados e aprimorados por desenvolvedores de software ao longo dos anos na forma de práticas, princípios e padrões.
 
 ## Capítulos
 
