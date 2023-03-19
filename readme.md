@@ -81,6 +81,8 @@ A ciência do Craftman é composta por três elementos essenciais para os desenv
 
 Para visualizar a versão antiga do livro, acesse a `branch old`.
 
+O foco será em utilizar o Dart e o Rust, porém como toda ferramenta, poderá ser alterada/adicionada com a necessidade, conforme a proposta do livro em utilizar um ecossistema para resolução de problemas.
+
 ## Data da Atualização
 
 31/03/2023
