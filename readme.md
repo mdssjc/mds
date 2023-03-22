@@ -67,6 +67,7 @@ A ciência do Craftman é composta por três elementos essenciais para os desenv
 
 ## Capítulos
 
+- [Capa](cover.md 'Capa')
 - [Introdução](readme.md 'Introdução')
 - [Requisitos](requirements/readme.md 'Requisitos')
 - Arquitetura
