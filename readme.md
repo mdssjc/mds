@@ -47,23 +47,23 @@ As linguagens de programação escolhidas para este livro são o _Dart_, que ser
 
 ### A Filosofia
 
-A filosofia do Craftman é composta por três importantes técnicas de desenvolvimento de software: TDD, BDD e DDD.
+A filosofia do _Craftman_ é composta por três importantes técnicas de desenvolvimento de _software_: TDD, BDD e DDD.
 
-- **Desenvolvimento Guiado por Testes (TDD)**: é uma técnica da Programação Extrema (XP) que consiste em escrever os testes antes do código de produção, em um ciclo de falha-passa-refatora. Essa abordagem visa garantir a qualidade do código e reduzir a quantidade de bugs.
+- **Desenvolvimento Guiado por Testes (TDD)**: é uma técnica da Programação Extrema (XP) que consiste em escrever os testes antes do código de produção, em um ciclo de falha-passa-refatora. Essa abordagem visa garantir a qualidade do código e reduzir a quantidade de _bugs_.
 
-- **Desenvolvimento Guiado por Comportamento (BDD)**: é uma técnica derivada do TDD que utiliza a linguagem do domínio e foca no comportamento esperado do sistema. Em conjunto com práticas de Domain Driven Design (DDD) e Object-Oriented Analysis and Design (OOAD), os testes são criados em paralelo ao código de produção, permitindo uma melhor comunicação entre as equipes de desenvolvimento e negócios.
+- **Desenvolvimento Guiado por Comportamento (BDD)**: é uma técnica derivada do TDD que utiliza a linguagem do domínio e foca no comportamento esperado do sistema. Em conjunto com práticas de _Domain Driven Design_ (DDD) e _Object-Oriented Analysis and Design_ (OOAD), os testes são criados em paralelo ao código de produção, permitindo uma melhor comunicação entre as equipes de desenvolvimento e negócios.
 
-- **Projeto Orientado a Domínio (DDD)**: é uma abordagem que reúne um conjunto de experiências e práticas para o desenvolvimento de software. O DDD se concentra em modelar o domínio do problema, utilizando conceitos como entidades, valores, serviços e agregados para criar um código mais expressivo e sustentável ao longo do tempo.
+- **Projeto Orientado a Domínio (DDD)**: é uma abordagem que reúne um conjunto de experiências e práticas para o desenvolvimento de _software_. O DDD se concentra em modelar o domínio do problema, utilizando conceitos como entidades, valores, serviços e agregados para criar um código mais expressivo e sustentável ao longo do tempo.
 
 ### A Ciência
 
-A ciência do Craftman é composta por três elementos essenciais para os desenvolvedores de software: Circle of Life and Pomodoro, Clean Design e Pergaminhos.
+A ciência do _Craftman_ é composta por três elementos essenciais para os desenvolvedores de _software_: _Circle of Life and Pomodoro_, _Clean Design_ e Pergaminhos.
 
 - **Circle of Life and Pomodoro**: são duas ferramentas poderosas para maximizar a produtividade e alcançar objetivos de maneira eficiente e saudável. A combinação dessas ferramentas pode ajudar a gerenciar melhor o tempo e o trabalho, levando a melhores resultados e satisfação pessoal e profissional.
 
-- **Clean Design**: é uma metodologia criada pelo autor Robert C. Martin, também conhecido como Uncle Bob, que prioriza a clareza, simplicidade e facilidade de manutenção do código em todas as fases do processo de desenvolvimento de software. Esses princípios ajudam a criar sistemas mais eficientes e sustentáveis.
+- **Clean Design**: é uma metodologia criada pelo autor _Robert C. Martin_, também conhecido como _Uncle Bob_, que prioriza a clareza, simplicidade e facilidade de manutenção do código em todas as fases do processo de desenvolvimento de _software_. Esses princípios ajudam a criar sistemas mais eficientes e sustentáveis.
 
-- **Pergaminhos**: são um conjunto de conhecimentos e experiências que têm sido utilizados e aprimorados por desenvolvedores de software ao longo dos anos na forma de práticas, princípios e padrões.
+- **Pergaminhos**: são um conjunto de conhecimentos e experiências que têm sido utilizados e aprimorados por desenvolvedores de _software_ ao longo dos anos na forma de práticas, princípios e padrões.
 
 ## Capítulos
 
@@ -82,7 +82,7 @@ A ciência do Craftman é composta por três elementos essenciais para os desenv
 
 Para visualizar a versão antiga do livro, acesse a `branch old`.
 
-O foco será em utilizar o Dart e o Rust, porém como toda ferramenta, poderá ser alterada/adicionada com a necessidade, conforme a proposta do livro em utilizar um ecossistema para resolução de problemas.
+O foco será em utilizar o _Dart_ e o _Rust_, porém como toda ferramenta, poderá ser alterada/adicionada com a necessidade, conforme a proposta do livro em utilizar um ecossistema para resolução de problemas.
 
 ## Data da Atualização
 
