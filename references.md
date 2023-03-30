@@ -2,12 +2,12 @@
 
 ## Base
 
-- Hunt, Andy. Pragmatic Thinking and Learning - Refactor Your "Wetware".
-- Hunt, Andrew, and Thomas, David. The Pragmatic Programmer: From Journeyman to Master.
+- **Hunt, Andy**. _Pragmatic Thinking and Learning - Refactor Your "Wetware"_. Pragmatic Bookshelf, 2008.
+- **Hunt, Andrew, and Thomas, David**. _The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition. 2nd ed._, Addison-Wesley Professional, 2019.
+- **Felleisen, Matthias, et al**. [_How to Design Programs, 2nd ed._](https://htdp.org/ 'How to Design Programs, Second Edition'), MIT Press, 2018.
 
 ## Programming
 
-- **[How to Design Programs, Second Edition](https://htdp.org/)** - _Matthias Felleisen_, _Robert Bruce Findler_, _Matthew Flatt_ and _Shriram Krishnamurthi_.
 - **Growing Object-Oriented Software, Guided by Tests** - _Steve Freeman and, Nat Pryce_.
 
 ## Clean Design
