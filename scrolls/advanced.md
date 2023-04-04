@@ -1,3 +1,0 @@
-# AVANÇADO
-
-Em breve...

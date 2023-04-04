@@ -1,3 +1,0 @@
-# INTERMEDIÁRIO
-
-Em breve...
