@@ -23,15 +23,11 @@ Este livro destina-se a todos que desejam aprimorar suas habilidades na profiss�
 
 ## Introdução
 
-O livro é um guia para você leitor carregar durante sua carreira de _Craftman_ com temas pragmaticamente voltados para a construção de _softwares_ na categoria de aplicações.
+Este livro é um guia prático para desenvolvedores de _software_, com foco em construir aplicações de qualidade. Os capítulos abordam desde os fundamentos da programação até práticas essenciais para garantir a entrega de um produto de qualidade.
 
-Os capítulos descrevem as etapas marco de um fluxo de desenvolvimento de _software_ geral, considerando uma base sólida como também os aspectos filosóficos e científicos do processo, assim como seus pontos de extensão.
+Ao longo do livro, exploramos as etapas fundamentais do desenvolvimento de _software_, incluindo o entendimento dos requisitos, a definição da arquitetura, os testes, o desenvolvimento de código e o monitoramento. Além disso, discutimos aspectos filosóficos e científicos do processo, bem como seus pontos de extensão.
 
-### Fluxo de Desenvolvimento
-
-O fluxo de desenvolvimento utilizado pelo _Craftman_ tem a seguinte composição:
-
-![Fluxo de Desenvolvimento](./assets/introduction-development-flow.png 'Fluxo de Desenvolvimento')
+Se você é um iniciante na área de programação ou um desenvolvedor experiente que busca aprimorar suas habilidades, este livro é para você. Aproveite a leitura e aplique o conhecimento adquirido em seus projetos para se tornar um **_Craftman_** de sucesso!
 
 ### A Linguagem
 
