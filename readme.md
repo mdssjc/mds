@@ -69,6 +69,7 @@ A ciência do _Craftman_ é composta por três elementos essenciais para os dese
 
 - [Capa](cover.md 'Capa')
 - [Introdução](readme.md 'Introdução')
+- [Pergaminhos](scrolls/readme.md 'Pergaminhos')
 - [Requisitos](requirements/readme.md 'Requisitos')
 - Arquitetura
 - [Testes](testing/readme.md 'Testes')
@@ -88,4 +89,4 @@ O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, po
 
 ## Data da Atualização
 
-31/03/2023
+30/04/2023
