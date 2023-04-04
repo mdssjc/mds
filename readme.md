@@ -70,12 +70,8 @@ A ciência do _Craftman_ é composta por três elementos essenciais para os dese
 - [Capa](cover.md 'Capa')
 - [Introdução](readme.md 'Introdução')
 - [Fundamentos](foundations/readme.md 'Fundamentos')
+- [Práticas Essenciais](essential-practices/readme.md 'Práticas Essenciais')
 - [Pergaminhos](scrolls/readme.md 'Pergaminhos')
-- [Requisitos](requirements/readme.md 'Requisitos')
-- Arquitetura
-- [Testes](testing/readme.md 'Testes')
-- [Código](coding/readme.md 'Código')
-- Monitoramento
 - Metodologia
 - Conclusão
 - [Referências](references.md 'Referências')
