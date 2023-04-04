@@ -43,13 +43,13 @@ As linguagens de programação escolhidas para este livro são o _Dart_, que ser
 
 ### A Filosofia
 
-A filosofia do _Craftman_ é composta por três importantes técnicas de desenvolvimento de _software_: TDD, BDD e DDD.
+A filosofia do _Craftman_ é composta por três importantes técnicas de desenvolvimento de _software_: TDD/BDD, DDD e Lógica.
 
-- **Desenvolvimento Guiado por Testes (TDD)**: é uma técnica da Programação Extrema (XP) que consiste em escrever os testes antes do código de produção, em um ciclo de falha-passa-refatora. Essa abordagem visa garantir a qualidade do código e reduzir a quantidade de _bugs_.
-
-- **Desenvolvimento Guiado por Comportamento (BDD)**: é uma técnica derivada do TDD que utiliza a linguagem do domínio e foca no comportamento esperado do sistema. Em conjunto com práticas de _Domain Driven Design_ (DDD) e _Object-Oriented Analysis and Design_ (OOAD), os testes são criados em paralelo ao código de produção, permitindo uma melhor comunicação entre as equipes de desenvolvimento e negócios.
+- **Desenvolvimento Guiado por Testes e Comportamento (TDD/BDD)**: são técnicas de desenvolvimento de _software_ que têm em comum a criação de testes automatizados para validar o comportamento do _software_. Enquanto o TDD consiste em escrever os testes antes do código de produção, em um ciclo de falha-passa-refatora, visando garantir a qualidade do código e reduzir a quantidade de _bugs_, o BDD utiliza a linguagem do domínio e foca no comportamento esperado do sistema, permitindo uma melhor comunicação entre as equipes de desenvolvimento e negócios. Embora com abordagens diferentes, ambos podem ser usados em conjunto para melhorar a qualidade do _software_ e aumentar a eficiência da equipe de desenvolvimento.
 
 - **Projeto Orientado a Domínio (DDD)**: é uma abordagem que reúne um conjunto de experiências e práticas para o desenvolvimento de _software_. O DDD se concentra em modelar o domínio do problema, utilizando conceitos como entidades, valores, serviços e agregados para criar um código mais expressivo e sustentável ao longo do tempo.
+
+- **Lógica**: a lógica é uma disciplina fundamental para a programação de _software_. Ela trata do estudo dos princípios que regem o raciocínio correto e consistente, permitindo a criação de algoritmos e estruturas de dados que solucionem problemas de forma eficiente e elegante. A lógica está presente em diversas áreas da programação, desde a análise de requisitos até a implementação de algoritmos complexos, e é um conhecimento essencial para o desenvolvimento de _software_ de qualidade.
 
 ### A Ciência
 
