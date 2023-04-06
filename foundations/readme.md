@@ -28,3 +28,4 @@ Ao aprender Dart e Rust, você adquirirá habilidades valiosas e ampliará seu c
 - o que é e como utilizar o pomodoro
 - primeira resolução de problema
   - em cada linguagem
+- como evoluir nas linguagens
