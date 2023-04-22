@@ -1,4 +1,4 @@
-# LIVRO DO MDS
+# INTRODUÇÃO
 
 A ideia por trás desse projeto foi inspirada pelos livros _Pragmatic Thinking and Learning - Refactor Your "Wetware"_ do autor _Andy Hunt_ e _The Pragmatic Programmer: From Journeyman to Master_ dos autores _Andrew Hunt_ e _David Thomas_. Ambos os livros abordam a importância de se criar um "cérebro externo" para registro e organização dos estudos e aprendizados.
 
@@ -21,7 +21,7 @@ Este livro destina-se a todos que desejam aprimorar suas habilidades na profiss�
 - Explanar um modelo de desenvolvimento base com fácil aplicação em modelos utilizados no mercado.
 - Sugerir os pontos de estudos para a evolução dos temas.
 
-## Introdução
+## O que é este livro?
 
 Este livro é um guia prático para desenvolvedores de _software_, com foco em construir aplicações de qualidade. Os capítulos abordam desde os fundamentos da programação até práticas essenciais para garantir a entrega de um produto de qualidade.
 
