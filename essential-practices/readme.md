@@ -7,5 +7,6 @@ Em breve...
 - [Requisitos](requirements/readme.md 'Requisitos')
 - [Arquitetura](architecture/readme.md 'Arquitetura')
 - [Testes](testing/readme.md 'Testes')
-- [Código](coding/readme.md 'Código')
+- [Codificação](coding/readme.md 'Codificação')
 - [Monitoramento](monitoring/readme.md 'Monitoramento')
+- [Observabilidade](observability/readme.md 'Observabilidade')
