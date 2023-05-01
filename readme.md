@@ -82,4 +82,4 @@ O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, po
 
 ## Data da Atualização
 
-30/04/2023
+31/05/2023
