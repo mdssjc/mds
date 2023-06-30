@@ -78,8 +78,10 @@ Para visualizar a versão antiga do livro, acesse a `branch old`.
 
 O foco será em utilizar o _Dart_ e o _Rust_, porém como toda ferramenta, poderá ser alterada/adicionada com a necessidade, conforme a proposta do livro em utilizar um ecossistema para resolução de problemas.
 
-O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, pode conter erros ou imprecisões. Estes serão corrigidas na próxima versão de Junho.
+Existe uma possibilidade da substituição do _Rust_ pelo _Go_, sendo demais linguagens (com o _Rust_) aplicados em atividades complementares ao livro.
+
+O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, pode conter erros ou imprecisões. Estes serão corrigidas na próxima versão de Julho.
 
 ## Data da Atualização
 
-31/05/2023
+30/06/2023
