@@ -80,8 +80,8 @@ O foco será em utilizar o _Dart_ e o _Rust_, porém como toda ferramenta, poder
 
 Existe uma possibilidade da substituição do _Rust_ pelo _Go_, sendo demais linguagens (com o _Rust_) aplicados em atividades complementares ao livro.
 
-O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, pode conter erros ou imprecisões. Estes serão corrigidas na próxima versão de Julho.
+O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, pode conter erros ou imprecisões. Estes serão corrigidas na próxima versão de Agosto.
 
 ## Data da Atualização
 
-30/06/2023
+31/07/2023
