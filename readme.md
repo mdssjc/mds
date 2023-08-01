@@ -76,9 +76,9 @@ A ciência do _Craftman_ é composta por três elementos essenciais para os dese
 
 Para visualizar a versão antiga do livro, acesse a `branch old`.
 
-O foco será em utilizar o _Dart_ e o _Rust_, porém como toda ferramenta, poderá ser alterada/adicionada com a necessidade, conforme a proposta do livro em utilizar um ecossistema para resolução de problemas.
+Sobre as linguagens utilizadas no projeto, teremos o _Dart_, _Go_ e _Rust_ presentes no livros, assim como outras presentes na composição do projeto como na página/repositório através de artigos e dojos.
 
-Existe uma possibilidade da substituição do _Rust_ pelo _Go_, sendo demais linguagens (com o _Rust_) aplicados em atividades complementares ao livro.
+O texto de introdução será atualizado para exemplificar essas linguagens e suas aplicações.
 
 O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, pode conter erros ou imprecisões. Estes serão corrigidas na próxima versão de Agosto.
 
