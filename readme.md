@@ -37,9 +37,9 @@ As linguagens de programação são geralmente classificadas em três categorias
 
 - **Modernas**: são as linguagens de programação criadas recentemente para atender às necessidades específicas do mercado. Elas trazem novas ideias e abordagens para resolver problemas, visando aumentar a produtividade e a segurança. Exemplos de linguagens modernas incluem _Dart_, _Rust_, _Kotlin_, _Swift_, _Go_, _V_ e _Zig_.
 
-- **Acadêmicas**: são as linguagens de programação que são usadas principalmente no ambiente acadêmico para pesquisa e experimentação de ideias. Essas linguagens são frequentemente usadas para ensinar conceitos avançados de programação e ciência da computação. Alguns exemplos de linguagens acadêmicas incluem _Haskell_, _Racket_, _Lisp_, _ML_ e _Prolog_.
+- **Acadêmicas**: são as linguagens de programação usadas principalmente no ambiente acadêmico para pesquisa e experimentação de ideias. Essas linguagens são frequentemente usadas para ensinar conceitos avançados de programação e ciência da computação. Alguns exemplos de linguagens acadêmicas incluem _Haskell_, _Racket_, _Lisp_, _ML_ e _Prolog_.
 
-As linguagens de programação escolhidas para este livro são o _Dart_, que será utilizada em conjunto com a plataforma _Flutter_ e seu ecossistema para tarefas gerais, e a linguagem _Rust_, juntamente com seu ecossistema, para estruturas mais complexas. A escolha dessas duas linguagens visa fomentar a adoção de uma mentalidade (_mindset_) de usar uma linguagem secundária para atividades complementares.
+O livro utiliza a linguagem de programação _Racket_ para apresentar os conceitos, as demais linguagens são utilizadas como complemento para o conteúdo do livro através do Caminho do Código e o Laboratório do Código.
 
 ### A Filosofia
 
