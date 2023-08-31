@@ -76,12 +76,15 @@ A ciência do _Craftman_ é composta por três elementos essenciais para os dese
 
 Para visualizar a versão antiga do livro, acesse a `branch old`.
 
-Sobre as linguagens utilizadas no projeto, teremos o _Dart_, _Go_ e _Rust_ presentes no livros, assim como outras presentes na composição do projeto como na página/repositório através de artigos e dojos.
+Proposta final sobre as linguagens aplicadas ao projeto: será utilizado a linguagem acadêmica _Racket_ para à apresentação dos conceitos, isso permite que o livro possa ser utilizados por todos como referência e tenha uma melhor forma de evolução, demais linguagens serão apresentadas por duas seções, sendo:
 
-O texto de introdução será atualizado para exemplificar essas linguagens e suas aplicações.
+- O caminho do código: em que disponibilizará um link para a página com as implementações das linguagens, permitindo o _pull request_ da comunidade, incluíndo um _readme_ com a explicação pertinente a linguagem e o acesso ao código da implementação; e
+- O laboratório do código: são experimentos, dojos e outros materiais, na qual serão lincadas ao livro com sua explicação e implementação.
 
-O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, pode conter erros ou imprecisões. Estes serão corrigidas na próxima versão de Agosto.
+Os nomes para os títulos poderão sofrer alterações para compatibilizar com a forma de comunicação aplicada ao projeto.
+
+O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, pode conter erros ou imprecisões. Estes serão corrigidas na próxima versão de setembro.
 
 ## Data da Atualização
 
-31/07/2023
+31/08/2023
