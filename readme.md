@@ -39,7 +39,7 @@ As linguagens de programação são geralmente classificadas em três categorias
 
 - **Acadêmicas**: são as linguagens de programação usadas principalmente no ambiente acadêmico para pesquisa e experimentação de ideias. Essas linguagens são frequentemente usadas para ensinar conceitos avançados de programação e ciência da computação. Alguns exemplos de linguagens acadêmicas incluem _Haskell_, _Racket_, _Lisp_, _ML_ e _Prolog_.
 
-O livro utiliza a linguagem de programação _Racket_ para apresentar os conceitos, as demais linguagens são utilizadas como complemento para o conteúdo do livro através do Caminho do Código e o Laboratório do Código.
+O livro utiliza a linguagem de programação _Racket_ para apresentar os conceitos, as demais linguagens são utilizadas como complemento para o conteúdo do livro através das seções do Caminho do Código e o Laboratório do Código.
 
 ### A Filosofia
 
