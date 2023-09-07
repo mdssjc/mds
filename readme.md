@@ -72,6 +72,12 @@ A ciência do _Craftman_ é composta por três elementos essenciais para os dese
 - Conclusão
 - [Referências](references.md 'Referências')
 
+## Por onde começar?
+
+Após a leitura da introdução, você deve estar peguntando: por onde começar?
+
+Simples, começe pelos [**fundamentos**](foundations/readme.md 'fundamentos').
+
 ## Observação
 
 Para visualizar a versão antiga do livro, acesse a `branch old`.
@@ -83,8 +89,8 @@ Proposta final sobre as linguagens aplicadas ao projeto: será utilizado a lingu
 
 Os nomes para os títulos poderão sofrer alterações para compatibilizar com a forma de comunicação aplicada ao projeto.
 
-O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, pode conter erros ou imprecisões. Estes serão corrigidas na próxima versão de setembro.
+O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, pode conter erros ou imprecisões. Estes serão corrigidas na próxima versão de outubro.
 
 ## Data da Atualização
 
-31/08/2023
+30/09/2023
