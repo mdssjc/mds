@@ -76,7 +76,7 @@ A ciência do _Craftman_ é composta por três elementos essenciais para os dese
 
 Após a leitura da introdução, você deve estar peguntando: por onde começar?
 
-Simples, começe pelos [**fundamentos**](foundations/readme.md 'fundamentos').
+Simples, começe pelos [**Fundamentos**](foundations/readme.md 'fundamentos').
 
 ## Observação
 
