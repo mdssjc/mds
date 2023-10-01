@@ -16,6 +16,14 @@ Um algoritmo é uma sequência de passos que descreve como resolver um problema.
 
 Estruturas de dados são maneiras de organizar dados para que possam ser manipulados de forma eficiente. A lógica de programação pode ser usada para criar estruturas de dados que sejam adequadas para uma determinada tarefa.
 
+## Linguagem de Programação
+
+Uma linguagem de programação é uma ferramenta que permite aos programadores comunicar suas ideias aos computadores. Ela fornece um conjunto de símbolos e regras que os programadores podem usar para representar algoritmos, que são sequências de passos que definem como um computador deve realizar uma tarefa.
+
+Os símbolos e regras de uma linguagem de programação são chamados de sintaxe. A sintaxe de uma linguagem de programação determina como as instruções devem ser escritas para que o computador possa entendê-las.
+
+Linguagens de programação são ferramentas essenciais para a criação de software. Elas permitem aos programadores expressar suas ideias de forma que possam ser executadas por computadores.
+
 ## Racket
 
 A linguagem de programação Racket é uma linguagem multi-paradigma derivada do Scheme, que por sua vez é um dialeto do Lisp. Desenvolvida para ser uma linguagem de programação geral e extensível, Racket foi originalmente concebida como uma plataforma para o ensino de programação funcional, mas ao longo do tempo evoluiu para uma linguagem de programação poderosa e flexível utilizada em uma variedade de domínios.
