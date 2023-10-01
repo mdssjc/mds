@@ -8,24 +8,18 @@ Mas a computação não se limita apenas à era dos computadores. Na verdade, a 
 
 A computação, portanto, pode ser definida como um conjunto de métodos e técnicas para a resolução de problemas complexos. Ela não está restrita apenas aos computadores, mas sim a uma maneira sistemática de pensar e abordar questões que requerem análise e solução. Aprender os fundamentos da computação é essencial para qualquer pessoa que deseja desenvolver habilidades em programação, ciência de dados e outras áreas relacionadas.
 
-Nesta seção, vamos explorar dois dos principais conceitos da computação moderna, _Dart_ e _Rust_, além de abordar técnicas de programação e resolução de problemas que serão úteis em qualquer linguagem de programação. Também vamos discutir como começar a estudar essas linguagens e utilizar ferramentas como o pomodoro para maximizar a produtividade.
+### Racket
 
-## Introdução ao Dart e Rust
+A linguagem de programação Racket é uma linguagem multi-paradigma derivada do Scheme, que por sua vez é um dialeto do Lisp. Desenvolvida para ser uma linguagem de programação geral e extensível, Racket foi originalmente concebida como uma plataforma para o ensino de programação funcional, mas ao longo do tempo evoluiu para uma linguagem de programação poderosa e flexível utilizada em uma variedade de domínios.
 
-O _Dart_ e o _Rust_ são duas linguagens de programação modernas que têm ganhado destaque nos últimos anos. O _Dart_, criado pela _Google_ em 2011, é uma linguagem de programação voltada para o desenvolvimento de aplicativos, tanto para a _web_ quanto para dispositivos móveis. O _Rust_, por sua vez, é uma linguagem de programação de sistemas, desenvolvida pela _Mozilla_ em 2010, que se concentra em oferecer desempenho, segurança e concorrência.
+O Racket é uma linguagem de programação altamente flexível que suporta uma variedade de paradigmas, incluindo programação funcional, imperativa, orientada a objetos e lógica. Além disso, sua capacidade única de extensão permite aos desenvolvedores criar suas próprias linguagens específicas de domínio. Essa versatilidade torna o Racket uma ferramenta poderosa para resolver uma ampla gama de problemas de programação, desde cálculos matemáticos complexos até a criação de DSLs personalizadas.
 
-O _Dart_ é uma linguagem fácil de aprender e de usar, que possui uma sintaxe semelhante à de outras linguagens populares, como _C++_, _Java_ e _JavaScript_. O _Dart_ também inclui recursos modernos, como o suporte a programação assíncrona e ao isolamento de processos, o que o torna uma escolha atraente para o desenvolvimento de aplicativos complexos. Além disso, o _Dart_ tem uma comunidade crescente e um conjunto de ferramentas e bibliotecas úteis para facilitar o desenvolvimento.
+Na história, o Racket foi originalmente desenvolvido por Matthew Flatt e Matthias Felleisen na Northeastern University, com contribuições significativas de outros pesquisadores e entusiastas de programação funcional. A linguagem foi inicialmente lançada como "PLT Scheme" em 1995 e posteriormente renomeada para "Racket" em 2010 para refletir sua natureza expansiva e sua aplicação em áreas além do ensino.
 
-Por outro lado, o _Rust_ tem uma filosofia de desenvolvimento diferente. Ela busca oferecer segurança, desempenho e controle de baixo nível ao desenvolvedor, ao mesmo tempo que mantém a facilidade de uso e a elegância da linguagem. O _Rust_ é uma linguagem compilada, que permite a criação de código de baixo nível com a flexibilidade de uma linguagem de alto nível. Além disso, o _Rust_ oferece um sistema de gerenciamento de memória seguro e eficiente, que ajuda a evitar problemas comuns em outras linguagens, como vazamentos de memória.
+Desde então, a comunidade Racket continuou a crescer e prosperar, com uma base de usuários que abrange desde estudantes até pesquisadores e desenvolvedores de software em empresas de tecnologia. A linguagem é conhecida por sua comunidade acolhedora, documentação abrangente e um ambiente de desenvolvimento integrado (IDE) chamado "DrRacket" que facilita a aprendizagem e a programação em Racket.
 
-Independentemente da escolha entre o _Dart_ e o _Rust_, o importante é lembrar que ambas as linguagens são poderosas e versáteis, capazes de resolver uma variedade de problemas de programação. Ao escolher a linguagem certa para um projeto, é importante considerar os requisitos e restrições do projeto, bem como a familiaridade da equipe com a linguagem escolhida. Com as ferramentas e recursos adequados, tanto o _Dart_ quanto o _Rust_ podem ajudar a desenvolver um _software_ de alta qualidade e eficiente.
+Em resumo, a linguagem de programação Racket é uma poderosa linguagem multi-paradigma conhecida por sua expressividade, extensibilidade e rica biblioteca de recursos. Desenvolvida por acadêmicos e amantes da programação, ela continua a ser uma escolha valiosa para uma ampla gama de aplicações e serve como uma plataforma criativa para a inovação em linguagens de programação.
 
-Ao aprender _Dart_ e _Rust_, você adquirirá habilidades valiosas e ampliará seu conhecimento em programação. Nesta seção, abordaremos os aspectos básicos de ambas as linguagens, desde a instalação e configuração até o desenvolvimento de programas simples. Você aprenderá a escrever código em _Dart_ e _Rust_, além de entender os conceitos fundamentais dessas linguagens, como tipos de dados, estruturas de controle e funções. Este conhecimento será um excelente ponto de partida para você explorar recursos mais avançados, criar projetos mais complexos e aprimorar suas habilidades em programação.
+## Próximo Passo
 
-- programação em Dart
-- programação em Rust
-  - como começar os estudos
-- o que é e como utilizar o pomodoro
-- primeira resolução de problema
-  - em cada linguagem
-- como evoluir nas linguagens
+[**Systematic Program Design**](systematic-program-design.md 'Systematic Program Design')
