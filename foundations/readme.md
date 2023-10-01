@@ -22,19 +22,19 @@ Uma linguagem de programação é uma ferramenta que permite aos programadores c
 
 Os símbolos e regras de uma linguagem de programação são chamados de sintaxe. A sintaxe de uma linguagem de programação determina como as instruções devem ser escritas para que o computador possa entendê-las.
 
-Linguagens de programação são ferramentas essenciais para a criação de software. Elas permitem aos programadores expressar suas ideias de forma que possam ser executadas por computadores.
+Linguagens de programação são ferramentas essenciais para a criação de _software_. Elas permitem aos programadores expressar suas ideias de forma que possam ser executadas por computadores.
 
 ## Racket
 
-A linguagem de programação Racket é uma linguagem multi-paradigma derivada do Scheme, que por sua vez é um dialeto do Lisp. Desenvolvida para ser uma linguagem de programação geral e extensível, Racket foi originalmente concebida como uma plataforma para o ensino de programação funcional, mas ao longo do tempo evoluiu para uma linguagem de programação poderosa e flexível utilizada em uma variedade de domínios.
+A linguagem de programação _Racket_ é uma linguagem multi-paradigma derivada do _Scheme_, que por sua vez é um dialeto do Lisp. Desenvolvida para ser uma linguagem de programação geral e extensível, _Racket_ foi originalmente concebida como uma plataforma para o ensino de programação funcional, mas ao longo do tempo evoluiu para uma linguagem de programação poderosa e flexível utilizada em uma variedade de domínios.
 
-O Racket é uma linguagem de programação altamente flexível que suporta uma variedade de paradigmas, incluindo programação funcional, imperativa, orientada a objetos e lógica. Além disso, sua capacidade única de extensão permite aos desenvolvedores criar suas próprias linguagens específicas de domínio. Essa versatilidade torna o Racket uma ferramenta poderosa para resolver uma ampla gama de problemas de programação, desde cálculos matemáticos complexos até a criação de DSLs personalizadas.
+O _Racket_ é uma linguagem de programação altamente flexível que suporta uma variedade de paradigmas, incluindo programação funcional, imperativa, orientada a objetos e lógica. Além disso, sua capacidade única de extensão permite aos desenvolvedores criar suas próprias linguagens específicas de domínio. Essa versatilidade torna o _Racket_ uma ferramenta poderosa para resolver uma ampla gama de problemas de programação, desde cálculos matemáticos complexos até a criação de DSLs personalizadas.
 
-Na história, o Racket foi originalmente desenvolvido por Matthew Flatt e Matthias Felleisen na Northeastern University, com contribuições significativas de outros pesquisadores e entusiastas de programação funcional. A linguagem foi inicialmente lançada como "PLT Scheme" em 1995 e posteriormente renomeada para "Racket" em 2010 para refletir sua natureza expansiva e sua aplicação em áreas além do ensino.
+Na história, o _Racket_ foi originalmente desenvolvido por _Matthew Flatt_ e _Matthias Felleisen_ na _Northeastern University_, com contribuições significativas de outros pesquisadores e entusiastas de programação funcional. A linguagem foi inicialmente lançada como "_PLT Scheme_" em 1995 e posteriormente renomeada para "_Racket_" em 2010 para refletir sua natureza expansiva e sua aplicação em áreas além do ensino.
 
-Desde então, a comunidade Racket continuou a crescer e prosperar, com uma base de usuários que abrange desde estudantes até pesquisadores e desenvolvedores de software em empresas de tecnologia. A linguagem é conhecida por sua comunidade acolhedora, documentação abrangente e um ambiente de desenvolvimento integrado (IDE) chamado "DrRacket" que facilita a aprendizagem e a programação em Racket.
+Desde então, a comunidade _Racket_ continuou a crescer e prosperar, com uma base de usuários que abrange desde estudantes até pesquisadores e desenvolvedores de _software_ em empresas de tecnologia. A linguagem é conhecida por sua comunidade acolhedora, documentação abrangente e um ambiente de desenvolvimento integrado (IDE) chamado "_DrRacket_" que facilita a aprendizagem e a programação em _Racket_.
 
-Em resumo, a linguagem de programação Racket é uma poderosa linguagem multi-paradigma conhecida por sua expressividade, extensibilidade e rica biblioteca de recursos. Desenvolvida por acadêmicos e amantes da programação, ela continua a ser uma escolha valiosa para uma ampla gama de aplicações e serve como uma plataforma criativa para a inovação em linguagens de programação.
+Em resumo, a linguagem de programação _Racket_ é uma poderosa linguagem multi-paradigma conhecida por sua expressividade, extensibilidade e rica biblioteca de recursos. Desenvolvida por acadêmicos e amantes da programação, ela continua a ser uma escolha valiosa para uma ampla gama de aplicações e serve como uma plataforma criativa para a inovação em linguagens de programação.
 
 ## Próximo Passo
 
