@@ -93,4 +93,4 @@ O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, po
 
 ## Data da Atualização
 
-30/09/2023
+31/01/2024
