@@ -18,6 +18,7 @@
 - **Clean Craftsmanship: Disciplines, Standards, and Ethics, 1st Edition** - _Robert C. Martin_.
 - **Clean Architecture: A Craftsman's Guide to Software Structure and Design, 1st Edition** - _Robert C. Martin_.
 - **Clean Agile: Back to Basics, 1st Edition** - _Robert C. Martin_.
+- **Working Effectively with Legacy Code, 1st Edition** - _Michael Feathers_.
 
 ## DDD
 
