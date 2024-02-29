@@ -24,18 +24,18 @@ Os símbolos e regras de uma linguagem de programação são chamados de sintaxe
 
 Linguagens de programação são ferramentas essenciais para a criação de _software_. Elas permitem aos programadores expressar suas ideias de forma que possam ser executadas por computadores.
 
-## Racket
+## Dart
 
-A linguagem de programação _Racket_ é uma linguagem multi-paradigma derivada do _Scheme_, que por sua vez é um dialeto do Lisp. Desenvolvida para ser uma linguagem de programação geral e extensível, _Racket_ foi originalmente concebida como uma plataforma para o ensino de programação funcional, mas ao longo do tempo evoluiu para uma linguagem de programação poderosa e flexível utilizada em uma variedade de domínios.
+A linguagem _Dart_ foi desenvolvida pelo _Google_ em 2011 com o objetivo inicial de substituir o _JavaScript_ como linguagem principal na _web_. Apesar de não ter alcançado esse objetivo, a _Dart_ se consolidou como uma linguagem multiparadigma versátil e poderosa, utilizada para diversos fins.
 
-O _Racket_ é uma linguagem de programação altamente flexível que suporta uma variedade de paradigmas, incluindo programação funcional, imperativa, orientada a objetos e lógica. Além disso, sua capacidade única de extensão permite aos desenvolvedores criar suas próprias linguagens específicas de domínio. Essa versatilidade torna o _Racket_ uma ferramenta poderosa para resolver uma ampla gama de problemas de programação, desde cálculos matemáticos complexos até a criação de DSLs personalizadas.
+A _Dart_ é uma linguagem de programação moderna, acessível, portátil e produtiva para a criação de aplicativos de alta qualidade em qualquer plataforma. Sua sintaxe é clara e concisa, simplificando a escrita de programas complexos. Além disso, a _Dart_ é uma linguagem segura e confiável.
 
-Na história, o _Racket_ foi originalmente desenvolvido por _Matthew Flatt_ e _Matthias Felleisen_ na _Northeastern University_, com contribuições significativas de outros pesquisadores e entusiastas de programação funcional. A linguagem foi inicialmente lançada como "_PLT Scheme_" em 1995 e posteriormente renomeada para "_Racket_" em 2010 para refletir sua natureza expansiva e sua aplicação em áreas além do ensino.
+Possui um grande ecossistema de bibliotecas e ferramentas, incluindo o _Flutter_ e o _Flame_, respectivamente para o desenvolvimento de aplicativos _mobile_ e jogos.
 
-Desde então, a comunidade _Racket_ continuou a crescer e prosperar, com uma base de usuários que abrange desde estudantes até pesquisadores e desenvolvedores de _software_ em empresas de tecnologia. A linguagem é conhecida por sua comunidade acolhedora, documentação abrangente e um ambiente de desenvolvimento integrado (IDE) chamado "_DrRacket_" que facilita a aprendizagem e a programação em _Racket_.
+## Meus Favoritos
 
-Em resumo, a linguagem de programação _Racket_ é uma poderosa linguagem multi-paradigma conhecida por sua expressividade, extensibilidade e rica biblioteca de recursos. Desenvolvida por acadêmicos e amantes da programação, ela continua a ser uma escolha valiosa para uma ampla gama de aplicações e serve como uma plataforma criativa para a inovação em linguagens de programação.
+Agora, guarde nos seus favoritos os seguintes _links_:
 
-## Próximo Passo
-
-[**Systematic Program Design**](systematic-program-design.md 'Systematic Program Design')
+- [Dart](https://dart.dev/ 'Dart'): página oficial da linguagem _Dart_;
+- [Dart packages](https://pub.dev/ 'Dart packages'): repositório de pacotes;
+- [DartPad](https://www.dartpad.dev/ 'DartPad'): editor _online_ para testar _snippets_ de código;

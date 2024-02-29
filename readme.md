@@ -39,7 +39,7 @@ As linguagens de programação são geralmente classificadas em três categorias
 
 - **Acadêmicas**: são as linguagens de programação usadas principalmente no ambiente acadêmico para pesquisa e experimentação de ideias. Essas linguagens são frequentemente usadas para ensinar conceitos avançados de programação e ciência da computação. Alguns exemplos de linguagens acadêmicas incluem _Haskell_, _Racket_, _Lisp_, _ML_ e _Prolog_.
 
-O livro utiliza a linguagem de programação _Racket_ para apresentar os conceitos, as demais linguagens são utilizadas como complemento para o conteúdo do livro através das seções do Caminho do Código e o Laboratório do Código.
+O livro utiliza a linguagem de programação _Dart_ para apresentar os conceitos, as demais linguagens são utilizadas como complemento para o conteúdo do livro através das seções do Caminho do Código e o Laboratório do Código.
 
 ### A Filosofia
 
@@ -82,15 +82,15 @@ Simples, começe pelos [**Fundamentos**](foundations/readme.md 'fundamentos').
 
 Para visualizar a versão antiga do livro, acesse a `branch old`.
 
-Proposta final sobre as linguagens aplicadas ao projeto: será utilizado a linguagem acadêmica _Racket_ para à apresentação dos conceitos, isso permite que o livro possa ser utilizados por todos como referência e tenha uma melhor forma de evolução, demais linguagens serão apresentadas por duas seções, sendo:
+## Nota de Fevereiro de 2024
+
+A linguagem de programação aplicada ao projeto será o _Dart_, demais linguagens serão apresentadas por duas seções, sendo:
 
 - O caminho do código: em que disponibilizará um link para a página com as implementações das linguagens, permitindo o _pull request_ da comunidade, incluíndo um _readme_ com a explicação pertinente a linguagem e o acesso ao código da implementação; e
 - O laboratório do código: são experimentos, dojos e outros materiais, na qual serão lincadas ao livro com sua explicação e implementação.
 
-Os nomes para os títulos poderão sofrer alterações para compatibilizar com a forma de comunicação aplicada ao projeto.
-
-O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, pode conter erros ou imprecisões. Estes serão corrigidas na próxima versão de outubro.
+O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, pode conter erros ou imprecisões. Estes serão corrigidas na próxima versão de março.
 
 ## Data da Atualização
 
-31/01/2024
+29/02/2024
