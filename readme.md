@@ -82,6 +82,15 @@ Simples, começe pelos [**Fundamentos**](foundations/readme.md 'fundamentos').
 
 Para visualizar a versão antiga do livro, acesse a `branch old`.
 
+## Nota de Janeiro de 2025
+
+A versão JAN/25 será composta por:
+
+- revisão da introdução; e
+- revisão do capítulo de fundamentos.
+
+obs.: a atualização será realizada no dia 31/01/2025.
+
 ## Nota de Fevereiro de 2024
 
 A linguagem de programação aplicada ao projeto será o _Dart_, demais linguagens serão apresentadas por duas seções, sendo:
@@ -93,4 +102,4 @@ O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, po
 
 ## Data da Atualização
 
-29/02/2024
+10/01/2025
