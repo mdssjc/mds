@@ -80,7 +80,13 @@ Simples, começe pelos [**Fundamentos**](foundations/readme.md 'fundamentos').
 
 ## Observação
 
-Para visualizar a versão antiga do livro, acesse a `branch old`.
+Para acessar a versão anterior do livro, consulte a `branch old`.
+
+Este livro está em desenvolvimento e, como qualquer projeto em andamento, pode apresentar erros ou imprecisões. Estamos comprometidos em corrigir esses pontos nas próximas versões.
+
+## Data da Atualização
+
+31/01/2025
 
 ## Nota de Janeiro de 2025
 
@@ -97,9 +103,3 @@ A linguagem de programação aplicada ao projeto será o _Dart_, demais linguage
 
 - O caminho do código: em que disponibilizará um link para a página com as implementações das linguagens, permitindo o _pull request_ da comunidade, incluíndo um _readme_ com a explicação pertinente a linguagem e o acesso ao código da implementação; e
 - O laboratório do código: são experimentos, dojos e outros materiais, na qual serão lincadas ao livro com sua explicação e implementação.
-
-O livro ainda está em desenvolvimento e, como qualquer projeto em andamento, pode conter erros ou imprecisões. Estes serão corrigidas na próxima versão de março.
-
-## Data da Atualização
-
-10/01/2025
