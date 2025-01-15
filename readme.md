@@ -13,13 +13,13 @@ O projeto tem a composição de:
 
 ## Para Quem é Este Livro?
 
-Este livro destina-se a todos que desejam aprimorar suas habilidades na profissão de **_Craftsman_ - Construtor de _Software_**. Se você é um iniciante na programação, recomendamos que estude a lógica de programação antes de continuar com o livro, em breve será adicionado apêndices sobre como ingressar na profissão. Na página, você encontrará dojos e/ou atividades específicas para iniciantes em programação.
+Este livro destina-se a todos que desejam aprimorar suas habilidades na profissão de **_Craftsman_ - Construtor de _Software_**, explorando a cultura da criação de soluções e resolução de problemas por meio da programação. Se você está iniciando sua jornada no desenvolvimento de _software_, recomendamos começar estudando lógica de programação antes de prosseguir com o conteúdo deste livro. Em breve, serão adicionados apêndices com orientações detalhadas sobre como ingressar na área. Além disso, na página do projeto, você encontrará dojos e atividades práticas especialmente desenvolvidas para iniciantes.
 
 ## Objetivos
 
-- Compilar os conhecimentos/sabedorias utilizados pelo _Craftman_.
-- Explanar um modelo de desenvolvimento base com fácil aplicação em modelos utilizados no mercado.
-- Sugerir os pontos de estudos para a evolução dos temas.
+- Compilar os conhecimentos e práticas fundamentais utilizados por um _Craftsman_ no desenvolvimento de _software_.
+- Apresentar um modelo de desenvolvimento base, de fácil aplicação e alinhado às práticas comuns no mercado.
+- Sugerir tópicos de estudo que promovam a evolução contínua nos temas abordados.
 
 ## O que é este livro?
 
