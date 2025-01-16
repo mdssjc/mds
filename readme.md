@@ -39,7 +39,7 @@ As linguagens de programação são geralmente classificadas em três categorias
 
 - **Acadêmicas**: são as linguagens de programação usadas principalmente no ambiente acadêmico para pesquisa e experimentação de ideias. Essas linguagens são frequentemente usadas para ensinar conceitos avançados de programação e ciência da computação. Alguns exemplos de linguagens acadêmicas incluem _Haskell_, _Racket_, _Lisp_, _ML_ e _Prolog_.
 
-O livro utiliza a linguagem de programação _Dart_ para apresentar os conceitos, as demais linguagens são utilizadas como complemento para o conteúdo do livro através das seções do Caminho do Código e o Laboratório do Código.
+O livro utiliza a linguagem de programação _Dart_ para apresentar os conceitos, as demais linguagens são utilizadas como complemento para o conteúdo do livro através das seções do **Caminho do Código** (lista com implementações em outras linguagens) e o **Laboratório do Código** (_links_ para experimentos, dojos e outros materiais).
 
 ### A Filosofia
 
@@ -96,10 +96,3 @@ A versão JAN/25 será composta por:
 - revisão do capítulo de fundamentos.
 
 obs.: a atualização será realizada no dia 31/01/2025.
-
-## Nota de Fevereiro de 2024
-
-A linguagem de programação aplicada ao projeto será o _Dart_, demais linguagens serão apresentadas por duas seções, sendo:
-
-- O caminho do código: em que disponibilizará um link para a página com as implementações das linguagens, permitindo o _pull request_ da comunidade, incluíndo um _readme_ com a explicação pertinente a linguagem e o acesso ao código da implementação; e
-- O laboratório do código: são experimentos, dojos e outros materiais, na qual serão lincadas ao livro com sua explicação e implementação.
