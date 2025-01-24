@@ -6,9 +6,9 @@ O projeto tem a composição de:
 
 ![Composição do Projeto](./assets/introduction-project-composition.png 'Composição do Projeto')
 
-- [o livro](https://github.com/mdssjc/mds/ 'o livro') (atemporal): livro na qual explora diversos tópicos relacionados ao desenvolvimento de software, com foco em boas práticas e técnicas modernas;
-- [a página](https://marcelo-mds.dev/ 'a página') (temporal): página pessoal com informações sobre experiências e projetos relacionados ao desenvolvimento de software;
-- [as notas](https://github.com/mdssjc/mds-notes/ 'as notas') (fragmentos): repositório de anotações sobre diversos tópicos relacionados ao desenvolvimento de software e assuntos relacionados; e
+- [o livro](https://github.com/mdssjc/mds/ 'o livro') (atemporal): livro na qual explora diversos tópicos relacionados ao desenvolvimento de _software_, com foco em boas práticas e técnicas modernas;
+- [a página](https://marcelo-mds.dev/ 'a página') (temporal): página pessoal com informações sobre experiências e projetos relacionados ao desenvolvimento de _software_;
+- [as notas](https://github.com/mdssjc/mds-notes/ 'as notas') (fragmentos): repositório de anotações sobre diversos tópicos relacionados ao desenvolvimento de _software_ e assuntos relacionados; e
 - [o repositório](https://github.com/mdssjc/ 'o repositório') (construção): repositório principal do projeto com o código-fonte e as contribuições na forma de experiências e estudos.
 
 ## Para Quem é Este Livro?
