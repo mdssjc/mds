@@ -93,6 +93,15 @@ A versão JAN/25 será composta por:
 
 obs.: a atualização será realizada no dia 31/01/2025.
 
+### Alterações de Fevereiro de 2025
+
+A versão FEV/25 será composta por:
+
+- incremento do capítulo de fundamentos; e
+- revisão do capítulo referências.
+
+obs.: a atualização será realizada no dia 28/02/2025.
+
 ### Data da Atualização
 
 31/01/2025
