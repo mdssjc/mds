@@ -37,9 +37,9 @@ As linguagens de programação são geralmente classificadas em três categorias
 
 - **Modernas**: são as linguagens de programação criadas recentemente para atender às necessidades específicas do mercado. Elas trazem novas ideias e abordagens para resolver problemas, visando aumentar a produtividade e a segurança. Exemplos de linguagens modernas incluem _Dart_, _Rust_, _Kotlin_, _Swift_, _Go_, _V_ e _Zig_.
 
-- **Acadêmicas**: são as linguagens de programação usadas principalmente no ambiente acadêmico para pesquisa e experimentação de ideias. Essas linguagens são frequentemente usadas para ensinar conceitos avançados de programação e ciência da computação. Alguns exemplos de linguagens acadêmicas incluem _Haskell_, _Racket_, _Lisp_, _ML_ e _Prolog_.
+- **Acadêmicas**: são as linguagens de programação usadas principalmente no ambiente acadêmico para pesquisa e experimentação de ideias. Essas linguagens são frequentemente usadas para ensinar conceitos avançados de programação em ciência da computação. Alguns exemplos de linguagens acadêmicas incluem _Haskell_, _Racket_, _Lisp_, _ML_ e _Prolog_.
 
-O livro utiliza a linguagem de programação _Dart_ para apresentar os conceitos, as demais linguagens são utilizadas como complemento para o conteúdo do livro através das seções do **Caminho do Código** (lista com implementações em outras linguagens) e o **Laboratório do Código** (_links_ para experimentos, dojos e outros materiais).
+O livro utiliza a linguagem de programação _Dart_ para apresentar os conceitos, enquanto outras linguagens são exploradas como complemento para o conteúdo do livro através das seções do **Caminho do Código** (que oferece implementações em diferentes linguagens), **Laboratório do Código** (com _links_ para experimentos, dojos e outros materiais) e o **Ei, olha isso!** (que traz destaques e comparações com outras linguagens).
 
 ### A Filosofia
 
@@ -53,13 +53,13 @@ A filosofia do _Craftman_ é composta por três importantes técnicas de desenvo
 
 ### A Ciência
 
-A ciência do _Craftman_ é composta por três elementos essenciais para os desenvolvedores de _software_: O Ciclo da Vida e Tomates, Construir para Durar e Pergaminhos.
+A ciência do _Craftman_ é fundamentada em três pilares essenciais para o desenvolvimento de _software_: O Ciclo da Vida e Tomates, Construir para Durar e Pergaminhos.
 
-- **O Ciclo da Vida e Tomates**: _circle of life_ e _pomodoro_ são duas ferramentas poderosas para maximizar a produtividade e alcançar objetivos de maneira eficiente e saudável. A combinação dessas ferramentas pode ajudar a gerenciar melhor o tempo e o trabalho, levando a melhores resultados e satisfação pessoal e profissional.
+- **O Ciclo da Vida e Tomates**: _circle of life_ e _pomodoro_ são duas abordagens poderosas para aumentar a produtividade e alcançar objetivos de maneira eficiente e saudável. A combinação dessas técnicas não só ajuda a gerenciar melhor o tempo e o trabalho, mas também promove o bem-estar, equilibrando o esforço com momentos de descanso, o que leva a melhores resultados e uma sensação de satisfação tanto pessoal quanto profissional.
 
 - **Construir para Durar**: _clean design_ é uma metodologia criada pelo autor _Robert C. Martin_, também conhecido como _Uncle Bob_, que prioriza a clareza, simplicidade e facilidade de manutenção do código em todas as fases do processo de desenvolvimento de _software_. Esses princípios ajudam a criar sistemas mais eficientes e sustentáveis.
 
-- **Pergaminhos**: são um conjunto de conhecimentos e experiências que têm sido utilizados e aprimorados por desenvolvedores de _software_ ao longo dos anos na forma de práticas, princípios e padrões.
+- **Pergaminhos**: _scrolls_ são um conjunto de conhecimentos e experiências que têm sido utilizados e aprimorados por desenvolvedores de _software_ ao longo dos anos, na forma de práticas, princípios e padrões. Assim como a técnica de anotações, em que ideias e _insights_ são constantemente revisados, atualizados e compartilhados, os Pergaminhos refletem o aprimoramento contínuo dessas práticas, à medida que novas experiências e aprendizados são incorporados.
 
 ## Capítulos
 
@@ -76,19 +76,15 @@ A ciência do _Craftman_ é composta por três elementos essenciais para os dese
 
 Após a leitura da introdução, você deve estar peguntando: por onde começar?
 
-Simples, começe pelos [**Fundamentos**](foundations/readme.md 'fundamentos').
+Simples, começe pelo capítulo [**Fundamentos**](foundations/readme.md 'fundamentos').
 
-## Observação
+## Notas de Atualização
 
 Para acessar a versão anterior do livro, consulte a `branch old`.
 
 Este livro está em desenvolvimento e, como qualquer projeto em andamento, pode apresentar erros ou imprecisões. Estamos comprometidos em corrigir esses pontos nas próximas versões.
 
-## Data da Atualização
-
-31/01/2025
-
-## Nota de Janeiro de 2025
+### Alterações de Janeiro de 2025
 
 A versão JAN/25 será composta por:
 
@@ -96,3 +92,7 @@ A versão JAN/25 será composta por:
 - revisão do capítulo de fundamentos.
 
 obs.: a atualização será realizada no dia 31/01/2025.
+
+### Data da Atualização
+
+31/01/2025
