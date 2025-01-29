@@ -2,11 +2,15 @@
 
 ## Introdução para a Computação
 
-A computação é uma área que está presente em muitos aspectos da nossa vida moderna. Desde a criação de _softwares_ e aplicativos até a utilização de sistemas complexos em setores como saúde e finanças, a computação tem um papel fundamental na resolução de problemas e no avanço da tecnologia.
+A computação é uma área que permeia diversos aspectos da vida moderna. Seja no desenvolvimento de _softwares_ e aplicativos, seja no uso de sistemas complexos em setores como saúde, finanças ou transporte, a computação desempenha um papel crucial na resolução de problemas e no avanço tecnológico.
 
-Mas a computação não se limita apenas à era dos computadores. Na verdade, a ideia de computação vem sendo utilizada há muito tempo, em diversas culturas e épocas. O filósofo e matemático grego Pitágoras, por exemplo, utilizava uma tábua de cálculo para realizar operações matemáticas. Já na antiguidade chinesa, o famoso Livro das Mutações era utilizado para fazer previsões por meio de cálculos complexos.
+Contudo, a computação não é uma invenção exclusiva da era dos computadores. Sua essência remonta a tempos antigos e a diversas culturas. O filósofo e matemático grego Pitágoras, por exemplo, utilizava tábuas de cálculo para realizar operações matemáticas. Da mesma forma, na China antiga, o Livro das Mutações (Yi Jing ou I Ching) era empregado para fazer previsões através de cálculos complexos, demonstrando uma forma primitiva de pensamento algorítmico.
 
-A computação, portanto, pode ser definida como um conjunto de métodos e técnicas para a resolução de problemas complexos. Ela não está restrita apenas aos computadores, mas sim a uma maneira sistemática de pensar e abordar questões que requerem análise e solução. Aprender os fundamentos da computação é essencial para qualquer pessoa que deseja desenvolver habilidades em programação, ciência de dados e outras áreas relacionadas.
+A computação, portanto, pode ser definida como o estudo e a aplicação de métodos e técnicas para resolver problemas complexos. Ela não se limita aos computadores, mas abrange uma abordagem sistemática para analisar e solucionar desafios que exigem raciocínio lógico e estruturado. Compreender os fundamentos da computação é essencial para quem deseja desenvolver habilidades em áreas como programação, ciência de dados, inteligência artificial, entre outras, e se tornar um profissional capaz de contribuir para a inovação tecnológica.
+
+Embora associemos a computação aos dispositivos que usamos, o essencial dessa área está no pensamento algorítmico. Um algoritmo é uma sequência de passos lógicos para resolver um problema, e a computação envolve criar e aplicar esses algoritmos. Esse pensamento algorítmico vai além dos computadores, sendo útil até em situações cotidianas, como planejar uma viagem ou organizar uma tarefa. Aprender a pensar dessa maneira é fundamental para quem deseja atuar na área de computação.
+
+Além disso, a computação está presente em nosso dia a dia de formas invisíveis, mas essenciais. Ao usar um _smartphone_, interagir com assistentes virtuais ou acessar sistemas bancários, estamos utilizando algoritmos que processam e gerenciam dados rapidamente. A computação também é fundamental em setores como saúde e finanças, onde sistemas computacionais ajudam a diagnosticar doenças, gerenciar informações e otimizar serviços, tornando a tecnologia cada vez mais presente e indispensável em nossa vida cotidiana.
 
 ## Lógica de Programação
 
