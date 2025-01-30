@@ -26,11 +26,15 @@ Em resumo, a lógica de programação é a chave para a criação de programas q
 
 ## Linguagem de Programação
 
-Uma linguagem de programação é uma ferramenta que permite aos programadores comunicar suas ideias aos computadores. Ela fornece um conjunto de símbolos e regras que os programadores podem usar para representar algoritmos, que são sequências de passos que definem como um computador deve realizar uma tarefa.
+Uma linguagem de programação é uma ferramenta fundamental para a comunicação entre programadores e computadores. Ela fornece um conjunto de símbolos e regras que permitem aos programadores representar algoritmos, ou seja, sequências de passos lógicos que definem como o computador deve executar uma tarefa.
 
-Os símbolos e regras de uma linguagem de programação são chamados de sintaxe. A sintaxe de uma linguagem de programação determina como as instruções devem ser escritas para que o computador possa entendê-las.
+A linguagem de programação é composta pela sintaxe, que são as regras que determinam como as instruções devem ser escritas. A sintaxe define a estrutura e a forma que o código deve ter para que o computador possa entendê-lo e executá-lo corretamente. Assim, aprender a sintaxe de uma linguagem de programação é o primeiro passo para escrever códigos que funcionem de forma eficiente e sem erros.
 
-Linguagens de programação são ferramentas essenciais para a criação de _software_. Elas permitem aos programadores expressar suas ideias de forma que possam ser executadas por computadores.
+Além da sintaxe, as linguagens de programação também possuem semântica, que refere-se ao significado das instruções escritas. Enquanto a sintaxe diz como escrever o código, a semântica determina o que cada comando realmente faz quando é executado pelo computador. A compreensão da semântica é essencial para garantir que o programa não apenas “pareça” correto, mas que realmente resolva o problema de maneira eficaz.
+
+As linguagens de programação são essenciais para a criação de _softwares_. Elas permitem que os programadores expressem suas ideias de forma estruturada e lógica, para que possam ser transformadas em programas executáveis. Dependendo do tipo de tarefa ou do ambiente de execução, existem diversas linguagens de programação, cada uma com suas características, vantagens e finalidades. Linguagens como Java, JavaScript, Python e C++ são exemplos de ferramentas poderosas que ajudam os programadores a resolver uma ampla gama de problemas computacionais.
+
+Em resumo, as linguagens de programação são a ponte entre a mente do programador e a máquina. Elas possibilitam a tradução de ideias em comandos que os computadores podem executar, sendo fundamentais para o desenvolvimento de soluções tecnológicas em diversas áreas, como aplicativos, sistemas web, jogos e muito mais.
 
 ## Dart
 
