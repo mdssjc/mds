@@ -12,6 +12,8 @@ Embora associemos a computação aos dispositivos que usamos, o essencial dessa 
 
 Além disso, a computação está presente em nosso dia a dia de formas invisíveis, mas essenciais. Ao usar um _smartphone_, interagir com assistentes virtuais ou acessar sistemas bancários, estamos utilizando algoritmos que processam e gerenciam dados rapidamente. A computação também é fundamental em setores como saúde e finanças, onde sistemas computacionais ajudam a diagnosticar doenças, gerenciar informações e otimizar serviços, tornando a tecnologia cada vez mais presente e indispensável em nossa vida cotidiana.
 
+Em resumo, a computação é uma área fundamental para o desenvolvimento de soluções tecnológicas que impactam todos os aspectos da nossa vida cotidiana. Desde seus primeiros conceitos, como o pensamento algorítmico, até as complexas aplicações atuais em áreas como inteligência artificial e ciência de dados, a computação oferece as ferramentas e os métodos necessários para resolver problemas e impulsionar a inovação. Compreender seus fundamentos é essencial para qualquer pessoa que deseje atuar na área, seja como programador, analista ou especialista em novas tecnologias.
+
 ## Lógica de Programação
 
 A lógica de programação é essencial para a criação de programas de computador eficientes e funcionais. Ela define um conjunto de regras e princípios que ajudam a organizar as ideias e transformar problemas complexos em soluções que podem ser executadas por um computador. A lógica está no coração de toda programação, pois é através dela que conseguimos criar instruções que o computador pode entender e executar corretamente.
