@@ -84,15 +84,6 @@ Para acessar a versão anterior do livro, consulte a `branch old`.
 
 Este livro está em desenvolvimento e, como qualquer projeto em andamento, pode apresentar erros ou imprecisões. Estamos comprometidos em corrigir esses pontos nas próximas versões.
 
-### Alterações de Janeiro de 2025
-
-A versão JAN/25 será composta por:
-
-- revisão da introdução; e
-- revisão do capítulo de fundamentos.
-
-obs.: a atualização será realizada no dia 31/01/2025.
-
 ### Alterações de Fevereiro de 2025
 
 A versão FEV/25 será composta por:
