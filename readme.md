@@ -95,4 +95,4 @@ obs.: a atualização será realizada no dia 28/02/2025.
 
 ### Data da Atualização
 
-31/01/2025
+28/02/2025
