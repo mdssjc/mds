@@ -73,5 +73,8 @@ O ecossistema do _Dart_ é um dos seus grandes diferenciais. Ele conta com um co
 Agora, guarde nos seus favoritos os seguintes _links_:
 
 - [Dart](https://dart.dev/ 'Dart'): página oficial da linguagem _Dart_;
+- [Flutter](https://flutter.dev/ 'Flutter'): página oficial do _framework_ _Flutter_;
+- [Flame Engine](https://flame-engine.org/ 'Flame Engine'): página oficial do _framework_ _Flame_ para desenvolvimento de jogos;
 - [Dart packages](https://pub.dev/ 'Dart packages'): repositório de pacotes;
-- [DartPad](https://www.dartpad.dev/ 'DartPad'): editor _online_ para testar _snippets_ de código;
+- [DartPad](https://dartpad.dev/ 'DartPad'): editor _online_ para testar _snippets_ de código;
+- [Outros links](https://github.com/mdssjc/mds-notes/blob/master/software/dart.md 'Outros links'): mais _links_ sobre _Dart_ e _Flutter_.
