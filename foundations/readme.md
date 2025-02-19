@@ -14,6 +14,28 @@ Além disso, a computação está presente em nosso dia a dia de formas invisív
 
 Em resumo, a computação é uma área fundamental para o desenvolvimento de soluções tecnológicas que impactam todos os aspectos da nossa vida cotidiana. Desde seus primeiros conceitos, como o pensamento algorítmico, até as complexas aplicações atuais em áreas como inteligência artificial e ciência de dados, a computação oferece as ferramentas e os métodos necessários para resolver problemas e impulsionar a inovação. Compreender seus fundamentos é essencial para qualquer pessoa que deseje atuar na área, seja como programador, analista ou especialista em novas tecnologias.
 
+## Histórico da Computação
+
+- 3000 a.C.: Surgem os primeiros ábacos, utilizados para cálculos matemáticos.
+- 1642: Blaise Pascal inventa a Pascalina, uma das primeiras calculadoras mecânicas.
+- 1837: Charles Babbage propõe a Máquina Analítica, um conceito precursor do computador moderno.
+- 1843: Ada Lovelace publica o primeiro algoritmo projetado para ser executado por uma máquina.
+- 1936: Alan Turing propõe a Máquina de Turing, conceito fundamental para a teoria da computação.
+- 1941: Konrad Zuse desenvolve o Z3, primeiro computador programável eletromecânico.
+- 1943: Surge o Colossus, primeiro computador eletrônico usado para decifrar códigos na Segunda Guerra Mundial.
+- 1945: John von Neumann descreve a arquitetura de computadores armazenados em memória.
+- 1946: ENIAC é concluído, tornando-se o primeiro computador eletrônico de propósito geral.
+- 1951: UNIVAC I, primeiro computador comercial, é lançado.
+- 1957: Surge a linguagem FORTRAN, uma das primeiras linguagens de programação de alto nível.
+- 1969: Criado o ARPANET, embrião da internet.
+- 1971: Intel lança o primeiro microprocessador, o Intel 4004.
+- 1975: Lançamento do Altair 8800, um dos primeiros computadores pessoais.
+- 1981: IBM lança o IBM PC, popularizando os computadores pessoais.
+- 1989: Tim Berners-Lee propõe a World Wide Web (WWW).
+- 1991: Lançamento do Linux por Linus Torvalds.
+- 2007: Apple lança o iPhone, impulsionando a era dos smartphones.
+- 2023: Avanços em inteligência artificial, como modelos de linguagem generativos.
+
 ## Lógica de Programação
 
 A lógica de programação é essencial para a criação de programas de computador eficientes e funcionais. Ela define um conjunto de regras e princípios que ajudam a organizar as ideias e transformar problemas complexos em soluções que podem ser executadas por um computador. A lógica está no coração de toda programação, pois é através dela que conseguimos criar instruções que o computador pode entender e executar corretamente.
