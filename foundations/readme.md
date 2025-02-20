@@ -33,7 +33,7 @@ Em resumo, a computação é uma área fundamental para o desenvolvimento de sol
 - 1981: IBM lança o IBM PC, popularizando os computadores pessoais.
 - 1989: Tim Berners-Lee propõe a World Wide Web (WWW).
 - 1991: Lançamento do Linux por Linus Torvalds.
-- 2007: Apple lança o iPhone, impulsionando a era dos smartphones.
+- 2007: Apple lança o iPhone, impulsionando a era dos _smartphones_.
 - 2023: Avanços em inteligência artificial, como modelos de linguagem generativos.
 
 ## Lógica de Programação
@@ -78,3 +78,9 @@ Agora, guarde nos seus favoritos os seguintes _links_:
 - [Dart packages](https://pub.dev/ 'Dart packages'): repositório de pacotes;
 - [DartPad](https://dartpad.dev/ 'DartPad'): editor _online_ para testar _snippets_ de código;
 - [Outros links](https://github.com/mdssjc/mds-notes/blob/master/software/dart.md 'Outros links'): mais _links_ sobre _Dart_ e _Flutter_.
+
+## Próximos Passos
+
+- Criando o ambiente de desenvolvimento
+- Controle de versão com Git
+- Automação de tarefas e builds
