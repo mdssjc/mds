@@ -81,6 +81,6 @@ Agora, guarde nos seus favoritos os seguintes _links_:
 
 ## Próximos Passos
 
-- Criando o ambiente de desenvolvimento
-- Controle de versão com Git
-- Automação de tarefas e builds
+- [Criando o ambiente de desenvolvimento](environment_setup.md 'Criando o ambiente de desenvolvimento')
+- [Controle de versão com Git](version_control.md 'Controle de versão com Git')
+- [Automação de tarefas e builds](task_automation_and_builds.md 'Automação de tarefas e builds')
