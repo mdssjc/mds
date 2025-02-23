@@ -84,14 +84,15 @@ Para acessar a versão anterior do livro, consulte a `branch old`.
 
 Este livro está em desenvolvimento e, como qualquer projeto em andamento, pode apresentar erros ou imprecisões. Estamos comprometidos em corrigir esses pontos nas próximas versões.
 
-### Previsão para Fevereiro de 2025
+### Previsão para Março de 2025
 
-A versão FEV/25 será composta por:
+A versão MAR/25 será composta por:
 
-- incremento do capítulo de fundamentos; e
+- próximos passos do capítulo fundamentos;
+- estrutura do capítulo práticas essenciais; e
 - revisão do capítulo referências.
 
-obs.: a atualização será realizada no dia 28/02/2025.
+obs.: a atualização será realizada no dia 31/03/2025.
 
 ### Data da Atualização
 
